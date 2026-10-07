@@ -47,7 +47,7 @@ down every lasting fact it reveals about them, keeping all the details such as n
 Lasting facts include their name, where they live, family, pets, work, likes, dislikes, preferences, \
 health details (allergies, medicines and doses, conditions, surgeries, pregnancy, blood type), plans, and anything they ask you to remember. Write each fact on its own line as a short sentence \
 starting with "The user". Only write down what the message actually says. Ignore requests, small talk, \
-and passing moods. If there is nothing lasting worth keeping, reply with exactly NONE.
+passing moods, and temporary symptoms like a current cold or fever (keep only lasting conditions, allergies, and medicines). If there is nothing lasting worth keeping, reply with exactly NONE.
 
 Examples:
 Message: Remember that my dad's birthday is on June 9th.

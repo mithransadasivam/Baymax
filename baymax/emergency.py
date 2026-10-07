@@ -70,8 +70,7 @@ _RULES: list[tuple[str, re.Pattern[str], str]] = [
                 stroke | (?:face|smile|mouth)\s+(?:is\s+)?(?:droop\w*|numb|crooked|uneven) |
                 droop\w*\s+(?:face|smile|mouth) | slurr\w*\s+(?:speech|words) |
                 (?:speech|words)\s+(?:are|is)\s+slurr\w* |
-                can'?t\s+(?:speak|talk|find\s+(?:my|the)\s+words) |
-                sudden(?:ly)?\s+(?:weak\w*|numb\w*|confus\w*|can'?t\s+see|lost\s+(?:my\s+)?vision|dizz\w*) |
+                sudden(?:ly)?\s+(?:weak\w*|numb\w*|confus\w*|can'?t\s+see|lost\s+(?:my\s+)?vision) |
                 (?:one|left|right)\s+(?:side|arm|leg)\s+(?:is\s+)?(?:weak|numb|limp|paraly\w+) |
                 worst\s+headache\s+(?:of\s+my\s+life|ever)
             )\b""",
@@ -135,7 +134,7 @@ _RULES: list[tuple[str, re.Pattern[str], str]] = [
         "overdose-or-poisoning",
         re.compile(
             r"""\b(
-                overdos\w+ | poison\w* |
+                overdos\w+ | poison(?!\s+(?:ivy|oak|sumac))\w* |
                 (?:took|taken|swallowed|ate|drank|had)\s+(?:too\s+many|too\s+much|a\s+whole\s+bottle|an?\s+entire) |
                 (?:swallowed|drank|ate)\s+(?:bleach|antifreeze|cleaning|detergent|pesticide|a\s+battery)
             )\b""",

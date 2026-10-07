@@ -58,3 +58,8 @@ def test_suicidal_thoughts_are_never_filtered_by_tense_or_phrasing():
 
 def test_poisoning_points_to_poison_control():
     assert "2 2 2" in emergency.check("my toddler swallowed bleach").script
+
+
+@pytest.mark.parametrize("text", ["I got poison ivy on my arm", "I felt dizzy when I stood up", "I have a headache and I'm tired"])
+def test_common_complaints_do_not_trigger_the_alarm(text):
+    assert emergency.check(text) is None

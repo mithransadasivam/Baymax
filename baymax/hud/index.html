@@ -1,386 +1,236 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Baymax</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
 <style>
   :root{
-    --ground:#0a0d13;
-    --panel:#0d1219;
-    --panel-line:#1b2530;
-    --steel:#3d4c5c;
-    --steel-dim:#232e39;
-    --ice:191,232,255;
-    --amber:255,156,70;
-    --text-hi:#eaf3fb;
-    --text-mid:#8fa3b5;
-    --text-low:#4c6070;
+    --bg:#f6f3f0;
+    --card:#ffffff;
+    --line:#e7e1dc;
+    --ink:#1d1b1b;
+    --ink-2:#5f5853;
+    --ink-3:#9a918b;
+    --red:#d9363e;
+    --red-soft:rgba(217,54,62,0.12);
+    --amber:#e08a1e;
+    --face-1:#ffffff;
+    --face-2:#ece8e4;
+    --shadow:0 10px 30px rgba(120,40,40,0.14);
   }
-
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#161414; --card:#201d1d; --line:#322e2e; --ink:#f4efec; --ink-2:#bdb3ad; --ink-3:#85796f;
+      --red:#ef5a5f; --red-soft:rgba(239,90,95,0.16); --face-1:#ffffff; --face-2:#e6e1dd;
+      --shadow:0 10px 30px rgba(0,0,0,0.5);
+    }
+  }
   *{box-sizing:border-box;}
   html,body{height:100%;}
   body{
-    margin:0;
-    background:var(--ground);
-    color:var(--text-hi);
-    font-family:'Chakra Petch',sans-serif;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    -webkit-user-select:none;
-    user-select:none;
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:'Segoe UI',system-ui,-apple-system,Roboto,sans-serif;
+    -webkit-user-select:none;user-select:none;overflow:hidden;
   }
+  .app{height:100%;display:flex;flex-direction:column;padding:16px 18px 14px;gap:12px;}
 
-  .stage{
-    width:100%;
-    height:100%;
-    position:relative;
-    background:
-      radial-gradient(ellipse at 50% 38%, rgba(var(--ice),0.05), transparent 60%),
-      repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0px, rgba(255,255,255,0.012) 1px, transparent 1px, transparent 3px),
-      var(--panel);
-    padding:18px;
-    display:flex;
-    flex-direction:column;
-    gap:16px;
-  }
+  header{display:flex;align-items:center;gap:12px;flex-shrink:0;}
+  header svg{width:38px;height:38px;flex-shrink:0;border-radius:10px;}
+  .title{display:flex;flex-direction:column;line-height:1.15;min-width:0;}
+  .title b{font-size:19px;font-weight:700;letter-spacing:0.01em;}
+  .title span{font-size:12px;color:var(--ink-2);}
+  .conn{margin-left:auto;text-align:right;font-size:11px;color:var(--ink-3);line-height:1.5;min-width:0;}
+  .conn b{color:var(--ink-2);font-weight:600;}
+  .conn .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:#3fae6a;margin-right:6px;
+    animation:pulse 2.6s ease-in-out infinite;}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 
-  .topbar{
-    display:flex;
-    justify-content:space-between;
-    align-items:flex-start;
-    gap:12px;
-    padding-bottom:14px;
-    border-bottom:1px solid var(--panel-line);
-    flex-shrink:0;
-  }
-  .callsign{display:flex;flex-direction:column;gap:2px;}
-  .callsign .mark{font-weight:700;font-size:20px;letter-spacing:0.12em;color:var(--text-hi);}
-  .callsign .sub{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:0.12em;color:var(--text-low);}
-  .uplink{text-align:right;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--text-mid);line-height:1.7;}
-  .uplink .dot{
-    display:inline-block;width:6px;height:6px;border-radius:50%;
-    background:rgb(var(--ice));margin-right:6px;
-    box-shadow:0 0 6px 1px rgba(var(--ice),0.8);
-    animation:blip 2.4s ease-in-out infinite;
-  }
-  @keyframes blip{0%,100%{opacity:1;}50%{opacity:0.35;}}
-  .uplink b{color:var(--text-hi);font-weight:500;}
-
-  .viewport{
-    position:relative;
-    flex:1;
-    min-height:0;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-  }
-  .ring-wrap{
-    position:relative;
-    width:min(70%, 72vh);
-    aspect-ratio:1/1;
-  }
-  .bracket{position:absolute;width:22px;height:22px;border-color:var(--steel);border-style:solid;border-width:0;opacity:0.85;}
-  .bracket.tl{top:-14px;left:-14px;border-top-width:2px;border-left-width:2px;}
-  .bracket.tr{top:-14px;right:-14px;border-top-width:2px;border-right-width:2px;}
-  .bracket.bl{bottom:-14px;left:-14px;border-bottom-width:2px;border-left-width:2px;}
-  .bracket.br{bottom:-14px;right:-14px;border-bottom-width:2px;border-right-width:2px;}
-
-  .ring-outer{position:absolute;inset:6%;animation:spin 40s linear infinite;}
-  @keyframes spin{to{transform:rotate(360deg);}}
-  .ring-outer svg{width:100%;height:100%;display:block;}
-
-  canvas#core{position:absolute;top:14%;left:14%;width:72%;height:72%;border-radius:50%;}
-
-  .state-label{
-    position:absolute;bottom:-4px;left:50%;transform:translate(-50%,100%);
-    font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.28em;
-    color:rgb(var(--ice));transition:color 0.4s ease;
-  }
-  .state-label.thinking{color:rgb(var(--amber));}
-  .state-label.speaking{color:var(--text-hi);}
+  .stage{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;}
+  .face-wrap{position:relative;width:min(78%,46vh);aspect-ratio:1/1;}
+  .face-wrap svg{width:100%;height:100%;display:block;overflow:visible;}
+  .state{font-size:13px;font-weight:600;letter-spacing:0.04em;color:var(--ink-2);height:18px;transition:color .3s;}
+  .state.thinking{color:var(--amber);} .state.listening{color:var(--red);} .state.alert{color:var(--red);}
 
   .readout{
-    min-height:54px;flex-shrink:0;
-    border:1px solid var(--panel-line);
-    background:var(--steel-dim);
-    padding:10px 14px;
-    display:flex;align-items:center;gap:10px;
+    background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);
+    padding:12px 16px;flex-shrink:0;min-height:74px;max-height:34%;display:flex;flex-direction:column;gap:4px;
+    transition:border-color .3s, background .3s;
   }
-  .readout .tag{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:0.1em;color:var(--text-low);flex-shrink:0;}
-  .readout .txt{font-family:'JetBrains Mono',monospace;font-size:12.5px;color:var(--text-hi);line-height:1.5;
-    overflow-wrap:anywhere;max-height:60px;overflow-y:auto;}
-
-  .bars{display:flex;align-items:flex-end;gap:2px;height:16px;flex-shrink:0;}
-  .bars i{width:3px;background:var(--text-hi);border-radius:1px;transition:background 0.3s ease;}
+  .readout .tag{font-size:10.5px;font-weight:700;letter-spacing:.12em;color:var(--ink-3);text-transform:uppercase;}
+  .readout .txt{font-size:15px;line-height:1.5;overflow-y:auto;overflow-wrap:anywhere;-webkit-user-select:text;user-select:text;}
+  .readout.alert{border-color:var(--red);background:var(--red-soft);}
+  .readout.alert .tag{color:var(--red);}
 
   .command{
     display:flex;align-items:center;gap:8px;flex-shrink:0;
-    border:1px solid var(--panel-line);
-    background:var(--steel-dim);
-    padding:0 12px;
-    transition:border-color 0.15s ease;
+    background:var(--card);border:1px solid var(--line);border-radius:999px;padding:5px 6px 5px 18px;
+    transition:border-color .15s, box-shadow .15s;
   }
-  .command:focus-within{border-color:rgb(var(--ice));}
-  .command .prompt{font-family:'JetBrains Mono',monospace;font-size:13px;color:rgb(var(--ice));flex-shrink:0;}
-  .command input{
-    flex:1;min-width:0;
-    background:none;border:none;outline:none;
-    font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--text-hi);
-    padding:11px 0;
+  .command:focus-within{border-color:var(--red);box-shadow:0 0 0 3px var(--red-soft);}
+  .command input{flex:1;min-width:0;background:none;border:none;outline:none;font:inherit;font-size:15px;color:var(--ink);padding:9px 0;}
+  .command input::placeholder{color:var(--ink-3);}
+  .command input:disabled{cursor:progress;}
+  .command button{
+    border:none;background:var(--red);color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:transform .1s,opacity .2s;
   }
-  .command input::placeholder{color:var(--text-low);}
-  .command input:disabled{cursor:not-allowed;}
+  .command button:hover{transform:scale(1.06);} .command button:disabled{opacity:.4;cursor:default;}
 
-  .telemetry{
-    display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;
-    font-family:'JetBrains Mono',monospace;font-size:10.5px;flex-shrink:0;
-  }
-  .telemetry div{display:flex;flex-direction:column;gap:3px;overflow:hidden;}
-  .telemetry .k{color:var(--text-low);letter-spacing:0.08em;}
-  .telemetry .v{color:var(--text-mid);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-  .telemetry .v b{color:var(--text-hi);font-weight:500;}
+  footer{flex-shrink:0;display:flex;flex-direction:column;gap:6px;}
+  .meta{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:11px;color:var(--ink-3);}
+  .meta b{color:var(--ink-2);font-weight:600;}
+  .disclaimer{font-size:11px;color:var(--ink-3);line-height:1.4;}
+  .disclaimer b{color:var(--red);}
 </style>
 </head>
 <body>
-<div class="stage" role="group" aria-label="Baymax status">
-  <div class="topbar">
-    <div class="callsign">
-      <span class="mark">BAYMAX</span>
-      <span class="sub">TACTICAL INTERFACE // MK.I</span>
+<div class="app" role="group" aria-label="Baymax">
+  <header>
+    <svg viewBox="0 0 1024 1024" aria-hidden="true">
+      <defs><linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f05a55"/><stop offset="1" stop-color="#c32233"/></linearGradient></defs>
+      <rect width="1024" height="1024" rx="230" fill="url(#tile)"/>
+      <circle cx="512" cy="512" r="330" fill="#fbfaf9"/>
+      <line x1="337" y1="505" x2="687" y2="505" stroke="#1d1b1b" stroke-width="15" stroke-linecap="round"/>
+      <ellipse cx="337" cy="505" rx="36" ry="42" fill="#1d1b1b"/><ellipse cx="687" cy="505" rx="36" ry="42" fill="#1d1b1b"/>
+    </svg>
+    <div class="title"><b>Baymax</b><span>Your personal healthcare companion</span></div>
+    <div class="conn"><div><span class="dot"></span><b id="hostVal">—</b></div><div id="modelVal">—</div></div>
+  </header>
+
+  <div class="stage">
+    <div class="face-wrap">
+      <svg viewBox="0 0 1024 1024" aria-hidden="true">
+        <defs>
+          <radialGradient id="face" cx="0.42" cy="0.36" r="0.75"><stop offset="0" stop-color="var(--face-1)"/><stop offset="1" stop-color="var(--face-2)"/></radialGradient>
+          <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>
+        </defs>
+        <circle id="ripple1" cx="512" cy="512" r="330" fill="none" stroke="var(--red)" stroke-width="6" opacity="0"/>
+        <circle id="ripple2" cx="512" cy="512" r="330" fill="none" stroke="var(--red)" stroke-width="4" opacity="0"/>
+        <circle id="halo" cx="512" cy="532" r="345" fill="#d9363e" opacity="0.22" filter="url(#soft)"/>
+        <g id="face">
+          <circle cx="512" cy="512" r="330" fill="url(#face)"/>
+          <line id="mouth" x1="337" y1="505" x2="687" y2="505" stroke="#1d1b1b" stroke-width="15" stroke-linecap="round"/>
+          <ellipse id="eyeL" cx="337" cy="505" rx="36" ry="42" fill="#1d1b1b"/>
+          <ellipse id="eyeR" cx="687" cy="505" rx="36" ry="42" fill="#1d1b1b"/>
+        </g>
+      </svg>
     </div>
-    <div class="uplink">
-      <div><span class="dot"></span>UPLINK <b id="hostVal">—</b></div>
-      <div>MODEL <b id="modelVal">—</b></div>
-    </div>
+    <div class="state" id="stateLabel">Ready</div>
   </div>
 
-  <div class="viewport">
-    <div class="ring-wrap">
-      <span class="bracket tl"></span><span class="bracket tr"></span>
-      <span class="bracket bl"></span><span class="bracket br"></span>
-      <div class="ring-outer" id="ring"></div>
-      <canvas id="core" width="400" height="400" aria-hidden="true"></canvas>
-      <span class="state-label" id="stateLabel">IDLE</span>
-    </div>
+  <div class="readout" id="readout">
+    <span class="tag" id="readoutTag">Standby</span>
+    <span class="txt" id="readoutTxt">Hello. I am Baymax, your personal healthcare companion.</span>
   </div>
 
-  <div class="readout">
-    <span class="tag" id="readoutTag">STANDBY</span>
-    <span class="txt" id="readoutTxt">—</span>
-    <div class="bars" id="bars" aria-hidden="true"></div>
-  </div>
-
-  <label class="command" id="command">
-    <span class="prompt">&gt;</span>
-    <input type="text" id="commandInput" placeholder="Type your question, then press Enter" autocomplete="off">
+  <label class="command">
+    <input type="text" id="commandInput" placeholder="Tell me what's wrong, or ask a health question" autocomplete="off">
+    <button id="send" aria-label="Send" title="Send">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </button>
   </label>
 
-  <div class="telemetry">
-    <div><span class="k">MIC</span><span class="v" id="micVal">—</span></div>
-    <div><span class="k">VOICE</span><span class="v" id="voiceVal">—</span></div>
-    <div><span class="k">UPTIME</span><span class="v" id="uptimeVal"><b>00:00:00</b></span></div>
-    <div><span class="k">ACTIVATION</span><span class="v" id="wakeVal">—</span></div>
-  </div>
+  <footer>
+    <div class="meta">
+      <span>Mic <b id="micVal">—</b></span><span>Voice <b id="voiceVal">—</b></span>
+      <span>Activation <b id="wakeVal">—</b></span><span>Up <b id="uptimeVal">00:00:00</b></span>
+    </div>
+    <div class="disclaimer">Baymax gives general health information, not a diagnosis. In an emergency call <b>911</b>. For thoughts of suicide, call or text <b>988</b>.</div>
+  </footer>
 </div>
 
 <script>
 (function(){
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const $ = id => document.getElementById(id);
+  const face=$('face'), eyeL=$('eyeL'), eyeR=$('eyeR'), mouth=$('mouth'), halo=$('halo');
+  const rip1=$('ripple1'), rip2=$('ripple2');
+  const stateLabel=$('stateLabel'), readout=$('readout'), readoutTag=$('readoutTag'), readoutTxt=$('readoutTxt');
 
-  /* ---------- tick-mark ring ---------- */
-  const ringHost = document.getElementById('ring');
-  const svgNS = 'http://www.w3.org/2000/svg';
-  const svg = document.createElementNS(svgNS,'svg');
-  svg.setAttribute('viewBox','0 0 100 100');
-  const R = 47;
-  for (let i=0;i<48;i++){
-    const angle = (i/48) * Math.PI*2;
-    const long = i % 4 === 0;
-    const r1 = R, r2 = long ? R-5 : R-2.4;
-    const x1 = 50 + Math.cos(angle)*r1, y1 = 50 + Math.sin(angle)*r1;
-    const x2 = 50 + Math.cos(angle)*r2, y2 = 50 + Math.sin(angle)*r2;
-    const line = document.createElementNS(svgNS,'line');
-    line.setAttribute('x1',x1);line.setAttribute('y1',y1);
-    line.setAttribute('x2',x2);line.setAttribute('y2',y2);
-    line.setAttribute('stroke', long ? '#4c6070' : '#232e39');
-    line.setAttribute('stroke-width', long ? 1.1 : 0.7);
-    svg.appendChild(line);
-  }
-  const circle = document.createElementNS(svgNS,'circle');
-  circle.setAttribute('cx',50);circle.setAttribute('cy',50);circle.setAttribute('r',R-7);
-  circle.setAttribute('fill','none');circle.setAttribute('stroke','#1b2530');circle.setAttribute('stroke-width',0.6);
-  svg.appendChild(circle);
-  ringHost.appendChild(svg);
+  const LABEL = {idle:'Ready', listening:'Listening…', thinking:'Thinking…', speaking:'Speaking…'};
+  let current='idle', alert=false, t=0, targetLevel=0, level=0;
+  let nextBlink=2.5, blinkAt=-1;
 
-  /* ---------- amplitude bars ---------- */
-  const barsHost = document.getElementById('bars');
-  const BAR_COUNT = 14;
-  const bars = [];
-  for (let i=0;i<BAR_COUNT;i++){
-    const el = document.createElement('i');
-    el.style.height='3px';
-    barsHost.appendChild(el);
-    bars.push(el);
-  }
+  function frame(){
+    level += (targetLevel-level)*0.25;
+    const s = reduceMotion ? 0 : 1;
 
-  const STATES = {
-    idle:      { color:[191,232,255], glow:[191,232,255], radius:38, spread:14, speed:0.12, count:40 },
-    listening: { color:[191,232,255], glow:[255,255,255], radius:44, spread:28, speed:0.32, count:58 },
-    thinking:  { color:[255,156,70],  glow:[255,180,100], radius:32, spread:12, speed:1.0,  count:70 },
-    speaking:  { color:[242,251,255], glow:[255,255,255], radius:48, spread:24, speed:0.55, count:56 },
-  };
+    // Blink every few seconds while idle or listening.
+    if (blinkAt<0 && t>nextBlink && current!=='thinking'){ blinkAt=t; }
+    let blink=0;
+    if (blinkAt>=0){
+      const p=(t-blinkAt)/0.22;
+      if (p>=1){ blinkAt=-1; nextBlink=t+2.5+Math.random()*3.5; } else blink=Math.sin(p*Math.PI);
+    }
 
-  const canvas = document.getElementById('core');
-  const ctx = canvas.getContext('2d');
-  const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    let dx=0, ry=42, rx=36, lineW=15, breathe=1+0.012*Math.sin(t*1.3)*s;
+    if (current==='thinking'){ dx=Math.sin(t*1.7)*20*s; ry=36; }
+    if (current==='listening'){ ry=46; rx=38; breathe+=level*0.03*s; }
+    if (current==='speaking'){ lineW=15+level*26; breathe+=level*0.02*s; }
+    if (alert){ ry=48; rx=40; }
+    ry = Math.max(4, ry*(1-0.92*blink));
 
-  function resize(){
-    const size = canvas.clientWidth || 288;
-    canvas.width = size * dpr;
-    canvas.height = size * dpr;
-    ctx.setTransform(dpr,0,0,dpr,0,0);
+    for (const [el,x] of [[eyeL,337],[eyeR,687]]){
+      el.setAttribute('cx',x+dx); el.setAttribute('rx',rx); el.setAttribute('ry',ry);
+    }
+    mouth.setAttribute('x1',337+dx); mouth.setAttribute('x2',687+dx); mouth.setAttribute('stroke-width',lineW);
+    face.setAttribute('transform',`translate(512 512) scale(${breathe}) translate(-512 -512)`);
+
+    // Soft red halo, brighter and larger with sound; ripples only while listening or speaking.
+    const glow = alert ? 0.55 : (current==='idle' ? 0.18 : 0.28+level*0.35);
+    halo.setAttribute('opacity', glow.toFixed(3));
+    for (const [r,phase] of [[rip1,0],[rip2,0.5]]){
+      if ((current==='listening'||current==='speaking') && !reduceMotion){
+        const p=((t*0.55+phase)%1);
+        r.setAttribute('r',(335+p*(90+level*120)).toFixed(1));
+        r.setAttribute('opacity',(0.35*(1-p)*(0.35+level*1.2)).toFixed(3));
+      } else r.setAttribute('opacity',0);
+    }
+    t+=0.016; requestAnimationFrame(frame);
   }
 
-  let particles = [];
-  function seed(n){
-    particles = Array.from({length:n},()=>({
-      angle: Math.random()*Math.PI*2,
-      dist: Math.random(),
-      speed: Math.random()*0.6+0.4,
-      size: Math.random()*1.8+0.9,
-    }));
+  // The API Python drives (see baymax/gui.py). Each is safe to call at any time.
+  window.setConfig=function(model,host,voice,wake){
+    $('modelVal').textContent=model; $('hostVal').textContent=host.replace(/^https?:\/\//,'');
+    $('voiceVal').textContent=voice; $('wakeVal').textContent=wake;
+  };
+  window.setMic=function(s){ $('micVal').textContent=s; };
+  window.setState=function(mode){
+    if(!LABEL[mode]) return;
+    current=mode; targetLevel=0;
+    stateLabel.textContent = alert && mode==='speaking' ? 'Please get help now' : LABEL[mode];
+    stateLabel.className='state '+(alert&&mode==='speaking' ? 'alert' : mode);
+  };
+  window.setLevel=function(x){ targetLevel=Math.max(0,Math.min(1,x)); };
+  window.setReadout=function(tag,text){
+    // An emergency script always names 911, 988 or Poison Control: show it unmistakably.
+    alert = tag==='REPLY' && /\b(call 911|9 8 8|1, 8 0 0, 2 2 2)/i.test(text);
+    readout.classList.toggle('alert',alert);
+    readoutTag.textContent = alert ? 'Important' : tag.charAt(0)+tag.slice(1).toLowerCase();
+    readoutTxt.textContent=text; readoutTxt.scrollTop=readoutTxt.scrollHeight;
+    if (current==='speaking') window.setState('speaking');
+  };
+
+  const input=$('commandInput'), send=$('send');
+  function submit(){
+    const text=input.value.trim();
+    if(!text||!window.pywebview) return;
+    input.value=''; input.disabled=true; send.disabled=true;
+    window.pywebview.api.submit(text).finally(()=>{ input.disabled=false; send.disabled=false; input.focus(); });
   }
+  input.addEventListener('keydown',e=>{ if(e.key==='Enter') submit(); });
+  send.addEventListener('click',submit);
+  input.focus();
 
-  let current = 'idle';
-  let t = 0;
-  // The real level Python reports (0..1), eased toward on every frame so updates that arrive
-  // in bursts (once per audio block, not once per animation frame) still look continuous.
-  let targetLevel = 0;
-  let level = 0;
-
-  function draw(){
-    const s = STATES[current];
-    const size = canvas.clientWidth || 288;
-    const cx = size/2, cy = size/2;
-    ctx.clearRect(0,0,size,size);
-
-    level += (targetLevel - level) * 0.25;
-
-    const grad = ctx.createRadialGradient(cx,cy,0,cx,cy,size*0.52);
-    grad.addColorStop(0, `rgba(${s.glow.join(',')},0.30)`);
-    grad.addColorStop(1, `rgba(${s.glow.join(',')},0)`);
-    ctx.fillStyle = grad;
-    ctx.fillRect(0,0,size,size);
-
-    const restingPulse = current==='thinking' ? (Math.sin(t*9)*0.25+0.75) : 1;
-    const amp = (current==='listening' || current==='speaking')
-      ? (0.55 + level*0.9)
-      : restingPulse;
-
-    particles.forEach(p=>{
-      if(!reduceMotion) p.angle += s.speed * 0.012 * p.speed;
-      const r = (s.radius + s.spread*p.dist) * amp;
-      const x = cx + Math.cos(p.angle)*r;
-      const y = cy + Math.sin(p.angle)*r;
-      ctx.beginPath();
-      ctx.fillStyle = `rgba(${s.color.join(',')},${0.45+p.dist*0.45})`;
-      ctx.arc(x,y,p.size,0,Math.PI*2);
-      ctx.fill();
-    });
-
-    const coreR = s.radius*0.46*amp;
-    const cg = ctx.createRadialGradient(cx,cy,0,cx,cy,Math.max(coreR,1));
-    cg.addColorStop(0,'rgba(255,255,255,0.95)');
-    cg.addColorStop(0.55,`rgba(${s.color.join(',')},0.85)`);
-    cg.addColorStop(1,`rgba(${s.color.join(',')},0)`);
-    ctx.fillStyle = cg;
-    ctx.beginPath();
-    ctx.arc(cx,cy,Math.max(coreR,1),0,Math.PI*2);
-    ctx.fill();
-
-    bars.forEach((el,i)=>{
-      let h;
-      if (current==='listening' || current==='speaking') h = 3 + level*16*(0.5+0.5*Math.sin(i*1.7+t*3));
-      else if (current==='thinking') h = 3 + Math.abs(Math.sin(t*7 + i*2.1))*6;
-      else h = 3;
-      el.style.height = Math.max(3,h).toFixed(1)+'px';
-      el.style.background = current==='thinking' ? 'rgb(255,156,70)' : (current==='idle' ? '#3d4c5c' : '#eaf3fb');
-    });
-
-    t += 0.016;
-    requestAnimationFrame(draw);
-  }
-
-  const stateLabel = document.getElementById('stateLabel');
-  const readoutTag = document.getElementById('readoutTag');
-  const readoutTxt = document.getElementById('readoutTxt');
-  const ring = document.getElementById('ring');
-
-  // The API Python drives. Each function is safe to call at any time, including before the
-  // first animation frame, since it only ever writes into state that draw() reads each frame.
-  window.setConfig = function(model, host, voice, wakePhrase){
-    document.getElementById('modelVal').textContent = model;
-    document.getElementById('hostVal').textContent = host;
-    document.getElementById('voiceVal').textContent = voice;
-    document.getElementById('wakeVal').textContent = '"' + wakePhrase + '"';
-  };
-
-  window.setMic = function(status){
-    document.getElementById('micVal').textContent = status;
-  };
-
-  window.setState = function(mode){
-    if (!STATES[mode]) return;
-    current = mode;
-    seed(STATES[mode].count);
-    targetLevel = 0;
-    stateLabel.textContent = mode.toUpperCase();
-    stateLabel.className = 'state-label ' + mode;
-    ring.style.animationDuration = mode==='thinking' ? '9s' : mode==='listening' ? '22s' : '40s';
-  };
-
-  window.setLevel = function(x){
-    targetLevel = Math.max(0, Math.min(1, x));
-  };
-
-  window.setReadout = function(tag, text){
-    readoutTag.textContent = tag;
-    readoutTxt.textContent = text;
-    readoutTxt.scrollTop = readoutTxt.scrollHeight;
-  };
-
-  const commandInput = document.getElementById('commandInput');
-  commandInput.addEventListener('keydown', (event) => {
-    if (event.key !== 'Enter') return;
-    const text = commandInput.value.trim();
-    if (!text || !window.pywebview) return;
-    commandInput.value = '';
-    commandInput.disabled = true;
-    window.pywebview.api.submit(text).finally(() => {
-      commandInput.disabled = false;
-      commandInput.focus();
-    });
-  });
-
-  resize();
-  window.addEventListener('resize', resize);
-  seed(STATES.idle.count);
-  window.setState('idle');
-  draw();
-
-  const bootTime = Date.now();
-  const uptimeVal = document.getElementById('uptimeVal');
+  const boot=Date.now();
   setInterval(()=>{
-    const s = Math.floor((Date.now()-bootTime)/1000);
-    const hh = String(Math.floor(s/3600)).padStart(2,'0');
-    const mm = String(Math.floor((s%3600)/60)).padStart(2,'0');
-    const ss = String(s%60).padStart(2,'0');
-    uptimeVal.innerHTML = '<b>'+hh+':'+mm+':'+ss+'</b>';
-  }, 1000);
+    const s=Math.floor((Date.now()-boot)/1000), p=n=>String(n).padStart(2,'0');
+    $('uptimeVal').textContent=`${p(Math.floor(s/3600))}:${p(Math.floor(s%3600/60))}:${p(s%60)}`;
+  },1000);
+
+  window.setState('idle');
+  frame();
 })();
 </script>
 </body>

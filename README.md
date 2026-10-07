@@ -35,9 +35,28 @@ Sensible default model is `llama3.1:8b`. Change with `--model`. Everything can a
 
 ## Knowledge
 
-[`baymax/knowledge/clinical.md`](baymax/knowledge/clinical.md) holds about 45 short reference notes (drug dosing and safety, interactions, lab reference ranges, red-flag symptoms, first aid, screening, vaccines), each written in Baymax's own words with its guideline source named. [`medicine.md`](baymax/knowledge/medicine.md) adds summaries of landmark clinical trials. Add more entries in the same format: a `## Title` heading, a `Source:` line, a `Keywords:` line, then a paragraph.
+Baymax answers from a local library searched with RAG (retrieval-augmented generation). Nothing leaves your machine.
 
-These notes are a starting point and have not been clinically reviewed. Reference ranges and guidelines change; check anything that matters against a current source or a pharmacist.
+**Official sources, copied verbatim, with provenance on every passage:**
+- ~1,000 [MedlinePlus](https://medlineplus.gov) health topics (National Library of Medicine)
+- FDA drug labels for ~220 common medicines: uses, dosing, contraindications, boxed warnings, interactions, pregnancy, overdose
+- 27 NIH Office of Dietary Supplements fact sheets (vitamins, minerals, supplements)
+
+Plus Baymax's own notes ([`clinical.md`](baymax/knowledge/clinical.md), labelled *not clinically reviewed* and ranked below official sources), summaries of landmark trials ([`medicine.md`](baymax/knowledge/medicine.md)), and anything you put in `~/.baymax/library/` (PDFs, `.txt`, `.md`).
+
+[`docs/SOURCES.md`](docs/SOURCES.md) spells out what "vetted" means here, and what it doesn't: the sources are official, but no clinician has reviewed them.
+
+**How retrieval works.** Each question is searched two ways at once: by meaning (local embeddings, `nomic-embed-text`) and by exact terms (BM25, which is what finds a drug name or a lab value that embeddings blur). The two rankings are fused by rank, official sources get a small edge over Baymax's own notes, and a passage must clear a relevance gate or nothing is retrieved at all, so small talk never pulls in medical text. Short follow-ups ("what about for kids?") are searched together with the question before them. The model is told to ground its answer in the passages, name the authority, and say so when they don't cover the question.
+
+Refresh or extend the library:
+
+```powershell
+uv run python tools/fetch_medlineplus.py
+uv run python tools/fetch_fda_labels.py [--only metformin,ibuprofen]
+uv run python tools/fetch_nih_ods.py
+uv run python tools/vet.py              # audit provenance of every vetted entry
+uv run python tools/eval_retrieval.py   # benchmark retrieval quality
+```
 
 ## Limits worth knowing
 

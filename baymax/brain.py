@@ -14,6 +14,8 @@ from baymax.research import ResearchCheck
 from baymax.search import NOT_CHECKED, WebCheck
 from baymax.text import speak_moment
 
+_FOLLOW_UP_WORDS = 6
+
 
 class Brain:
     """Holds the conversation and builds each prompt: persona, date, optional web / calendar /
@@ -127,4 +129,11 @@ class Brain:
         return self._lookup(text) if self._lookup else NOT_CHECKED
 
     def _look_up_research(self, text: str) -> ResearchCheck:
-        return self._research_lookup(text) if self._research_lookup else RESEARCH_NOT_CHECKED
+        if not self._research_lookup:
+            return RESEARCH_NOT_CHECKED
+        # A short follow-up ("what about for kids?") means nothing on its own, so it's searched
+        # together with the question before it. Only the search sees this; the model gets the
+        # real conversation.
+        previous = [m["content"] for m in self._history[:-1] if m["role"] == "user"]
+        query = f"{previous[-1]} {text}" if previous and len(text.split()) <= _FOLLOW_UP_WORDS else text
+        return self._research_lookup(query)

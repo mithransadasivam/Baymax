@@ -1,0 +1,1617 @@
+{
+  "fda_labels": {
+    "api": "https://api.fda.gov/drug/label.json",
+    "authority": "US Food and Drug Administration (labels distributed by NLM DailyMed)",
+    "drugs": {
+      "acetaminophen": {
+        "effective_time": "20251003",
+        "manufacturer": "NuCare Pharmaceuticals,Inc.",
+        "passages": 7,
+        "set_id": "004c39cd-b4f4-1cae-e063-6394a90a0697",
+        "version": "5"
+      },
+      "acyclovir": {
+        "effective_time": "20251023",
+        "manufacturer": "Teva Pharmaceuticals USA, Inc.",
+        "passages": 10,
+        "set_id": "103f29b8-2c13-4917-a446-59d3246d48d1",
+        "version": "7"
+      },
+      "adalimumab": {
+        "effective_time": "20260807",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 17,
+        "set_id": "1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5",
+        "version": "1"
+      },
+      "albendazole": {
+        "effective_time": "20260727",
+        "manufacturer": "Golden State Medical Supply, Inc.",
+        "passages": 15,
+        "set_id": "8de337eb-92e1-15b5-e053-2a95a90ac4f1",
+        "version": "5"
+      },
+      "albuterol": {
+        "effective_time": "20260806",
+        "manufacturer": "Armstrong Pharmaceuticals, Inc.",
+        "passages": 17,
+        "set_id": "17858afa-dcdf-4612-b475-3b6baadfb639",
+        "version": "5"
+      },
+      "alendronate": {
+        "effective_time": "20260703",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "c7e470d6-508e-466e-a78d-060bbbc9745c",
+        "version": "8"
+      },
+      "allopurinol": {
+        "effective_time": "20240708",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 17,
+        "set_id": "005048dd-844f-468c-bf56-1a09727e3477",
+        "version": "103"
+      },
+      "alprazolam": {
+        "effective_time": "20260728",
+        "manufacturer": "Clinical Solutions Wholesale, LLC",
+        "passages": 19,
+        "set_id": "0cf8b567-201b-44fa-8fd3-c74023aff44f",
+        "version": "1"
+      },
+      "amiodarone": {
+        "effective_time": "20260716",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 17,
+        "set_id": "51a88e8e-da02-4b97-9e7e-442fbffd908d",
+        "version": "12"
+      },
+      "amitriptyline": {
+        "effective_time": "20260630",
+        "manufacturer": "St. Mary's Medical Park Pharmacy",
+        "passages": 18,
+        "set_id": "35aa7ab3-321a-97f7-e063-6294a90a91e2",
+        "version": "2"
+      },
+      "amlodipine": {
+        "effective_time": "20260717",
+        "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+        "passages": 15,
+        "set_id": "1080fcea-a5da-499d-a855-690c13559071",
+        "version": "18"
+      },
+      "amoxicillin": {
+        "effective_time": "20260721",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "102c62ca-da20-4866-84a8-e3513824af4a",
+        "version": "21"
+      },
+      "amphetamine": {
+        "effective_time": "20250901",
+        "manufacturer": "Teva Pharmaceuticals, Inc.",
+        "passages": 17,
+        "set_id": "243e88e7-6621-47e9-8d5c-3f79bcb088bb",
+        "version": "3"
+      },
+      "apixaban": {
+        "effective_time": "20260424",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 19,
+        "set_id": "a454cd24-0c6d-46e8-b1e4-197388606175",
+        "version": "38"
+      },
+      "aripiprazole": {
+        "effective_time": "20260903",
+        "manufacturer": "Apotex Corp.",
+        "passages": 19,
+        "set_id": "14910dae-da81-3d73-d0a4-e98d13917c69",
+        "version": "17"
+      },
+      "aspirin": {
+        "effective_time": "20241203",
+        "manufacturer": "H. E. BUTT GROCERY COMPANY",
+        "passages": 6,
+        "set_id": "03876c71-60ec-3280-e063-6294a90a62dc",
+        "version": "2"
+      },
+      "atenolol": {
+        "effective_time": "20241022",
+        "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
+        "passages": 17,
+        "set_id": "23e96396-85d3-0d8e-e063-6394a90a614d",
+        "version": "2"
+      },
+      "atomoxetine": {
+        "effective_time": "20260904",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 18,
+        "set_id": "6d7ea8f7-981c-4acc-aeaf-7516325bfc0c",
+        "version": "4"
+      },
+      "atorvastatin": {
+        "effective_time": "20260731",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 17,
+        "set_id": "09cb8375-075c-47e8-a4eb-8ac667ed849e",
+        "version": "10"
+      },
+      "azathioprine": {
+        "effective_time": "20260505",
+        "manufacturer": "NuCare Pharmaceuticals,Inc.",
+        "passages": 15,
+        "set_id": "5116b22b-1460-5535-e063-6394a90acbe5",
+        "version": "1"
+      },
+      "azithromycin": {
+        "effective_time": "20260831",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 14,
+        "set_id": "0d5129e4-8b94-4a4d-baa9-be0d6b32d714",
+        "version": "3"
+      },
+      "baclofen": {
+        "effective_time": "20260507",
+        "manufacturer": "Piramal Critical Care Inc",
+        "passages": 18,
+        "set_id": "00d3e846-dd92-448d-9ab8-6a07be823cc1",
+        "version": "43"
+      },
+      "benazepril": {
+        "effective_time": "20260313",
+        "manufacturer": "Aurobindo Pharma Limited",
+        "passages": 18,
+        "set_id": "09e383a8-e912-4cf7-8fb3-05545af80dd0",
+        "version": "26"
+      },
+      "bisacodyl": {
+        "effective_time": "20260831",
+        "manufacturer": "DOLGENCORP, LLC",
+        "passages": 4,
+        "set_id": "05e9358d-7bfe-4c16-ae50-d6a44c023698",
+        "version": "4"
+      },
+      "bismuth": {
+        "effective_time": "20260908",
+        "manufacturer": "The Procter & Gamble Manufacturing Company",
+        "passages": 5,
+        "set_id": "039391d0-9ec1-45a3-84fa-b5f591794e41",
+        "version": "5"
+      },
+      "bisoprolol": {
+        "effective_time": "20250404",
+        "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+        "passages": 13,
+        "set_id": "6566dcbe-3e25-4828-9c10-3d041000bc77",
+        "version": "4"
+      },
+      "budesonide": {
+        "effective_time": "20250612",
+        "manufacturer": "American Health Packaging",
+        "passages": 15,
+        "set_id": "45e5f304-1177-42a2-91c9-3ed1a9c9f8e6",
+        "version": "5"
+      },
+      "bumetanide": {
+        "effective_time": "20260821",
+        "manufacturer": "NorthStar Rx LLC",
+        "passages": 13,
+        "set_id": "551918e1-96c4-453a-870c-61b282882206",
+        "version": "4"
+      },
+      "buprenorphine": {
+        "effective_time": "20260529",
+        "manufacturer": "Rhodes Pharmaceuticals LLC",
+        "passages": 20,
+        "set_id": "2738feae-316e-426f-971c-5f142ac01b60",
+        "version": "17"
+      },
+      "bupropion": {
+        "effective_time": "20260827",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 19,
+        "set_id": "0aa86bd6-b37b-45f7-a837-b067e41184e9",
+        "version": "4"
+      },
+      "buspirone": {
+        "effective_time": "20260424",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 16,
+        "set_id": "1315494d-7a51-4395-bc7c-afb4bc5482c9",
+        "version": "7"
+      },
+      "calcium": {
+        "effective_time": "20251126",
+        "manufacturer": "Westminster Pharmaceuticals, LLC",
+        "passages": 17,
+        "set_id": "02797697-300a-43db-92cf-9b78f08626be",
+        "version": "6"
+      },
+      "canagliflozin": {
+        "effective_time": "20260611",
+        "manufacturer": "Janssen Pharmaceuticals, Inc.",
+        "passages": 17,
+        "set_id": "b9057d3b-b104-4f09-8a61-c61ef9d4a3f3",
+        "version": "32"
+      },
+      "carbamazepine": {
+        "effective_time": "20260629",
+        "manufacturer": "Bionpharma Inc.,",
+        "passages": 15,
+        "set_id": "138d9ed1-2f8e-d19d-e063-6394a90a695d",
+        "version": "5"
+      },
+      "carisoprodol": {
+        "effective_time": "20260622",
+        "manufacturer": "Northwind Health Company, LLC",
+        "passages": 13,
+        "set_id": "26e466be-8066-e562-e063-6394a90a9f81",
+        "version": "3"
+      },
+      "carvedilol": {
+        "effective_time": "20260731",
+        "manufacturer": "Waylis Therapeutics LLC",
+        "passages": 18,
+        "set_id": "07c619c6-4a0c-445e-94fa-664a54f68a39",
+        "version": "3"
+      },
+      "cefdinir": {
+        "effective_time": "20260820",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 15,
+        "set_id": "0eeac6df-bad7-413e-8b41-0660f3a99373",
+        "version": "6"
+      },
+      "cefuroxime": {
+        "effective_time": "20260805",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "76cec54f-d167-4298-951b-5411a3c47f4a",
+        "version": "10"
+      },
+      "cephalexin": {
+        "effective_time": "20260824",
+        "manufacturer": "Lupin Pharmaceuticals, Inc.",
+        "passages": 15,
+        "set_id": "1d3e6d33-5dc2-498e-8efa-e3c4fca15dff",
+        "version": "10"
+      },
+      "cetirizine": {
+        "effective_time": "20260813",
+        "manufacturer": "CVS Pharmacy",
+        "passages": 5,
+        "set_id": "0210f9e5-c35b-4cfa-92d1-48555e99f1f3",
+        "version": "4"
+      },
+      "chlorpheniramine": {
+        "effective_time": "20260708",
+        "manufacturer": "Rugby Laboratories",
+        "passages": 4,
+        "set_id": "04ca3806-72be-47d4-9fea-5b0dee087683",
+        "version": "17"
+      },
+      "chlorthalidone": {
+        "effective_time": "20250327",
+        "manufacturer": "Ingenus Pharmaceuticals, LLC",
+        "passages": 12,
+        "set_id": "3f0f3ee0-f5a6-4bda-8160-a77744e9fa46",
+        "version": "1"
+      },
+      "cholecalciferol": {
+        "effective_time": "20260610",
+        "manufacturer": "Guna spa",
+        "passages": 4,
+        "set_id": "75465821-a889-4697-b470-e9588a523205",
+        "version": "7"
+      },
+      "ciprofloxacin": {
+        "effective_time": "20260826",
+        "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+        "passages": 19,
+        "set_id": "14c3bc33-201d-492e-9aee-a4d84c813a3d",
+        "version": "4"
+      },
+      "citalopram": {
+        "effective_time": "20260904",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "0109f365-bebd-4810-a56f-4451e10245db",
+        "version": "2"
+      },
+      "clarithromycin": {
+        "effective_time": "20260409",
+        "manufacturer": "Solaris Pharma Corporation",
+        "passages": 18,
+        "set_id": "4d42821d-ce7a-7d64-e063-6294a90a0875",
+        "version": "2"
+      },
+      "clindamycin": {
+        "effective_time": "20260729",
+        "manufacturer": "Pharmacia & Upjohn Company LLC",
+        "passages": 16,
+        "set_id": "05a75685-0af5-407c-ac57-e380c882b49d",
+        "version": "60"
+      },
+      "clonazepam": {
+        "effective_time": "20260827",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 20,
+        "set_id": "2606ecf9-3d71-4c1c-bfda-d7d98ffc6011",
+        "version": "8"
+      },
+      "clonidine": {
+        "effective_time": "20250307",
+        "manufacturer": "Somerset Therapeutics, LLC",
+        "passages": 14,
+        "set_id": "1b4fb182-8194-4fdd-bf9b-f7e60e734179",
+        "version": "1"
+      },
+      "clopidogrel": {
+        "effective_time": "20260827",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "2969deac-274b-4042-9c90-9522e62a979d",
+        "version": "7"
+      },
+      "codeine": {
+        "effective_time": "20251222",
+        "manufacturer": "Hikma Pharmaceuticals USA Inc.",
+        "passages": 20,
+        "set_id": "010905f9-3bcb-4b50-9fe8-a3ad0010f14c",
+        "version": "25"
+      },
+      "colchicine": {
+        "effective_time": "20260715",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 15,
+        "set_id": "5c1ceff7-8f00-48cc-8ea4-678106455ff1",
+        "version": "1"
+      },
+      "cyanocobalamin": {
+        "effective_time": "20260325",
+        "manufacturer": "Plano Pharmaceuticals Inc.",
+        "passages": 8,
+        "set_id": "4cbc05f6-4b31-4a5f-e063-6394a90a676c",
+        "version": "2"
+      },
+      "cyclobenzaprine": {
+        "effective_time": "20250220",
+        "manufacturer": "Upsher-Smith Laboratories, LLC",
+        "passages": 15,
+        "set_id": "14f64ceb-ea5c-4d7c-a0c1-3f6a64847290",
+        "version": "8"
+      },
+      "dabigatran": {
+        "effective_time": "20260803",
+        "manufacturer": "Ascend Laboratories, LLC",
+        "passages": 19,
+        "set_id": "3a8ec82a-c367-40dc-9302-e1896fcb05ea",
+        "version": "27"
+      },
+      "dapagliflozin": {
+        "effective_time": "20260908",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 16,
+        "set_id": "05c3cf00-8c2a-4227-958a-fa5db34512b0",
+        "version": "1"
+      },
+      "dexamethasone": {
+        "effective_time": "20260424",
+        "manufacturer": "Sportpharm LLC",
+        "passages": 16,
+        "set_id": "12d19271-867b-41ae-a6d2-7e8de3637011",
+        "version": "2"
+      },
+      "dextromethorphan": {
+        "effective_time": "20240418",
+        "manufacturer": "QUALITY CHOICE (Chain Drug Marketing Association)",
+        "passages": 6,
+        "set_id": "025f6622-a6db-4a5c-aebd-5d54172fa4a1",
+        "version": "1"
+      },
+      "diazepam": {
+        "effective_time": "20260603",
+        "manufacturer": "Neurelis, Inc",
+        "passages": 18,
+        "set_id": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+        "version": "15"
+      },
+      "digoxin": {
+        "effective_time": "20260708",
+        "manufacturer": "NCS HealthCare of KY, LLC dba Vangard Labs",
+        "passages": 17,
+        "set_id": "5886e233-b2da-4acb-be05-9bf40fb8e7f4",
+        "version": "7"
+      },
+      "diltiazem": {
+        "effective_time": "20251111",
+        "manufacturer": "Bausch Health US LLC",
+        "passages": 13,
+        "set_id": "3e180dc7-c871-4efc-8755-cae882976c8d",
+        "version": "19"
+      },
+      "diphenhydramine": {
+        "effective_time": "20260908",
+        "manufacturer": "The Procter & Gamble Manufacturing Company",
+        "passages": 5,
+        "set_id": "01906eed-78ee-f2a1-e063-6294a90a809b",
+        "version": "8"
+      },
+      "docusate": {
+        "effective_time": "20241106",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 5,
+        "set_id": "122486e9-74dd-4181-97d1-0b07688280f4",
+        "version": "5"
+      },
+      "doxycycline": {
+        "effective_time": "20260826",
+        "manufacturer": "NuCare Pharmaceuticals,Inc.",
+        "passages": 15,
+        "set_id": "0106a3d3-db4d-f6ee-e063-6294a90a25e9",
+        "version": "5"
+      },
+      "dulaglutide": {
+        "effective_time": "20260616",
+        "manufacturer": "Eli Lilly and Company",
+        "passages": 17,
+        "set_id": "463050bd-2b1c-40f5-b3c3-0a04bb433309",
+        "version": "62"
+      },
+      "duloxetine": {
+        "effective_time": "20260820",
+        "manufacturer": "Golden State Medical Supply, Inc.",
+        "passages": 18,
+        "set_id": "00628e5e-4c5b-2573-e063-6294a90a0e3b",
+        "version": "4"
+      },
+      "empagliflozin": {
+        "effective_time": "20260826",
+        "manufacturer": "Redpharm Drug",
+        "passages": 16,
+        "set_id": "59ed43d9-b4e0-72a2-e063-6394a90a327d",
+        "version": "1"
+      },
+      "enalapril": {
+        "effective_time": "20240418",
+        "manufacturer": "NorthStar RxLLC",
+        "passages": 18,
+        "set_id": "19606da3-c6b0-40a5-9690-77fc37072b51",
+        "version": "1"
+      },
+      "epinephrine": {
+        "effective_time": "20260608",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 14,
+        "set_id": "0172280c-f7d6-4613-9dbd-f94d3ae5825a",
+        "version": "5"
+      },
+      "ergocalciferol": {
+        "effective_time": "20260904",
+        "manufacturer": "Torrent Pharmaceuticals Limited",
+        "passages": 9,
+        "set_id": "4ae38744-020d-4c37-a6f1-88f55c2f1047",
+        "version": "3"
+      },
+      "escitalopram": {
+        "effective_time": "20260630",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 18,
+        "set_id": "20281fe6-7db9-4b33-8418-b25e6a5404ca",
+        "version": "104"
+      },
+      "esomeprazole": {
+        "effective_time": "20260731",
+        "manufacturer": "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED",
+        "passages": 5,
+        "set_id": "19fa87e4-8225-4969-9857-1bf43db4427b",
+        "version": "3"
+      },
+      "estradiol": {
+        "effective_time": "20250616",
+        "manufacturer": "NorthStar Rx LLC",
+        "passages": 15,
+        "set_id": "0c8a07a4-5762-eaf4-e063-6394a90a54ff",
+        "version": "4"
+      },
+      "eszopiclone": {
+        "effective_time": "20260908",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "52ab8ee9-a04d-4e27-b0f4-eb050f144715",
+        "version": "3"
+      },
+      "ezetimibe": {
+        "effective_time": "20260706",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 14,
+        "set_id": "090776cf-f211-49a3-a993-ff5d707311f2",
+        "version": "3"
+      },
+      "famciclovir": {
+        "effective_time": "20260721",
+        "manufacturer": "AvKARE",
+        "passages": 14,
+        "set_id": "5723f50e-b0fa-65f0-e063-6294a90a350f",
+        "version": "1"
+      },
+      "famotidine": {
+        "effective_time": "20260716",
+        "manufacturer": "Little Pharma, Inc.",
+        "passages": 5,
+        "set_id": "0fdfcc7c-aeed-6bd0-e063-6394a90ae52d",
+        "version": "3"
+      },
+      "febuxostat": {
+        "effective_time": "20260310",
+        "manufacturer": "HEC Pharm USA Inc.",
+        "passages": 16,
+        "set_id": "4f1d0452-e041-cda6-e063-6394a90a2aef",
+        "version": "1"
+      },
+      "fenofibrate": {
+        "effective_time": "20260619",
+        "manufacturer": "Sun Pharmaceutical Industries, Inc.",
+        "passages": 17,
+        "set_id": "2083f5d9-92f2-4c64-b996-fabbd6946ea0",
+        "version": "12"
+      },
+      "fentanyl": {
+        "effective_time": "20260824",
+        "manufacturer": "Hospira, Inc.",
+        "passages": 20,
+        "set_id": "bfa8018a-4cbc-434b-e09e-782872b0340a",
+        "version": "35"
+      },
+      "ferrous": {
+        "effective_time": "20250721",
+        "manufacturer": "Boiron",
+        "passages": 4,
+        "set_id": "3a749d62-0e20-0c15-e063-6394a90ac1a8",
+        "version": "1"
+      },
+      "fexofenadine": {
+        "effective_time": "20260909",
+        "manufacturer": "Amazon.com Services LLC",
+        "passages": 4,
+        "set_id": "1b5aa481-205d-4935-ae58-fcb8cbc35c4c",
+        "version": "3"
+      },
+      "finasteride": {
+        "effective_time": "20260805",
+        "manufacturer": "Major Pharmaceuticals",
+        "passages": 13,
+        "set_id": "3272651f-b500-4d5d-9e29-22fcd8e24fcb",
+        "version": "8"
+      },
+      "fluconazole": {
+        "effective_time": "20260904",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 17,
+        "set_id": "1c82929f-934b-4df4-b24f-1e5da090fd8a",
+        "version": "3"
+      },
+      "fluoxetine": {
+        "effective_time": "20260820",
+        "manufacturer": "ScieGen Pharmaceuticals, Inc.",
+        "passages": 20,
+        "set_id": "23899405-007b-48d9-82a9-a530b8e90784",
+        "version": "16"
+      },
+      "fluticasone": {
+        "effective_time": "20260817",
+        "manufacturer": "Walgreens",
+        "passages": 6,
+        "set_id": "16756136-e813-8a91-3351-7e759d1b4b94",
+        "version": "12"
+      },
+      "folic": {
+        "effective_time": "20260724",
+        "manufacturer": "Rising Pharma Holdings, Inc.",
+        "passages": 10,
+        "set_id": "0baa10dd-6d1d-4946-8236-566451132da3",
+        "version": "2"
+      },
+      "furosemide": {
+        "effective_time": "20260318",
+        "manufacturer": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+        "passages": 16,
+        "set_id": "1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec",
+        "version": "16"
+      },
+      "gabapentin": {
+        "effective_time": "20260901",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 15,
+        "set_id": "1373587e-807a-462a-bff6-8a7113ce9f0a",
+        "version": "5"
+      },
+      "gemfibrozil": {
+        "effective_time": "20231218",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 14,
+        "set_id": "4907bbfa-27f4-4569-8957-9704f9c998a0",
+        "version": "1"
+      },
+      "glimepiride": {
+        "effective_time": "20260413",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 15,
+        "set_id": "248c3cb3-4501-4b85-bd1d-0624b6afda2c",
+        "version": "102"
+      },
+      "glipizide": {
+        "effective_time": "20260622",
+        "manufacturer": "St. Mary's Medical Park Pharmacy",
+        "passages": 15,
+        "set_id": "1b2ef6e2-5e7c-761e-e063-6294a90addd0",
+        "version": "2"
+      },
+      "glyburide": {
+        "effective_time": "20260115",
+        "manufacturer": "NuCare Pharmaceuticals, Inc.",
+        "passages": 19,
+        "set_id": "486fec17-ff83-3bab-e063-6394a90a5ef0",
+        "version": "15"
+      },
+      "guaifenesin": {
+        "effective_time": "20251203",
+        "manufacturer": "Topco Associates, LLC",
+        "passages": 4,
+        "set_id": "03c17c06-6919-4ef4-9d0a-4c039940c671",
+        "version": "3"
+      },
+      "haloperidol": {
+        "effective_time": "20260714",
+        "manufacturer": "Gland Pharma Limited",
+        "passages": 18,
+        "set_id": "1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c",
+        "version": "15"
+      },
+      "hydralazine": {
+        "effective_time": "20250718",
+        "manufacturer": "ProPharma Distribution",
+        "passages": 9,
+        "set_id": "3855c3da-ff25-8301-e063-6294a90a22b3",
+        "version": "2"
+      },
+      "hydrochlorothiazide": {
+        "effective_time": "20260119",
+        "manufacturer": "AvKARE",
+        "passages": 16,
+        "set_id": "017bc6a3-5b3d-2381-e063-6394a90abece",
+        "version": "3"
+      },
+      "hydrocortisone": {
+        "effective_time": "20250710",
+        "manufacturer": "The Great Atlantic & Pacific Tea Company",
+        "passages": 3,
+        "set_id": "044e6ee2-98a6-4802-b33d-78b8551356c4",
+        "version": "3"
+      },
+      "hydroxychloroquine": {
+        "effective_time": "20260608",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 17,
+        "set_id": "68d6439d-b927-47e6-86ef-20e572e81941",
+        "version": "1"
+      },
+      "hydroxyzine": {
+        "effective_time": "20260805",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 6,
+        "set_id": "0c9101ee-0746-4833-83cf-d0d09e52c0a9",
+        "version": "11"
+      },
+      "ibuprofen": {
+        "effective_time": "20260618",
+        "manufacturer": "L.N.K. International, Inc.",
+        "passages": 6,
+        "set_id": "027ded51-aa01-6619-3938-c8162a421cf3",
+        "version": "15"
+      },
+      "insulin": {
+        "effective_time": "20260530",
+        "manufacturer": "Mannkind Corporation",
+        "passages": 17,
+        "set_id": "29f4637b-e204-425b-b89c-7238008d8c10",
+        "version": "17"
+      },
+      "ipratropium": {
+        "effective_time": "20251105",
+        "manufacturer": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+        "passages": 12,
+        "set_id": "170e98ef-5560-4068-be7d-e649068eb884",
+        "version": "21"
+      },
+      "irbesartan": {
+        "effective_time": "20260728",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 14,
+        "set_id": "5b259fdd-ca4c-49c9-a50d-86066f5b0746",
+        "version": "11"
+      },
+      "isosorbide": {
+        "effective_time": "20260722",
+        "manufacturer": "Par Health USA, LLC",
+        "passages": 9,
+        "set_id": "3d6164d7-3083-41c5-a6a6-7e144fe29f7d",
+        "version": "14"
+      },
+      "ivermectin": {
+        "effective_time": "20260825",
+        "manufacturer": "YYBA Corp",
+        "passages": 5,
+        "set_id": "59ea9767-2e0b-ebc2-e063-6294a90ab904",
+        "version": "1"
+      },
+      "lamotrigine": {
+        "effective_time": "20260904",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 19,
+        "set_id": "20e156df-a2b6-4710-b526-0419cd17dd33",
+        "version": "21"
+      },
+      "lansoprazole": {
+        "effective_time": "20260709",
+        "manufacturer": "Dr. Reddy's Laboratories Limited",
+        "passages": 5,
+        "set_id": "15e05eda-48aa-a4b7-4b8a-4ee1cf110120",
+        "version": "13"
+      },
+      "levetiracetam": {
+        "effective_time": "20251112",
+        "manufacturer": "Mylan Institutional Inc.",
+        "passages": 17,
+        "set_id": "08e1bfea-7f3f-42d9-823d-f75080e664ff",
+        "version": "17"
+      },
+      "levofloxacin": {
+        "effective_time": "20260702",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 19,
+        "set_id": "2a4e97e0-0709-411b-92e8-6f7d669412e4",
+        "version": "19"
+      },
+      "levonorgestrel": {
+        "effective_time": "20251023",
+        "manufacturer": "Bayer HealthCare Pharmaceuticals Inc.",
+        "passages": 14,
+        "set_id": "2e07c155-21e1-4781-9633-ce8bddd47080",
+        "version": "13"
+      },
+      "levothyroxine": {
+        "effective_time": "20260909",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 18,
+        "set_id": "13e03769-9a4f-497f-9afa-95bf525090b3",
+        "version": "3"
+      },
+      "linagliptin": {
+        "effective_time": "20250827",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 12,
+        "set_id": "dfe327e8-f6ab-41e5-bdef-d520118cd83a",
+        "version": "12"
+      },
+      "linezolid": {
+        "effective_time": "20260903",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 15,
+        "set_id": "3d630d3d-510d-43a4-8703-8b6234831564",
+        "version": "1"
+      },
+      "liothyronine": {
+        "effective_time": "20260604",
+        "manufacturer": "Mylan Pharmaceuticals Inc.",
+        "passages": 18,
+        "set_id": "115a84c2-0126-4dd7-816e-1873875f1e49",
+        "version": "9"
+      },
+      "liraglutide": {
+        "effective_time": "20260727",
+        "manufacturer": "Meitheal Pharmaceuticals Inc.",
+        "passages": 17,
+        "set_id": "0efc3a89-211a-4496-baab-e8265e07de2b",
+        "version": "9"
+      },
+      "lisinopril": {
+        "effective_time": "20260721",
+        "manufacturer": "Aurobindo Pharma Limited",
+        "passages": 18,
+        "set_id": "0e6364a4-6d66-4151-8197-d45e2a762895",
+        "version": "27"
+      },
+      "lithium": {
+        "effective_time": "20260715",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 18,
+        "set_id": "1c320bff-b4d5-42f2-b2b5-238564fe9589",
+        "version": "17"
+      },
+      "loperamide": {
+        "effective_time": "20260528",
+        "manufacturer": "Preferred Pharmaceuticals Inc.",
+        "passages": 5,
+        "set_id": "0b1f8d41-51b3-4362-8de7-46bca5caff12",
+        "version": "6"
+      },
+      "loratadine": {
+        "effective_time": "20260528",
+        "manufacturer": "Preferred Pharmaceuticals Inc",
+        "passages": 4,
+        "set_id": "0a0d700d-bdba-4c90-a947-5d61d40ce4df",
+        "version": "4"
+      },
+      "lorazepam": {
+        "effective_time": "20251008",
+        "manufacturer": "Almatica Pharma LLC",
+        "passages": 18,
+        "set_id": "227734c1-bf01-9607-73ea-5a1f38a89bd9",
+        "version": "5"
+      },
+      "losartan": {
+        "effective_time": "20260827",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 17,
+        "set_id": "021cd76a-b093-4704-8410-5e7d01e20a54",
+        "version": "21"
+      },
+      "lovastatin": {
+        "effective_time": "20260603",
+        "manufacturer": "Preferred Pharmaceuticals Inc.",
+        "passages": 18,
+        "set_id": "56680dfa-abe6-4587-b222-364315fd78f4",
+        "version": "9"
+      },
+      "magnesium": {
+        "effective_time": "20260824",
+        "manufacturer": "Hospira, Inc.",
+        "passages": 17,
+        "set_id": "03ebeabb-8386-4af4-3086-bdf3c3fc4a5a",
+        "version": "33"
+      },
+      "meclizine": {
+        "effective_time": "20260910",
+        "manufacturer": "THE PROCTER & GAMBLE MANUFACTURING COMPANY",
+        "passages": 5,
+        "set_id": "29a1bd1e-d0e0-478f-e063-6394a90ab0aa",
+        "version": "4"
+      },
+      "medroxyprogesterone": {
+        "effective_time": "20260904",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "a0a92717-c1cb-40eb-a95a-1c5dfd32cfc0",
+        "version": "3"
+      },
+      "metformin": {
+        "effective_time": "20260821",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 18,
+        "set_id": "073cf6d9-7142-4d8b-898e-174c62a1f76f",
+        "version": "15"
+      },
+      "methadone": {
+        "effective_time": "20260909",
+        "manufacturer": "American Health Packaging",
+        "passages": 20,
+        "set_id": "540edd43-165d-4257-b989-3bccc8f54afb",
+        "version": "2"
+      },
+      "methimazole": {
+        "effective_time": "20260902",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 11,
+        "set_id": "2c6a9c70-4ed6-4f05-bc3d-e8e7aca57c2b",
+        "version": "14"
+      },
+      "methocarbamol": {
+        "effective_time": "20260721",
+        "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+        "passages": 9,
+        "set_id": "0deb5368-ffdc-40fc-a97c-ba89b7a97e50",
+        "version": "9"
+      },
+      "methotrexate": {
+        "effective_time": "20260827",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 19,
+        "set_id": "22e10810-16fb-4c84-bccf-972405b77ef8",
+        "version": "17"
+      },
+      "methylphenidate": {
+        "effective_time": "20260817",
+        "manufacturer": "Sun Pharmaceutical Industries, Inc.",
+        "passages": 17,
+        "set_id": "18024571-4505-6d51-e063-6294a90a1972",
+        "version": "3"
+      },
+      "methylprednisolone": {
+        "effective_time": "20260723",
+        "manufacturer": "Sportpharm LLC",
+        "passages": 16,
+        "set_id": "0cb0ba76-067f-46c4-a5d8-b585d5ecafe3",
+        "version": "1"
+      },
+      "metoclopramide": {
+        "effective_time": "20260602",
+        "manufacturer": "Coupler LLC",
+        "passages": 19,
+        "set_id": "5345905d-18b0-1e42-e063-6394a90af745",
+        "version": "1"
+      },
+      "metoprolol": {
+        "effective_time": "20260817",
+        "manufacturer": "Northwind Health Company, LLC",
+        "passages": 17,
+        "set_id": "106b7a0c-af7f-2565-e063-6294a90a34e0",
+        "version": "4"
+      },
+      "metronidazole": {
+        "effective_time": "20241230",
+        "manufacturer": "Kesin Pharma Corporation",
+        "passages": 19,
+        "set_id": "23927a8b-1641-4104-aa85-d7b7bf4ebb9d",
+        "version": "3"
+      },
+      "minocycline": {
+        "effective_time": "20260803",
+        "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+        "passages": 13,
+        "set_id": "3e74e8a3-2670-97f5-e063-6394a90a361e",
+        "version": "3"
+      },
+      "mirabegron": {
+        "effective_time": "20260903",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "5f7a1758-8691-4e53-96d6-a01626ee8140",
+        "version": "4"
+      },
+      "mirtazapine": {
+        "effective_time": "20260904",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "412abf0e-1f96-4d4d-bb56-a23d4699b14c",
+        "version": "3"
+      },
+      "mometasone": {
+        "effective_time": "20260819",
+        "manufacturer": "L. Perrigo Company",
+        "passages": 6,
+        "set_id": "13696a8b-366a-4a5e-adea-d5b7bff9e46f",
+        "version": "8"
+      },
+      "montelukast": {
+        "effective_time": "20260804",
+        "manufacturer": "Coupler LLC",
+        "passages": 17,
+        "set_id": "583a9499-97f0-2ebf-e063-6394a90a35af",
+        "version": "1"
+      },
+      "morphine": {
+        "effective_time": "20260831",
+        "manufacturer": "Fresenius Kabi, USA LLC",
+        "passages": 19,
+        "set_id": "1f53de80-efc8-4930-b3e3-fba0d026af05",
+        "version": "8"
+      },
+      "moxifloxacin": {
+        "effective_time": "20260702",
+        "manufacturer": "American Health Packaging",
+        "passages": 19,
+        "set_id": "1ed191f5-7df5-488c-bb72-91ac0b618d9a",
+        "version": "11"
+      },
+      "naloxone": {
+        "effective_time": "20250731",
+        "manufacturer": "Fresenius Kabi USA, LLC",
+        "passages": 13,
+        "set_id": "201fdedf-1736-4e52-9d7d-de14292547fd",
+        "version": "5"
+      },
+      "naltrexone": {
+        "effective_time": "20260130",
+        "manufacturer": "Amneal Pharmaceuticals NY LLC",
+        "passages": 15,
+        "set_id": "6de5637f-d527-4228-af1a-3aae71155cb5",
+        "version": "1"
+      },
+      "naproxen": {
+        "effective_time": "20260519",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 18,
+        "set_id": "0041b483-34db-49a6-8665-f87e286cd0b8",
+        "version": "12"
+      },
+      "nebivolol": {
+        "effective_time": "20260609",
+        "manufacturer": "Major Pharmaceuticals",
+        "passages": 16,
+        "set_id": "3e9e1048-b5ea-4d6a-9363-3ee0d059e088",
+        "version": "5"
+      },
+      "nifedipine": {
+        "effective_time": "20260629",
+        "manufacturer": "St. Mary's Medical Park Pharmacy",
+        "passages": 17,
+        "set_id": "1add684f-d082-72cc-e063-6394a90a1214",
+        "version": "3"
+      },
+      "nitrofurantoin": {
+        "effective_time": "20240516",
+        "manufacturer": "Rising Pharma Holdings, Inc.",
+        "passages": 16,
+        "set_id": "11e700aa-66f9-4939-8a6b-a23240ae1a0b",
+        "version": "2"
+      },
+      "nitroglycerin": {
+        "effective_time": "20260810",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 13,
+        "set_id": "486f53ce-e3c6-48b0-a6ef-9d08cde387e3",
+        "version": "6"
+      },
+      "norethindrone": {
+        "effective_time": "20260131",
+        "manufacturer": "Glenmark Pharmaceuticals Inc., USA",
+        "passages": 13,
+        "set_id": "0d2f8fea-3675-40d2-afd9-9fcb148dbd4b",
+        "version": "8"
+      },
+      "nortriptyline": {
+        "effective_time": "20260126",
+        "manufacturer": "PAI Holdings, LLC dba PAI Pharma",
+        "passages": 17,
+        "set_id": "3fcabf90-357a-4a06-b680-9572dc28bcfe",
+        "version": "15"
+      },
+      "nystatin": {
+        "effective_time": "20260819",
+        "manufacturer": "NuCare Pharmaceuticals,Inc.",
+        "passages": 6,
+        "set_id": "05cc72dd-8e05-bfb5-e063-6394a90a92f1",
+        "version": "2"
+      },
+      "olanzapine": {
+        "effective_time": "20260813",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 20,
+        "set_id": "38a89689-efc2-4931-8f65-868dc0248d6a",
+        "version": "15"
+      },
+      "olmesartan": {
+        "effective_time": "20260827",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 18,
+        "set_id": "1be698df-30a0-4117-8c24-7253af94c8ad",
+        "version": "5"
+      },
+      "omeprazole": {
+        "effective_time": "20260828",
+        "manufacturer": "Amazon.com Services LLC",
+        "passages": 4,
+        "set_id": "10efef7c-bdf4-36cf-e063-6394a90a8c0f",
+        "version": "3"
+      },
+      "ondansetron": {
+        "effective_time": "20260806",
+        "manufacturer": "Preferred Pharmaceuticals, Inc.",
+        "passages": 14,
+        "set_id": "14276805-4e99-4bbe-ad76-ffc06eddb38a",
+        "version": "14"
+      },
+      "oseltamivir": {
+        "effective_time": "20260807",
+        "manufacturer": "Aurobindo Pharma Limited",
+        "passages": 15,
+        "set_id": "07958a9a-2360-4380-b7da-5371ed80a271",
+        "version": "3"
+      },
+      "oxybutynin": {
+        "effective_time": "20260624",
+        "manufacturer": "American Health Packaging",
+        "passages": 14,
+        "set_id": "0c71bdfb-01db-49ac-a8e9-0037df0d24af",
+        "version": "13"
+      },
+      "oxycodone": {
+        "effective_time": "20260623",
+        "manufacturer": "Amneal Pharmaceuticals LLC",
+        "passages": 19,
+        "set_id": "094b64b3-cd32-4de5-afb6-ea00d9caad74",
+        "version": "21"
+      },
+      "pantoprazole": {
+        "effective_time": "20260831",
+        "manufacturer": "Camber Pharmaceuticals, Inc.",
+        "passages": 16,
+        "set_id": "1bb94d3c-8bc3-4193-9dd8-e9a22066707c",
+        "version": "5"
+      },
+      "paroxetine": {
+        "effective_time": "20260916",
+        "manufacturer": "Apotex Corp",
+        "passages": 17,
+        "set_id": "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
+        "version": "19"
+      },
+      "penicillin": {
+        "effective_time": "20260721",
+        "manufacturer": "Pfizer Laboratories Div Pfizer Inc",
+        "passages": 14,
+        "set_id": "012d46f1-d0a0-4676-a879-cd320297ab16",
+        "version": "35"
+      },
+      "phenylephrine": {
+        "effective_time": "20260306",
+        "manufacturer": "Better Living Brands, LLC",
+        "passages": 5,
+        "set_id": "0153294d-7f52-4d92-8db8-daeca3e29a3b",
+        "version": "21"
+      },
+      "phenytoin": {
+        "effective_time": "20251107",
+        "manufacturer": "ProPharma Distribution",
+        "passages": 18,
+        "set_id": "43060ca9-58a7-3371-e063-6294a90a5799",
+        "version": "1"
+      },
+      "pioglitazone": {
+        "effective_time": "20260817",
+        "manufacturer": "Preferred Pharmaceuticals, Inc.",
+        "passages": 17,
+        "set_id": "060e3169-46a7-419d-9acc-05586cb2406b",
+        "version": "8"
+      },
+      "potassium": {
+        "effective_time": "20260827",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 17,
+        "set_id": "021cd76a-b093-4704-8410-5e7d01e20a54",
+        "version": "21"
+      },
+      "prasugrel": {
+        "effective_time": "20260408",
+        "manufacturer": "Apotex Corp.",
+        "passages": 16,
+        "set_id": "f51e64e0-f556-65d0-a876-fb709aaeefea",
+        "version": "9"
+      },
+      "pravastatin": {
+        "effective_time": "20260817",
+        "manufacturer": "Preferred Pharmaceuticals Inc.",
+        "passages": 16,
+        "set_id": "095ac6fd-fdfb-4207-b15d-8e93bee378c3",
+        "version": "4"
+      },
+      "prednisolone": {
+        "effective_time": "20250603",
+        "manufacturer": "Advanz Pharma (US) Corp.",
+        "passages": 17,
+        "set_id": "1e379543-c4cf-4e72-953b-db15b7f0c2a1",
+        "version": "12"
+      },
+      "prednisone": {
+        "effective_time": "20260908",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 15,
+        "set_id": "0062fcc7-aa08-4990-9d33-d798725907f1",
+        "version": "106"
+      },
+      "pregabalin": {
+        "effective_time": "20260814",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 14,
+        "set_id": "12309847-0857-4ff7-a7e7-edeadc3dfb61",
+        "version": "9"
+      },
+      "progesterone": {
+        "effective_time": "20260729",
+        "manufacturer": "Ferring Pharmaceuticals Inc.",
+        "passages": 10,
+        "set_id": "2ba50fa9-b349-40cb-9a4b-1af8faa4ec09",
+        "version": "27"
+      },
+      "promethazine": {
+        "effective_time": "20260702",
+        "manufacturer": "Sportpharm LLC",
+        "passages": 16,
+        "set_id": "4156e780-7ecf-bcae-e063-6394a90a2ae2",
+        "version": "3"
+      },
+      "propranolol": {
+        "effective_time": "20260826",
+        "manufacturer": "Par Health USA, LLC",
+        "passages": 17,
+        "set_id": "0d74bb04-8227-4afa-b523-ce1556150e07",
+        "version": "19"
+      },
+      "propylthiouracil": {
+        "effective_time": "20260827",
+        "manufacturer": "American Health Packaging",
+        "passages": 13,
+        "set_id": "d819e532-09ac-434a-84a6-636c4204c7aa",
+        "version": "7"
+      },
+      "pseudoephedrine": {
+        "effective_time": "20260401",
+        "manufacturer": "Publix Super Markets Inc",
+        "passages": 5,
+        "set_id": "06092347-33fe-46b8-829c-70e4ca15ecf2",
+        "version": "3"
+      },
+      "quetiapine": {
+        "effective_time": "20260817",
+        "manufacturer": "NuCare Pharmaceuticals,Inc.",
+        "passages": 20,
+        "set_id": "227b8b2b-a238-efb4-e063-6394a90acc7e",
+        "version": "2"
+      },
+      "raloxifene": {
+        "effective_time": "20260414",
+        "manufacturer": "Amneal Pharmaceuticals LLC",
+        "passages": 16,
+        "set_id": "3798c70b-a4b0-4811-9788-e4c9cff47ebe",
+        "version": "16"
+      },
+      "ramipril": {
+        "effective_time": "20260904",
+        "manufacturer": "BluePoint Laboratories",
+        "passages": 18,
+        "set_id": "45707435-4fc8-457e-9ff2-02d7be9b4a6e",
+        "version": "4"
+      },
+      "ranitidine": {
+        "effective_time": "20251202",
+        "manufacturer": "Granules India Ltd",
+        "passages": 4,
+        "set_id": "aab81d9f-397d-49fb-8083-77a1872cc71f",
+        "version": "11"
+      },
+      "ranolazine": {
+        "effective_time": "20260819",
+        "manufacturer": "American Health Packaging",
+        "passages": 13,
+        "set_id": "90c5a0c2-542c-467e-9c0c-ef320534c560",
+        "version": "4"
+      },
+      "risperidone": {
+        "effective_time": "20260626",
+        "manufacturer": "ANI Pharmaceuticals, Inc.",
+        "passages": 19,
+        "set_id": "1f47ec91-602f-4fba-8f7e-a5698760b655",
+        "version": "3"
+      },
+      "rivaroxaban": {
+        "effective_time": "20260910",
+        "manufacturer": "Janssen Pharmaceuticals, Inc.",
+        "passages": 18,
+        "set_id": "10db92f9-2300-4a80-836b-673e1ae91610",
+        "version": "65"
+      },
+      "rizatriptan": {
+        "effective_time": "20230227",
+        "manufacturer": "Macleods Pharmaceuticals Limited",
+        "passages": 18,
+        "set_id": "57ed2505-28f1-4292-b3c3-a49bf0f7c683",
+        "version": "7"
+      },
+      "rosuvastatin": {
+        "effective_time": "20260811",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 17,
+        "set_id": "23cc6801-f296-494e-b737-6d7c6df092c3",
+        "version": "1"
+      },
+      "semaglutide": {
+        "effective_time": "20260730",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 17,
+        "set_id": "42bdd912-2393-44c4-b7e0-47672ca28991",
+        "version": "1"
+      },
+      "senna": {
+        "effective_time": "20260909",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 4,
+        "set_id": "0c6e6bdd-9f49-4550-b60a-8f58b7c0f090",
+        "version": "1"
+      },
+      "sertraline": {
+        "effective_time": "20260827",
+        "manufacturer": "Preferred Pharmaceuticals Inc.",
+        "passages": 17,
+        "set_id": "1afd0016-d0ee-4e25-a1a4-b66f228e2f9c",
+        "version": "3"
+      },
+      "sildenafil": {
+        "effective_time": "20260831",
+        "manufacturer": "Preferred Pharmaceuticals, Inc.",
+        "passages": 17,
+        "set_id": "174ef537-e3e6-42bd-a478-47b930ddc761",
+        "version": "7"
+      },
+      "simethicone": {
+        "effective_time": "20260901",
+        "manufacturer": "United Natural Foods, Inc. dba UNFI",
+        "passages": 4,
+        "set_id": "011859d8-3d0f-4ca7-a98b-4150054154dc",
+        "version": "3"
+      },
+      "simvastatin": {
+        "effective_time": "20260323",
+        "manufacturer": "A-S Medication Solutions",
+        "passages": 17,
+        "set_id": "0ccb324f-877d-4f32-a769-7cd1637b7fad",
+        "version": "4"
+      },
+      "sitagliptin": {
+        "effective_time": "20260812",
+        "manufacturer": "Golden State Medical Supply, Inc.",
+        "passages": 13,
+        "set_id": "58e23b30-451c-f451-e063-6394a90a35a7",
+        "version": "1"
+      },
+      "spironolactone": {
+        "effective_time": "20260909",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 15,
+        "set_id": "0cc23419-e6d5-4036-8011-dc1d2455e0cb",
+        "version": "11"
+      },
+      "sucralfate": {
+        "effective_time": "20260729",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 9,
+        "set_id": "444a743a-4843-4b33-bad5-3dfc1fb2d004",
+        "version": "10"
+      },
+      "sumatriptan": {
+        "effective_time": "20260902",
+        "manufacturer": "Preferred Pharmaceuticals Inc.",
+        "passages": 14,
+        "set_id": "0b9a0ab5-d8bd-4cae-b86c-45740ee1015a",
+        "version": "3"
+      },
+      "tadalafil": {
+        "effective_time": "20260624",
+        "manufacturer": "Bryant Ranch Prepack",
+        "passages": 16,
+        "set_id": "07567ae5-7345-4ab1-9b2c-c586c4da0427",
+        "version": "106"
+      },
+      "tamsulosin": {
+        "effective_time": "20260825",
+        "manufacturer": "Cardinal Health 107, LLC",
+        "passages": 14,
+        "set_id": "0e3206ba-db3e-40b3-b46b-c7ae4703fdea",
+        "version": "3"
+      },
+      "telmisartan": {
+        "effective_time": "20260811",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "57da6ef2-2e86-4e4d-90df-73a2a8cf97f6",
+        "version": "8"
+      },
+      "temazepam": {
+        "effective_time": "20250109",
+        "manufacturer": "AvPAK",
+        "passages": 14,
+        "set_id": "08183adb-af12-fcb2-e063-6394a90afea4",
+        "version": "3"
+      },
+      "terbinafine": {
+        "effective_time": "20260709",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 14,
+        "set_id": "2886b2ff-815f-4621-bc28-1fea082c1920",
+        "version": "7"
+      },
+      "theophylline": {
+        "effective_time": "20260729",
+        "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+        "passages": 17,
+        "set_id": "5e64036a-ee3e-42e7-9e59-881f88a4e298",
+        "version": "7"
+      },
+      "ticagrelor": {
+        "effective_time": "20260901",
+        "manufacturer": "Redpharm Drug",
+        "passages": 17,
+        "set_id": "557351f1-47b7-216d-e063-6394a90afb51",
+        "version": "2"
+      },
+      "tiotropium": {
+        "effective_time": "20260817",
+        "manufacturer": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+        "passages": 13,
+        "set_id": "7b656b14-fcaa-2741-f6f0-e0be48971c02",
+        "version": "16"
+      },
+      "tizanidine": {
+        "effective_time": "20260804",
+        "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
+        "passages": 16,
+        "set_id": "25db7cc0-604c-3d6b-e063-6394a90a337f",
+        "version": "5"
+      },
+      "tolterodine": {
+        "effective_time": "20260805",
+        "manufacturer": "Slate Run Pharmaceuticals, LLC",
+        "passages": 15,
+        "set_id": "bbbee85a-e5e2-24ec-e053-2995a90acfd8",
+        "version": "14"
+      },
+      "topiramate": {
+        "effective_time": "20260901",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 16,
+        "set_id": "0c0a6774-e234-47a5-866e-462cfd99744c",
+        "version": "4"
+      },
+      "torsemide": {
+        "effective_time": "20260827",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 15,
+        "set_id": "26a3af16-39fc-482d-8a8e-9473af4b0e3f",
+        "version": "3"
+      },
+      "tramadol": {
+        "effective_time": "20260702",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 21,
+        "set_id": "16053b28-c759-4914-93e6-2de0afe72445",
+        "version": "24"
+      },
+      "trazodone": {
+        "effective_time": "20260720",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 17,
+        "set_id": "2863317d-657b-4dc6-81fb-b7158ea03498",
+        "version": "9"
+      },
+      "triamcinolone": {
+        "effective_time": "20260608",
+        "manufacturer": "L. Perrigo Company",
+        "passages": 6,
+        "set_id": "082c79e9-d6b2-40b8-baf9-2a91b9ecaea4",
+        "version": "8"
+      },
+      "trimethoprim": {
+        "effective_time": "20240604",
+        "manufacturer": "Lupin Pharmaceuticals,Inc.",
+        "passages": 10,
+        "set_id": "249e938d-f181-47c4-a082-372d65462f33",
+        "version": "6"
+      },
+      "valacyclovir": {
+        "effective_time": "20260905",
+        "manufacturer": "Sportpharm LLC",
+        "passages": 15,
+        "set_id": "14e479b1-8afd-4912-8f93-59b60a0868bc",
+        "version": "1"
+      },
+      "valproate": {
+        "effective_time": "20260312",
+        "manufacturer": "Sagent Pharmaceuticals",
+        "passages": 20,
+        "set_id": "8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad",
+        "version": "3"
+      },
+      "valsartan": {
+        "effective_time": "20260805",
+        "manufacturer": "Macleods Pharmaceuticals Limited",
+        "passages": 18,
+        "set_id": "251ccff4-bf86-453b-9d1c-e3c1ecfd3a46",
+        "version": "9"
+      },
+      "vancomycin": {
+        "effective_time": "20260805",
+        "manufacturer": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+        "passages": 13,
+        "set_id": "127d95d1-8070-41ac-8343-3168b0cf1312",
+        "version": "1"
+      },
+      "venlafaxine": {
+        "effective_time": "20260817",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 21,
+        "set_id": "1ce5786e-22e6-4afa-8052-6eababc6aa4e",
+        "version": "8"
+      },
+      "verapamil": {
+        "effective_time": "20260709",
+        "manufacturer": "Hospira, Inc.",
+        "passages": 17,
+        "set_id": "1c993365-1b62-4524-e781-d307f28f63bc",
+        "version": "26"
+      },
+      "warfarin": {
+        "effective_time": "20260624",
+        "manufacturer": "REMEDYREPACK INC.",
+        "passages": 20,
+        "set_id": "1244c338-9140-425a-bf2a-9da6b4ac0287",
+        "version": "22"
+      },
+      "zolpidem": {
+        "effective_time": "20260901",
+        "manufacturer": "Torrent Pharmaceuticals Limited",
+        "passages": 18,
+        "set_id": "1584bad1-7bf4-4805-bdd9-7eb0fac92721",
+        "version": "27"
+      }
+    },
+    "no_suitable_label": [
+      "hydrocodone",
+      "salbutamol",
+      "sulfamethoxazole"
+    ],
+    "passages": 3162,
+    "retrieved": "2026-10-06"
+  },
+  "medlineplus": {
+    "authority": "National Library of Medicine, NIH",
+    "passages": 2101,
+    "retrieved": "2026-10-06",
+    "sha256_of_download": "e14878e3340b70d88ff6daf60f865be536c36dbc3cd5357cb11f4b6adbf7a706",
+    "source_generated": "10/06/2026 02:30:33",
+    "topics": 1017,
+    "url": "https://medlineplus.gov/xml/mplus_topics_2026-10-06.xml"
+  },
+  "nih_ods": {
+    "authority": "NIH Office of Dietary Supplements",
+    "fact_sheets": [
+      "VitaminD",
+      "VitaminC",
+      "VitaminB12",
+      "VitaminB6",
+      "VitaminA",
+      "VitaminE",
+      "VitaminK",
+      "Folate",
+      "Calcium",
+      "Iron",
+      "Magnesium",
+      "Zinc",
+      "Potassium",
+      "Selenium",
+      "Iodine",
+      "Biotin",
+      "Niacin",
+      "Thiamin",
+      "Riboflavin",
+      "Choline",
+      "Omega3FattyAcids",
+      "Probiotics",
+      "MVMS",
+      "Ashwagandha",
+      "Chromium",
+      "Copper",
+      "Phosphorus"
+    ],
+    "no_fact_sheet": [
+      "Echinacea",
+      "Ginkgo",
+      "Turmeric",
+      "Melatonin",
+      "Creatine",
+      "Sodium",
+      "Fiber",
+      "Coenzyme Q10",
+      "Glucosamine",
+      "Elderberry",
+      "Cranberry",
+      "Garlic",
+      "Ginger",
+      "Kava",
+      "StJohnsWort",
+      "Valerian",
+      "Saw Palmetto"
+    ],
+    "passages": 636,
+    "retrieved": "2026-10-06"
+  }
+}

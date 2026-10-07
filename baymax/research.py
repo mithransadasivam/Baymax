@@ -62,7 +62,7 @@ def load_entries(knowledge_dir: Path = KNOWLEDGE_DIR) -> list[Entry]:
     if not knowledge_dir.is_dir():
         return []
     entries: list[Entry] = []
-    for path in sorted(knowledge_dir.glob("*.md")):
+    for path in sorted(knowledge_dir.rglob("*.md")):
         entries.extend(parse_entries(path.stem, path.read_text(encoding="utf-8")))
     return entries
 
@@ -80,13 +80,19 @@ def parse_entries(topic: str, text: str) -> list[Entry]:
         source = ""
         keywords: frozenset[str] = frozenset()
         body_lines = []
+        in_header = True  # metadata lives only above the first blank line; body text can't overwrite it
         for line in lines[1:]:
             lowered = line.lower()
-            if lowered.startswith("source:"):
+            if in_header and not line.strip():
+                in_header = False
+            elif in_header and lowered.startswith("source:"):
                 source = line.split(":", 1)[1].strip()
-            elif lowered.startswith("keywords:"):
+            elif in_header and lowered.startswith("keywords:"):
                 keywords = frozenset(_tokenize(line.split(":", 1)[1]))
+            elif in_header and lowered.startswith(("url:", "retrieved:", "label-set-id:")):
+                continue
             else:
+                in_header = False
                 body_lines.append(line)
         entries.append(Entry(topic=topic, title=title, source=source, keywords=keywords, body="\n".join(body_lines).strip()))
     return entries

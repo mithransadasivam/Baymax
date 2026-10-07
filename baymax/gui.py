@@ -88,13 +88,13 @@ class Hud:
             pass  # the window may have just closed; a dropped HUD update is never worth crashing over
 
 
-def run(target: Callable[[Hud], None], *, width: int = 560, height: int = 780) -> None:
+def run(target: Callable[[Hud], None], *, width: int = 480, height: int = 820) -> None:
     """Open the HUD window and run ``target(hud)`` on a background thread until the window closes."""
     import webview
 
     hud = Hud()
     window = webview.create_window(
-        "Baymax", str(_HUD_HTML), js_api=hud, width=width, height=height, background_color="#0a0d13"
+        "Baymax", str(_HUD_HTML), js_api=hud, width=width, height=height, background_color="#f6f3f0"
     )
     loaded = threading.Event()
     window.events.loaded += loaded.set

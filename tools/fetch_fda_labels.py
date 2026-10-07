@@ -92,9 +92,9 @@ def pick(drug: str) -> dict | None:
 SECTIONS = [
     (("boxed_warning",), "Boxed warning", 2),
     (("indications_and_usage", "purpose"), "Uses", 2),
-    (("dosage_and_administration",), "Dosage and administration", 3),
+    (("dosage_and_administration",), "Dosage and administration", 4),
     (("contraindications",), "Contraindications", 2),
-    (("drug_interactions",), "Drug interactions", 3),
+    (("drug_interactions",), "Drug interactions", 10),
     (("warnings_and_cautions", "warnings", "do_not_use", "ask_doctor", "ask_doctor_or_pharmacist", "when_using", "stop_use"), "Warnings and precautions", 3),
     (("adverse_reactions",), "Adverse reactions", 2),
     (("use_in_specific_populations", "pregnancy", "pregnancy_or_breast_feeding"), "Pregnancy and specific populations", 2),

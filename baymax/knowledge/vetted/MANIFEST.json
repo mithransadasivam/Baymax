@@ -20,7 +20,7 @@
       "adalimumab": {
         "effective_time": "20260807",
         "manufacturer": "A-S Medication Solutions",
-        "passages": 17,
+        "passages": 18,
         "set_id": "1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5",
         "version": "1"
       },
@@ -34,28 +34,28 @@
       "albuterol": {
         "effective_time": "20260806",
         "manufacturer": "Armstrong Pharmaceuticals, Inc.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "17858afa-dcdf-4612-b475-3b6baadfb639",
         "version": "5"
       },
       "alendronate": {
         "effective_time": "20260703",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "c7e470d6-508e-466e-a78d-060bbbc9745c",
         "version": "8"
       },
       "allopurinol": {
         "effective_time": "20240708",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 17,
+        "passages": 20,
         "set_id": "005048dd-844f-468c-bf56-1a09727e3477",
         "version": "103"
       },
       "alprazolam": {
         "effective_time": "20260728",
         "manufacturer": "Clinical Solutions Wholesale, LLC",
-        "passages": 19,
+        "passages": 22,
         "set_id": "0cf8b567-201b-44fa-8fd3-c74023aff44f",
         "version": "1"
       },
@@ -69,7 +69,7 @@
       "amitriptyline": {
         "effective_time": "20260630",
         "manufacturer": "St. Mary's Medical Park Pharmacy",
-        "passages": 18,
+        "passages": 19,
         "set_id": "35aa7ab3-321a-97f7-e063-6294a90a91e2",
         "version": "2"
       },
@@ -83,28 +83,28 @@
       "amoxicillin": {
         "effective_time": "20260721",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "102c62ca-da20-4866-84a8-e3513824af4a",
         "version": "21"
       },
       "amphetamine": {
         "effective_time": "20250901",
         "manufacturer": "Teva Pharmaceuticals, Inc.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "243e88e7-6621-47e9-8d5c-3f79bcb088bb",
         "version": "3"
       },
       "apixaban": {
         "effective_time": "20260424",
         "manufacturer": "Cardinal Health 107, LLC",
-        "passages": 19,
+        "passages": 23,
         "set_id": "a454cd24-0c6d-46e8-b1e4-197388606175",
         "version": "38"
       },
       "aripiprazole": {
         "effective_time": "20260903",
         "manufacturer": "Apotex Corp.",
-        "passages": 19,
+        "passages": 22,
         "set_id": "14910dae-da81-3d73-d0a4-e98d13917c69",
         "version": "17"
       },
@@ -118,21 +118,21 @@
       "atenolol": {
         "effective_time": "20241022",
         "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
-        "passages": 17,
+        "passages": 18,
         "set_id": "23e96396-85d3-0d8e-e063-6394a90a614d",
         "version": "2"
       },
       "atomoxetine": {
         "effective_time": "20260904",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 18,
+        "passages": 19,
         "set_id": "6d7ea8f7-981c-4acc-aeaf-7516325bfc0c",
         "version": "4"
       },
       "atorvastatin": {
         "effective_time": "20260731",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 17,
+        "passages": 21,
         "set_id": "09cb8375-075c-47e8-a4eb-8ac667ed849e",
         "version": "10"
       },
@@ -153,7 +153,7 @@
       "baclofen": {
         "effective_time": "20260507",
         "manufacturer": "Piramal Critical Care Inc",
-        "passages": 18,
+        "passages": 19,
         "set_id": "00d3e846-dd92-448d-9ab8-6a07be823cc1",
         "version": "43"
       },
@@ -202,42 +202,42 @@
       "buprenorphine": {
         "effective_time": "20260529",
         "manufacturer": "Rhodes Pharmaceuticals LLC",
-        "passages": 20,
+        "passages": 25,
         "set_id": "2738feae-316e-426f-971c-5f142ac01b60",
         "version": "17"
       },
       "bupropion": {
         "effective_time": "20260827",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 19,
+        "passages": 23,
         "set_id": "0aa86bd6-b37b-45f7-a837-b067e41184e9",
         "version": "4"
       },
       "buspirone": {
         "effective_time": "20260424",
         "manufacturer": "Cardinal Health 107, LLC",
-        "passages": 16,
+        "passages": 20,
         "set_id": "1315494d-7a51-4395-bc7c-afb4bc5482c9",
         "version": "7"
       },
       "calcium": {
         "effective_time": "20251126",
         "manufacturer": "Westminster Pharmaceuticals, LLC",
-        "passages": 17,
+        "passages": 22,
         "set_id": "02797697-300a-43db-92cf-9b78f08626be",
         "version": "6"
       },
       "canagliflozin": {
         "effective_time": "20260611",
         "manufacturer": "Janssen Pharmaceuticals, Inc.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "b9057d3b-b104-4f09-8a61-c61ef9d4a3f3",
         "version": "32"
       },
       "carbamazepine": {
         "effective_time": "20260629",
         "manufacturer": "Bionpharma Inc.,",
-        "passages": 15,
+        "passages": 16,
         "set_id": "138d9ed1-2f8e-d19d-e063-6394a90a695d",
         "version": "5"
       },
@@ -251,21 +251,21 @@
       "carvedilol": {
         "effective_time": "20260731",
         "manufacturer": "Waylis Therapeutics LLC",
-        "passages": 18,
+        "passages": 20,
         "set_id": "07c619c6-4a0c-445e-94fa-664a54f68a39",
         "version": "3"
       },
       "cefdinir": {
         "effective_time": "20260820",
         "manufacturer": "A-S Medication Solutions",
-        "passages": 15,
+        "passages": 16,
         "set_id": "0eeac6df-bad7-413e-8b41-0660f3a99373",
         "version": "6"
       },
       "cefuroxime": {
         "effective_time": "20260805",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "76cec54f-d167-4298-951b-5411a3c47f4a",
         "version": "10"
       },
@@ -307,7 +307,7 @@
       "ciprofloxacin": {
         "effective_time": "20260826",
         "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
-        "passages": 19,
+        "passages": 23,
         "set_id": "14c3bc33-201d-492e-9aee-a4d84c813a3d",
         "version": "4"
       },
@@ -321,21 +321,21 @@
       "clarithromycin": {
         "effective_time": "20260409",
         "manufacturer": "Solaris Pharma Corporation",
-        "passages": 18,
+        "passages": 26,
         "set_id": "4d42821d-ce7a-7d64-e063-6294a90a0875",
         "version": "2"
       },
       "clindamycin": {
         "effective_time": "20260729",
         "manufacturer": "Pharmacia & Upjohn Company LLC",
-        "passages": 16,
+        "passages": 17,
         "set_id": "05a75685-0af5-407c-ac57-e380c882b49d",
         "version": "60"
       },
       "clonazepam": {
         "effective_time": "20260827",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 20,
+        "passages": 21,
         "set_id": "2606ecf9-3d71-4c1c-bfda-d7d98ffc6011",
         "version": "8"
       },
@@ -349,21 +349,21 @@
       "clopidogrel": {
         "effective_time": "20260827",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "2969deac-274b-4042-9c90-9522e62a979d",
         "version": "7"
       },
       "codeine": {
         "effective_time": "20251222",
         "manufacturer": "Hikma Pharmaceuticals USA Inc.",
-        "passages": 20,
+        "passages": 26,
         "set_id": "010905f9-3bcb-4b50-9fe8-a3ad0010f14c",
         "version": "25"
       },
       "colchicine": {
         "effective_time": "20260715",
         "manufacturer": "A-S Medication Solutions",
-        "passages": 15,
+        "passages": 16,
         "set_id": "5c1ceff7-8f00-48cc-8ea4-678106455ff1",
         "version": "1"
       },
@@ -384,7 +384,7 @@
       "dabigatran": {
         "effective_time": "20260803",
         "manufacturer": "Ascend Laboratories, LLC",
-        "passages": 19,
+        "passages": 20,
         "set_id": "3a8ec82a-c367-40dc-9302-e1896fcb05ea",
         "version": "27"
       },
@@ -398,7 +398,7 @@
       "dexamethasone": {
         "effective_time": "20260424",
         "manufacturer": "Sportpharm LLC",
-        "passages": 16,
+        "passages": 19,
         "set_id": "12d19271-867b-41ae-a6d2-7e8de3637011",
         "version": "2"
       },
@@ -419,7 +419,7 @@
       "digoxin": {
         "effective_time": "20260708",
         "manufacturer": "NCS HealthCare of KY, LLC dba Vangard Labs",
-        "passages": 17,
+        "passages": 22,
         "set_id": "5886e233-b2da-4acb-be05-9bf40fb8e7f4",
         "version": "7"
       },
@@ -461,7 +461,7 @@
       "duloxetine": {
         "effective_time": "20260820",
         "manufacturer": "Golden State Medical Supply, Inc.",
-        "passages": 18,
+        "passages": 23,
         "set_id": "00628e5e-4c5b-2573-e063-6294a90a0e3b",
         "version": "4"
       },
@@ -496,7 +496,7 @@
       "escitalopram": {
         "effective_time": "20260630",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 18,
+        "passages": 19,
         "set_id": "20281fe6-7db9-4b33-8418-b25e6a5404ca",
         "version": "104"
       },
@@ -559,7 +559,7 @@
       "fentanyl": {
         "effective_time": "20260824",
         "manufacturer": "Hospira, Inc.",
-        "passages": 20,
+        "passages": 24,
         "set_id": "bfa8018a-4cbc-434b-e09e-782872b0340a",
         "version": "35"
       },
@@ -587,14 +587,14 @@
       "fluconazole": {
         "effective_time": "20260904",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 17,
+        "passages": 25,
         "set_id": "1c82929f-934b-4df4-b24f-1e5da090fd8a",
         "version": "3"
       },
       "fluoxetine": {
         "effective_time": "20260820",
         "manufacturer": "ScieGen Pharmaceuticals, Inc.",
-        "passages": 20,
+        "passages": 28,
         "set_id": "23899405-007b-48d9-82a9-a530b8e90784",
         "version": "16"
       },
@@ -615,42 +615,42 @@
       "furosemide": {
         "effective_time": "20260318",
         "manufacturer": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec",
         "version": "16"
       },
       "gabapentin": {
         "effective_time": "20260901",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 15,
+        "passages": 16,
         "set_id": "1373587e-807a-462a-bff6-8a7113ce9f0a",
         "version": "5"
       },
       "gemfibrozil": {
         "effective_time": "20231218",
         "manufacturer": "A-S Medication Solutions",
-        "passages": 14,
+        "passages": 16,
         "set_id": "4907bbfa-27f4-4569-8957-9704f9c998a0",
         "version": "1"
       },
       "glimepiride": {
         "effective_time": "20260413",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 15,
+        "passages": 16,
         "set_id": "248c3cb3-4501-4b85-bd1d-0624b6afda2c",
         "version": "102"
       },
       "glipizide": {
         "effective_time": "20260622",
         "manufacturer": "St. Mary's Medical Park Pharmacy",
-        "passages": 15,
+        "passages": 16,
         "set_id": "1b2ef6e2-5e7c-761e-e063-6294a90addd0",
         "version": "2"
       },
       "glyburide": {
         "effective_time": "20260115",
         "manufacturer": "NuCare Pharmaceuticals, Inc.",
-        "passages": 19,
+        "passages": 20,
         "set_id": "486fec17-ff83-3bab-e063-6394a90a5ef0",
         "version": "15"
       },
@@ -664,7 +664,7 @@
       "haloperidol": {
         "effective_time": "20260714",
         "manufacturer": "Gland Pharma Limited",
-        "passages": 18,
+        "passages": 19,
         "set_id": "1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c",
         "version": "15"
       },
@@ -678,7 +678,7 @@
       "hydrochlorothiazide": {
         "effective_time": "20260119",
         "manufacturer": "AvKARE",
-        "passages": 16,
+        "passages": 17,
         "set_id": "017bc6a3-5b3d-2381-e063-6394a90abece",
         "version": "3"
       },
@@ -713,7 +713,7 @@
       "insulin": {
         "effective_time": "20260530",
         "manufacturer": "Mannkind Corporation",
-        "passages": 17,
+        "passages": 18,
         "set_id": "29f4637b-e204-425b-b89c-7238008d8c10",
         "version": "17"
       },
@@ -748,7 +748,7 @@
       "lamotrigine": {
         "effective_time": "20260904",
         "manufacturer": "Cardinal Health 107, LLC",
-        "passages": 19,
+        "passages": 20,
         "set_id": "20e156df-a2b6-4710-b526-0419cd17dd33",
         "version": "21"
       },
@@ -762,28 +762,28 @@
       "levetiracetam": {
         "effective_time": "20251112",
         "manufacturer": "Mylan Institutional Inc.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "08e1bfea-7f3f-42d9-823d-f75080e664ff",
         "version": "17"
       },
       "levofloxacin": {
         "effective_time": "20260702",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 19,
+        "passages": 22,
         "set_id": "2a4e97e0-0709-411b-92e8-6f7d669412e4",
         "version": "19"
       },
       "levonorgestrel": {
         "effective_time": "20251023",
         "manufacturer": "Bayer HealthCare Pharmaceuticals Inc.",
-        "passages": 14,
+        "passages": 15,
         "set_id": "2e07c155-21e1-4781-9633-ce8bddd47080",
         "version": "13"
       },
       "levothyroxine": {
         "effective_time": "20260909",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 18,
+        "passages": 24,
         "set_id": "13e03769-9a4f-497f-9afa-95bf525090b3",
         "version": "3"
       },
@@ -804,7 +804,7 @@
       "liothyronine": {
         "effective_time": "20260604",
         "manufacturer": "Mylan Pharmaceuticals Inc.",
-        "passages": 18,
+        "passages": 22,
         "set_id": "115a84c2-0126-4dd7-816e-1873875f1e49",
         "version": "9"
       },
@@ -818,14 +818,14 @@
       "lisinopril": {
         "effective_time": "20260721",
         "manufacturer": "Aurobindo Pharma Limited",
-        "passages": 18,
+        "passages": 20,
         "set_id": "0e6364a4-6d66-4151-8197-d45e2a762895",
         "version": "27"
       },
       "lithium": {
         "effective_time": "20260715",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 18,
+        "passages": 20,
         "set_id": "1c320bff-b4d5-42f2-b2b5-238564fe9589",
         "version": "17"
       },
@@ -860,14 +860,14 @@
       "lovastatin": {
         "effective_time": "20260603",
         "manufacturer": "Preferred Pharmaceuticals Inc.",
-        "passages": 18,
+        "passages": 19,
         "set_id": "56680dfa-abe6-4587-b222-364315fd78f4",
         "version": "9"
       },
       "magnesium": {
         "effective_time": "20260824",
         "manufacturer": "Hospira, Inc.",
-        "passages": 17,
+        "passages": 19,
         "set_id": "03ebeabb-8386-4af4-3086-bdf3c3fc4a5a",
         "version": "33"
       },
@@ -895,7 +895,7 @@
       "methadone": {
         "effective_time": "20260909",
         "manufacturer": "American Health Packaging",
-        "passages": 20,
+        "passages": 27,
         "set_id": "540edd43-165d-4257-b989-3bccc8f54afb",
         "version": "2"
       },
@@ -916,28 +916,28 @@
       "methotrexate": {
         "effective_time": "20260827",
         "manufacturer": "A-S Medication Solutions",
-        "passages": 19,
+        "passages": 20,
         "set_id": "22e10810-16fb-4c84-bccf-972405b77ef8",
         "version": "17"
       },
       "methylphenidate": {
         "effective_time": "20260817",
         "manufacturer": "Sun Pharmaceutical Industries, Inc.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "18024571-4505-6d51-e063-6294a90a1972",
         "version": "3"
       },
       "methylprednisolone": {
         "effective_time": "20260723",
         "manufacturer": "Sportpharm LLC",
-        "passages": 16,
+        "passages": 17,
         "set_id": "0cb0ba76-067f-46c4-a5d8-b585d5ecafe3",
         "version": "1"
       },
       "metoclopramide": {
         "effective_time": "20260602",
         "manufacturer": "Coupler LLC",
-        "passages": 19,
+        "passages": 21,
         "set_id": "5345905d-18b0-1e42-e063-6394a90af745",
         "version": "1"
       },
@@ -951,7 +951,7 @@
       "metronidazole": {
         "effective_time": "20241230",
         "manufacturer": "Kesin Pharma Corporation",
-        "passages": 19,
+        "passages": 21,
         "set_id": "23927a8b-1641-4104-aa85-d7b7bf4ebb9d",
         "version": "3"
       },
@@ -965,14 +965,14 @@
       "mirabegron": {
         "effective_time": "20260903",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "5f7a1758-8691-4e53-96d6-a01626ee8140",
         "version": "4"
       },
       "mirtazapine": {
         "effective_time": "20260904",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "412abf0e-1f96-4d4d-bb56-a23d4699b14c",
         "version": "3"
       },
@@ -986,14 +986,14 @@
       "montelukast": {
         "effective_time": "20260804",
         "manufacturer": "Coupler LLC",
-        "passages": 17,
+        "passages": 18,
         "set_id": "583a9499-97f0-2ebf-e063-6394a90a35af",
         "version": "1"
       },
       "morphine": {
         "effective_time": "20260831",
         "manufacturer": "Fresenius Kabi, USA LLC",
-        "passages": 19,
+        "passages": 22,
         "set_id": "1f53de80-efc8-4930-b3e3-fba0d026af05",
         "version": "8"
       },
@@ -1007,21 +1007,21 @@
       "naloxone": {
         "effective_time": "20250731",
         "manufacturer": "Fresenius Kabi USA, LLC",
-        "passages": 13,
+        "passages": 14,
         "set_id": "201fdedf-1736-4e52-9d7d-de14292547fd",
         "version": "5"
       },
       "naltrexone": {
         "effective_time": "20260130",
         "manufacturer": "Amneal Pharmaceuticals NY LLC",
-        "passages": 15,
+        "passages": 16,
         "set_id": "6de5637f-d527-4228-af1a-3aae71155cb5",
         "version": "1"
       },
       "naproxen": {
         "effective_time": "20260519",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 18,
+        "passages": 26,
         "set_id": "0041b483-34db-49a6-8665-f87e286cd0b8",
         "version": "12"
       },
@@ -1077,7 +1077,7 @@
       "olanzapine": {
         "effective_time": "20260813",
         "manufacturer": "Cardinal Health 107, LLC",
-        "passages": 20,
+        "passages": 23,
         "set_id": "38a89689-efc2-4931-8f65-868dc0248d6a",
         "version": "15"
       },
@@ -1105,7 +1105,7 @@
       "oseltamivir": {
         "effective_time": "20260807",
         "manufacturer": "Aurobindo Pharma Limited",
-        "passages": 15,
+        "passages": 16,
         "set_id": "07958a9a-2360-4380-b7da-5371ed80a271",
         "version": "3"
       },
@@ -1119,21 +1119,21 @@
       "oxycodone": {
         "effective_time": "20260623",
         "manufacturer": "Amneal Pharmaceuticals LLC",
-        "passages": 19,
+        "passages": 23,
         "set_id": "094b64b3-cd32-4de5-afb6-ea00d9caad74",
         "version": "21"
       },
       "pantoprazole": {
         "effective_time": "20260831",
         "manufacturer": "Camber Pharmaceuticals, Inc.",
-        "passages": 16,
+        "passages": 19,
         "set_id": "1bb94d3c-8bc3-4193-9dd8-e9a22066707c",
         "version": "5"
       },
       "paroxetine": {
         "effective_time": "20260916",
         "manufacturer": "Apotex Corp",
-        "passages": 17,
+        "passages": 19,
         "set_id": "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
         "version": "19"
       },
@@ -1154,7 +1154,7 @@
       "phenytoin": {
         "effective_time": "20251107",
         "manufacturer": "ProPharma Distribution",
-        "passages": 18,
+        "passages": 21,
         "set_id": "43060ca9-58a7-3371-e063-6294a90a5799",
         "version": "1"
       },
@@ -1182,28 +1182,28 @@
       "pravastatin": {
         "effective_time": "20260817",
         "manufacturer": "Preferred Pharmaceuticals Inc.",
-        "passages": 16,
+        "passages": 21,
         "set_id": "095ac6fd-fdfb-4207-b15d-8e93bee378c3",
         "version": "4"
       },
       "prednisolone": {
         "effective_time": "20250603",
         "manufacturer": "Advanz Pharma (US) Corp.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "1e379543-c4cf-4e72-953b-db15b7f0c2a1",
         "version": "12"
       },
       "prednisone": {
         "effective_time": "20260908",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 15,
+        "passages": 23,
         "set_id": "0062fcc7-aa08-4990-9d33-d798725907f1",
         "version": "106"
       },
       "pregabalin": {
         "effective_time": "20260814",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 14,
+        "passages": 15,
         "set_id": "12309847-0857-4ff7-a7e7-edeadc3dfb61",
         "version": "9"
       },
@@ -1224,7 +1224,7 @@
       "propranolol": {
         "effective_time": "20260826",
         "manufacturer": "Par Health USA, LLC",
-        "passages": 17,
+        "passages": 25,
         "set_id": "0d74bb04-8227-4afa-b523-ce1556150e07",
         "version": "19"
       },
@@ -1245,7 +1245,7 @@
       "quetiapine": {
         "effective_time": "20260817",
         "manufacturer": "NuCare Pharmaceuticals,Inc.",
-        "passages": 20,
+        "passages": 21,
         "set_id": "227b8b2b-a238-efb4-e063-6394a90acc7e",
         "version": "2"
       },
@@ -1259,7 +1259,7 @@
       "ramipril": {
         "effective_time": "20260904",
         "manufacturer": "BluePoint Laboratories",
-        "passages": 18,
+        "passages": 19,
         "set_id": "45707435-4fc8-457e-9ff2-02d7be9b4a6e",
         "version": "4"
       },
@@ -1273,21 +1273,21 @@
       "ranolazine": {
         "effective_time": "20260819",
         "manufacturer": "American Health Packaging",
-        "passages": 13,
+        "passages": 14,
         "set_id": "90c5a0c2-542c-467e-9c0c-ef320534c560",
         "version": "4"
       },
       "risperidone": {
         "effective_time": "20260626",
         "manufacturer": "ANI Pharmaceuticals, Inc.",
-        "passages": 19,
+        "passages": 20,
         "set_id": "1f47ec91-602f-4fba-8f7e-a5698760b655",
         "version": "3"
       },
       "rivaroxaban": {
         "effective_time": "20260910",
         "manufacturer": "Janssen Pharmaceuticals, Inc.",
-        "passages": 18,
+        "passages": 19,
         "set_id": "10db92f9-2300-4a80-836b-673e1ae91610",
         "version": "65"
       },
@@ -1301,7 +1301,7 @@
       "rosuvastatin": {
         "effective_time": "20260811",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 17,
+        "passages": 22,
         "set_id": "23cc6801-f296-494e-b737-6d7c6df092c3",
         "version": "1"
       },
@@ -1322,7 +1322,7 @@
       "sertraline": {
         "effective_time": "20260827",
         "manufacturer": "Preferred Pharmaceuticals Inc.",
-        "passages": 17,
+        "passages": 20,
         "set_id": "1afd0016-d0ee-4e25-a1a4-b66f228e2f9c",
         "version": "3"
       },
@@ -1343,7 +1343,7 @@
       "simvastatin": {
         "effective_time": "20260323",
         "manufacturer": "A-S Medication Solutions",
-        "passages": 17,
+        "passages": 20,
         "set_id": "0ccb324f-877d-4f32-a769-7cd1637b7fad",
         "version": "4"
       },
@@ -1378,14 +1378,14 @@
       "tadalafil": {
         "effective_time": "20260624",
         "manufacturer": "Bryant Ranch Prepack",
-        "passages": 16,
+        "passages": 20,
         "set_id": "07567ae5-7345-4ab1-9b2c-c586c4da0427",
         "version": "106"
       },
       "tamsulosin": {
         "effective_time": "20260825",
         "manufacturer": "Cardinal Health 107, LLC",
-        "passages": 14,
+        "passages": 16,
         "set_id": "0e3206ba-db3e-40b3-b46b-c7ae4703fdea",
         "version": "3"
       },
@@ -1413,7 +1413,7 @@
       "theophylline": {
         "effective_time": "20260729",
         "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
-        "passages": 17,
+        "passages": 23,
         "set_id": "5e64036a-ee3e-42e7-9e59-881f88a4e298",
         "version": "7"
       },
@@ -1448,7 +1448,7 @@
       "topiramate": {
         "effective_time": "20260901",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 16,
+        "passages": 17,
         "set_id": "0c0a6774-e234-47a5-866e-462cfd99744c",
         "version": "4"
       },
@@ -1462,14 +1462,14 @@
       "tramadol": {
         "effective_time": "20260702",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 21,
+        "passages": 28,
         "set_id": "16053b28-c759-4914-93e6-2de0afe72445",
         "version": "24"
       },
       "trazodone": {
         "effective_time": "20260720",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 17,
+        "passages": 18,
         "set_id": "2863317d-657b-4dc6-81fb-b7158ea03498",
         "version": "9"
       },
@@ -1490,21 +1490,21 @@
       "valacyclovir": {
         "effective_time": "20260905",
         "manufacturer": "Sportpharm LLC",
-        "passages": 15,
+        "passages": 16,
         "set_id": "14e479b1-8afd-4912-8f93-59b60a0868bc",
         "version": "1"
       },
       "valproate": {
         "effective_time": "20260312",
         "manufacturer": "Sagent Pharmaceuticals",
-        "passages": 20,
+        "passages": 28,
         "set_id": "8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad",
         "version": "3"
       },
       "valsartan": {
         "effective_time": "20260805",
         "manufacturer": "Macleods Pharmaceuticals Limited",
-        "passages": 18,
+        "passages": 19,
         "set_id": "251ccff4-bf86-453b-9d1c-e3c1ecfd3a46",
         "version": "9"
       },
@@ -1518,7 +1518,7 @@
       "venlafaxine": {
         "effective_time": "20260817",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 21,
+        "passages": 29,
         "set_id": "1ce5786e-22e6-4afa-8052-6eababc6aa4e",
         "version": "8"
       },
@@ -1532,7 +1532,7 @@
       "warfarin": {
         "effective_time": "20260624",
         "manufacturer": "REMEDYREPACK INC.",
-        "passages": 20,
+        "passages": 24,
         "set_id": "1244c338-9140-425a-bf2a-9da6b4ac0287",
         "version": "22"
       },
@@ -1549,7 +1549,7 @@
       "salbutamol",
       "sulfamethoxazole"
     ],
-    "passages": 3162,
+    "passages": 3430,
     "retrieved": "2026-10-06"
   },
   "medlineplus": {

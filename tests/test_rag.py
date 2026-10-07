@@ -50,3 +50,24 @@ def test_vetted_means_an_allowlisted_authority_prefix():
     assert is_vetted("MedlinePlus (NLM/NIH), Asthma")
     assert not is_vetted("Baymax notes, not clinically reviewed: AHA")
     assert not is_vetted("WebMD")
+
+
+def test_a_question_naming_two_medicines_finds_each_ones_passage_about_the_other():
+    chunks = [
+        Chunk("FDA drug label, Warfarin Sodium (X), effective 2026-01-01",
+              "Warfarin Sodium: Drug interactions. NSAIDs and aspirin increase the risk of bleeding with warfarin."),
+        Chunk("FDA drug label, Warfarin Sodium (X), effective 2026-01-01",
+              "Warfarin Sodium: Drug interactions (part 2 of 2). Vitamin K lowers the effect."),
+        Chunk("FDA drug label, Ibuprofen (Y), effective 2026-01-01",
+              "Ibuprofen: Warnings and precautions. Ask a doctor if you take a blood thinner such as warfarin."),
+        Chunk("MedlinePlus (NLM/NIH), Headache", "Headache. Most headaches are harmless."),
+    ]
+    index = build(chunks, [[1, 0], [0, 1], [1, 1], [0, 0.1]])
+    hits = rag._pair_hits(index, "Is it safe to take ibuprofen while on warfarin?")
+    texts = " ".join(h.chunk.text for h in hits)
+    assert "NSAIDs and aspirin" in texts and "blood thinner" in texts
+
+
+def test_a_question_naming_one_medicine_is_not_routed():
+    chunks = [Chunk("FDA drug label, Warfarin Sodium (X), effective 2026-01-01", "Warfarin Sodium: Drug interactions. Bleeding.")]
+    assert rag._pair_hits(build(chunks, [[1, 0]]), "What is warfarin?") == []

@@ -184,7 +184,7 @@ Keywords: naproxen, uses, nonsteroidal anti-inflammatory drug [epc], cyclooxygen
 
 1 INDICATIONS AND USAGE Naproxen tablets and naproxen sodium tablets are indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • Polyarticular Juvenile Idiopathic Arthritis Naproxen tablets and naproxen sodium tablets are also indicated for: the relief of signs and symptoms of: • tendonitis • bursitis • acute gout the management of: • pain • primary dysmenorrhea Naproxen tablets and naproxen sodium tablets are non-steroidal anti-inflammatory drugs indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • polyarticular juvenile idiopathic arthritis Naproxen tablets and naproxen sodium tablets are also indicated for: the relief of signs and symptoms of: • tendonitis • bursitis • acute gout the management of: • pain • primary dysmenorrhea
 
-## Naproxen: Dosage and administration (part 1 of 3)
+## Naproxen: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
@@ -201,7 +201,7 @@ Dosing with naproxen tablets is not appropriate for children weighing less than 
 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis Recommended starting dose 550 mg of naproxen sodium as naproxen sodium tablets followed by 550 mg every 12 hours or 275 mg every 6 to 8 hours as required.
 The initial total daily dose should not exceed 1375 mg of naproxen sodium.
 
-## Naproxen: Dosage and administration (part 2 of 3)
+## Naproxen: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
@@ -217,7 +217,7 @@ Use the lowest effective dose for the shortest duration consistent with individu
 After observing the response to initial therapy with naproxen tablets or naproxen sodium tablets, the dose and frequency should be adjusted to suit an individual patient’s needs.
 Naproxen-containing products such as naproxen and naproxen sodium tablets, and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
 
-## Naproxen: Dosage and administration (part 3 of 3)
+## Naproxen: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
@@ -232,6 +232,22 @@ The morning and evening doses do not have to be equal in size and administration
 In patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/day for limited periods of up to 6 months when a higher level of anti-inflammatory/analgesic activity is required.
 When treating such patients with naproxen 1500 mg/day, the physician should observe sufficient increased clinical benefits to offset the potential increased risk.
 
+## Naproxen: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, dosage and administration, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+2.3 Polyarticular Juvenile Idiopathic Arthritis Naproxen solid-oral dosage forms may not allow for the flexible dose titration needed in pediatric patients with polyarticular juvenile idiopathic arthritis.
+A liquid formulation may be more appropriate for weight-based dosing and due to the need for dose flexibility in children.
+In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [ see Clinical Pharmacology ( 12 ) ].
+The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses.
+Dosing with naproxen tablets is not appropriate for children weighing less than 50 kilograms.
+2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis The recommended starting dose of naproxen sodium tablets is 550 mg followed by 550 mg every 12 hours or 275 mg (one half of a 550 mg tablet) every 6 to 8 hours as required.
+The initial total daily dose should not exceed 1375 mg (two and one-half tablets) of naproxen sodium.
+Thereafter, the total daily dose should not exceed 1100 mg of naproxen sodium.
+
 ## Naproxen: Contraindications
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
@@ -241,7 +257,7 @@ Keywords: naproxen, contraindications, nonsteroidal anti-inflammatory drug [epc]
 
 4 CONTRAINDICATIONS Naproxen tablets and naproxen sodium tablets are contraindicated in the following patients: • Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to naproxen or any components of the drug product [ see Warnings and Precautions ( 5.7 , 5.9 ) ] • History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs. Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [ see Warnings and Precautions ( 5.7 , 5.8 ) ] • In the setting of coronary artery bypass graft (CABG) surgery [ see Warnings and Precautions ( 5.1 ) ] • Known hypersensitivity to naproxen or any components of the drug product ( 4 ) • History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs ( 4 ) • In the setting of CABG surgery ( 4 )
 
-## Naproxen: Drug interactions (part 1 of 3)
+## Naproxen: Drug interactions (part 1 of 10)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
@@ -257,7 +273,7 @@ Intervention:
 Monitor patients with concomitant use of naproxen tablets or naproxen sodium tablets with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [ see Warnings and Precautions ( 5.12 ) ].
 Aspirin Clinical Impact:
 
-## Naproxen: Drug interactions (part 2 of 3)
+## Naproxen: Drug interactions (part 2 of 10)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
@@ -270,7 +286,7 @@ Controlled clinical studies showed that the concomitant use of NSAIDs and analge
 In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [ see Warnings and Precautions ( 5.2 ) ].
 Intervention:
 
-## Naproxen: Drug interactions (part 3 of 3)
+## Naproxen: Drug interactions (part 3 of 10)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
 Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
@@ -281,6 +297,142 @@ Because there may be an increased risk of cardiovascular events following discon
 Concomitant use of naproxen tablets or naproxen sodium tablets and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [ see Warnings and Precautions ( 5.12 ) ].
 Naproxen tablets or naproxen sodium tablets are not substitutes for low dose aspirin for cardiovascular protection.
 ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers Clinical Impact: • NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). • In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure.
+
+## Naproxen: Drug interactions (part 4 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+These effects are usually reversible.
+Intervention: • During concomitant use of naproxen tablets or naproxen sodium tablets and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained. • During concomitant use of naproxen tablets or naproxen sodium tablets and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [ see Warnings and Precautions ( 5.6 ) ]. • When these drugs are administered concomitantly, patients should be adequately hydrated.
+Assess renal function at the beginning of the concomitant treatment and periodically thereafter.
+Diuretics Clinical Impact:
+Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients.
+This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis.
+Intervention:
+During concomitant use of naproxen tablets or naproxen sodium tablets with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [ see Warnings and Precautions ( 5.6 ) ].
+
+## Naproxen: Drug interactions (part 5 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+Digoxin Clinical Impact:
+The concomitant use of naproxen with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin.
+Intervention:
+During concomitant use of naproxen tablets or naproxen sodium tablets and digoxin, monitor serum digoxin levels.
+Lithium Clinical Impact:
+NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance .
+The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%.
+This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis.
+Intervention:
+During concomitant use of naproxen tablets or naproxen sodium tablets and lithium, monitor patients for signs of lithium toxicity.
+Methotrexate Clinical Impact:
+Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction).
+Intervention:
+During concomitant use of naproxen tablets or naproxen sodium tablets and methotrexate, monitor patients for methotrexate toxicity.
+Cyclosporine Clinical Impact:
+Concomitant use of naproxen tablets or naproxen sodium tablets and cyclosporine may increase cyclosporine’s nephrotoxicity.
+Intervention:
+
+## Naproxen: Drug interactions (part 6 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+During concomitant use of naproxen tablets or naproxen sodium tablets and cyclosporine, monitor patients for signs of worsening renal function.
+NSAIDs and Salicylates Clinical Impact:
+Concomitant use of naproxen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [ see Warnings and Precautions ( 5.2 ) ].
+Intervention:
+The concomitant use of naproxen with other NSAIDs or salicylates is not recommended.
+Pemetrexed Clinical Impact:
+Concomitant use of naproxen tablets and naproxen sodium tablets and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information).
+Intervention:
+During concomitant use of naproxen tablets and naproxen sodium tablets and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity.
+NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed.
+
+## Naproxen: Drug interactions (part 7 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration.
+Antacids and Sucralfate Clinical Impact:
+Concomitant administration of some antacids (magnesium oxide or aluminum hydroxide) and sucralfate can delay the absorption of naproxen.
+Intervention:
+Concomitant administration of antacids such as magnesium oxide or aluminum hydroxide, and sucralfate with naproxen tablets and naproxen sodium tablets is not recommended.
+Cholestyramine Clinical Impact:
+Concomitant administration of cholestyramine can delay the absorption of naproxen.
+Intervention:
+Concomitant administration of cholestyramine with naproxen tablets or naproxen sodium tablets is not recommended.
+Probenecid Clinical Impact:
+Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
+Intervention:
+Patients simultaneously receiving naproxen tablets or naproxen sodium tablets and probenecid should be observed for adjustment of dose if required.
+Other albumin-bound drugs Clinical Impact:
+
+## Naproxen: Drug interactions (part 8 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+Naproxen is highly bound to plasma albumin; it thus has a theoretical potential for interaction with other albumin-bound drugs such as coumarin-type anticoagulants, sulphonylureas, hydantoins, other NSAIDs, and aspirin .
+Intervention:
+Patients simultaneously receiving naproxen tablets or naproxen sodium tablets and a hydantoin, sulphonamide or sulphonylurea should be observed for adjustment of dose if required.
+Drug/Laboratory Test Interactions Bleeding times Clinical Impact:
+Naproxen may decrease platelet aggregation and prolong bleeding time.
+Intervention:
+This effect should be kept in mind when bleeding times are determined.
+Porter-Silber test Clinical Impact:
+The administration of naproxen may result in increased urinary values for 17-ketogenic steroids because of an interaction between the drug and/or its metabolites with m-di-nitrobenzene used in this assay.
+Intervention:
+Although 17-hydroxy-corticosteroid measurements (Porter-Silber test) do not appear to be artifactually altered, it is suggested that therapy with naproxen be temporarily discontinued 72 hours before adrenal function tests are performed if the Porter-Silber test is to be used.
+Urinary assays of 5-hydroxy indoleacetic acid (5HIAA) Clinical Impact:
+
+## Naproxen: Drug interactions (part 9 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (5HIAA).
+Intervention:
+This effect should be kept in mind when urinary 5-hydroxy indoleacetic acid is determined.
+Drugs that Interfere with Hemostasis (e.g. warfarin, aspirin, SSRIs/SNRIs):
+Monitor patients for bleeding who are concomitantly taking naproxen tablets or naproxen sodium tablets with drugs that interfere with hemostasis.
+Concomitant use of naproxen tablets or naproxen sodium tablets and analgesic doses of aspirin is not generally recommended.
+( 7 ) ACE inhibitors, Angiotensin Receptor Blockers (ARB), or Beta-Blockers:
+Concomitant use with naproxen tablets or naproxen sodium tablets may diminish the antihypertensive effect of these drugs.
+Monitor blood pressure.
+( 7 ) ACE Inhibitors and ARBs:
+Concomitant use with naproxen tablets or naproxen sodium tablets in elderly, volume depleted, or those with renal impairment may result in deterioration of renal function.
+In such high risk patients, monitor for signs of worsening renal function.
+( 7 ) Diuretics:
+NSAIDs can reduce natriuretic effect of furosemide and thiazide diuretics.
+Monitor patients to assure diuretic efficacy including antihypertensive effects.
+( 7 ) Digoxin:
+
+## Naproxen: Drug interactions (part 10 of 10)
+Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
+Label-set-id: 0041b483-34db-49a6-8665-f87e286cd0b8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8
+Retrieved: 2026-10-06
+Keywords: naproxen, drug interactions, nonsteroidal anti-inflammatory drug [epc], cyclooxygenase inhibitors [moa]
+
+Concomitant use with naproxen tablets or naproxen sodium tablets can increase serum concentration and prolong half-life of digoxin.
+Monitor serum digoxin levels.
+( 7 )
 
 ## Naproxen: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Naproxen (Bryant Ranch Prepack), effective 2026-05-19
@@ -1540,7 +1692,7 @@ As an adjunct to diet for the treatment of adults with:
 Primary dysbetalipoproteinemia.
 Hypertriglyceridemia.
 
-## Rosuvastatin Calcium: Dosage and administration (part 1 of 3)
+## Rosuvastatin Calcium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
@@ -1564,7 +1716,7 @@ Initiate at 5 mg once daily; do not exceed 10 mg once daily.
 ( 2.6 ) 2.1 General Dosage and Administration Information Administer rosuvastatin tablets orally as a single dose at any time of day, with or without food.
 Swallow the tablets whole.
 
-## Rosuvastatin Calcium: Dosage and administration (part 2 of 3)
+## Rosuvastatin Calcium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
@@ -1581,7 +1733,7 @@ The recommended dose of rosuvastatin tablets depends on a patient's indication f
 Dosage in Pediatric Patients 7 Years of Age and Older with HoFH The recommended dosage is 20 mg orally once daily.
 2.4 Dosing in Asian Patients Initiate rosuvastatin tablets at 5 mg once daily due to increased rosuvastatin plasma concentrations.
 
-## Rosuvastatin Calcium: Dosage and administration (part 3 of 3)
+## Rosuvastatin Calcium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
@@ -1598,6 +1750,25 @@ Teriflunomide Do not exceed 10 mg once daily.
 Enasidenib Do not exceed 10 mg once daily.
 Capmatinib Do not exceed 10 mg once daily.
 
+## Rosuvastatin Calcium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
+Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, calcium, dosage and administration
+
+Fostamatinib Do not exceed 20 mg once daily.
+Febuxostat Do not exceed 20 mg once daily.
+Gemfibrozil Avoid concomitant use.
+If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily.
+Tafamidis Avoid concomitant use.
+If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily.
+Antiviral Medications Sofbuvir/velpatasvir/voxilaprevir Ledipasvir/sofosbuvir Concomitant use not recommended. o Simeprevir o Dasabuvir/ombitasvir/paritaprevir/ritonavir o Elbasvir/Grazoprevir o Sofosbuvir/Velpatasvir o Glecaprevir/Pibrentasvir o Atazanavir/Ritonavir o Lopinavir/Ritonavir Initiate at 5 mg once daily.
+Do not exceed 10 mg once daily.
+Darolutamide Do not exceed 5 mg once daily.
+Regorafenib Do not exceed 10 mg once daily.
+Rosuvastatin Tablets Administration Modifications Due to Drug Interactions When taking rosuvastatin tablets with an aluminum and magnesium hydroxide combination antacid, administer rosuvastatin tablets at least 2 hours before the antacid [see Drug Interactions ( 7.2 )] .
+
 ## Rosuvastatin Calcium: Contraindications
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
@@ -1607,7 +1778,7 @@ Keywords: rosuvastatin calcium, calcium, contraindications
 
 4 CONTRAINDICATIONS Rosuvastatin tablets is contraindicated in the following conditions: Acute liver failure or decompensated cirrhosis [see Warnings and Precautions ( 5.3 )] . Hypersensitivity to rosuvastatin or any excipients in rosuvastatin tablets. Hypersensitivity reactions including rash, pruritus, urticaria, and angioedema have been reported with rosuvastatin [see Adverse Reactions ( 6.1 )] . Acute liver failure or decompensated cirrhosis. ( 4 ) Hypersensitivity to rosuvastatin or any excipients in rosuvastatin tablets. ( 4 )
 
-## Rosuvastatin Calcium: Drug interactions (part 1 of 3)
+## Rosuvastatin Calcium: Drug interactions (part 1 of 7)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
@@ -1627,7 +1798,7 @@ Table 5:
 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Rosuvastatin Cyclosporine Clinical Impact:
 Cyclosporine increased rosuvastatin exposure 7-fold.
 
-## Rosuvastatin Calcium: Drug interactions (part 2 of 3)
+## Rosuvastatin Calcium: Drug interactions (part 2 of 7)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
@@ -1658,7 +1829,7 @@ The risk of myopathy and rhabdomyolysis is increased with concomitant use.
 Intervention:
 In patients taking fostamatinib, do not exceed a dose of rosuvastatin 20 mg once daily.
 
-## Rosuvastatin Calcium: Drug interactions (part 3 of 3)
+## Rosuvastatin Calcium: Drug interactions (part 3 of 7)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
 Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
@@ -1684,6 +1855,86 @@ Avoid concomitant use of tafamidis with rosuvastatin.
 If used concomitantly, initiate rosuvastatin at 5 mg once daily and do not exceed a dose of rosuvastatin 20 mg once daily.
 Monitor for signs of myopathy and rhabdomyolysis if used concomitantly with rosuvastatin.
 Anti-Viral Medications Clinical Impact:
+
+## Rosuvastatin Calcium: Drug interactions (part 4 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
+Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, calcium, drug interactions
+
+Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis.
+Intervention:
+Sofosbuvir/velpatasvir/voxilaprevir Ledipasvir/sofosbuvir Avoid concomitant use with rosuvastatin.
+Simeprevir Dasabuvir/ombitasvir/paritaprevir/ritonavir Elbasvir/grazoprevir Sofosbuvir/velpatasvir Glecaprevir/pibrentasvir Atazanavir/ritonavir Lopinavir/ritonavir Initiate with rosuvastatin 5 mg once daily, and do not exceed a dose of rosuvastatin 10 mg once daily.
+Darolutamide Clinical Impact:
+Darolutamide increased rosuvastatin exposure more than 5-fold.
+The risk of myopathy and rhabdomyolysis is increased with concomitant use.
+Intervention:
+In patients taking darolutamide, do not exceed a dose of rosuvastatin 5 mg once daily.
+Regorafenib Clinical Impact:
+Regorafenib increased rosuvastatin exposure and may increase the risk of myopathy.
+Intervention:
+In patients taking regorafenib, do not exceed a dose of rosuvastatin 10 mg once daily.
+Fenofibrates (e.g., fenofibrate and fenofibric acid) Clinical Impact:
+Fibrates may cause myopathy when given alone.
+The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with rosuvastatin.
+Intervention:
+
+## Rosuvastatin Calcium: Drug interactions (part 5 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
+Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, calcium, drug interactions
+
+Consider if the benefit of using fibrates concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Niacin Clinical Impact:
+Cases of myopathy and rhabdomyolysis have occurred with concomitant use of lipid-modifying doses (≥1 g/day) of niacin with rosuvastatin.
+Intervention:
+Consider if the benefit of using lipid-modifying doses (≥1 g/day) of niacin concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Colchicine Clinical Impact:
+Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with rosuvastatin.
+Intervention:
+Consider if the benefit of using colchicine concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+
+## Rosuvastatin Calcium: Drug interactions (part 6 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
+Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, calcium, drug interactions
+
+Ticagrelor Clinical Impact:
+Concomitant use of rosuvastatin and ticagrelor has been shown to increase rosuvastatin concentrations, which may result in increased risk of myopathy.
+Cases of myopathy and rhabdomyolysis have been reported in patients using both products concomitantly.
+Cases have occurred more frequently in patients taking 40 mg of rosuvastatin.
+Intervention:
+In patients taking concomitant ticagrelor, especially those with additional risk factors for myopathy and rhabdomyolysis, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of rosuvastatin.
+7.2 Drug Interactions that Decrease the Efficacy of Rosuvastatin Table 6 presents drug interactions that may decrease the efficacy of rosuvastatin and instructions for preventing or managing them.
+Table 6:
+Drug Interactions that Decrease the Efficacy of Rosuvastatin Antacids Clinical Impact:
+Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology ( 12.3 )].
+Intervention:
+In patients taking antacid, administer rosuvastatin at least 2 hours before the antacid.
+
+## Rosuvastatin Calcium: Drug interactions (part 7 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
+Label-set-id: 02797697-300a-43db-92cf-9b78f08626be
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=02797697-300a-43db-92cf-9b78f08626be
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, calcium, drug interactions
+
+7.3 Rosuvastatin Effects on Other Drugs Table 7 presents rosuvastatin's effect on other drugs and instructions for preventing or managing them.
+Table 7:
+Rosuvastatin Effects on Other Drugs Warfarin Clinical Impact:
+Rosuvastatin significantly increased the INR in patients receiving warfarin [see Clinical Pharmacology ( 12.3 )].
+Intervention:
+In patients taking warfarin, obtain an INR before starting rosuvastatin and frequently enough after initiation, dose titration or discontinuation to ensure that no significant alteration in INR occurs.
+Once the INR is stable, monitor INR at regularly recommended intervals.
 
 ## Rosuvastatin Calcium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC), effective 2025-11-26
@@ -2627,7 +2878,7 @@ Keywords: glipizide, contraindications, sulfonylurea [epc]
 
 4 CONTRAINDICATIONS Glipizide is contraindicated in patients with: • Known hypersensitivity to glipizide or any of the product’s ingredients. • Hypersensitivity to sulfonamide derivatives. Known hypersensitivity to glipizide or any of the product’s ingredients ( 4 ). Hypersensitivity to sulfonamide derivatives ( 4 ).
 
-## Glipizide: Drug interactions (part 1 of 3)
+## Glipizide: Drug interactions (part 1 of 4)
 Source: FDA drug label, Glipizide (St. Mary's Medical Park Pharmacy), effective 2026-06-22
 Label-set-id: 1b2ef6e2-5e7c-761e-e063-6294a90addd0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b2ef6e2-5e7c-761e-e063-6294a90addd0
@@ -2642,7 +2893,7 @@ An increase in glipizide AUC was seen after fluconazole administration ( 7.3 , 1
 Glipizide extended-release tablets should be administered at least 4 hours prior to colesevelam ( 7.4 , 12.3 ).
 7.1 Drugs Affecting Glucose Metabolism A number of medications affect glucose metabolism and may require glipizide extended-release tablets dose adjustment and close monitoring for hypoglycemia or worsening glycemic control.
 
-## Glipizide: Drug interactions (part 2 of 3)
+## Glipizide: Drug interactions (part 2 of 4)
 Source: FDA drug label, Glipizide (St. Mary's Medical Park Pharmacy), effective 2026-06-22
 Label-set-id: 1b2ef6e2-5e7c-761e-e063-6294a90addd0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b2ef6e2-5e7c-761e-e063-6294a90addd0
@@ -2653,7 +2904,7 @@ The following are examples of medication that may increase the glucose lowering 
 When these medications are administered to a patient receiving glipizide extended-release tablets, monitor the patient closely for hypoglycemia.
 When these medications are discontinued from a patient receiving glipizide extended-release tablets, monitor the patient closely for worsening glycemic control.
 
-## Glipizide: Drug interactions (part 3 of 3)
+## Glipizide: Drug interactions (part 3 of 4)
 Source: FDA drug label, Glipizide (St. Mary's Medical Park Pharmacy), effective 2026-06-22
 Label-set-id: 1b2ef6e2-5e7c-761e-e063-6294a90addd0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b2ef6e2-5e7c-761e-e063-6294a90addd0
@@ -2666,6 +2917,21 @@ When these medications are discontinued from patients receiving glipizide extend
 Alcohol, beta-blockers, clonidine, and reserpine may lead to either potentiation or weakening of the glucose-lowering effect.
 Increased frequency of monitoring may be required when glipizide extended-release tablets is co-administered with these drugs.
 The signs of hypoglycemia may be reduced or absent in patients taking sympatholytic drugs such as beta-blockers, clonidine, guanethidine, and reserpine.
+
+## Glipizide: Drug interactions (part 4 of 4)
+Source: FDA drug label, Glipizide (St. Mary's Medical Park Pharmacy), effective 2026-06-22
+Label-set-id: 1b2ef6e2-5e7c-761e-e063-6294a90addd0
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b2ef6e2-5e7c-761e-e063-6294a90addd0
+Retrieved: 2026-10-06
+Keywords: glipizide, drug interactions, sulfonylurea [epc]
+
+Increased frequency of monitoring may be required when glipizide extended-release tablets is co-administered with these drugs.
+7.2 Miconazole Monitor patients closely for hypoglycemia when glipizide extended-release tablets are co-administered with miconazole.
+A potential interaction between oral miconazole and oral hypoglycemic agents leading to severe hypoglycemia has been reported [see Clinical Pharmacology (12.3) ] .
+7.3 Fluconazole Monitor patients closely for hypoglycemia when glipizide extended-release tablets are co-administered with fluconazole.
+Concomitant treatment with fluconazole increases plasma concentrations of glipizide, which may lead to hypoglycemia [see Clinical Pharmacology (12.3) ] .
+7.4 Colesevelam Glipizide extended-release tablets should be administered at least 4 hours prior to the administration of colesevelam.
+Colesevelam can reduce the maximum plasma concentration and total exposure of glipizide when the two are coadministered [see Clinical Pharmacology (12.3) ] .
 
 ## Glipizide: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Glipizide (St. Mary's Medical Park Pharmacy), effective 2026-06-22
@@ -2832,7 +3098,7 @@ Keywords: glimepiride, contraindications, sulfonylurea [epc]
 
 4 CONTRAINDICATIONS Glimepiride tablets are contraindicated in patients with a history of a hypersensitivity reaction to: Glimepiride or any of the product’s ingredients [see Warnings and Precautions (5.2) ]. Sulfonamide derivatives: Patients who have developed an allergic reaction to sulfonamide derivatives may develop an allergic reaction to glimepiride tablets. Do not use glimepiride tablets in patients who have a history of an allergic reaction to sulfonamide derivatives. Hypersensitivity to glimepiride or any of the product’s ingredients (4) Hypersensitivity to sulfonamide derivatives (4)
 
-## Glimepiride: Drug interactions (part 1 of 3)
+## Glimepiride: Drug interactions (part 1 of 4)
 Source: FDA drug label, Glimepiride (Bryant Ranch Prepack), effective 2026-04-13
 Label-set-id: 248c3cb3-4501-4b85-bd1d-0624b6afda2c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=248c3cb3-4501-4b85-bd1d-0624b6afda2c
@@ -2849,7 +3115,7 @@ Coadministration may reduce glimepiride absorption.
 Glimepiride should be administered at least 4 hours prior to colesevelam.
 (2.1, 7.4) 7.1 Drugs Affecting Glucose Metabolism A number of medications affect glucose metabolism and may require glimepiride dose adjustment and particularly close monitoring for hypoglycemia or worsening glycemic control.
 
-## Glimepiride: Drug interactions (part 2 of 3)
+## Glimepiride: Drug interactions (part 2 of 4)
 Source: FDA drug label, Glimepiride (Bryant Ranch Prepack), effective 2026-04-13
 Label-set-id: 248c3cb3-4501-4b85-bd1d-0624b6afda2c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=248c3cb3-4501-4b85-bd1d-0624b6afda2c
@@ -2860,7 +3126,7 @@ The following are examples of medications that may increase the glucose-lowering
 When these medications are administered to a patient receiving glimepiride, monitor the patient closely for hypoglycemia.
 When these medications are withdrawn from a patient receiving glimepiride, monitor the patient closely for worsening glycemic control.
 
-## Glimepiride: Drug interactions (part 3 of 3)
+## Glimepiride: Drug interactions (part 3 of 4)
 Source: FDA drug label, Glimepiride (Bryant Ranch Prepack), effective 2026-04-13
 Label-set-id: 248c3cb3-4501-4b85-bd1d-0624b6afda2c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=248c3cb3-4501-4b85-bd1d-0624b6afda2c
@@ -2873,6 +3139,22 @@ When these medications are withdrawn from a patient receiving glimepiride, monit
 Beta-blockers, clonidine, and reserpine may lead to either potentiation or weakening of glimepiride’s glucose-lowering effect.
 Both acute and chronic alcohol intake may potentiate or weaken the glucose-lowering action of glimepiride in an unpredictable fashion.
 The signs of hypoglycemia may be reduced or absent in patients taking sympatholytic drugs such as beta-blockers, clonidine, guanethidine, and reserpine.
+
+## Glimepiride: Drug interactions (part 4 of 4)
+Source: FDA drug label, Glimepiride (Bryant Ranch Prepack), effective 2026-04-13
+Label-set-id: 248c3cb3-4501-4b85-bd1d-0624b6afda2c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=248c3cb3-4501-4b85-bd1d-0624b6afda2c
+Retrieved: 2026-10-06
+Keywords: glimepiride, drug interactions, sulfonylurea [epc]
+
+7.2 Miconazole A potential interaction between oral miconazole and sulfonylureas leading to severe hypoglycemia has been reported.
+Whether this interaction also occurs with other dosage forms of miconazole is not known.
+7.3 Cytochrome P450 2C9 Interactions There may be an interaction between glimepiride and inhibitors (e.g., fluconazole) and inducers (e.g., rifampin) of cytochrome P450 2C9.
+Fluconazole may inhibit the metabolism of glimepiride, causing increased plasma concentrations of glimepiride which may lead to hypoglycemia.
+Rifampin may induce the metabolism of glimepiride, causing decreased plasma concentrations of glimepiride which may lead to worsening glycemic control.
+7.4 Concomitant Administration of Colesevelam Colesevelam can reduce the maximum plasma concentration and total exposure of glimepiride when the two are coadministered.
+However, absorption is not reduced when glimepiride is administered 4 hours prior to colesevelam.
+Therefore, glimepiride should be administered at least 4 hours prior to colesevelam.
 
 ## Glimepiride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Glimepiride (Bryant Ranch Prepack), effective 2026-04-13
@@ -3040,7 +3322,7 @@ Keywords: glyburide-metformin hydrochloride, glyburide, uses, sulfonylurea [epc]
 
 1 INDICATIONS AND USAGE Glyburide and metformin hydrochloride tablets is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Glyburide and metformin hydrochloride tablets are a combination of glyburide, a sulfonylurea, and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )
 
-## Glyburide-Metformin Hydrochloride: Dosage and administration (part 1 of 3)
+## Glyburide-Metformin Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Glyburide-Metformin Hydrochloride (NuCare Pharmaceuticals, Inc.), effective 2026-01-15
 Label-set-id: 486fec17-ff83-3bab-e063-6394a90a5ef0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=486fec17-ff83-3bab-e063-6394a90a5ef0
@@ -3049,7 +3331,7 @@ Keywords: glyburide-metformin hydrochloride, glyburide, dosage and administratio
 
 Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.4 ) o Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.4 ) o Initiation is not recommended in patients with eGFR between 30 to 45 mL/minute/1.73 m 2 ( 2.4 ) o Assess risk/benefit if eGFR falls below 45 mL/minute/1.73 m 2 ( 2.4 ) o Discontinue if eGFR falls below 30 mL/minute/1.73 m 2 ( 2.4 ) Discontinuation for Iodinated Contrast Imaging Procedures : o Glyburide and metformin hydrochloride tablets may need to be discontinued at time of, or prior to, iodinated contrast imaging procedures ( 2.5 ) 2.1 Dosage • Give glyburide and metformin hydrochloride tablets in divided doses, twice daily, with meals. • For patients not treated with either glyburide (or another sulfonylurea) or metformin hydrochloride (HCl), initiate treatment with another formulation of glyburide and metformin HCl at a starting dose of 1.25 mg glyburide and 250mg metformin HCl orally, once or twice daily with meals. • For patients not adequately controlled on either glyburide (or another sulfonylurea) or metformin HCl alone, the recommended starting dose of glyburide and metformin hydrochloride tablets is 2.5 mg/500 mg or 5 mg/500 mg orally twice daily with meals. • For patients previously treated with a
 
-## Glyburide-Metformin Hydrochloride: Dosage and administration (part 2 of 3)
+## Glyburide-Metformin Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Glyburide-Metformin Hydrochloride (NuCare Pharmaceuticals, Inc.), effective 2026-01-15
 Label-set-id: 486fec17-ff83-3bab-e063-6394a90a5ef0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=486fec17-ff83-3bab-e063-6394a90a5ef0
@@ -3063,7 +3345,7 @@ Keywords: glyburide-metformin hydrochloride, glyburide, dosage and administratio
 ( 2.1 ) • Increase the dose gradually on the basis of glycemic control and tolerability, up to a maximum to a maximum dose of 20 mg glyburide/2,000 mg metformin HCl daily.
 ( 2.1 ) Renal Impairment :
 
-## Glyburide-Metformin Hydrochloride: Dosage and administration (part 3 of 3)
+## Glyburide-Metformin Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Glyburide-Metformin Hydrochloride (NuCare Pharmaceuticals, Inc.), effective 2026-01-15
 Label-set-id: 486fec17-ff83-3bab-e063-6394a90a5ef0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=486fec17-ff83-3bab-e063-6394a90a5ef0
@@ -3072,6 +3354,15 @@ Keywords: glyburide-metformin hydrochloride, glyburide, dosage and administratio
 
 combination therapy of glyburide (or another sulfonylurea) and metformin HCl, the starting dose of glyburide and metformin hydrochloride tablets should not exceed the daily dose of glyburide (or equivalent dose of another sulfonylurea) and metformin HCl already being taken. • Increase the dose gradually on the basis of glycemic control and tolerability, up to a maximum to a maximum dose of 20 mg glyburide/2,000 mg metformin HCl daily.
 2.2 Patients Receiving Colesevelam • Administer glyburide and metformin hydrochloride tablets at least 4 hours prior to colesevelam for patients taking both drugs concomitantly [ see Drug Interactions ( 7 ) ].
+
+## Glyburide-Metformin Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Glyburide-Metformin Hydrochloride (NuCare Pharmaceuticals, Inc.), effective 2026-01-15
+Label-set-id: 486fec17-ff83-3bab-e063-6394a90a5ef0
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=486fec17-ff83-3bab-e063-6394a90a5ef0
+Retrieved: 2026-10-06
+Keywords: glyburide-metformin hydrochloride, glyburide, dosage and administration, sulfonylurea [epc]
+
+2.3 Recommendations for Use in Renal Impairment • Assess renal function prior to initiation of glyburide and metformin hydrochloride tablets and periodically thereafter. • Glyburide and metformin hydrochloride tablets is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m 2 . • Initiation of glyburide and metformin hydrochloride tablets in patients with an eGFR between 30 to 45 mL/minute/1.73 m 2 is not recommended. • In patients taking glyburide and metformin hydrochloride tablets whose eGFR later falls below 45 mL/min/1.73 m 2 , assess the benefit risk of continuing therapy. • Discontinue glyburide and metformin hydrochloride tablets if the patient’s eGFR later falls below 30 mL/minute/1.73 m 2 [ see Warnings and Precautions ( 5.1 ) ].
 
 ## Glyburide-Metformin Hydrochloride: Contraindications
 Source: FDA drug label, Glyburide-Metformin Hydrochloride (NuCare Pharmaceuticals, Inc.), effective 2026-01-15
@@ -4360,7 +4651,7 @@ Limitations of Use INVOKANA is not recommended for use to improve glycemic contr
 INVOKANA is not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 30 mL/min/1.73 m 2 .
 INVOKANA is likely to be ineffective in this setting based upon its mechanism of action.
 
-## Canagliflozin: Dosage and administration (part 1 of 3)
+## Canagliflozin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Canagliflozin (Janssen Pharmaceuticals, Inc.), effective 2026-06-11
 Label-set-id: b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
@@ -4377,7 +4668,7 @@ See full prescribing information for INVOKANA dosage modifications due to drug i
 Withhold INVOKANA at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting ( 2.5 ).
 2.1 Prior to Initiation of INVOKANA Assess renal function before initiating INVOKANA and as clinically indicated [see Dosage and Administration (2.3) and Warnings and Precautions (5.3) ] .
 
-## Canagliflozin: Dosage and administration (part 2 of 3)
+## Canagliflozin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Canagliflozin (Janssen Pharmaceuticals, Inc.), effective 2026-06-11
 Label-set-id: b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
@@ -4389,7 +4680,7 @@ In patients with volume depletion, correct this condition before initiating INVO
 For additional glycemic control, the dosage of INVOKANA may be increased to the maximum recommended dosage of 300 mg once daily.
 Recommended Dosage for Other Indications in Adults The recommended dosage of INVOKANA is 100 mg orally once daily for the following indications in adults: to reduce the risk of major adverse cardiovascular events (cardiovascular death, nonfatal myocardial infarction and nonfatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease (CVD). to reduce the risk of end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in adults with type 2 diabetes mellitus and diabetic nephropathy with albuminuria greater than 300 mg/day.
 
-## Canagliflozin: Dosage and administration (part 3 of 3)
+## Canagliflozin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Canagliflozin (Janssen Pharmaceuticals, Inc.), effective 2026-06-11
 Label-set-id: b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
@@ -4400,6 +4691,21 @@ Keywords: canagliflozin, invokana, dosage and administration
 Table 1:
 Recommended Dosage in Adults and Pediatric Patients Aged 10 Years and Older with Renal Impairment Estimated Glomerular Filtration Rate [eGFR (mL/min/1.73 m 2 )] Recommended Dosage eGFR 30 to less than 60 The maximum recommended dosage is 100 mg orally once daily. eGFR less than 30 Initiation is not recommended Adult patients taking INVOKANA with albuminuria greater than 300 mg/day may continue INVOKANA 100 mg once daily to reduce the risk of ESKD, doubling of serum creatinine, CV death, and hospitalization for heart failure [see Indications and Usage (1) and Use in Specific Populations (8.6) ].
 2.4 Concomitant Use with UDP-Glucuronosyl transferase (UGT) Enzyme Inducers When co-administering INVOKANA with an inducer of UGT (e.g., rifampin, phenytoin, phenobarbital, ritonavir), increase the dosage of INVOKANA based on renal function [see Drug Interactions (7) ]:
+
+## Canagliflozin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Canagliflozin (Janssen Pharmaceuticals, Inc.), effective 2026-06-11
+Label-set-id: b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9057d3b-b104-4f09-8a61-c61ef9d4a3f3
+Retrieved: 2026-10-06
+Keywords: canagliflozin, invokana, dosage and administration
+
+In patients with eGFR 60 mL/min/1.73 m 2 or greater, increase the dosage to 200 mg orally once daily in patients currently tolerating INVOKANA 100 mg once daily.
+The maximum recommended dosage of INVOKANA is 300 mg once daily.
+In patients with eGFR less than 60 mL/min/1.73 m 2 , increase to a maximum recommended dosage of 200 mg orally once daily in patients currently tolerating INVOKANA 100 mg once daily.
+2.5 Temporary Interruption for Surgery Withhold INVOKANA at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
+Resume INVOKANA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2) ].
+2.6 Recommendations Regarding Missed Dose If a dose is missed, instruct patients to take the dose as soon as possible.
+Advise patients not to double up the next dose.
 
 ## Canagliflozin: Contraindications
 Source: FDA drug label, Canagliflozin (Janssen Pharmaceuticals, Inc.), effective 2026-06-11
@@ -5343,7 +5649,7 @@ Keywords: insulin human, insulin, afrezza, uses, insulin [epc]
 
 1 INDICATIONS AND USAGE AFREZZA ® is indicated to improve glycemic control in adult and pediatric patients 6 years of age and older with diabetes mellitus. AFREZZA ® is a rapid acting inhaled human insulin indicated to improve glycemic control in adult and pediatric patients 6 years of age and older with diabetes mellitus. ( 1 ) Limitations of Use : Not recommended for the treatment of diabetic ketoacidosis (DKA) ( 1 ) Not recommended in patients who smoke or who have recently stopped smoking ( 1 ) Limitations of Use: AFREZZA is not recommended for the treatment of diabetic ketoacidosis (DKA) [see Warnings and Precautions ( 5.6 )] . The safety and effectiveness of AFREZZA in patients who smoke have not been established. The use of AFREZZA is not recommended in patients who smoke or who have recently stopped smoking [see Warnings and Precautions ( 5.5 )].
 
-## Insulin Human: Dosage and administration (part 1 of 3)
+## Insulin Human: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Insulin Human (Mannkind Corporation), effective 2026-05-30
 Label-set-id: 29f4637b-e204-425b-b89c-7238008d8c10
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10
@@ -5355,7 +5661,7 @@ Before initiating AFREZZA, perform a medical history, physical examination and s
 2.2 Important Administration Information Prior to initiation, train patients and/or their caregiver(s) on proper administration of AFREZZA.
 After training, adult and pediatric patients aged 10 and older may self-administer AFREZZA if the healthcare provider determines that it is appropriate.
 
-## Insulin Human: Dosage and administration (part 2 of 3)
+## Insulin Human: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Insulin Human (Mannkind Corporation), effective 2026-05-30
 Label-set-id: 29f4637b-e204-425b-b89c-7238008d8c10
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10
@@ -5374,7 +5680,7 @@ Hold the inhaler away from the mouth and fully exhale.
 After the inhaler is placed in the mouth and the lips form a seal, tilt the inhaler down towards the chin while keeping the head level.
 With the mouth closed around the mouthpiece, inhale deeply through the inhaler.
 
-## Insulin Human: Dosage and administration (part 3 of 3)
+## Insulin Human: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Insulin Human (Mannkind Corporation), effective 2026-05-30
 Label-set-id: 29f4637b-e204-425b-b89c-7238008d8c10
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10
@@ -5391,6 +5697,21 @@ Subcutaneous, Mealtime (prandial) Insulin:
 Follow the recommendations in Table 1 to convert each injected mealtime insulin dosage (or bolus dosage for patients using insulin pumps) to the recommended mealtime dosage of AFREZZA.
 Subcutaneous, Pre-Mixed Insulin:
 Refer to the prescribing information for the pre-mixed insulin to estimate the mealtime subcutaneous insulin dosage based on the product’s pharmacokinetic and pharmacodynamic properties.
+
+## Insulin Human: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Insulin Human (Mannkind Corporation), effective 2026-05-30
+Label-set-id: 29f4637b-e204-425b-b89c-7238008d8c10
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10
+Retrieved: 2026-10-06
+Keywords: insulin human, insulin, afrezza, dosage and administration, insulin [epc]
+
+Follow the recommendations in Table 1 to convert each estimated injected mealtime dosage to an AFREZZA mealtime dose.
+If basal insulin is clinically indicated, refer to the prescribing information for the chosen basal insulin for dosage recommendations.
+Table 1.
+Recommended Starting Mealtime Dosage of AFREZZA when Switching from Other Mealtime Insulin Regimens Current Subcutaneous Mealtime Insulin Dosage Starting Dosage of AFREZZA Up to 3 units 4 units 4 to 5 units 8 units 6 to 7 units 12 units 8 or more units 16 units * For AFREZZA doses exceeding the contents of a single cartridge at mealtime, use more than one cartridge.
+To achieve the required total mealtime dosage, use a combination of 4 unit, 8 unit, and 12 unit cartridges.
+When titrating dosages above 16 units after the initial conversion dosage, use combinations of different cartridges [see Dosage and Administration ( 2.4 ), Dosage Forms and Strengths ( 3 ), How Supplied/Storage and Handling ( 16 )].
+2.4 Mealtime AFREZZA Dosage Modification Modify the mealtime AFREZZA dosage based on the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal.
 
 ## Insulin Human: Contraindications
 Source: FDA drug label, Insulin Human (Mannkind Corporation), effective 2026-05-30
@@ -5596,7 +5917,7 @@ As an adjunct to surgery and radioiodine therapy in the management of thyrotropi
 ( 1 ) Limitations of Use Not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients.
 Not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis.
 
-## Levothyroxine Sodium: Dosage and administration (part 1 of 3)
+## Levothyroxine Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5614,7 +5935,7 @@ Peak therapeutic effect may not be attained for 4 to 6 weeks.
 ( 2.4 ) 2.1 Important Administration Instructions Administer levothyroxine sodium tablets as a single daily dose, on an empty stomach, one-half to one hour before breakfast.
 Administer levothyroxine sodium tablets at least 4 hours before or after drugs known to interfere with levothyroxine sodium tablets absorption [see Drug Interactions ( 7.1 )] .
 
-## Levothyroxine Sodium: Dosage and administration (part 2 of 3)
+## Levothyroxine Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5628,7 +5949,7 @@ Do not store the suspension.
 Do not administer in foods that decrease absorption of levothyroxine sodium tablets, such as soybean-based infant formula [see Drug Interactions ( 7.9 )] .
 2.2 Important Considerations for Dosing The dosage of levothyroxine sodium tablets for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food and the specific nature of the condition being treated [see Dosage and Administration ( 2.3 ), Warnings and Precautions ( 5 ), and Drug Interactions ( 7 )] .
 
-## Levothyroxine Sodium: Dosage and administration (part 3 of 3)
+## Levothyroxine Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5643,6 +5964,23 @@ Inquire whether patients are taking biotin or biotin-containing supplements.
 If so, advise them to stop biotin supplementation at least 2 days before assessing TSH and/or T4 levels [see Dosage and Administration ( 2.4 ) and Drug Interactions ( 7.10 )].
 The peak therapeutic effect of a given dose of levothyroxine sodium tablets may not be attained for 4 to 6 weeks.
 
+## Levothyroxine Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
+Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
+Retrieved: 2026-10-06
+Keywords: levothyroxine sodium, levothyroxine, dosage and administration
+
+2.3 Recommended Dosage and Titration Primary, Secondary, and Tertiary Hypothyroidism in Adults The recommended starting daily dosage of levothyroxine sodium tablets in adults with primary, secondary, or tertiary hypothyroidism is based on age and comorbid cardiac conditions, as described in Table 1.
+For patients at risk of atrial fibrillation or patients with underlying cardiac disease, start with a lower dosage and titrate the dosage more slowly to avoid exacerbation of cardiac symptoms.
+Dosage titration is based on serum TSH or free-T4 [see Dosage and Administration ( 2.2 )].
+Table 1.
+Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Adults* * Dosages greater than 200 mcg/day are seldom required.
+An inadequate response to daily dosages greater than 300 mcg/day is rare and may indicate poor compliance, malabsorption, drug interactions, or a combination of these factors [see Dosage and Administration ( 2.1 ) and Drug Interactions ( 7 )].
+Patient Population Starting Dosage Dosage Titration Based on Serum TSH or Free-T4 Adults diagnosed with hypothyroidism Full replacement dose is 1.6 mcg/kg/day.
+Some patients require a lower starting dose.
+Titrate dosage by 12.5 to 25 mcg increments every 4 to 6 weeks, as needed until the patient is euthyroid.
+
 ## Levothyroxine Sodium: Contraindications
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5652,7 +5990,7 @@ Keywords: levothyroxine sodium, levothyroxine, contraindications
 
 4 CONTRAINDICATIONS Levothyroxine sodium tablets are contraindicated in patients with uncorrected adrenal insufficiency [see Warnings and Precautions ( 5.4 )] . Uncorrected adrenal insufficiency. ( 4 )
 
-## Levothyroxine Sodium: Drug interactions (part 1 of 3)
+## Levothyroxine Sodium: Drug interactions (part 1 of 8)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5668,7 +6006,7 @@ Drug or Drug Class Effect Phosphate Binders (e.g., calcium carbonate, ferrous su
 Administer levothyroxine sodium tablets at least 4 hours apart from these agents.
 Orlistat Monitor patients treated concomitantly with orlistat and levothyroxine sodium tablets for changes in thyroid function.
 
-## Levothyroxine Sodium: Drug interactions (part 2 of 3)
+## Levothyroxine Sodium: Drug interactions (part 2 of 8)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5685,7 +6023,7 @@ Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affect
 Androgens / Anabolic Steroids Asparaginase Glucocorticoids Slow-Release Nicotinic Acid These drugs may decrease serum TBG concentration.
 Potential impact (below):
 
-## Levothyroxine Sodium: Drug interactions (part 3 of 3)
+## Levothyroxine Sodium: Drug interactions (part 3 of 8)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
 Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
@@ -5704,6 +6042,88 @@ Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and t
 Closely monitor thyroid hormone parameters.
 Table 7.
 Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism) Potential impact:
+
+## Levothyroxine Sodium: Drug interactions (part 4 of 8)
+Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
+Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
+Retrieved: 2026-10-06
+Keywords: levothyroxine sodium, levothyroxine, drug interactions
+
+Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine sodium tablets requirements.
+Drug or Drug Class Effect Phenobarbital Rifampin Phenobarbital has been shown to reduce the response to thyroxine.
+Phenobarbital increases L-thyroxine metabolism by inducing uridine 5'-diphospho-glucuronosyltransferase (UGT) and leads to lower T4 serum levels.
+Changes in thyroid status may occur if barbiturates are added or withdrawn from patients being treated for hypothyroidism.
+Rifampin has been shown to accelerate the metabolism of levothyroxine.
+Table 8.
+Drugs That May Decrease Conversion of T4 to T3 Potential impact:
+Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels.
+However, serum T4 levels are usually normal but may occasionally be slightly increased.
+Drug or Drug Class Effect Beta-adrenergic antagonists (e.g., Propranolol > 160 mg/day) In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid.
+
+## Levothyroxine Sodium: Drug interactions (part 5 of 8)
+Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
+Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
+Retrieved: 2026-10-06
+Keywords: levothyroxine sodium, levothyroxine, drug interactions
+
+Actions of particular beta-adrenergic antagonists may be impaired when a hypothyroid patient is converted to the euthyroid state.
+Glucocorticoids (e.g., Dexamethasone ≥ 4 mg/day) Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels.
+However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above).
+Other drugs:
+Amiodarone Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decreased or normal free-T3) in clinically euthyroid patients.
+7.2 Antidiabetic Therapy Addition of levothyroxine sodium tablets therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements.
+Carefully monitor glycemic control, especially when thyroid therapy is started, changed, or discontinued [see Warnings and Precautions ( 5.5 )] .
+7.3 Oral Anticoagulants Levothyroxine sodium tablet increases the response to oral anticoagulant therapy.
+
+## Levothyroxine Sodium: Drug interactions (part 6 of 8)
+Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
+Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
+Retrieved: 2026-10-06
+Keywords: levothyroxine sodium, levothyroxine, drug interactions
+
+Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the levothyroxine sodium tablets dose is increased.
+Closely monitor coagulation tests to permit appropriate and timely dosage adjustments.
+7.4 Digitalis Glycosides Levothyroxine sodium tablets may reduce the therapeutic effects of digitalis glycosides.
+Serum digitalis glycoside levels may decrease when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides.
+7.5 Antidepressant Therapy Concurrent use of tricyclic (e.g., amitriptyline) or tetracyclic (e.g., maprotiline) antidepressants and levothyroxine sodium tablets may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines.
+Toxic effects may include increased risk of cardiac arrhythmias and central nervous system stimulation.
+Levothyroxine sodium tablets may accelerate the onset of action of tricyclics.
+Administration of sertraline in patients stabilized on levothyroxine sodium tablets may result in increased levothyroxine sodium tablets requirements.
+7.6 Ketamine Concurrent use of ketamine and levothyroxine sodium tablets may produce marked hypertension and tachycardia.
+
+## Levothyroxine Sodium: Drug interactions (part 7 of 8)
+Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
+Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
+Retrieved: 2026-10-06
+Keywords: levothyroxine sodium, levothyroxine, drug interactions
+
+Closely monitor blood pressure and heart rate in these patients.
+7.7 Sympathomimetics Concurrent use of sympathomimetics and levothyroxine sodium tablets may increase the effects of sympathomimetics or thyroid hormone.
+Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease.
+7.8 Tyrosine-Kinase Inhibitors Concurrent use of tyrosine-kinase inhibitors such as imatinib may cause hypothyroidism.
+Closely monitor TSH levels in such patients.
+7.9 Drug-Food Interactions Consumption of certain foods may affect levothyroxine sodium tablets absorption thereby necessitating adjustments in dosing [see Dosage and Administration ( 2.1 )] .
+Soybean flour, cottonseed meal, walnuts, and dietary fiber may bind and decrease the absorption of levothyroxine sodium tablets from the gastrointestinal tract.
+Grapefruit juice may delay the absorption of levothyroxine and reduce its bioavailability.
+7.10 Drug-Laboratory Test Interactions Thyroxine-binding Globulin (TBG) Consider changes in TBG concentration when interpreting T4 and T3 values.
+Measure and evaluate unbound (free) hormone and/or determine the free-T4 index (FT4I) in this circumstance.
+
+## Levothyroxine Sodium: Drug interactions (part 8 of 8)
+Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
+Label-set-id: 13e03769-9a4f-497f-9afa-95bf525090b3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13e03769-9a4f-497f-9afa-95bf525090b3
+Retrieved: 2026-10-06
+Keywords: levothyroxine sodium, levothyroxine, drug interactions
+
+Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentration.
+Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens, and corticosteroids decrease TBG concentration.
+Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
+Biotin Biotin supplementation is known to interfere with thyroid hormone immunoassays that are based on a biotin and streptavidin interaction, which may result in erroneous thyroid hormone test results.
+Stop biotin and biotin-containing supplements for at least 2 days prior to thyroid testing.
 
 ## Levothyroxine Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Levothyroxine Sodium (REMEDYREPACK INC.), effective 2026-09-09
@@ -5858,7 +6278,7 @@ Keywords: liothyronine sodium, liothyronine, uses
 1.3 Thyroid Suppression Test Liothyronine sodium is indicated as a diagnostic agent in suppression tests to differentiate suspected mild hyperthyroidism or thyroid gland autonomy.
 Limitations of Use • Liothyronine sodium is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with liothyronine sodium may induce hyperthyroidism [see Warnings and Precautions (5.4) ] . • Liothyronine sodium is not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis.
 
-## Liothyronine Sodium: Dosage and administration (part 1 of 3)
+## Liothyronine Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5868,7 +6288,7 @@ Keywords: liothyronine sodium, liothyronine, dosage and administration
 2 DOSAGE AND ADMINISTRATION • Administer liothyronine sodium orally once daily and individual dosage according to patient response and laboratory findings ( 2.1 ) • See full prescribing information for recommended dosage for hypothyroidism ( 2.2 ) TSH suppression in well-differentiated thyroid cancer ( 2.3 ) and for thyroid suppression test ( 2.4 ) • When switching a patient to liothyronine sodium, discontinue levothyroxine therapy and initiate liothyronine sodium at a low dosage.
 Gradually increase the dose according to the patient's response ( 2.5 ) • Adequacy of therapy determined with periodic monitoring of TSH and T3 levels as well as clinical status ( 2.6 ) 2.1 General Principles of Dosing The dose of liothyronine sodium for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food and the specific nature of the condition being treated [see Dosage and Administration (2.2 , 2.3 , 2.4 ), Warnings and Precautions (5) , and Drug Interactions (7) ] .
 
-## Liothyronine Sodium: Dosage and administration (part 2 of 3)
+## Liothyronine Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5887,7 +6307,7 @@ Pediatric Patients The recommended starting dosage is 5 mcg once daily, with a 5
 Infants a few months old may require 20 mcg once daily for maintenance.
 At 1 year of age, 50 mcg once daily may be required.
 
-## Liothyronine Sodium: Dosage and administration (part 3 of 3)
+## Liothyronine Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5906,6 +6326,22 @@ Measure serum TSH and free-T4 as soon as pregnancy is confirmed and, at minimum,
 In patients with primary hypothyroidism, maintain serum TSH in the trimester-specific reference range.
 For patients with serum TSH above the normal trimester-specific range, increase the dose of thyroid hormone and measure TSH every 4 weeks until a stable dose is reached and serum TSH is within the normal trimester-specific range.
 
+## Liothyronine Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
+Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
+Retrieved: 2026-10-06
+Keywords: liothyronine sodium, liothyronine, dosage and administration
+
+Reduce thyroid hormone dosage to pre-pregnancy levels immediately after delivery and measure serum TSH levels 4 to 8 weeks postpartum to ensure thyroid hormone dose is appropriate.
+2.3 Recommended Dosage for TSH Suppression in Well-Differentiated Thyroid Cancer The dose of liothyronine sodium should target TSH levels within the desired therapeutic range.
+This may require higher doses, depending on the target level for TSH suppression.
+2.4 Recommended Dosage for Thyroid Suppression Test The recommended dose is 75 mcg to 100 mcg daily for 7 days, with radioactive iodine uptake being determined before and after the 7 day administration of liothyronine sodium.
+If thyroid function is normal, the radioiodine uptake will drop significantly after treatment.
+A 50% or greater suppression of uptake indicates a normal thyroid-pituitary axis.
+2.5 Switching from Levothyroxine to Liothyronine Sodium Liothyronine sodium has a rapid onset of action and residual effects of the other thyroid preparation may persist for the first several weeks after initiating liothyronine sodium therapy.
+When switching a patient to liothyronine sodium, discontinue levothyroxine therapy and initiate liothyronine sodium at a low dosage.
+
 ## Liothyronine Sodium: Contraindications
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5915,7 +6351,7 @@ Keywords: liothyronine sodium, liothyronine, contraindications
 
 4 CONTRAINDICATIONS Liothyronine sodium is contraindicated in patients with uncorrected adrenal insufficiency [see Warnings and Precautions (5.3) ] . Uncorrected adrenal cortical insufficiency ( 4 )
 
-## Liothyronine Sodium: Drug interactions (part 1 of 3)
+## Liothyronine Sodium: Drug interactions (part 1 of 6)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5930,7 +6366,7 @@ Drug or Drug Class Effect Bile Acid Sequestrants -Colesevelam -Cholestyramine -C
 Administer liothyronine sodium at least 4 hours prior to these drugs or monitor TSH levels.
 Table 2:
 
-## Liothyronine Sodium: Drug interactions (part 2 of 3)
+## Liothyronine Sodium: Drug interactions (part 2 of 6)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5946,7 +6382,7 @@ Carbamazepine Furosemide (>80 mg IV) Heparin Hydantoins Non-Steroidal Anti-infla
 Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increased free-T4 fraction in serum.
 Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level.
 
-## Liothyronine Sodium: Drug interactions (part 3 of 3)
+## Liothyronine Sodium: Drug interactions (part 3 of 6)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
 Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
@@ -5966,6 +6402,58 @@ Table 4:
 Drugs That May Decrease Conversion of T4 to T3 Potential impact:
 Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels.
 However, serum T4 levels are usually normal but may occasionally be slightly increased.
+
+## Liothyronine Sodium: Drug interactions (part 4 of 6)
+Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
+Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
+Retrieved: 2026-10-06
+Keywords: liothyronine sodium, liothyronine, drug interactions
+
+Drug or Drug Class Effect Beta-adrenergic antagonists (e.g., Propranolol >160 mg/day) In patients treated with large doses of propranolol (>160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid.
+Actions of particular beta-adrenergic antagonists may be impaired when a hypothyroid patient is converted to the euthyroid state.
+Glucocorticoids (e.g., Dexamethasone ≥4 mg/day) Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels.
+However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above).
+Other drugs:
+Amiodarone Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decreased or normal free-T3) in clinically euthyroid patients.
+7.2 Antidiabetic Therapy Addition of liothyronine sodium therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements.
+Carefully monitor glycemic control, especially when liothyronine sodium is started, changed, or discontinued [see Warnings and Precautions (5.5) ] .
+
+## Liothyronine Sodium: Drug interactions (part 5 of 6)
+Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
+Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
+Retrieved: 2026-10-06
+Keywords: liothyronine sodium, liothyronine, drug interactions
+
+7.3 Oral Anticoagulants Liothyronine sodium increases the response to oral anticoagulant therapy.
+Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the liothyronine sodium dose is increased.
+Closely monitor coagulation tests to permit appropriate and timely dosage adjustments.
+7.4 Digitalis Glycosides Liothyronine sodium may reduce the therapeutic effects of digitalis glycosides.
+Serum digitalis glycoside levels may be decreased when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides.
+7.5 Antidepressant Therapy Concurrent use of tricyclic (e.g., amitriptyline) or tetracyclic (e.g., maprotiline) antidepressants and liothyronine sodium may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines.
+Toxic effects may include increased risk of cardiac arrhythmias and central nervous system stimulation.
+Liothyronine sodium may accelerate the onset of action of tricyclics.
+Administration of sertraline in patients stabilized on liothyronine sodium may result in increased liothyronine sodium requirements.
+
+## Liothyronine Sodium: Drug interactions (part 6 of 6)
+Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
+Label-set-id: 115a84c2-0126-4dd7-816e-1873875f1e49
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=115a84c2-0126-4dd7-816e-1873875f1e49
+Retrieved: 2026-10-06
+Keywords: liothyronine sodium, liothyronine, drug interactions
+
+7.6 Ketamine Concurrent use of ketamine and liothyronine sodium may produce marked hypertension and tachycardia.
+Closely monitor blood pressure and heart rate in these patients.
+7.7 Sympathomimetics Concurrent use of sympathomimetics and liothyronine sodium may increase the effects of sympathomimetics or thyroid hormone.
+Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease.
+7.8 Tyrosine-Kinase Inhibitors Concurrent use of tyrosine-kinase inhibitors such as imatinib may cause hypothyroidism.
+Closely monitor TSH levels in such patients.
+7.9 Drug-Laboratory Test Interactions Consider changes in TBG concentration when interpreting T4 and T3 values.
+Measure and evaluate unbound (free) hormone in this circumstance.
+Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentrations.
+Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens and corticosteroids decrease TBG concentration.
+Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
 
 ## Liothyronine Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Liothyronine Sodium (Mylan Pharmaceuticals Inc.), effective 2026-06-04
@@ -6439,7 +6927,7 @@ Keywords: atorvastatin calcium, atorvastatin, contraindications
 
 4 CONTRAINDICATIONS Acute liver failure or decompensated cirrhosis [see Warnings and Precautions ( 5.3 )] Hypersensitivity to atorvastatin or any excipients in atorvastatin calcium. Hypersensitivity reactions, including anaphylaxis, angioneurotic edema, erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis, have been reported [see Adverse Reactions ( 6.2 )]. Acute liver failure or decompensated cirrhosis ( 4) . Hypersensitivity to atorvastatin or any excipient in atorvastatin calcium ( 4 ).
 
-## Atorvastatin Calcium: Drug interactions (part 1 of 3)
+## Atorvastatin Calcium: Drug interactions (part 1 of 7)
 Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
 Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
@@ -6459,7 +6947,7 @@ Atorvastatin calcium plasma levels can be significantly increased with concomita
 Table 2 includes a list of drugs that may increase exposure to atorvastatin calcium and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology ( 12.3 )].
 Table 2:
 
-## Atorvastatin Calcium: Drug interactions (part 2 of 3)
+## Atorvastatin Calcium: Drug interactions (part 2 of 7)
 Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
 Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
@@ -6478,7 +6966,7 @@ Cases of myopathy and rhabdomyolysis have been reported with concomitant use of 
 Intervention:
 Concomitant use of tipranavir plus ritonavir or glecaprevir plus pibrentasvir with atorvastatin calcium is not recommended.
 
-## Atorvastatin Calcium: Drug interactions (part 3 of 3)
+## Atorvastatin Calcium: Drug interactions (part 3 of 7)
 Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
 Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
@@ -6494,6 +6982,81 @@ Examples:
 Tipranavir plus ritonavir, glecaprevir plus pibrentasvir, lopinavir plus ritonavir, simeprevir, saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir, nelfinavir, and ledipasvir plus sofosbuvir.
 Select Azole Antifungals or Macrolide Antibiotics Clinical Impact:
 Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin calcium with select azole antifungals or macrolide antibiotics, due to inhibition of CYP3A4 and/or transporters [see Clinical Pharmacology ( 12.3 )].
+
+## Atorvastatin Calcium: Drug interactions (part 4 of 7)
+Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
+Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
+Retrieved: 2026-10-06
+Keywords: atorvastatin calcium, atorvastatin, drug interactions
+
+Intervention:
+In patients taking clarithromycin or itraconazole, do not exceed atorvastatin calcium 20 mg [see Dosage and Administration ( 2.5 )].
+Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with atorvastatin calcium.
+Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug.
+Examples:
+Erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole.
+Niacin Clinical Impact:
+Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (≥1 gram/day niacin) with atorvastatin calcium.
+Intervention:
+Consider if the benefit of using lipid modifying dosages of niacin concomitantly with atorvastatin calcium outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug.
+Fibrates (other than Gemfibrozil) Clinical Impact:
+Fibrates may cause myopathy when given alone.
+The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with atorvastatin calcium.
+Intervention:
+
+## Atorvastatin Calcium: Drug interactions (part 5 of 7)
+Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
+Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
+Retrieved: 2026-10-06
+Keywords: atorvastatin calcium, atorvastatin, drug interactions
+
+Consider if the benefit of using fibrates concomitantly with atorvastatin calcium outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug.
+Colchicine Clinical Impact:
+Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with atorvastatin calcium.
+Intervention:
+Consider the risk/benefit of concomitant use of colchicine with atorvastatin calcium.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug.
+Grapefruit Juice Clinical Impact:
+Grapefruit juice consumption, especially excessive consumption, more than 1.2 liters/daily, can raise the plasma levels of atorvastatin and may increase the risk of myopathy and rhabdomyolysis.
+Intervention:
+Avoid intake of large quantities of grapefruit juice, more than 1.2 liters daily, when taking atorvastatin calcium.
+
+## Atorvastatin Calcium: Drug interactions (part 6 of 7)
+Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
+Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
+Retrieved: 2026-10-06
+Keywords: atorvastatin calcium, atorvastatin, drug interactions
+
+7.2 Drug Interactions that may Decrease Exposure to atorvastatin calcium Table 3 presents drug interactions that may decrease exposure to atorvastatin calcium and instructions for preventing or managing them.
+Table 3:
+Drug Interactions that may Decrease Exposure to atorvastatin calcium Rifampin Clinical Impact:
+Concomitant administration of atorvastatin calcium with rifampin, an inducer of cytochrome P450 3A4 and inhibitor of OATP1B1, can lead to variable reductions in plasma concentrations of atorvastatin.
+Due to the dual interaction mechanism of rifampin, delayed administration of atorvastatin calcium after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
+Intervention:
+Administer atorvastatin calcium and rifampin simultaneously.
+7.3 Atorvastatin calcium Effects on Other Drugs Table 4 presents atorvastatin’s calcium effect on other drugs and instructions for preventing or managing them.
+Table 4:
+Atorvastatin calcium Effects on Other Drugs Oral Contraceptives Clinical Impact:
+Co-administration of atorvastatin calcium and an oral contraceptive increased plasma concentrations of norethindrone and ethinyl estradiol [see Clinical Pharmacology ( 12.3 )].
+Intervention:
+
+## Atorvastatin Calcium: Drug interactions (part 7 of 7)
+Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
+Label-set-id: 09cb8375-075c-47e8-a4eb-8ac667ed849e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=09cb8375-075c-47e8-a4eb-8ac667ed849e
+Retrieved: 2026-10-06
+Keywords: atorvastatin calcium, atorvastatin, drug interactions
+
+Consider this when selecting an oral contraceptive for patients taking atorvastatin calcium.
+Digoxin Clinical Impact:
+When multiple doses of atorvastatin calcium and digoxin were co-administered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology ( 12.3 )].
+Intervention:
+Monitor patients taking digoxin appropriately.
 
 ## Atorvastatin Calcium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Atorvastatin Calcium (REMEDYREPACK INC.), effective 2026-07-31
@@ -6705,7 +7268,7 @@ Keywords: simvastatin, contraindications, hmg-coa reductase inhibitor [epc], hyd
 
 4 CONTRAINDICATIONS Simvastatin is contraindicated in the following conditions: Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) [see DRUG INTERACTIONS ( 7.1 )]. Concomitant use of cyclosporine, danazol or gemfibrozil [see DRUG INTERACTIONS ( 7.1 )]. Acute liver failure or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failure or decompensated cirrhosis ( 4 , 5.3 ) Hypersensitivity to simvastatin or any excipient in simvastatin tablets USP ( 4 , 6.2 )
 
-## Simvastatin: Drug interactions (part 1 of 3)
+## Simvastatin: Drug interactions (part 1 of 6)
 Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
 Label-set-id: 0ccb324f-877d-4f32-a769-7cd1637b7fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ccb324f-877d-4f32-a769-7cd1637b7fad
@@ -6724,7 +7287,7 @@ Table 2:
 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simvastatin Strong CYP3A4 inhibitors Clinical Impact:
 Simvastatin is a substrate of CYP3A4.
 
-## Simvastatin: Drug interactions (part 2 of 3)
+## Simvastatin: Drug interactions (part 2 of 6)
 Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
 Label-set-id: 0ccb324f-877d-4f32-a769-7cd1637b7fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ccb324f-877d-4f32-a769-7cd1637b7fad
@@ -6744,7 +7307,7 @@ Intervention:
 Concomitant use of cyclosporine, danazol, or gemfibrozil with simvastatin is contraindicated [see CONTRAINDICATIONS ( 4 )] .
 Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers Clinical Impact:
 
-## Simvastatin: Drug interactions (part 3 of 3)
+## Simvastatin: Drug interactions (part 3 of 6)
 Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
 Label-set-id: 0ccb324f-877d-4f32-a769-7cd1637b7fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ccb324f-877d-4f32-a769-7cd1637b7fad
@@ -6764,6 +7327,67 @@ Daptomycin Clinical Impact:
 Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin.
 Both simvastatin and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration.
 Intervention:
+
+## Simvastatin: Drug interactions (part 4 of 6)
+Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
+Label-set-id: 0ccb324f-877d-4f32-a769-7cd1637b7fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ccb324f-877d-4f32-a769-7cd1637b7fad
+Retrieved: 2026-10-06
+Keywords: simvastatin, drug interactions, hmg-coa reductase inhibitor [epc], hydroxymethylglutaryl-coa reductase inhibitors [moa]
+
+If treatment with daptomycin is required, consider temporarily suspending simvastatin during the course of daptomycin treatment.
+Niacin Clinical Impact:
+Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin-containing products (≥1 gram/day niacin) with simvastatin.
+The risk of myopathy is greater in Chinese patients.
+In a clinical study (median follow-up 3.9 years) of patients at high risk of CVD and with well-controlled LDL-C levels on simvastatin 40 mg/day with or without ezetimibe 10 mg/day, there was no incremental benefit on cardiovascular outcomes with the addition of lipid-modifying doses of niacin.
+Intervention:
+Concomitant use of simvastatin with lipid-modifying dosages of niacin is not recommended in Chinese patients [see USE IN SPECIFIC POPULATIONS ( 8.8 )].
+For non-Chinese patients, consider if the benefit of using lipid-modifying doses of niacin concomitantly with simvastatin outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Fibrates (other than Gemfibrozil) Clinical Impact:
+Fibrates may cause myopathy when given alone.
+
+## Simvastatin: Drug interactions (part 5 of 6)
+Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
+Label-set-id: 0ccb324f-877d-4f32-a769-7cd1637b7fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ccb324f-877d-4f32-a769-7cd1637b7fad
+Retrieved: 2026-10-06
+Keywords: simvastatin, drug interactions, hmg-coa reductase inhibitor [epc], hydroxymethylglutaryl-coa reductase inhibitors [moa]
+
+The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with simvastatin.
+Intervention :
+Consider if the benefit of using fibrates concomitantly with simvastatin outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Colchicine Clinical Impact:
+Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with simvastatin.
+Intervention:
+Consider if the benefit of using colchicine concomitantly with simvastatin outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Grapefruit Juice Clinical Impact:
+Grapefruit juice can raise the plasma levels of simvastatin and may increase the risk of myopathy and rhabdomyolysis.
+Intervention:
+Avoid grapefruit juice when taking simvastatin.
+7.2 Simvastatin Effects on Other Drugs Table 3 presents Simvastatin's effect on other drugs and instructions for preventing or managing them.
+Table 3:
+
+## Simvastatin: Drug interactions (part 6 of 6)
+Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
+Label-set-id: 0ccb324f-877d-4f32-a769-7cd1637b7fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ccb324f-877d-4f32-a769-7cd1637b7fad
+Retrieved: 2026-10-06
+Keywords: simvastatin, drug interactions, hmg-coa reductase inhibitor [epc], hydroxymethylglutaryl-coa reductase inhibitors [moa]
+
+Simvastatin Effects on Other Drugs Coumarin Anticoagulants Clinical Impact:
+Simvastatin may potentiate the effect of coumarin anticoagulants and increase the INR.
+The concomitant use of simvastatin (20 to 40 mg) and coumarin anticoagulants increased the INR from a baseline of 1.7 to 1.8 in healthy subjects and from 2.6 to 3.4 in patients with hyperlipidemia.
+There are postmarketing reports of clinically evident bleeding and/or increased INR in patients taking concomitant statins and warfarin.
+Intervention:
+In patients taking coumarin anticoagulants, obtain an INR before starting simvastatin and frequently enough after initiation, dose titration, or discontinuation to ensure that no significant alteration in INR occurs.
+Once the INR is stable, monitor INR at regularly recommended intervals.
+Digoxin Clinical Impact:
+Concomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ].
+Intervention:
+Monitor digoxin levels in patients taking digoxin when simvastatin is initiated.
 
 ## Simvastatin: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Simvastatin (A-S Medication Solutions), effective 2026-03-23
@@ -6916,7 +7540,7 @@ As an adjunct to diet for the treatment of adults with:
 Primary dysbetalipoproteinemia.
 Hypertriglyceridemia.
 
-## Rosuvastatin Calcium: Dosage and administration (part 1 of 3)
+## Rosuvastatin Calcium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
@@ -6940,7 +7564,7 @@ Initiate at 5 mg once daily; do not exceed 10 mg once daily.
 ( 2.6 ) 2.1 General Dosage and Administration Information Administer rosuvastatin tablets orally as a single dose at any time of day, with or without food.
 Swallow the tablets whole.
 
-## Rosuvastatin Calcium: Dosage and administration (part 2 of 3)
+## Rosuvastatin Calcium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
@@ -6957,7 +7581,7 @@ The recommended dose of rosuvastatin tablets depends on a patient’s indication
 Dosage in Pediatric Patients 7 Years of Age and Older with HoFH The recommended dosage is 20 mg orally once daily.
 2.4 Dosing in Asian Patients Initiate rosuvastatin tablets at 5 mg once daily due to increased rosuvastatin plasma concentrations.
 
-## Rosuvastatin Calcium: Dosage and administration (part 3 of 3)
+## Rosuvastatin Calcium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
@@ -6976,6 +7600,23 @@ Capmatinib Do not exceed 10 mg once daily.
 Fostamatinib Do not exceed 20 mg once daily.
 Febuxostat Do not exceed 20 mg once daily.
 
+## Rosuvastatin Calcium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
+Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, rosuvastatin, dosage and administration
+
+Gemfibrozil Avoid concomitant use.
+If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily.
+Tafamidis Avoid concomitant use.
+If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily.
+Antiviral Medications Sofbuvir/velpatasvir/voxilaprevir Ledipasvir/sofosbuvir Concomitant use not recommended.
+Simeprevir Dasabuvir/ombitasvir/paritaprevir/ritonavir Elbasvir/Grazoprevir Sofosbuvir/Velpatasvir Glecaprevir/Pibrentasvir Atazanavir/Ritonavir Lopinavir/Ritonavir Initiate at 5 mg once daily.
+Do not exceed 10 mg once daily.
+Darolutamide Do not exceed 5 mg once daily.
+Regorafenib Do not exceed 10 mg once daily.
+
 ## Rosuvastatin Calcium: Contraindications
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
@@ -6985,7 +7626,7 @@ Keywords: rosuvastatin calcium, rosuvastatin, contraindications
 
 4 CONTRAINDICATIONS Rosuvastatin tablets is contraindicated in the following conditions: • Acute liver failure or decompensated cirrhosis [see Warnings and Precautions (5.3) ]. • Hypersensitivity to rosuvastatin or any excipients in rosuvastatin tablets. Hypersensitivity reactions including rash, pruritus, urticaria, and angioedema have been reported with rosuvastatin tablets [see Adverse Reactions (6.1) ]. Acute liver failure or decompensated cirrhosis. ( 4 ) Hypersensitivity to rosuvastatin or any excipients in rosuvastatin tablets ( 4 )
 
-## Rosuvastatin Calcium: Drug interactions (part 1 of 3)
+## Rosuvastatin Calcium: Drug interactions (part 1 of 7)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
@@ -7005,7 +7646,7 @@ Table 5:
 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Rosuvastatin Tablets Cyclosporine Clinical Impact:
 Cyclosporine increased rosuvastatin exposure 7-fold.
 
-## Rosuvastatin Calcium: Drug interactions (part 2 of 3)
+## Rosuvastatin Calcium: Drug interactions (part 2 of 7)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
@@ -7035,7 +7676,7 @@ Fostamatinib increased rosuvastatin exposure more than 2.0-fold.
 The risk of myopathy and rhabdomyolysis is increased with concomitant use.
 Intervention:
 
-## Rosuvastatin Calcium: Drug interactions (part 3 of 3)
+## Rosuvastatin Calcium: Drug interactions (part 3 of 7)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
 Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
@@ -7059,6 +7700,89 @@ Tafamidis significantly increased rosuvastatin exposure and tafamidis may cause 
 The risk of myopathy and rhabdomyolysis is increased with concomitant use of tafamidis with rosuvastatin tablets.
 Intervention:
 Avoid concomitant use of tafamidis with rosuvastatin tablets.
+
+## Rosuvastatin Calcium: Drug interactions (part 4 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
+Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, rosuvastatin, drug interactions
+
+If used concomitantly, initiate rosuvastatin tablets at 5 mg once daily and do not exceed a dose of rosuvastatin tablets 20 mg once daily.
+Monitor for signs of myopathy and rhabdomyolysis if used concomitantly with rosuvastatin tablets.
+Anti-Viral Medications Clinical Impact:
+Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis.
+Intervention:
+Sofosbuvir/velpatasvir/voxilaprevir Ledipasvir/sofosbuvir Avoid concomitant use with rosuvastatin tablets.
+Simeprevir Dasabuvir/ombitasvir/paritaprevir/ritonavir Elbasvir/grazoprevir Sofosbuvir/velpatasvir Glecaprevir/pibrentasvir Atazanavir/ritonavir Lopinavir/ritonavir Initiate with rosuvastatin tablets 5 mg once daily, and do not exceed a dose of rosuvastatin tablets 10 mg once daily.
+Darolutamide Clinical Impact:
+Darolutamide increased rosuvastatin exposure more than 5-fold.
+The risk of myopathy and rhabdomyolysis is increased with concomitant use.
+Intervention:
+In patients taking darolutamide, do not exceed a dose of rosuvastatin tablets 5 mg once daily.
+Regorafenib Clinical Impact:
+Regorafenib increased rosuvastatin exposure and may increase the risk of myopathy.
+Intervention:
+
+## Rosuvastatin Calcium: Drug interactions (part 5 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
+Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, rosuvastatin, drug interactions
+
+In patients taking regorafenib, do not exceed a dose of rosuvastatin tablets 10 mg once daily.
+Fenofibrates (e.g., fenofibrate and fenofibric acid) Clinical Impact:
+Fibrates may cause myopathy when given alone.
+The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with rosuvastatin tablets.
+Intervention:
+Consider if the benefit of using fibrates concomitantly with rosuvastatin tablets outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Niacin Clinical Impact:
+Cases of myopathy and rhabdomyolysis have occurred with concomitant use of lipid-modifying doses (≥1 g/day) of niacin with rosuvastatin tablets.
+Intervention:
+Consider if the benefit of using lipid-modifying doses (≥1 g/day) of niacin concomitantly with rosuvastatin tablets outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Colchicine Clinical Impact:
+
+## Rosuvastatin Calcium: Drug interactions (part 6 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
+Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, rosuvastatin, drug interactions
+
+Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with rosuvastatin tablets.
+Intervention:
+Consider if the benefit of using colchicine concomitantly with rosuvastatin tablets outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Ticagrelor Clinical Impact:
+Concomitant use of rosuvastatin tablets and ticagrelor has been shown to increase rosuvastatin concentrations, which may result in increased risk of myopathy.
+Cases of myopathy and rhabdomyolysis have been reported in patients using both products concomitantly.
+Cases have occurred more frequently in patients taking 40 mg of rosuvastatin.
+Intervention:
+In patients taking concomitant ticagrelor, especially those with additional risk factors for myopathy and rhabdomyolysis, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of rosuvastatin tablets.
+
+## Rosuvastatin Calcium: Drug interactions (part 7 of 7)
+Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
+Label-set-id: 23cc6801-f296-494e-b737-6d7c6df092c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3
+Retrieved: 2026-10-06
+Keywords: rosuvastatin calcium, rosuvastatin, drug interactions
+
+7.2 Drug Interactions that Decrease the Efficacy of Rosuvastatin Tablets Table 6 presents drug interactions that may decrease the efficacy of rosuvastatin tablets and instructions for preventing or managing them.
+Table 6:
+Drug Interactions that Decrease the Efficacy of Rosuvastatin Tablets Antacids Clinical Impact:
+Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology (12.3) ] .
+Intervention:
+In patients taking antacid, administer rosuvastatin tablets at least 2 hours before the antacid .
+7.3 Rosuvastatin Tablets Effects on Other Drugs Table 7 presents rosuvastatin tablets’s effect on other drugs and instructions for preventing or managing them.
+Table 7:
+Rosuvastatin Tablets Effects on Other Drugs Warfarin Clinical Impact:
+Rosuvastatin significantly increased the INR in patients receiving warfarin [see Clinical Pharmacology (12.3) ] .
+Intervention:
+In patients taking warfarin, obtain an INR before starting rosuvastatin tablets and frequently enough after initiation, dose titration or discontinuation to ensure that no significant alteration in INR occurs.
+Once the INR is stable, monitor INR at regularly recommended intervals.
 
 ## Rosuvastatin Calcium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Rosuvastatin Calcium (Bryant Ranch Prepack), effective 2026-08-11
@@ -7188,7 +7912,7 @@ Keywords: pravastatin sodium, pravastatin, uses
 
 1 INDICATIONS AND USAGE Pravastatin sodium tablets are indicated: Pravastatin sodium tablets are an HMG-CoA reductase inhibitor (statin) indicated ( 1 ): • To reduce the risk of myocardial infarction, myocardial revascularization procedures, and cardiovascular mortality in adults with elevated low-density lipoprotein cholesterol (LDL-C) without clinically evident coronary heart disease (CHD). • To reduce the risk of coronary death, myocardial infarction, myocardial revascularization procedures, stroke or transient ischemic attack, and slow the progression of coronary atherosclerosis in adults with clinically evident CHD. • As an adjunct to diet to reduce LDL-C in adults with primary hyperlipidemia. • As an adjunct to diet to reduce LDL-C in pediatric patients ages 8 years and older with heterozygous familial hypercholesterolemia (HeFH). • As an adjunct to diet for the treatment of adults with: • Primary dysbetalipoproteinemia. • Hypertriglyceridemia.
 
-## Pravastatin Sodium: Dosage and administration (part 1 of 3)
+## Pravastatin Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7200,7 +7924,7 @@ Keywords: pravastatin sodium, pravastatin, dosage and administration
 Recommended maximum pravastatin sodium tablets dosage is 40 mg once daily.
 () • See full prescribing information for dosage modifications due to drug interactions ( 2.5 , 7 ).
 
-## Pravastatin Sodium: Dosage and administration (part 2 of 3)
+## Pravastatin Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7212,7 +7936,7 @@ Important Dosage and Administration Information • Take pravastatin sodium tabl
 Recommended Dosage in Pediatric Patients 8 Years of Age and Older with HeFH • In pediatric patients aged 8 to 13 years, the recommended dosage is pravastatin sodium tablets 20 mg once daily. • In pediatric patients aged 14 to 18 years, the recommended starting dosage is pravastatin sodium tablets 40 mg once daily.
 2.4 Recommended Dosage in Patients with Renal Impairment • In patients with severe renal impairment, the recommended starting dosage is pravastatin sodium 10 mg once daily.
 
-## Pravastatin Sodium: Dosage and administration (part 3 of 3)
+## Pravastatin Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7223,6 +7947,17 @@ The maximum recommended dosage of pravastatin sodium tablets in patients with se
 2.5 Dosage and Administration Modifications Due to Drug Interactions • In patients taking a bile acid sequestrant, administer pravastatin sodium tablets at least 1 hour before or 4 hours after the bile acid sequestrant [See Drug Interactions ()]. • Concomitant use of pravastatin sodium tablets with the following drugs requires dosage modifications of pravastatin sodium tablets [see Warnings and Precautions ( ) and Drug Interactions ( )] : o Cyclosporine In patients taking cyclosporine, the recommended starting dosage is pravastatin sodium 10 mg once daily.
 The maximum recommended dosage of pravastatin sodium tablets in patients taking cyclosporine is 20 mg once daily.
 
+## Pravastatin Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
+Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
+Retrieved: 2026-10-06
+Keywords: pravastatin sodium, pravastatin, dosage and administration
+
+Important Dosage and Administration Information • Take pravastatin sodium tablets orally once daily as a single dose at any time of the day, with or without food. • For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving pravastatin sodium tablets 80 mg daily, prescribe alternative LDL-C-lowering treatment. • Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating pravastatin sodium tablets, and adjust the dosage if necessary.
+2.2 Recommended Dosage in Adult Patients The recommended starting dosage is pravastatin sodium tablets 40 mg to 80 mg once daily.
+Recommended Dosage in Pediatric Patients 8 Years of Age and Older with HeFH • In pediatric patients aged 8 to 13 years, the recommended dosage is pravastatin sodium tablets 20 mg once daily. • In pediatric patients aged 14 to 18 years, the recommended starting dosage is pravastatin sodium tablets 40 mg once daily.
+
 ## Pravastatin Sodium: Contraindications
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7232,7 +7967,7 @@ Keywords: pravastatin sodium, pravastatin, contraindications
 
 4 CONTRAINDICATIONS Acute liver failure or decompensated cirrhosis [ see Warnings and Precautions () ] . Hypersensitivity to any pravastatin or any excipients in pravastatin sodium tablets. • Hypersensitivity to pravastatin or any excipient in pravastatin sodium tablets () • Acute liver failure or decompensated cirrhosis (, )
 
-## Pravastatin Sodium: Drug interactions (part 1 of 3)
+## Pravastatin Sodium: Drug interactions (part 1 of 7)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7249,7 +7984,7 @@ There is an increased risk of myopathy/rhabdomyolysis when pravastatin Sodium is
 Avoid concomitant use of gemfibrozil with pravastatin sodium.
 Cyclosporine Clinical Impact:
 
-## Pravastatin Sodium: Drug interactions (part 2 of 3)
+## Pravastatin Sodium: Drug interactions (part 2 of 7)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7272,7 +8007,7 @@ Cases of myopathy and rhabdomyolysis have been observed with concomitant use of 
 Intervention:
 Consider if the benefit of using niacin concomitantly with pravastatin sodium outweighs the increased risk of myopathy and rhabdomyolysis.
 
-## Pravastatin Sodium: Drug interactions (part 3 of 3)
+## Pravastatin Sodium: Drug interactions (part 3 of 7)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
 Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
@@ -7291,6 +8026,81 @@ Cases of myopathy and rhabdomyolysis have been reported with concomitant use of 
 Intervention:
 Consider if the benefit of using colchicine concomitantly with pravastatin sodium outweighs the increased risk of myopathy and rhabdomyolysis.
 If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+
+## Pravastatin Sodium: Drug interactions (part 4 of 7)
+Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
+Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
+Retrieved: 2026-10-06
+Keywords: pravastatin sodium, pravastatin, drug interactions
+
+7.2 Drug Interactions that Decrease the Efficacy of Pravastatin Sodium Table 4 presents drug interactions that may decrease the efficacy of pravastatin sodium and instructions for preventing or managing them.
+Table 4:
+Drug Interactions that Decrease the Efficacy of Pravastatin Sodium Bile Acid Sequestrants Clinical Impact:
+Concomitant cholestyramine or colestipol administration decreased the mean exposure of pravastatin approximately 51% and 47%, respectively [see Clinical Pharmacology ()].
+Intervention:
+In patients taking a bile acid sequestrant, administer pravastatin sodium at least 1 hour before or at least 4 hours after the bile acid sequestrant [see Dosage and Administration ( Error!
+Hyperlink reference not valid. )].
+7.1 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Pravastatin Sodium Pravastatin sodium is a substrate of the transport protein OATP1B1.
+Pravastatin sodium plasma levels can be significantly increased with concomitant administration of inhibitors of OATP1B1.
+Table 3 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with pravastatin sodium and instructions for preventing or managing them [see Warnings and Precautions ( ) and Clinical Pharmacology ( )].
+Table 3:
+
+## Pravastatin Sodium: Drug interactions (part 5 of 7)
+Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
+Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
+Retrieved: 2026-10-06
+Keywords: pravastatin sodium, pravastatin, drug interactions
+
+Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Pravastatin Sodium Gemfibrozil Clinical Impact:
+There is an increased risk of myopathy/rhabdomyolysis when pravastatin Sodium is administered with gemfibrozil Intervention:
+Avoid concomitant use of gemfibrozil with pravastatin sodium.
+Cyclosporine Clinical Impact:
+The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine with pravastatin sodium.
+Intervention:
+Initiate with a dosage of pravastatin sodium 10 mg once daily.
+Do not exceed pravastatin sodium 20 mg once daily [see Dosage and Administration ( Error!
+Hyperlink reference not valid. )].
+Select Macrolide Antibiotics Clinical Impact:
+The risk of myopathy and rhabdomyolysis is increased by concomitant use of clarithromycin or erythromycin with pravastatin sodium.
+Other macrolides (e.g., azithromycin) have the potential to increase pravastatin sodium exposures and increase the risk of myopathy and rhabdomyolysis when used concomintantly.
+Intervention:
+For patients taking erythromycin or clarithromycin, do not exceed 40 mg pravastatin sodium once daily [see Dosage and Administration ( Error!
+Hyperlink reference not valid. )].
+Niacin Clinical Impact:
+
+## Pravastatin Sodium: Drug interactions (part 6 of 7)
+Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
+Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
+Retrieved: 2026-10-06
+Keywords: pravastatin sodium, pravastatin, drug interactions
+
+Cases of myopathy and rhabdomyolysis have been observed with concomitant use of niacin with pravastatin sodium.
+Intervention:
+Consider if the benefit of using niacin concomitantly with pravastatin sodium outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Fibrates (other than Gemfibrozil) Clinical Impact:
+Fibrates may cause myopathy when given alone.
+The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with pravastatin sodium.
+Intervention:
+Consider if the benefit of using fibrates concomitantly with pravastatin sodium outweighs the increased risk of myopathy and rhabdomyolysis.
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+Colchicine Clinical Impact:
+Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with pravastatin sodium.
+Intervention:
+Consider if the benefit of using colchicine concomitantly with pravastatin sodium outweighs the increased risk of myopathy and rhabdomyolysis.
+
+## Pravastatin Sodium: Drug interactions (part 7 of 7)
+Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
+Label-set-id: 095ac6fd-fdfb-4207-b15d-8e93bee378c3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=095ac6fd-fdfb-4207-b15d-8e93bee378c3
+Retrieved: 2026-10-06
+Keywords: pravastatin sodium, pravastatin, drug interactions
+
+If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug.
+7.2 Drug Interactions that Decrease the Efficacy of Pravastatin Sodium Table 4 presents drug interactions that may decrease the efficacy of pravastatin sodium and instructions for preventing or managing them. Table 4: Drug Interactions that Decrease the Efficacy of Pravastatin Sodium Bile Acid Sequestrants Clinical Impact: Concomitant cholestyramine or colestipol administration decreased the mean exposure of pravastatin approximately 51% and 47%, respectively [see Clinical Pharmacology ()]. Intervention: In patients taking a bile acid sequestrant, administer pravastatin sodium at least 1 hour before or at least 4 hours after the bile acid sequestrant [see Dosage and Administration ( Error! Hyperlink reference not valid. )].
 
 ## Pravastatin Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Pravastatin Sodium (Preferred Pharmaceuticals Inc.), effective 2026-08-17
@@ -7501,7 +8311,7 @@ Keywords: lovastatin, contraindications, hmg-coa reductase inhibitor [epc], hydr
 Lovastatin should be administered to women of childbearing age only when such patients are highly unlikely to conceive.
 If the patient becomes pregnant while taking this drug, lovastatin should be discontinued immediately and the patient should be apprised of the potential hazard to the fetus (see PRECAUTIONS , Pregnancy ).
 
-## Lovastatin: Drug interactions (part 1 of 3)
+## Lovastatin: Drug interactions (part 1 of 4)
 Source: FDA drug label, Lovastatin (Preferred Pharmaceuticals Inc.), effective 2026-06-03
 Label-set-id: 56680dfa-abe6-4587-b222-364315fd78f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56680dfa-abe6-4587-b222-364315fd78f4
@@ -7516,7 +8326,7 @@ Gemfibrozil Other fibrates Niacin (nicotinic acid) (≥1 g/day) Other drug inter
 The risk of myopathy/rhabdomyolysis is increased by concomitant administration of cyclosporine (see WARNINGS , Myopathy/Rhabdomyolysis ).
 Danazol, Diltiazem, Dronedarone, or Verapamil:
 
-## Lovastatin: Drug interactions (part 2 of 3)
+## Lovastatin: Drug interactions (part 2 of 4)
 Source: FDA drug label, Lovastatin (Preferred Pharmaceuticals Inc.), effective 2026-06-03
 Label-set-id: 56680dfa-abe6-4587-b222-364315fd78f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56680dfa-abe6-4587-b222-364315fd78f4
@@ -7533,7 +8343,7 @@ However, another HMG-CoA reductase inhibitor has been found to produce a less th
 Also, bleeding and/or increased prothrombin time have been reported in a few patients taking coumarin anticoagulants concomitantly with lovastatin.
 It is recommended that in patients taking anticoagulants, prothrombin time be determined before starting lovastatin and frequently enough during early therapy to insure that no significant alteration of prothrombin time occurs.
 
-## Lovastatin: Drug interactions (part 3 of 3)
+## Lovastatin: Drug interactions (part 3 of 4)
 Source: FDA drug label, Lovastatin (Preferred Pharmaceuticals Inc.), effective 2026-06-03
 Label-set-id: 56680dfa-abe6-4587-b222-364315fd78f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56680dfa-abe6-4587-b222-364315fd78f4
@@ -7554,6 +8364,15 @@ In normal volunteers, there was no clinically significant pharmacokinetic or pha
 Digoxin:
 In patients with hypercholesterolemia, concomitant administration of lovastatin and digoxin resulted in no effect on digoxin plasma concentrations.
 Oral Hypoglycemic Agents:
+
+## Lovastatin: Drug interactions (part 4 of 4)
+Source: FDA drug label, Lovastatin (Preferred Pharmaceuticals Inc.), effective 2026-06-03
+Label-set-id: 56680dfa-abe6-4587-b222-364315fd78f4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56680dfa-abe6-4587-b222-364315fd78f4
+Retrieved: 2026-10-06
+Keywords: lovastatin, drug interactions, hmg-coa reductase inhibitor [epc], hydroxymethylglutaryl-coa reductase inhibitors [moa]
+
+In pharmacokinetic studies of lovastatin in hypercholesterolemic non-insulin dependent diabetic patients, there was no drug interaction with glipizide or with chlorpropamide (see CLINICAL PHARMACOLOGY , Clinical Studies ).
 
 ## Lovastatin: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Lovastatin (Preferred Pharmaceuticals Inc.), effective 2026-06-03
@@ -8179,7 +8998,7 @@ Keywords: gemfibrozil, contraindications, peroxisome proliferator receptor alpha
 
 CONTRAINDICATIONS Hepatic or severe renal dysfunction, including primary biliary cirrhosis. Preexisting gallbladder disease (see WARNINGS ). Hypersensitivity to gemfibrozil. Combination therapy of gemfibrozil with simvastatin (see WARNINGS and PRECAUTIONS ). Combination therapy of gemfibrozil with repaglinide (see PRECAUTIONS ). Combination therapy of gemfibrozil with dasabuvir (see PRECAUTIONS ). Combination therapy of gemfibrozil with selexipag (see PRECAUTIONS ).
 
-## Gemfibrozil: Drug interactions (part 1 of 3)
+## Gemfibrozil: Drug interactions (part 1 of 5)
 Source: FDA drug label, Gemfibrozil (A-S Medication Solutions), effective 2023-12-18
 Label-set-id: 4907bbfa-27f4-4569-8957-9704f9c998a0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4907bbfa-27f4-4569-8957-9704f9c998a0
@@ -8201,7 +9020,7 @@ THE DOSAGE OF WARFARIN SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE
 FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY DETERMINED THAT THE PROTHROMBIN LEVEL HAS STABILIZED.
 (C) CYP2C8 Substrates:
 
-## Gemfibrozil: Drug interactions (part 2 of 3)
+## Gemfibrozil: Drug interactions (part 2 of 5)
 Source: FDA drug label, Gemfibrozil (A-S Medication Solutions), effective 2023-12-18
 Label-set-id: 4907bbfa-27f4-4569-8957-9704f9c998a0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4907bbfa-27f4-4569-8957-9704f9c998a0
@@ -8217,7 +9036,7 @@ In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypog
 Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS ).
 Dasabuvir:
 
-## Gemfibrozil: Drug interactions (part 3 of 3)
+## Gemfibrozil: Drug interactions (part 3 of 5)
 Source: FDA drug label, Gemfibrozil (A-S Medication Solutions), effective 2023-12-18
 Label-set-id: 4907bbfa-27f4-4569-8957-9704f9c998a0
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4907bbfa-27f4-4569-8957-9704f9c998a0
@@ -8235,6 +9054,34 @@ In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibroz
 Increased enzalutamide exposure may increase the risk of seizures.
 If co-administration is considered necessary, the dose of enzalutamide should be reduced (see WARNINGS ).
 (D) OATP1B1 substrates:
+
+## Gemfibrozil: Drug interactions (part 4 of 5)
+Source: FDA drug label, Gemfibrozil (A-S Medication Solutions), effective 2023-12-18
+Label-set-id: 4907bbfa-27f4-4569-8957-9704f9c998a0
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4907bbfa-27f4-4569-8957-9704f9c998a0
+Retrieved: 2026-10-06
+Keywords: gemfibrozil, drug interactions, peroxisome proliferator receptor alpha agonist [epc], peroxisome proliferator-activated receptor alpha agonists [moa]
+
+Gemfibrozil is an inhibitor of OATP1B1 transporter and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN-38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
+Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see WARNINGS ).
+Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS ).
+(E) In vitro studies of CYP enzymes, UGTA enzymes and OATP1B1 transporter:
+In vitro studies have shown that gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3 (see WARNINGS ).
+(F) Bile Acid-Binding Resins:
+Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g).
+Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol.
+
+## Gemfibrozil: Drug interactions (part 5 of 5)
+Source: FDA drug label, Gemfibrozil (A-S Medication Solutions), effective 2023-12-18
+Label-set-id: 4907bbfa-27f4-4569-8957-9704f9c998a0
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4907bbfa-27f4-4569-8957-9704f9c998a0
+Retrieved: 2026-10-06
+Keywords: gemfibrozil, drug interactions, peroxisome proliferator receptor alpha agonist [epc], peroxisome proliferator-activated receptor alpha agonists [moa]
+
+(G) Colchicine Myopathy, including rhabdomyolysis, has been reported with chronic administration of colchicine at therapeutic doses.
+Concomitant use of gemfibrozil may potentiate the development of myopathy.
+Patients with renal dysfunction and elderly patients are at increased risk.
+Caution should be excercised when prescribing gemfibrozil with colchicine, especially in elderly patients or patients with renal dysfunction.
 
 ## Gemfibrozil: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Gemfibrozil (A-S Medication Solutions), effective 2023-12-18
@@ -8359,7 +9206,7 @@ The largest and most consistent cardiovascular outcome benefit has been a reduct
 Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
 Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-## Lisinopril: Dosage and administration (part 1 of 3)
+## Lisinopril: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8382,7 +9229,7 @@ Dosage should be adjusted according to blood pressure response.
 The usual dosage range is 20 mg to 40 mg per day administered in a single daily dose.
 Doses up to 80 mg have been used but do not appear to give greater effect.
 
-## Lisinopril: Dosage and administration (part 2 of 3)
+## Lisinopril: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8398,7 +9245,7 @@ Doses above 0.61 mg per kg (or in excess of 40 mg) have not been studied in pedi
 Lisinopril tablets is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m 2 [see Use in Specific Populations (8.4) and Clinical Studies (14.1) ].
 2.2 Heart Failure The recommended starting dose for lisinopril tablets, when used with diuretics and (usually) digitalis as adjunctive therapy for systolic heart failure, is 5 mg once daily.
 
-## Lisinopril: Dosage and administration (part 3 of 3)
+## Lisinopril: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8414,6 +9261,19 @@ Dosing should continue for at least six weeks.
 Initiate therapy with 2.5 mg in patients with a low systolic blood pressure (≤ 120 mmHg and > 100 mmHg) during the first 3 days after the infarct [see Warnings and Precautions (5.4) ] .
 If hypotension occurs (systolic blood pressure ≤ 100 mmHg) a daily maintenance dose of 5 mg may be given with temporary reductions to 2.5 mg if needed.
 
+## Lisinopril: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
+Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
+Retrieved: 2026-10-06
+Keywords: lisinopril, dosage and administration
+
+If prolonged hypotension occurs (systolic blood pressure < 90 mmHg for more than 1 hour) lisinopril tablets should be withdrawn.
+2.4 Dose in Patients with Renal Impairment No dose adjustment of lisinopril tablets is required in patients with creatinine clearance > 30 mL/min.
+In patients with creatinine clearance ≥ 10 mL/min and ≤ 30 mL/min, reduce the initial dose of lisinopril tablets to half of the usual recommended dose i.e., hypertension, 5 mg; systolic heart failure, 2.5 mg and acute MI, 2.5 mg.
+Up titrate as tolerated to a maximum of 40 mg daily.
+For patients on hemodialysis or creatinine clearance < 10 mL/min, the recommended initial dose is 2.5 mg once daily [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3) ] .
+
 ## Lisinopril: Contraindications
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8423,7 +9283,7 @@ Keywords: lisinopril, contraindications
 
 4 CONTRAINDICATIONS Lisinopril tablets are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril). Do not administer lisinopril tablets within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor [see Warnings and Precautions (5.2) ]. Lisinopril tablets are contraindicated in patients with: a history of angioedema or hypersensitivity related to previous treatment with an angiotensin converting enzyme inhibitor hereditary or idiopathic angioedema Do not co-administer aliskiren with lisinopril tablets in patients with diabetes [see Drug Interactions (7.4) ] . Angioedema or a history of hereditary or idiopathic angioedema (4) Hypersensitivity (4) Co-administration of aliskiren with lisinopril in patients with diabetes (4 , 7.4)
 
-## Lisinopril: Drug interactions (part 1 of 3)
+## Lisinopril: Drug interactions (part 1 of 4)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8442,7 +9302,7 @@ Lisinopril attenuates potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) can increase the risk of hyperkalemia.
 Therefore, if concomitant use of such agents is indicated, monitor the patient’s serum potassium frequently.
 
-## Lisinopril: Drug interactions (part 2 of 3)
+## Lisinopril: Drug interactions (part 2 of 4)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8456,7 +9316,7 @@ Monitor renal function periodically in patients receiving lisinopril and NSAID t
 The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
 7.4 Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 
-## Lisinopril: Drug interactions (part 3 of 3)
+## Lisinopril: Drug interactions (part 3 of 4)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
 Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
@@ -8472,6 +9332,16 @@ Avoid use of aliskiren with lisinopril in patients with renal impairment (GFR <6
 7.5 Lithium Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs, which cause elimination of sodium, including ACE inhibitors.
 Lithium toxicity was usually reversible upon discontinuation of lithium and the ACE inhibitor.
 Monitor serum lithium levels during concurrent use.
+
+## Lisinopril: Drug interactions (part 4 of 4)
+Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
+Label-set-id: 0e6364a4-6d66-4151-8197-d45e2a762895
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6364a4-6d66-4151-8197-d45e2a762895
+Retrieved: 2026-10-06
+Keywords: lisinopril, drug interactions
+
+7.6 Gold Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including lisinopril.
+7.7 mTOR Inhibitors Patients taking concomitant mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema. [see Warnings and Precautions (5.2) ] 7.8 Neprilysin Inhibitor Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema [see Warnings and Precautions (5.2) ].
 
 ## Lisinopril: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Lisinopril (Aurobindo Pharma Limited), effective 2026-07-21
@@ -8902,7 +9772,7 @@ For specific advice on goals and management, see published guidelines, such as t
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
 The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
 
-## Ramipril: Dosage and administration (part 1 of 3)
+## Ramipril: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Ramipril (BluePoint Laboratories), effective 2026-09-04
 Label-set-id: 45707435-4fc8-457e-9ff2-02d7be9b4a6e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45707435-4fc8-457e-9ff2-02d7be9b4a6e
@@ -8925,7 +9795,7 @@ See respective sections pertaining to dosage adjustment in special situations (2
 Adjust dose according to blood pressure response.
 The usual maintenance dosage range is 2.5 mg to 20 mg per day administered as a single dose or in two equally divided doses.
 
-## Ramipril: Dosage and administration (part 2 of 3)
+## Ramipril: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Ramipril (BluePoint Laboratories), effective 2026-09-04
 Label-set-id: 45707435-4fc8-457e-9ff2-02d7be9b4a6e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45707435-4fc8-457e-9ff2-02d7be9b4a6e
@@ -8941,7 +9811,7 @@ If the patient is hypertensive or recently post-myocardial infarction, ramipril 
 A patient who becomes hypotensive at this dose may be switched to 1.25 mg twice daily.
 After one week at the starting dose, increase dose (if tolerated) toward a target dose of 5 mg twice daily, with dosage increases being about 3 weeks apart.
 
-## Ramipril: Dosage and administration (part 3 of 3)
+## Ramipril: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Ramipril (BluePoint Laboratories), effective 2026-09-04
 Label-set-id: 45707435-4fc8-457e-9ff2-02d7be9b4a6e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45707435-4fc8-457e-9ff2-02d7be9b4a6e
@@ -8957,6 +9827,22 @@ The ramipril capsule can also be opened and the contents sprinkled on a small am
 To be sure that ramipril is not lost when such a mixture is used, consume the mixture in its entirety.
 The described mixtures can be pre-prepared and stored for up to 24 hours at room temperature or up to 48 hours under refrigeration.
 Concomitant administration of ramipril capsules with potassium supplements, potassium salt substitutes, or potassium-sparing diuretics can lead to increases of serum potassium [see Warnings and Precautions (5.8) ] .
+
+## Ramipril: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Ramipril (BluePoint Laboratories), effective 2026-09-04
+Label-set-id: 45707435-4fc8-457e-9ff2-02d7be9b4a6e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45707435-4fc8-457e-9ff2-02d7be9b4a6e
+Retrieved: 2026-10-06
+Keywords: ramipril, dosage and administration, angiotensin converting enzyme inhibitor [epc], angiotensin-converting enzyme inhibitors [moa]
+
+2.5 Dosage Adjustment Renal Impairment Establish baseline renal function in patients initiating ramipril capsules.
+Usual regimens of therapy with ramipril capsules may be followed in patients with estimated creatinine clearance >40 mL/min.
+However, in patients with worse impairment, 25% of the usual dose of ramipril is expected to produce full therapeutic levels of ramiprilat [see Use in Specific Populations (8.6) ] .
+Hypertension For patients with hypertension and renal impairment, the recommended initial dose is 1.25 mg ramipril capsules once daily.
+Dosage may be titrated upward until blood pressure is controlled or to a maximum total daily dose of 5 mg.
+Heart Failure Post-Myocardial Infarction For patients with heart failure and renal impairment, the recommended initial dose is 1.25 mg ramipril capsules once daily.
+The dose may be increased to 1.25 mg twice daily, and up to a maximum dose of 2.5 mg twice daily depending on clinical response and tolerability.
+Volume Depletion or Renal Artery Stenosis Blood pressure decreases associated with any dose of ramipril capsules depend, in part, on the presence or absence of volume depletion (e.g., past and current diuretic use) or the presence or absence of renal artery stenosis.
 
 ## Ramipril: Contraindications
 Source: FDA drug label, Ramipril (BluePoint Laboratories), effective 2026-09-04
@@ -9724,7 +10610,7 @@ For specific advice on goals and management, see published guidelines, such as t
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
 The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
 
-## Valsartan: Dosage and administration (part 1 of 3)
+## Valsartan: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Valsartan (Macleods Pharmaceuticals Limited), effective 2026-08-05
 Label-set-id: 251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
@@ -9737,7 +10623,7 @@ The systemic exposure to valsartan (AUC) is 60% higher with the suspension compa
 Use of the oral suspension is recommended: • in patients ≥ 6 years of age who cannot swallow tablets and • in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan tablets.
 When switching between suspension and tablets, the dose of valsartan may need to be adjusted.
 
-## Valsartan: Dosage and administration (part 2 of 3)
+## Valsartan: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Valsartan (Macleods Pharmaceuticals Limited), effective 2026-08-05
 Label-set-id: 251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
@@ -9748,7 +10634,7 @@ Preparation of Suspension (for 160 mL of a 4 mg/mL suspension) • Add 80 mL of 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
-## Valsartan: Dosage and administration (part 3 of 3)
+## Valsartan: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Valsartan (Macleods Pharmaceuticals Limited), effective 2026-08-05
 Label-set-id: 251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
@@ -9765,6 +10651,24 @@ Valsartan tablets may be administered with other antihypertensive agents.
 2.3 Pediatric Hypertension 6 to 16 Years of Age The usual recommended starting dose is 1 mg/kg once daily (up to 40 mg total).
 A higher starting dose of 2 mg/kg may be considered in selected cases when a greater reduction of blood pressure is needed.
 The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 4 mg/kg once daily (maximum daily dose 160 mg).
+
+## Valsartan: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Valsartan (Macleods Pharmaceuticals Limited), effective 2026-08-05
+Label-set-id: 251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=251ccff4-bf86-453b-9d1c-e3c1ecfd3a46
+Retrieved: 2026-10-06
+Keywords: valsartan, dosage and administration, angiotensin 2 receptor blocker [epc], angiotensin 2 receptor antagonists [moa]
+
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m 2 [see Use in Specific Populations ( 8.4 )].
+Use of valsartan tablets is not recommended in children less than 1 year of age [see Adverse Reactions ( 6.1 ), Pediatric Use in Specific Populations ( 8.4 ), Nonclinical Toxicology ( 13.2 ) ].
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+2.4 Heart Failure The recommended starting dose of valsartan tablets is 40 mg twice daily.
+Uptitrate to 80 mg and 160 mg twice daily or to the highest dose tolerated by the patient.
+Consider reducing the dose of concomitant diuretics.
+The maximum daily dose administered in clinical trials is 320 mg in divided doses.
+2.5 Post-Myocardial Infarction Valsartan tablets may be initiated as early as 12 hours after a myocardial infarction.
+The recommended starting dose of valsartan tablets is 20 mg twice daily.
 
 ## Valsartan: Contraindications
 Source: FDA drug label, Valsartan (Macleods Pharmaceuticals Limited), effective 2026-08-05
@@ -11858,7 +12762,7 @@ The largest and most consistent cardiovascular outcome benefit has been a reduct
 Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
 Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-## Atenolol: Dosage and administration (part 1 of 3)
+## Atenolol: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Atenolol (Aphena Pharma Solutions - Tennessee, LLC), effective 2024-10-22
 Label-set-id: 23e96396-85d3-0d8e-e063-6394a90a614d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23e96396-85d3-0d8e-e063-6394a90a614d
@@ -11876,7 +12780,7 @@ Some patients may require a dosage of 200 mg once a day for optimal effect.
 Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect.
 The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
 
-## Atenolol: Dosage and administration (part 2 of 3)
+## Atenolol: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Atenolol (Aphena Pharma Solutions - Tennessee, LLC), effective 2024-10-22
 Label-set-id: 23e96396-85d3-0d8e-e063-6394a90a614d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23e96396-85d3-0d8e-e063-6394a90a614d
@@ -11892,7 +12796,7 @@ These admixtures are stable for 48 hours if they are not used immediately.
 In patients who tolerate the full intravenous dose (10 mg), atenolol tablets, 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
 Thereafter, atenolol tablets can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
 
-## Atenolol: Dosage and administration (part 3 of 3)
+## Atenolol: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Atenolol (Aphena Pharma Solutions - Tennessee, LLC), effective 2024-10-22
 Label-set-id: 23e96396-85d3-0d8e-e063-6394a90a614d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23e96396-85d3-0d8e-e063-6394a90a614d
@@ -11904,6 +12808,23 @@ Data from other beta-blocker trials suggest that if there is any question concer
 Although the demonstration of efficacy of atenolol tablets is based entirely on data from the first seven postinfarction days, data from other beta-blocker trials suggest that treatment with beta-blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
 Atenolol tablets are an additional treatment to standard coronary care unit therapy.
 Elderly Patients or Patients With Renal Impairment Atenolol tablets are excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function.
+
+## Atenolol: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Atenolol (Aphena Pharma Solutions - Tennessee, LLC), effective 2024-10-22
+Label-set-id: 23e96396-85d3-0d8e-e063-6394a90a614d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23e96396-85d3-0d8e-e063-6394a90a614d
+Retrieved: 2026-10-06
+Keywords: atenolol, dosage and administration, beta-adrenergic blocker [epc], adrenergic beta-antagonists [moa]
+
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
+Atenolol excretion would be expected to decrease with advancing age.
+No significant accumulation of atenolol tablets occurs until creatinine clearance falls below 35 mL/min/1.73 m 2 .
+Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 mL/min and 105 mL/min.
+Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
+The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:
+Creatinine Clearance (mL/min/1.73 m 2 ) Atenolol Elimination Half-Life (h) Maximum Dosage 15 to 35 16 to 27 50 mg daily < 15 > 27 25 mg daily Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of atenolol tablets:
+25 mg given as one tablet a day.
 
 ## Atenolol: Contraindications
 Source: FDA drug label, Atenolol (Aphena Pharma Solutions - Tennessee, LLC), effective 2024-10-22
@@ -12076,7 +12997,7 @@ Keywords: carvedilol, coreg, uses, alpha-adrenergic blocker [epc], beta-adrenerg
 
 1. INDICATIONS AND USAGE COREG is an alpha-/beta-adrenergic blocking agent indicated for the treatment of: mild to severe chronic heart failure ( 1.1 ) left ventricular dysfunction following myocardial infarction in clinically stable patients ( 1.2 ) hypertension ( 1.3 ) 1.1 Heart Failure COREG is indicated for the treatment of mild-to-severe chronic heart failure of ischemic or cardiomyopathic origin, usually in addition to diuretics, ACE inhibitors, and digitalis, to increase survival and, also, to reduce the risk of hospitalization [see Drug Interactions (7.4) , Clinical Studies (14.1) ]. 1.2 Left Ventricular Dysfunction following Myocardial Infarction COREG is indicated to reduce cardiovascular mortality in clinically stable patients who have survived the acute phase of a myocardial infarction and have a left ventricular ejection fraction of less than or equal to 40% (with or without symptomatic heart failure) [see Clinical Studies (14.2) ]. 1.3 Hypertension COREG is indicated for the management of essential hypertension [see Clinical Studies (14.3 , 14.4) ]. It can be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics [see Drug Interactions (7.2) ].
 
-## Carvedilol: Dosage and administration (part 1 of 3)
+## Carvedilol: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
 Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
@@ -12099,7 +13020,7 @@ Prior to initiation of COREG, it is recommended that fluid retention be minimize
 The recommended starting dose of COREG is 3.125 mg twice daily for 2 weeks.
 If tolerated, patients may have their dose increased to 6.25, 12.5, and 25 mg twice daily over successive intervals of at least 2 weeks.
 
-## Carvedilol: Dosage and administration (part 2 of 3)
+## Carvedilol: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
 Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
@@ -12115,7 +13036,7 @@ The dose of COREG should not be increased until symptoms of worsening heart fail
 Fluid retention (with or without transient worsening heart failure symptoms) should be treated by an increase in the dose of diuretics.
 The dose of COREG should be reduced if patients experience bradycardia (heart rate less than 55 beats per minute).
 
-## Carvedilol: Dosage and administration (part 3 of 3)
+## Carvedilol: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
 Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
@@ -12131,6 +13052,20 @@ Patients should be maintained on lower doses if higher doses are not tolerated.
 The recommended dosing regimen need not be altered in patients who received treatment with an IV or oral β-blocker during the acute phase of the myocardial infarction.
 2.3 Hypertension DOSAGE MUST BE INDIVIDUALIZED.
 The recommended starting dose of COREG is 6.25 mg twice daily.
+
+## Carvedilol: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
+Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
+Retrieved: 2026-10-06
+Keywords: carvedilol, coreg, dosage and administration, alpha-adrenergic blocker [epc], beta-adrenergic blocker [epc], adrenergic alpha-antagonists [moa], adrenergic beta1-antagonists [moa], adrenergic beta2-antagonists [moa]
+
+If this dose is tolerated, using standing systolic pressure measured about 1 hour after dosing as a guide, the dose should be maintained for 7 to 14 days, and then increased to 12.5 mg twice daily if needed, based on trough blood pressure, again using standing systolic pressure 1 hour after dosing as a guide for tolerance.
+This dose should also be maintained for 7 to 14 days and can then be adjusted upward to 25 mg twice daily if tolerated and needed.
+The full antihypertensive effect of COREG is seen within 7 to 14 days.
+Total daily dose should not exceed 50 mg.
+Concomitant administration with a diuretic can be expected to produce additive effects and exaggerate the orthostatic component of carvedilol action.
+2.4 Hepatic Impairment COREG should not be given to patients with severe hepatic impairment [see Contraindications (4) ].
 
 ## Carvedilol: Contraindications (part 1 of 2)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
@@ -12165,7 +13100,7 @@ Keywords: carvedilol, coreg, contraindications, alpha-adrenergic blocker [epc], 
 (4) Severe hepatic impairment ( 2.4 , 4 ) History of serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema) to any component of this medication or other medications containing carvedilol.
 ( 4 )
 
-## Carvedilol: Drug interactions (part 1 of 3)
+## Carvedilol: Drug interactions (part 1 of 4)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
 Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
@@ -12182,7 +13117,7 @@ Concomitant use can increase the risk of bradycardia.
 ( 7.7 ) Insulin and oral hypoglycemics action may be enhanced.
 ( 7.8 ) 7.1 CYP2D6 Inhibitors and Poor Metabolizers Interactions of carvedilol with potent inhibitors of CYP2D6 isoenzyme (such as quinidine, fluoxetine, paroxetine, and propafenone) have not been studied, but these drugs would be expected to increase blood levels of the R(+) enantiomer of carvedilol [see Clinical Pharmacology (12.3) ].
 
-## Carvedilol: Drug interactions (part 2 of 3)
+## Carvedilol: Drug interactions (part 2 of 4)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
 Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
@@ -12198,7 +13133,7 @@ Clonidine therapy can then be discontinued several days later by gradually decre
 In about 30% of subjects, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
 On the average for the group, the dose of cyclosporine was reduced about 20% in these subjects.
 
-## Carvedilol: Drug interactions (part 3 of 3)
+## Carvedilol: Drug interactions (part 3 of 4)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
 Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
@@ -12213,6 +13148,21 @@ Therefore, increased monitoring of digoxin is recommended when initiating, adjus
 7.5 Inducers/Inhibitors of Hepatic Metabolism Rifampin reduced plasma concentrations of carvedilol by about 70% [see Clinical Pharmacology (12.5) ] .
 Cimetidine increased AUC by about 30% but caused no change in C max [see Clinical Pharmacology (12.5) ] .
 7.6 Amiodarone Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P- glycoprotein increased concentrations of the S(-)-enantiomer of carvedilol by at least 2 fold [see Clinical Pharmacology (12.5) ].
+
+## Carvedilol: Drug interactions (part 4 of 4)
+Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
+Label-set-id: 07c619c6-4a0c-445e-94fa-664a54f68a39
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39
+Retrieved: 2026-10-06
+Keywords: carvedilol, coreg, drug interactions, alpha-adrenergic blocker [epc], beta-adrenergic blocker [epc], adrenergic alpha-antagonists [moa], adrenergic beta1-antagonists [moa], adrenergic beta2-antagonists [moa]
+
+The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with COREG may enhance the β-blocking activity resulting in further slowing of the heart rate or cardiac conduction.
+Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other.
+7.7 Calcium Channel Blockers Conduction disturbance (rarely with hemodynamic compromise) has been observed when COREG is coadministered with diltiazem.
+As with other β-blockers, if COREG is administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
+7.8 Insulin or Oral Hypoglycemics β-blockers may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
+Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions (5.6) ].
+7.9 Anesthesia If treatment with COREG is to be continued perioperatively, particular care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) ].
 
 ## Carvedilol: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Carvedilol (Waylis Therapeutics LLC), effective 2026-07-31
@@ -12396,7 +13346,7 @@ Hypertrophic Subaortic Stenosis Propranolol hydrochloride tablets, USP improve N
 Pheochromocytoma Propranolol hydrochloride tablets, USP are indicated as an adjunct to alpha-adrenergic blockade to control blood pressure and reduce symptoms of catecholamine-secreting tumors.
 Hypertension Propranolol hydrochloride tablets, USP are indicated in the management of hypertension. It may be used alone or used in combination with other antihypertensive agents, particularly a thiazide diuretic. Propranolol hydrochloride tablets, USP are not indicated in the management of hypertensive emergencies.
 
-## Propranolol Hydrochloride: Dosage and administration (part 1 of 3)
+## Propranolol Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12413,7 +13363,7 @@ While twice-daily dosing is effective and can maintain a reduction in blood pres
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
 If control is not adequate, a larger dose, or 3‑times‑daily therapy may achieve better control.
 
-## Propranolol Hydrochloride: Dosage and administration (part 2 of 3)
+## Propranolol Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12429,7 +13379,7 @@ Although a t.i.d. regimen was used in the BHAT and a q.i.d. regimen in the Norwe
 The effectiveness and safety of daily dosages greater than 240 mg for prevention of cardiac mortality have not been established.
 However, higher dosages may be needed to effectively treat coexisting diseases such as angina or hypertension (see above).
 
-## Propranolol Hydrochloride: Dosage and administration (part 3 of 3)
+## Propranolol Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12449,6 +13399,15 @@ Pheochromocytoma The usual dosage is 60 mg propranolol hydrochloride daily in di
 For the management of inoperable tumors, the usual dosage is 30 mg daily in divided doses as adjunctive therapy to alpha-adrenergic blockade.
 General Because of the variable bioavailability of propranolol, the dose should be individualized based on response.
 
+## Propranolol Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, dosage and administration
+
+Hypertension The usual initial dosage is 40 mg propranolol hydrochloride twice daily, whether used alone or added to a diuretic. Dosage may be increased gradually until adequate blood pressure control is achieved. The usual maintenance dosage is 120 mg to 240 mg per day. In some instances a dosage of 640 mg a day may be required. The time needed for full antihypertensive response to a given dosage is variable and may range from a few days to several weeks. While twice-daily dosing is effective and can maintain a reduction in blood pressure throughout the day, some patients, especially when lower doses are used, may experience a modest rise in blood pressure toward the end of the 12-hour dosing interval. This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. If control is not adequate, a larger dose, or 3‑times‑daily therapy may achieve better control.
+
 ## Propranolol Hydrochloride: Contraindications
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12458,7 +13417,7 @@ Keywords: propranolol hydrochloride, propranolol, contraindications
 
 CONTRAINDICATIONS Propranolol is contraindicated in 1) cardiogenic shock; 2) sinus bradycardia and greater than first degree block; 3) bronchial asthma; and 4) in patients with known hypersensitivity to propranolol hydrochloride.
 
-## Propranolol Hydrochloride: Drug interactions (part 1 of 3)
+## Propranolol Hydrochloride: Drug interactions (part 1 of 10)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12470,7 +13429,7 @@ Substrates or Inhibitors of CYP2D6 Blood levels and/or toxicity of propranolol m
 No interactions were observed with either ranitidine or lansoprazole.
 Substrates or Inhibitors of CYP1A2 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
 
-## Propranolol Hydrochloride: Drug interactions (part 2 of 3)
+## Propranolol Hydrochloride: Drug interactions (part 2 of 10)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12486,7 +13445,7 @@ The metabolism of propranolol is reduced by co-administration of quinidine, lead
 The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
 Calcium Channel Blockers The mean C max and AUC of propranolol are increased, respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine.
 
-## Propranolol Hydrochloride: Drug interactions (part 3 of 3)
+## Propranolol Hydrochloride: Drug interactions (part 3 of 10)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
 Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
@@ -12502,6 +13461,97 @@ Benzodiazepines Propranolol can inhibit the metabolism of diazepam, resulting in
 Diazepam does not alter the pharmacokinetics of propranolol.
 The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by co-administration of propranolol.
 Neuroleptic Drugs Co-administration of long-acting propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 55% to 369% and increased thioridazine metabolite (mesoridazine) concentrations ranging from 33% to 209%.
+
+## Propranolol Hydrochloride: Drug interactions (part 4 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Co-administration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.
+Anti-Ulcer Drugs Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and C max by 46% and 35%, respectively.
+Co-administration with aluminum hydroxide gel (1200 mg) may result in a decrease in propranolol concentrations.
+Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol's pharmacokinetics.
+Lipid Lowering Drugs Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
+Co-administration of propranolol with lovastatin or pravastatin, decreased 18% to 23% the AUC of both, but did not alter their pharmacodynamics.
+Propranolol did not have an effect on the pharmacokinetics of fluvastatin.
+Warfarin Concomitant administration of propranolol and warfarin has been shown to increase warfarin bioavailability and increase prothrombin time.
+Alcohol Concomitant use of alcohol may increase plasma levels of propranolol.
+
+## Propranolol Hydrochloride: Drug interactions (part 5 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Interactions with Substrates, Inhibitors or Inducers of Cytochrome P-450 Enzymes Because propranolol's metabolism involves multiple pathways in the cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or effect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS ).
+Substrates or Inhibitors of CYP2D6 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir. No interactions were observed with either ranitidine or lansoprazole.
+Substrates or Inhibitors of CYP1A2 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
+
+## Propranolol Hydrochloride: Drug interactions (part 6 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Substrates or Inhibitors of CYP2C19 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, teniposide, and tolbutamide. No interaction was observed with omeprazole.
+Inducers of Hepatic Drug Metabolism Blood levels of propranolol may be decreased by co-administration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital. Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 77% the clearance of propranolol, resulting in decreased plasma concentrations.
+
+## Propranolol Hydrochloride: Drug interactions (part 7 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Cardiovascular Drugs Antiarrhythmics The AUC of propafenone is increased by more than 200% by co-administration of propranolol. The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two‑three fold increased blood concentration and greater degrees of clinical beta-blockade. The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations. Calcium Channel Blockers The mean C max and AUC of propranolol are increased, respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine. The mean C max and AUC of nifedipine are increased by 64% and 79%, respectively, by coadministration of propranolol. Propranolol does not affect the pharmacokinetics of verapamil and norverapamil. Verapamil does not affect the pharmacokinetics of propranolol.
+
+## Propranolol Hydrochloride: Drug interactions (part 8 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Antiarrhythmics The AUC of propafenone is increased by more than 200% by co-administration of propranolol. The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two‑three fold increased blood concentration and greater degrees of clinical beta-blockade. The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
+Calcium Channel Blockers The mean C max and AUC of propranolol are increased, respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine. The mean C max and AUC of nifedipine are increased by 64% and 79%, respectively, by coadministration of propranolol. Propranolol does not affect the pharmacokinetics of verapamil and norverapamil. Verapamil does not affect the pharmacokinetics of propranolol.
+Non-Cardiovascular Drugs Migraine Drugs Administration of zolmitriptan or rizatriptan with propranolol resulted in increased concentrations of zolmitriptan (AUC increased by 56% and C max by 37%) or rizatriptan (the AUC and C max were increased by 67% and 75%, respectively).
+Theophylline Co-administration of theophylline with propranolol decreases theophylline oral clearance by 30% to 52%.
+
+## Propranolol Hydrochloride: Drug interactions (part 9 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Benzodiazepines Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites.
+Diazepam does not alter the pharmacokinetics of propranolol.
+The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by co-administration of propranolol.
+Neuroleptic Drugs Co-administration of long-acting propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 55% to 369% and increased thioridazine metabolite (mesoridazine) concentrations ranging from 33% to 209%.
+Co-administration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.
+Anti-Ulcer Drugs Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and C max by 46% and 35%, respectively.
+Co-administration with aluminum hydroxide gel (1200 mg) may result in a decrease in propranolol concentrations.
+Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol's pharmacokinetics.
+Lipid Lowering Drugs Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
+
+## Propranolol Hydrochloride: Drug interactions (part 10 of 10)
+Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
+Label-set-id: 0d74bb04-8227-4afa-b523-ce1556150e07
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d74bb04-8227-4afa-b523-ce1556150e07
+Retrieved: 2026-10-06
+Keywords: propranolol hydrochloride, propranolol, drug interactions
+
+Co-administration of propranolol with lovastatin or pravastatin, decreased 18% to 23% the AUC of both, but did not alter their pharmacodynamics.
+Propranolol did not have an effect on the pharmacokinetics of fluvastatin.
+Warfarin Concomitant administration of propranolol and warfarin has been shown to increase warfarin bioavailability and increase prothrombin time.
+Alcohol Concomitant use of alcohol may increase plasma levels of propranolol.
+Migraine Drugs Administration of zolmitriptan or rizatriptan with propranolol resulted in increased concentrations of zolmitriptan (AUC increased by 56% and C max by 37%) or rizatriptan (the AUC and C max were increased by 67% and 75%, respectively).
+Theophylline Co-administration of theophylline with propranolol decreases theophylline oral clearance by 30% to 52%.
+Benzodiazepines Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites. Diazepam does not alter the pharmacokinetics of propranolol. The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by co-administration of propranolol.
 
 ## Propranolol Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Propranolol Hydrochloride (Par Health USA, LLC), effective 2026-08-26
@@ -13113,7 +14163,7 @@ Keywords: olmesartan medoxomil-hydrochlorothiazide, hydrochlorothiazide, contrai
 
 4 CONTRAINDICATIONS Olmesartan medoxomil and hydrochlorothiazide is contraindicated: In patients with hypersensitivity to any component of olmesartan medoxomil and hydrochlorothiazide [see Adverse Reactions ( 6.1 , 6.2 )] In patients with anuria [see Warnings and Precautions (5.3) and Adverse Reactions (6.1) ] For coadministration with aliskiren in patients with diabetes [ s ee Drug Interactions (7.4) ]. Hypersensitivity to any component of olmesartan medoxomil and hydrochlorothiazide ( 4 ) Anuria ( 4 ) Do not co-administer aliskiren with olmesartan medoxomil and hydrochlorothiazide in patients with diabetes. ( 4 )
 
-## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 1 of 3)
+## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 1 of 4)
 Source: FDA drug label, Olmesartan Medoxomil-Hydrochlorothiazide (AvKARE), effective 2026-01-19
 Label-set-id: 017bc6a3-5b3d-2381-e063-6394a90abece
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=017bc6a3-5b3d-2381-e063-6394a90abece
@@ -13132,7 +14182,7 @@ Monitor serum potassium in such patients.
 Monitor serum lithium levels during concomitant use.
 7.
 
-## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 2 of 3)
+## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 2 of 4)
 Source: FDA drug label, Olmesartan Medoxomil-Hydrochlorothiazide (AvKARE), effective 2026-01-19
 Label-set-id: 017bc6a3-5b3d-2381-e063-6394a90abece
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=017bc6a3-5b3d-2381-e063-6394a90abece
@@ -13147,7 +14197,7 @@ Hydrochlorothiazide In some patients the administration of a NSAID can reduce th
 Therefore, monitor blood pressure closely.
 7.4 Dual Blockade of the Renin Angiotensin System Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 
-## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 3 of 3)
+## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 3 of 4)
 Source: FDA drug label, Olmesartan Medoxomil-Hydrochlorothiazide (AvKARE), effective 2026-01-19
 Label-set-id: 017bc6a3-5b3d-2381-e063-6394a90abece
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=017bc6a3-5b3d-2381-e063-6394a90abece
@@ -13166,6 +14216,18 @@ Consider administering olmesartan at least 4 hours before the colesevelam hydroc
 6 The Use of Hydrochlorothiazide with Other Drugs When administered concurrently the following drugs may interact with thiazide diuretics:
 Antidiabetic drugs (oral agents and insulin) :
 Dosage adjustment of the antidiabetic drug may be required.
+
+## Olmesartan Medoxomil-Hydrochlorothiazide: Drug interactions (part 4 of 4)
+Source: FDA drug label, Olmesartan Medoxomil-Hydrochlorothiazide (AvKARE), effective 2026-01-19
+Label-set-id: 017bc6a3-5b3d-2381-e063-6394a90abece
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=017bc6a3-5b3d-2381-e063-6394a90abece
+Retrieved: 2026-10-06
+Keywords: olmesartan medoxomil-hydrochlorothiazide, hydrochlorothiazide, drug interactions, thiazide diuretic [epc]
+
+Ion exchange resins:
+Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 – 6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3) ] .
+Corticosteroids, ACTH :
+Intensified electrolyte depletion, particularly hypokalemia.
 
 ## Olmesartan Medoxomil-Hydrochlorothiazide: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Olmesartan Medoxomil-Hydrochlorothiazide (AvKARE), effective 2026-01-19
@@ -13536,7 +14598,7 @@ Keywords: furosemide, contraindications, loop diuretic [epc]
 
 CONTRAINDICATIONS Furosemide is contraindicated in patients with anuria and in patients with a history of hypersensitivity to furosemide.
 
-## Furosemide: Drug interactions (part 1 of 3)
+## Furosemide: Drug interactions (part 1 of 4)
 Source: FDA drug label, Furosemide (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.), effective 2026-03-18
 Label-set-id: 1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
@@ -13552,7 +14614,7 @@ In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanc
 Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
 
-## Furosemide: Drug interactions (part 2 of 3)
+## Furosemide: Drug interactions (part 2 of 4)
 Source: FDA drug label, Furosemide (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.), effective 2026-03-18
 Label-set-id: 1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
@@ -13571,7 +14633,7 @@ Phenytoin interferes directly with renal action of furosemide.
 Methotrexate and other drugs that, like furosemide, undergo significant renal tubular secretion may reduce the effect of furosemide.
 Conversely, furosemide may decrease renal elimination of other drugs that undergo tubular secretion.
 
-## Furosemide: Drug interactions (part 3 of 3)
+## Furosemide: Drug interactions (part 3 of 4)
 Source: FDA drug label, Furosemide (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.), effective 2026-03-18
 Label-set-id: 1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
@@ -13585,6 +14647,15 @@ One study in six subjects demonstrated that the combination of furosemide and ac
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
 Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
 Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.
+
+## Furosemide: Drug interactions (part 4 of 4)
+Source: FDA drug label, Furosemide (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.), effective 2026-03-18
+Label-set-id: 1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec
+Retrieved: 2026-10-06
+Keywords: furosemide, drug interactions, loop diuretic [epc]
+
+Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 
 ## Furosemide: Warnings and precautions (part 1 of 2)
 Source: FDA drug label, Furosemide (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.), effective 2026-03-18
@@ -14958,7 +16029,7 @@ Keywords: ranolazine, contraindications, anti-anginal [epc], cytochrome p450 3a 
 
 4 CONTRAINDICATIONS Ranolazine extended-release tablets are contraindicated in patients: Taking strong inhibitors of CYP3A [see Drug Interactions (7.1) ] Taking inducers of CYP3A [see Drug Interactions (7.1) ] With liver cirrhosis [see Use in Specific Populations (8.6) ] Strong CYP3A inhibitors (e.g., ketoconazole, clarithromycin, nelfinavir) (4 , 7.1) CYP3A inducers (e.g., rifampin, phenobarbital, St. John’s wort) (4 , 7.1) Liver cirrhosis (4 , 8.6)
 
-## Ranolazine: Drug interactions (part 1 of 3)
+## Ranolazine: Drug interactions (part 1 of 4)
 Source: FDA drug label, Ranolazine (American Health Packaging), effective 2026-08-19
 Label-set-id: 90c5a0c2-542c-467e-9c0c-ef320534c560
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90c5a0c2-542c-467e-9c0c-ef320534c560
@@ -14978,7 +16049,7 @@ Limit the dose of metformin to 1700 mg daily when used with ranolazine extended-
 Doses of other OCT2 substrates may require adjusted doses.
 (7.2) Drugs transported by P-gp (e.g., digoxin), or drugs metabolized by CYP2D6 (e.g., tricyclic antidepressants) may need reduced doses available on high doses, when used with ranolazine extended-release tablets.
 
-## Ranolazine: Drug interactions (part 2 of 3)
+## Ranolazine: Drug interactions (part 2 of 4)
 Source: FDA drug label, Ranolazine (American Health Packaging), effective 2026-08-19
 Label-set-id: 90c5a0c2-542c-467e-9c0c-ef320534c560
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90c5a0c2-542c-467e-9c0c-ef320534c560
@@ -14992,7 +16063,7 @@ Titrate ranolazine extended-release tablets based on clinical response in patien
 CYP3A Inducers Do not use ranolazine extended-release tablets with CYP3A inducers such as rifampin, rifabutin, rifapentine, phenobarbital, phenytoin, carbamazepine, and St.
 John’s wort [see Contraindications (4) , Clinical Pharmacology (12.3) ].
 
-## Ranolazine: Drug interactions (part 3 of 3)
+## Ranolazine: Drug interactions (part 3 of 4)
 Source: FDA drug label, Ranolazine (American Health Packaging), effective 2026-08-19
 Label-set-id: 90c5a0c2-542c-467e-9c0c-ef320534c560
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90c5a0c2-542c-467e-9c0c-ef320534c560
@@ -15005,6 +16076,17 @@ Drugs Transported by P-gp Concomitant use of ranolazine and digoxin results in i
 The dose of digoxin may have to be adjusted [see Clinical Pharmacology (12.3) ].
 Drugs Metabolized by CYP2D6 The exposure to CYP2D6 substrates, such as tricyclic antidepressants and antipsychotics, may be increased during co-administration with ranolazine extended-release tablets, and lower doses of these drugs may be required.
 Drugs Transported by OCT2 In subjects with type 2 diabetes mellitus, concomitant use of ranolazine extended-release tablets 1000 mg twice daily and metformin results in increased plasma levels of metformin.
+
+## Ranolazine: Drug interactions (part 4 of 4)
+Source: FDA drug label, Ranolazine (American Health Packaging), effective 2026-08-19
+Label-set-id: 90c5a0c2-542c-467e-9c0c-ef320534c560
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=90c5a0c2-542c-467e-9c0c-ef320534c560
+Retrieved: 2026-10-06
+Keywords: ranolazine, drug interactions, anti-anginal [epc], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa], cytochrome p450 2d6 inhibitors [moa], organic cation transporter 2 inhibitors [moa]
+
+When ranolazine extended-release tablets 1000 mg twice daily is co-administered with metformin, metformin dose should not exceed 1700 mg/day.
+Monitor blood glucose levels and risks associated with high exposures of metformin.
+Metformin exposure was not significantly increased when given with ranolazine extended-release tablets 500 mg twice daily [see Clinical Pharmacology (12.3) ].
 
 ## Ranolazine: Warnings and precautions (part 1 of 2)
 Source: FDA drug label, Ranolazine (American Health Packaging), effective 2026-08-19
@@ -15114,7 +16196,7 @@ Keywords: digoxin, uses, cardiac glycoside [epc]
 
 1 INDICATIONS AND USAGE Digoxin Tablets are a cardiac glycoside indicated for: Treatment of mild to moderate heart failure in adults. ( 1.1 ) Increasing myocardial contractility in pediatric patients with heart failure. ( 1.2 ) Control of resting ventricular rate in patients with chronic atrial fibrillation in adults. ( 1.3 ) 1.1 Heart Failure in Adults Digoxin Tablets are indicated for the treatment of mild to moderate heart failure in adults. Digoxin Tablets increase left ventricular ejection fraction and improve heart failure symptoms as evidenced by improved exercise capacity and decreased heart failure-related hospitalizations and emergency care, while having no effect on mortality. Where possible, Digoxin Tablets should be used in combination with a diuretic and an angiotensin-converting enzyme (ACE) inhibitor. 1.2 Heart Failure in Pediatric Patients Digoxin Tablets increase myocardial contractility in pediatric patients with heart failure. 1.3 Atrial Fibrillation in Adults Digoxin Tablets are indicated for the control of ventricular response rate in adult patients with chronic atrial fibrillation.
 
-## Digoxin: Dosage and administration (part 1 of 3)
+## Digoxin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15130,7 +16212,7 @@ Consider interruption or reduction in Digoxin Tablets dose prior to electrical c
 Use digoxin solution to obtain the appropriate dose in infants, young pediatric patients, or patients with very low body weight.
 2.2 Loading Dosing Regimen in Adults and Pediatric Patients For adults and pediatric patients if a loading dosage is to be given, administer half the total loading dose initially, then ¼ the loading dose every 6 to 8 hours twice, with careful assessment of clinical response and toxicity before each dose.
 
-## Digoxin: Dosage and administration (part 2 of 3)
+## Digoxin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15146,7 +16228,7 @@ Table 2.
 Recommended Starting Digoxin Tablets Maintenance Dosage in Adults and Pediatric Patients Over 10 Years Old mcg = microgram Age Total Oral Maintenance Dose, mcg/kg/day (given once daily) Adults and pediatric patients over 10 years 3.4 to 5.1 Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
 
-## Digoxin: Dosage and administration (part 3 of 3)
+## Digoxin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15164,6 +16246,19 @@ For women, this result should be multiplied by 0.85.
 For pediatric patients, the modified Schwartz equation may be used.
 The formula is based on height in cm and Scr in mg/dL where k is a constant.
 
+## Digoxin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
+Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
+Retrieved: 2026-10-06
+Keywords: digoxin, dosage and administration, cardiac glycoside [epc]
+
+Ccr is corrected to 1.73 m 2 body surface area.
+During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants.
+The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys.
+GFR (mL/min/1.73 m 2 ) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition.
+Corrected Creatinine Clearance b Lean Body Weight d Number of Days Before Steady State Achieved c kg 40 50 60 70 80 90 100 10 mL/min 62.5* 125 125 187.5 187.5 187.5 250 19 20 mL/min 125 125 125 187.5 187.5 250 250 16 30 mL/min 125 125 187.5 187.5 250 250 312.5 14 40 mL/min 125 187.5 187.5 250 250 312.5 312.5 13 50 mL/min 125 187.5 187.5 250 250 312.5 312.5 12 60 mL/min 125 187.5 250 250 312.5 312.5 375 11 70 mL/min 187.5 187.5 250 250 312.5 375 375 10 80 mL/min 187.5 187.5 250 312.5 312.5 375 437.5 9 90 mL/min 187.5 250 250 312.5 375 437.5 437.5 8 100 mL/min 187.5 250 312.5 312.5 375 437.5 500 7 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old The starting maintenance dose for heart failure in pediatric patients less than 10 years old is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
+
 ## Digoxin: Contraindications
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15173,7 +16268,7 @@ Keywords: digoxin, contraindications, cardiac glycoside [epc]
 
 4 CONTRAINDICATIONS Digoxin Tablets are contraindicated in patients with: Ventricular fibrillation [see Warnings and Precautions (5.1)] Known hypersensitivity to digoxin (reactions seen include unexplained rash, swelling of the mouth, lips or throat or a difficulty in breathing). A hypersensitivity reaction to other digitalis preparations usually constitutes a contraindication to digoxin. Ventricular fibrillation. ( 4 ) Known hypersensitivity to digoxin or other forms of digitalis. ( 4 )
 
-## Digoxin: Drug interactions (part 1 of 3)
+## Digoxin: Drug interactions (part 1 of 7)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15190,7 +16285,7 @@ See full prescribing information.
 Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
 7.2 Pharmacokinetic Drug Interactions NA = Not available/reported Digoxin concentrations increased greater than 50% Digoxin Serum Concentration Increase Digoxin AUC Increase Recommendations Amiodarone 70% NA Measure serum digoxin concentrations before initiating concomitant drugs.
 
-## Digoxin: Drug interactions (part 2 of 3)
+## Digoxin: Drug interactions (part 2 of 7)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15201,7 +16296,7 @@ Reduce digoxin concentrations by decreasing dose by approximately 30 to 50% or b
 Captopril 58% 39% Clarithromycin NA 70% Dronedarone NA 150% Gentamicin 129 to 212% NA Erythromycin 100% NA Itraconazole 80% NA Lapatinib NA 180% Propafenone NA 60 to 270% Quinidine 100% NA Ranolazine 50% NA Ritonavir NA 86% Telaprevir 50% 85% Tetracycline 100% NA Verapamil 50 to 75% NA Digoxin concentrations increased less than 50% Atorvastatin 22% 15% Measure serum digoxin concentrations before initiating concomitant drugs.
 Reduce digoxin concentrations by decreasing the dose by approximately 15 to 30% or by modifying the dosing frequency and continue monitoring.
 
-## Digoxin: Drug interactions (part 3 of 3)
+## Digoxin: Drug interactions (part 3 of 7)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
 Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
@@ -15213,6 +16308,63 @@ Continue monitoring and reduce digoxin dose as necessary.
 Digoxin concentrations decreased Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, exenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St.
 John’s Wort, sucralfate and sulfasalazine Measure serum digoxin concentrations before initiating concomitant drugs.
 Continue monitoring and increase digoxin dose by approximately 20 to 40% as necessary.
+
+## Digoxin: Drug interactions (part 4 of 7)
+Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
+Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
+Retrieved: 2026-10-06
+Keywords: digoxin, drug interactions, cardiac glycoside [epc]
+
+7.3 Potentially Significant Pharmacodynamic Drug Interactions Because of considerable variability of pharmacodynamic interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently.
+Drugs that Affect Renal Function A decline in GFR or tubular secretion, as from ACE inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs [NSAIDS], COX-2 inhibitors may impair the excretion of digoxin.
+Antiarrhythmics Dofetilide Concomitant administration with digoxin was associated with a higher rate of torsades de pointes.
+Sotalol Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin.
+Dronedarone Sudden death was more common in patients receiving digoxin with dronedarone than on either alone; it is not clear whether this represents an interaction or is related to the presence of advanced heart disease, a known risk factor for sudden death in patients receiving digoxin.
+Parathyroid Hormone Analog Teriparatide Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity.
+
+## Digoxin: Drug interactions (part 5 of 7)
+Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
+Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
+Retrieved: 2026-10-06
+Keywords: digoxin, drug interactions, cardiac glycoside [epc]
+
+Teriparatide transiently increases serum calcium.
+Thyroid supplement Thyroid Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin.
+Sympathomimetics Epinephrine Norepinephrine Dopamine Can increase the risk of cardiac arrhythmias.
+Neuromuscular Blocking Agents Succinylcholine May cause sudden extrusion of potassium from muscle cells, causing arrhythmias in patients taking digoxin.
+Supplements Calcium If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients.
+Beta-adrenergic blockers and calcium channel blockers Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block.
+Hyperpolarization-activated cyclic nucleotide-gated channel blocker Ivabradine Can increase the risk of bradycardia.
+7.4 Drug/Laboratory Test Interactions Endogenous substances of unknown composition (digoxin-like immunoreactive substances [DLIS]) can interfere with standard radioimmunoassays for digoxin.
+The interference most often causes results to be falsely positive or falsely elevated, but sometimes it causes results to be falsely reduced.
+Some assays are more subject to these failings than others.
+
+## Digoxin: Drug interactions (part 6 of 7)
+Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
+Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
+Retrieved: 2026-10-06
+Keywords: digoxin, drug interactions, cardiac glycoside [epc]
+
+Several LC/MS/MS methods are available that may provide less susceptibility to DLIS interference.
+DLIS are present in up to half of all neonates and in varying percentages of pregnant women, patients with hypertrophic cardiomyopathy, patients with renal or hepatic dysfunction, and other patients who are volume-expanded for any reason.
+The measured levels of DLIS (as digoxin equivalents) are usually low (0.2 to 0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic.
+In some assays, spironolactone, canrenone, and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL.
+Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha or Dashen can cause similar interference.
+Spironolactone and DLIS are much more extensively protein-bound than digoxin.
+As a result, assays of free digoxin levels in protein-free ultrafiltrate (which tend to be about 25% less than total levels, consistent with the usual extent of protein binding) are less affected by spironolactone or DLIS.
+It should be noted that ultrafiltration does not solve all interference problems with alternative medicines.
+
+## Digoxin: Drug interactions (part 7 of 7)
+Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
+Label-set-id: 5886e233-b2da-4acb-be05-9bf40fb8e7f4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5886e233-b2da-4acb-be05-9bf40fb8e7f4
+Retrieved: 2026-10-06
+Keywords: digoxin, drug interactions, cardiac glycoside [epc]
+
+The use of an LC/MS/MS method may be the better option according to the good results it provides, especially in terms of specificity and limit of quantization.
 
 ## Digoxin: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Digoxin (NCS HealthCare of KY, LLC dba Vangard Labs), effective 2026-07-08
@@ -15667,7 +16819,7 @@ Keywords: warfarin sodium, warfarin, uses
 Prophylaxis and treatment of venous thrombosis and its extension, pulmonary embolism ( 1 ) Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement ( 1 ) Reduction in the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction ( 1 ) Limitations of Use Warfarin sodium tablets have no direct effect on an established thrombus, nor does it reverse ischemic tissue damage.
 ( 1 )
 
-## Warfarin Sodium: Dosage and administration (part 1 of 3)
+## Warfarin Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
 Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
@@ -15686,7 +16838,7 @@ Consult the latest evidence-based clinical practice guidelines regarding the dur
 2.2 Recommended Target INR Ranges and Durations for Individual Indications An INR of greater than 4 appears to provide no additional therapeutic benefit in most patients and is associated with a higher risk of bleeding.
 Venous Thromboembolism (including deep venous thrombosis [DVT] and PE) Adjust the warfarin dose to maintain a target INR of 2.5 (INR range, 2 to 3) for all treatment durations.
 
-## Warfarin Sodium: Dosage and administration (part 2 of 3)
+## Warfarin Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
 Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
@@ -15702,7 +16854,7 @@ For a patient receiving long-term anticoagulant treatment, periodically reassess
 Atrial Fibrillation In patients with non-valvular AF, anticoagulate with warfarin to target INR of 2.5 (range, 2 to 3).
 In patients with non-valvular AF that is persistent or paroxysmal and at high risk of stroke (i.e., having any of the following features: prior ischemic stroke, transient ischemic attack, or systemic embolism, or 2 of the following risk factors: age greater than 75 years, moderately or severely impaired left ventricular systolic function and/or heart failure, history of hypertension, or diabetes mellitus), long-term anticoagulation with warfarin is recommended.
 
-## Warfarin Sodium: Dosage and administration (part 3 of 3)
+## Warfarin Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
 Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
@@ -15714,6 +16866,20 @@ For patients with AF and mitral stenosis, long-term anticoagulation with warfari
 For patients with AF and prosthetic heart valves, long-term anticoagulation with warfarin is recommended; the target INR may be increased and aspirin added depending on valve type and position, and on patient factors.
 Mechanical and Bioprosthetic Heart Valves For patients with a bileaflet mechanical valve or a Medtronic Hall (Minneapolis, MN) tilting disk valve in the aortic position who are in sinus rhythm and without left atrial enlargement, therapy with warfarin to a target INR of 2.5 (range, 2 to 3) is recommended.
 For patients with tilting disk valves and bileaflet mechanical valves in the mitral position, therapy with warfarin to a target INR of 3 (range, 2.5 to 3.5) is recommended.
+
+## Warfarin Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
+Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
+Retrieved: 2026-10-06
+Keywords: warfarin sodium, warfarin, dosage and administration
+
+For patients with caged ball or caged disk valves, therapy with warfarin to a target INR of 3 (range, 2.5 to 3.5) is recommended.
+For patients with a bioprosthetic valve in the mitral position, therapy with warfarin to a target INR of 2.5 (range, 2 to 3) for the first 3 months after valve insertion is recommended.
+If additional risk factors for thromboembolism are present (AF, previous thromboembolism, left ventricular dysfunction), a target INR of 2.5 (range 2 to 3) is recommended.
+Post-Myocardial Infarction For high-risk patients with MI (e.g., those with a large anterior MI, those with significant heart failure, those with intracardiac thrombus visible on transthoracic echocardiography, those with AF, and those with a history of a thromboembolic event), therapy with combined moderate-intensity (INR, 2 to 3) warfarin plus low-dose aspirin (≤ 100 mg/day) for at least 3 months after the MI is recommended.
+Recurrent Systemic Embolism and Other Indications Oral anticoagulation therapy with warfarin has not been fully evaluated by clinical trials in patients with valvular disease associated with AF, patients with mitral stenosis, and patients with recurrent systemic embolism of unknown etiology.
+However, a moderate dose regimen (INR 2 to 3) may be used for these patients.
 
 ## Warfarin Sodium: Contraindications (part 1 of 2)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
@@ -15739,7 +16905,7 @@ If warfarin sodium is used during pregnancy or if the patient becomes pregnant w
 Warfarin sodium is contraindicated in patients with:
 Unsupervised patients with potential high levels of non-compliance ( 4 ) Spinal puncture and other diagnostic or therapeutic procedures with potential for uncontrollable bleeding ( 4 ) Hypersensitivity to warfarin or any component of the product ( 4 ) Major regional or lumbar block anesthesia ( 4 ) Malignant hypertension ( 4 )
 
-## Warfarin Sodium: Drug interactions (part 1 of 3)
+## Warfarin Sodium: Drug interactions (part 1 of 6)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
 Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
@@ -15754,7 +16920,7 @@ Pharmacokinetic mechanisms for drug interactions with warfarin sodium are mainly
 It is important to note that some drugs may interact by more than one mechanism.
 More frequent INR monitoring should be performed when starting or stopping other drugs, including botanicals, or when changing dosages of other drugs, including drugs intended for short-term use (e.g., antibiotics, antifungals, corticosteroids) [ see Boxed Warning ].
 
-## Warfarin Sodium: Drug interactions (part 2 of 3)
+## Warfarin Sodium: Drug interactions (part 2 of 6)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
 Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
@@ -15763,7 +16929,7 @@ Keywords: warfarin sodium, warfarin, drug interactions
 
 Examples of CYP450 Interactions with Warfarin Enzyme Inhibitors Inducers CYP2C9 amiodarone, capecitabine, cotrimoxazole, etravirine, fluconazole, fluvastatin, fluvoxamine, metronidazole, miconazole, oxandrolone, sulfinpyrazone, tigecycline, voriconazole, zafirlukast aprepitant, bosentan, carbamazepine, phenobarbital, rifampin CYP1A2 acyclovir, allopurinol, caffeine, cimetidine, ciprofloxacin, disulfiram, enoxacin, famotidine, fluvoxamine, methoxsalen, mexiletine, norfloxacin, oral contraceptives, phenylpropanolamine, propafenone, propranolol, terbinafine, thiabendazole, ticlopidine, verapamil, zileuton montelukast, moricizine, omeprazole, phenobarbital, phenytoin, cigarette smoking CYP3A4 alprazolam, amiodarone, amlodipine, amprenavir, aprepitant, atorvastatin, atazanavir, bicalutamide, cilostazol, cimetidine, ciprofloxacin, clarithromycin, conivaptan, cyclosporine, darunavir/ritonavir, diltiazem, erythromycin, fluconazole, fluoxetine, fluvoxamine, fosamprenavir, imatinib, indinavir, isoniazid, itraconazole, ketoconazole, lopinavir/ritonavir, nefazodone, nelfinavir, nilotinib, oral contraceptives, posaconazole, ranitidine, ranolazine, ritonavir, saquinavir, telithromycin, tipranavir, voriconazole, zileuton armodafinil, amprenavir, aprepitant, bosentan, carbamazepine, efavirenz,
 
-## Warfarin Sodium: Drug interactions (part 3 of 3)
+## Warfarin Sodium: Drug interactions (part 3 of 6)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
 Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
@@ -15780,6 +16946,48 @@ Consult the labeling of all concurrently used drugs to obtain further informatio
 The CYP450 inhibition and induction potential should be considered when starting, stopping, or changing dose of concomitant medications.
 Closely monitor INR if a concomitant drug is a CYP2C9, 1A2, and/or 3A4 inhibitor or inducer.
 Table 2:
+
+## Warfarin Sodium: Drug interactions (part 4 of 6)
+Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
+Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
+Retrieved: 2026-10-06
+Keywords: warfarin sodium, warfarin, drug interactions
+
+etravirine, modafinil, nafcillin, phenytoin, pioglitazone, prednisone, rifampin, rufinamide 7.3 Drugs that Increase Bleeding Risk Examples of drugs known to increase the risk of bleeding are presented in Table 3 .
+Because bleeding risk is increased when these drugs are used concomitantly with warfarin, closely monitor patients receiving any such drug with warfarin.
+Table 3:
+Drugs that Can Increase the Risk of Bleeding Drug Class Specific Drugs Anticoagulants argatroban, dabigatran, bivalirudin, desirudin, heparin, lepirudin Antiplatelet Agents aspirin, cilostazol, clopidogrel, dipyridamole, prasugrel, ticlopidine Non-steroidal Anti-Inflammatory Agents celecoxib, diclofenac, diflunisal, fenoprofen, ibuprofen, indomethacin, ketoprofen, ketorolac, mefenamic acid, naproxen, oxaprozin, piroxicam, sulindac Serotonin Reuptake Inhibitors citalopram, desvenlafaxine, duloxetine, escitalopram, fluoxetine, fluvoxamine, milnacipran, paroxetine, sertraline, venlafaxine, vilazodone 7.4 Antibiotics and Antifungals There have been reports of changes in INR in patients taking warfarin and antibiotics or antifungals, but clinical pharmacokinetic studies have not shown consistent effects of these agents on plasma concentrations of warfarin.
+
+## Warfarin Sodium: Drug interactions (part 5 of 6)
+Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
+Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
+Retrieved: 2026-10-06
+Keywords: warfarin sodium, warfarin, drug interactions
+
+Closely monitor INR when starting or stopping any antibiotic or antifungal in patients taking warfarin.
+7.5 Botanical (Herbal) Products and Foods More frequent INR monitoring should be performed when starting or stopping botanicals.
+Few adequate, well-controlled studies evaluating the potential for metabolic and/or pharmacologic interactions between botanicals and warfarin sodium exist.
+Due to a lack of manufacturing standardization with botanical medicinal preparations, the amount of active ingredients may vary.
+This could further confound the ability to assess potential interactions and effects on anticoagulation.
+Some botanicals may cause bleeding events when taken alone (e.g., garlic and Ginkgo biloba) and may have anticoagulant, antiplatelet, and/or fibrinolytic properties.
+These effects would be expected to be additive to the anticoagulant effects of warfarin sodium.
+Conversely, some botanicals may decrease the effects of warfarin sodium (e.g., co-enzyme Q 10 , St.
+John’s wort, ginseng).
+Some botanicals and foods can interact with warfarin sodium through CYP450 interactions (e.g., echinacea, grapefruit juice, ginkgo, goldenseal, St.
+John’s wort).
+The amount of vitamin K in food may affect therapy with warfarin sodium.
+
+## Warfarin Sodium: Drug interactions (part 6 of 6)
+Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
+Label-set-id: 1244c338-9140-425a-bf2a-9da6b4ac0287
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1244c338-9140-425a-bf2a-9da6b4ac0287
+Retrieved: 2026-10-06
+Keywords: warfarin sodium, warfarin, drug interactions
+
+Advise patients taking warfarin sodium to eat a normal, balanced diet maintaining a consistent amount of vitamin K.
+Patients taking warfarin sodium should avoid drastic changes in dietary habits, such as eating large amounts of green leafy vegetables.
 
 ## Warfarin Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Warfarin Sodium (REMEDYREPACK INC.), effective 2026-06-24
@@ -15976,7 +17184,7 @@ Keywords: apixaban, eliquis, uses, factor xa inhibitor [epc], factor xa inhibito
 1.5 Reduction in the Risk of Recurrence of Deep Vein Thrombosis and Pulmonary Embolism ELIQUIS is indicated to reduce the risk of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE) in adult patients following initial therapy.
 1.6 Treatment of Venous Thromboembolism and Reduction in the Risk of Recurrent Venous Thromboembolism in Pediatric Patients ELIQUIS is indicated for the treatment of venous thromboembolism (VTE) and reduction in the risk of recurrent VTE in pediatric patients from birth and older after at least 5 days of initial anticoagulant treatment.
 
-## Apixaban: Dosage and administration (part 1 of 3)
+## Apixaban: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
@@ -15990,7 +17198,7 @@ Keywords: apixaban, eliquis, dosage and administration, factor xa inhibitor [epc
 (2.1) • Reduction in the risk of recurrent DVT and PE following initial therapy: o The recommended dose is 2.5 mg taken orally twice daily.
 (2.1) • Treatment of VTE and reduction in the risk of recurrent VTE in pediatric patients from birth and older after at least 5 days of initial anticoagulant treatment: o See dosing recommendations in the Full Prescribing Information (2.2) 2.1 Recommended Dose in Adult Patients Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.
 
-## Apixaban: Dosage and administration (part 2 of 3)
+## Apixaban: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
@@ -16004,7 +17212,7 @@ After 7 days, the recommended dose is 5 mg taken orally twice daily.
 Reduction in the Risk of Recurrence of DVT and PE The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily after at least 6 months of treatment for DVT or PE [see Clinical Studies (14.3) ] .
 2.2 Recommended Dose in Pediatric Patients Treatment of Venous Thromboembolism (VTE) and Reduction in the Risk of Recurrent VTE in Pediatric Patients The recommended dose of ELIQUIS is based on the patient’s weight, see Table 1.
 
-## Apixaban: Dosage and administration (part 3 of 3)
+## Apixaban: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
@@ -16017,6 +17225,23 @@ Individualize duration of overall therapy after careful assessment of the treatm
 Table 1:
 Dose Recommendation in Pediatric Patients from Birth to less than 18 Years of Age for the Treatment of VTE and Reduction in the Risk of Recurrent VTE Days 1-7 Days 8 and beyond Presentation Body weight (kg) Dosing schedule Dosing schedule Powder in Capsule 0.15 mg For pediatric use 2.6 to less than 4 0.3 mg twice daily 0.15 mg twice daily Tablet 0.5 mg For pediatric use 4 to less than 6 1 mg twice daily 0.5 mg twice daily 6 to less than 9 2 mg twice daily 1 mg twice daily 9 to less than 12 3 mg twice daily 1.5 mg twice daily 12 to less than 18 4 mg twice daily 2 mg twice daily 18 to less than 25 6 mg twice daily 3 mg twice daily 25 to less than 35 8 mg twice daily 4 mg twice daily Tablets 2.5 mg and 5 mg greater than or equal to 35 10 mg twice daily 5 mg twice daily ELIQUIS is not recommended for use in pediatric patients less than 2.6 kg because ELIQUIS was not studied in these patients.
 
+## Apixaban: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
+Retrieved: 2026-10-06
+Keywords: apixaban, eliquis, dosage and administration, factor xa inhibitor [epc], factor xa inhibitors [moa]
+
+2.3 Missed Dose If a dose of ELIQUIS is not taken at the scheduled time, the dose should be taken as soon as possible on the same day and twice-daily administration should be resumed.
+The dose should not be doubled to make up for a missed dose.
+2.4 Temporary Interruption for Surgery and Other Interventions ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding [see Warnings and Precautions (5.2) ] .
+ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be non-critical in location and easily controlled.
+Bridging anticoagulation during the 24 to 48 hours after stopping ELIQUIS and prior to the intervention is not generally required.
+ELIQUIS should be restarted after the surgical or other procedures as soon as adequate hemostasis has been established.
+2.5 Converting from or to ELIQUIS Switching from warfarin to ELIQUIS:
+Warfarin should be discontinued and ELIQUIS started when the international normalized ratio (INR) is below 2.0.
+Switching from ELIQUIS to warfarin:
+
 ## Apixaban: Contraindications
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
@@ -16026,7 +17251,7 @@ Keywords: apixaban, eliquis, contraindications, factor xa inhibitor [epc], facto
 
 4 CONTRAINDICATIONS ELIQUIS is contraindicated in patients with the following conditions: • Active pathological bleeding [see Warnings and Precautions (5.2) and Adverse Reactions (6.1) ] • Severe hypersensitivity reaction to ELIQUIS (e.g., anaphylactic reactions) [see Adverse Reactions (6.1) ] • Active pathological bleeding (4) • Severe hypersensitivity to ELIQUIS (4)
 
-## Apixaban: Drug interactions (part 1 of 3)
+## Apixaban: Drug interactions (part 1 of 6)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
@@ -16043,7 +17268,7 @@ Concomitant administration of combined P-gp and strong CYP3A4 inhibitors has not
 Apixaban is a substrate of both CYP3A4 and P-gp.
 Concomitant use with drugs that are combined P-gp and strong CYP3A4 inhibitors increases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for bleeding.
 
-## Apixaban: Drug interactions (part 2 of 3)
+## Apixaban: Drug interactions (part 2 of 6)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
@@ -16058,7 +17283,7 @@ Concomitant use with drugs that are combined P-gp and strong CYP3A4 inducers dec
 7.3 Anticoagulants and Antiplatelet Agents Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.
 APPRAISE-2, a placebo-controlled clinical trial of ELIQUIS in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with ELIQUIS compared to placebo.
 
-## Apixaban: Drug interactions (part 3 of 3)
+## Apixaban: Drug interactions (part 3 of 6)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
@@ -16068,6 +17293,33 @@ Keywords: apixaban, eliquis, drug interactions, factor xa inhibitor [epc], facto
 The rate of ISTH major bleeding was 2.8% per year with ELIQUIS versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with ELIQUIS versus 2.5% per year with placebo in those receiving dual antiplatelet therapy.
 In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year.
 In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.
+
+## Apixaban: Drug interactions (part 4 of 6)
+Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
+Retrieved: 2026-10-06
+Keywords: apixaban, eliquis, drug interactions, factor xa inhibitor [epc], factor xa inhibitors [moa]
+
+7.1 Combined P-gp and Strong CYP3A4 Inhibitors For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3) ] . For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3) ] . Concomitant administration of combined P-gp and strong CYP3A4 inhibitors has not been studied in pediatric patients. Apixaban is a substrate of both CYP3A4 and P-gp. Concomitant use with drugs that are combined P-gp and strong CYP3A4 inhibitors increases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for bleeding. Clarithromycin Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS [see Clinical Pharmacology (12.3) ] .
+
+## Apixaban: Drug interactions (part 5 of 6)
+Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
+Retrieved: 2026-10-06
+Keywords: apixaban, eliquis, drug interactions, factor xa inhibitor [epc], factor xa inhibitors [moa]
+
+7.2 Combined P-gp and Strong CYP3A4 Inducers Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3) ] . Apixaban is a substrate of both CYP3A4 and P-gp. Concomitant use with drugs that are combined P-gp and strong CYP3A4 inducers decreases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for stroke and other thromboembolic events.
+
+## Apixaban: Drug interactions (part 6 of 6)
+Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: a454cd24-0c6d-46e8-b1e4-197388606175
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175
+Retrieved: 2026-10-06
+Keywords: apixaban, eliquis, drug interactions, factor xa inhibitor [epc], factor xa inhibitors [moa]
+
+7.3 Anticoagulants and Antiplatelet Agents Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding. APPRAISE-2, a placebo-controlled clinical trial of ELIQUIS in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with ELIQUIS compared to placebo. The rate of ISTH major bleeding was 2.8% per year with ELIQUIS versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with ELIQUIS versus 2.5% per year with placebo in those receiving dual antiplatelet therapy. In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year. In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.
 
 ## Apixaban: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Apixaban (Cardinal Health 107, LLC), effective 2026-04-24
@@ -16245,7 +17497,7 @@ There are limited data on the relative effectiveness of XARELTO and warfarin in 
 1.4 Reduction in the Risk of Recurrence of Deep Vein Thrombosis and/or Pulmonary Embolism XARELTO is indicated for the reduction in the risk of recurrence of DVT and/or PE in adult patients at continued risk for recurrent DVT and/or PE after completion of initial treatment lasting at least 6 months.
 1.5 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery XARELTO is indicated for the prophylaxis of DVT, which may lead to PE in adult patients undergoing knee or hip replacement surgery.
 
-## Rivaroxaban: Dosage and administration (part 1 of 3)
+## Rivaroxaban: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Rivaroxaban (Janssen Pharmaceuticals, Inc.), effective 2026-09-10
 Label-set-id: 10db92f9-2300-4a80-836b-673e1ae91610
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610
@@ -16262,7 +17514,7 @@ Keywords: rivaroxaban, xarelto, dosage and administration, factor xa inhibitor [
 See dosing recommendations in the Full Prescribing Information ( 2.2 ) 2.1 Recommended Dosage in Adults Table 1:
 Recommended Dosage in Adults Indication Renal Considerations Calculate CrCl based on actual weight [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6) ] .
 
-## Rivaroxaban: Dosage and administration (part 2 of 3)
+## Rivaroxaban: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Rivaroxaban (Janssen Pharmaceuticals, Inc.), effective 2026-09-10
 Label-set-id: 10db92f9-2300-4a80-836b-673e1ae91610
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610
@@ -16274,7 +17526,7 @@ Reduction in Risk of Stroke in Nonvalvular Atrial Fibrillation CrCl >50 mL/min 2
 15 mg once daily Take with evening meal Treatment of DVT and/or PE CrCl ≥15 mL/min 15 mg twice daily ▼ after 21 days, transition to ▼ 20 mg once daily Take with food, at the same time each day CrCl <15 mL/min Avoid Use Reduction in the Risk of Recurrence of DVT and/or PE in patients at continued risk for DVT and/or PE CrCl ≥15 mL/min 10 mg once daily, after at least 6 months of standard anticoagulant treatment Take with or without food CrCl <15 mL/min Avoid Use Prophylaxis of DVT Following:
 - Hip Replacement Surgery CrCl ≥15 mL/min 10 mg once daily for 35 days, 6–10 hours after surgery once hemostasis has been established Take with or without food CrCl <15 mL/min Avoid Use - Knee Replacement Surgery [See Dosage and Administration (2.4) ] .
 
-## Rivaroxaban: Dosage and administration (part 3 of 3)
+## Rivaroxaban: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Rivaroxaban (Janssen Pharmaceuticals, Inc.), effective 2026-09-10
 Label-set-id: 10db92f9-2300-4a80-836b-673e1ae91610
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610
@@ -16284,6 +17536,19 @@ Keywords: rivaroxaban, xarelto, dosage and administration, factor xa inhibitor [
 CrCl ≥15 mL/min 10 mg once daily for 12 days, 6–10 hours after surgery once hemostasis has been established Take with or without food CrCl <15 mL/min Avoid Use Prophylaxis of VTE in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding CrCl ≥15 mL/min 10 mg once daily, in hospital and after hospital discharge, for a total recommended duration of 31 to 39 days Take with or without food CrCl <15 mL/min Avoid Use Reduction of Risk of Major Cardiovascular Events (CV Death, MI, and Stroke) in CAD No dose adjustment needed based on CrCl 2.5 mg twice daily , plus aspirin (75–100 mg) once daily Take with or without food Reduction of Risk of Major Thrombotic Vascular Events in PAD, Including Patients after Lower Extremity Revascularization due to Symptomatic PAD No dose adjustment needed based on CrCl 2.5 mg twice daily , plus aspirin (75–100 mg) once daily.
 When starting therapy after a successful lower extremity revascularization procedure, initiate once hemostasis has been established.
 Take with or without food 2.2 Recommended Dosage in Pediatric Patients Treatment of Venous Thromboembolism and Reduction in Risk of Recurrent Venous Thromboembolism in Pediatric Patients Table 2:
+
+## Rivaroxaban: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Rivaroxaban (Janssen Pharmaceuticals, Inc.), effective 2026-09-10
+Label-set-id: 10db92f9-2300-4a80-836b-673e1ae91610
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610
+Retrieved: 2026-10-06
+Keywords: rivaroxaban, xarelto, dosage and administration, factor xa inhibitor [epc], factor xa inhibitors [moa]
+
+Recommended Dosage in Pediatric Patients Birth to Less than 18 Years for Treatment of and Reduction in Risk of Recurrent VTE Initiate XARELTO treatment following at least 5 days of initial parenteral anticoagulation therapy. , Patients <6 months of age should meet the following criteria: at birth were at least 37 weeks of gestation, have had at least 10 days of oral feeding, and weigh ≥2.6 kg at the time of dosing.
+Dosage Form Body Weight 1 mg XARELTO = 1 mL Suspension Dosage Total Daily Dose All doses should be taken with feeding or with food since exposures match that of 20 mg daily dose in adults.
+Once a Day Once a day: approximately 24 hours apart;
+2 times a day: approximately 12 hours apart;
+3 times a day: approximately 8 hours apart 2 Times a Day 3 Times a Day Oral Suspension Only 2.6 kg to 2.9 kg 0.8 mg 2.4 mg 3 kg to 3.9 kg 0.9 mg 2.7 mg 4 kg to 4.9 kg 1.4 mg 4.2 mg 5 kg to 6.9 kg 1.6 mg 4.8 mg 7 kg to 7.9 kg 1.8 mg 5.4 mg 8 kg to 8.9 kg 2.4 mg 7.2 mg 9 kg to 9.9 kg 2.8 mg 8.4 mg 10 kg to 11.9 kg 3 mg 9 mg 12 kg to 29.9 kg 5 mg 10 mg Oral Suspension or Tablets 30 kg to 49.9 kg 15 mg 15 mg ≥50 kg 20 mg 20 mg Dosing of XARELTO was not studied and therefore dosing cannot be reliably determined in the following patient populations.
 
 ## Rivaroxaban: Contraindications
 Source: FDA drug label, Rivaroxaban (Janssen Pharmaceuticals, Inc.), effective 2026-09-10
@@ -16491,7 +17756,7 @@ Keywords: dabigatran etexilate, dabigatran, uses
 1.4 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery Dabigatran Etexilate Capsules is indicated for the prophylaxis of deep vein thrombosis and pulmonary embolism in adult patients who have undergone hip replacement surgery.
 1.5 Treatment of Venous Thromboembolic Events in Pediatric Patients Dabigatran Etexilate Capsules is indicated for the treatment of venous thromboembolic events (VET) in pediatric patients 8 to less than 18 years of age who have been treated with a parenteral anticoagulant for at least 5 days [see Dosage and Administration (2.3)].
 
-## Dabigatran Etexilate: Dosage and administration (part 1 of 3)
+## Dabigatran Etexilate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Dabigatran Etexilate (Ascend Laboratories, LLC), effective 2026-08-03
 Label-set-id: 3a8ec82a-c367-40dc-9302-e1896fcb05ea
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a8ec82a-c367-40dc-9302-e1896fcb05ea
@@ -16504,7 +17769,7 @@ Keywords: dabigatran etexilate, dabigatran, dosage and administration
 150 mg orally, twice daily after 5 to 10 days of parenteral anticoagulation ( 2.2 ) • Reduction in the Risk of Recurrence of DVT and PE in Adult Patients: o For patients with CrCl >30 mL/min:
 150 mg orally, twice daily after previous treatment ( 2.2 ) • Prophylaxis of DVT and PE Following Hip Replacement Surgery in Adult Patients: o For patients with CrCl >30 mL/min:
 
-## Dabigatran Etexilate: Dosage and administration (part 2 of 3)
+## Dabigatran Etexilate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Dabigatran Etexilate (Ascend Laboratories, LLC), effective 2026-08-03
 Label-set-id: 3a8ec82a-c367-40dc-9302-e1896fcb05ea
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a8ec82a-c367-40dc-9302-e1896fcb05ea
@@ -16515,7 +17780,7 @@ Keywords: dabigatran etexilate, dabigatran, dosage and administration
 In addition, there are differences between the dosage forms with respect to dosing due to differences in bioavailability.
 Do not substitute different dosage forms on a milligram-to-milligram basis and do not combine more than one dosage form to achieve the total dose [see Clinical Pharmacology (12.3)].
 
-## Dabigatran Etexilate: Dosage and administration (part 3 of 3)
+## Dabigatran Etexilate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Dabigatran Etexilate (Ascend Laboratories, LLC), effective 2026-08-03
 Label-set-id: 3a8ec82a-c367-40dc-9302-e1896fcb05ea
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a8ec82a-c367-40dc-9302-e1896fcb05ea
@@ -16534,6 +17799,20 @@ CrCl ≤30 mL/min or on dialysis:
 Avoid coadministration Prophylaxis of DVT and PE Following Hip Replacement Surgery CrCl >30 mL/min:
 110 mg for first day, then 220 mg once daily CrCl ≤30 mL/min or on dialysis:
 Dosing recommendations cannot be provided CrCl <50 mL/min with concomitant use of P-gp inhibitors:
+
+## Dabigatran Etexilate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Dabigatran Etexilate (Ascend Laboratories, LLC), effective 2026-08-03
+Label-set-id: 3a8ec82a-c367-40dc-9302-e1896fcb05ea
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a8ec82a-c367-40dc-9302-e1896fcb05ea
+Retrieved: 2026-10-06
+Keywords: dabigatran etexilate, dabigatran, dosage and administration
+
+Avoid coadministration Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily.
+For patients with severe renal impairment (CrCl 15 to 30 mL/min), the recommended dosage of Dabigatran Etexilate Capsules is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Dosing recommendations for patients with a CrCl <15 mL/min or on dialysis cannot be provided.
+Treatment of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients For patients with CrCl >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily, after 5 to 10 days of parenteral anticoagulation.
+Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients For patients with CrCl >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily after previous treatment.
 
 ## Dabigatran Etexilate: Contraindications
 Source: FDA drug label, Dabigatran Etexilate (Ascend Laboratories, LLC), effective 2026-08-03
@@ -16756,7 +18035,7 @@ Keywords: clopidogrel bisulfate, clopidogrel, contraindications
 
 4 CONTRAINDICATIONS Active pathological bleeding, such as peptic ulcer or intracranial hemorrhage ( 4.1 ) Hypersensitivity to clopidogrel or any component of the product ( 4.2 ) 4.1 Active Bleeding Clopidogrel is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage. 4.2 Hypersensitivity Clopidogrel is contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [see Adverse Reactions (6.2) ] .
 
-## Clopidogrel Bisulfate: Drug interactions (part 1 of 3)
+## Clopidogrel Bisulfate: Drug interactions (part 1 of 4)
 Source: FDA drug label, Clopidogrel Bisulfate (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 2969deac-274b-4042-9c90-9522e62a979d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2969deac-274b-4042-9c90-9522e62a979d
@@ -16779,7 +18058,7 @@ Rifampin strongly induces CYP2C19 resulting to both an increase level of clopido
 As a precaution, avoid concomitant use of strong CYP2C19 inducers [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3) ] .
 7.2 CYP2C19 Inhibitors Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 
-## Clopidogrel Bisulfate: Drug interactions (part 2 of 3)
+## Clopidogrel Bisulfate: Drug interactions (part 2 of 4)
 Source: FDA drug label, Clopidogrel Bisulfate (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 2969deac-274b-4042-9c90-9522e62a979d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2969deac-274b-4042-9c90-9522e62a979d
@@ -16794,7 +18073,7 @@ Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatel
 7.3 Opioids As with other oral P2Y12 inhibitors, co-administration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3) ] .
 Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.
 
-## Clopidogrel Bisulfate: Drug interactions (part 3 of 3)
+## Clopidogrel Bisulfate: Drug interactions (part 3 of 4)
 Source: FDA drug label, Clopidogrel Bisulfate (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 2969deac-274b-4042-9c90-9522e62a979d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2969deac-274b-4042-9c90-9522e62a979d
@@ -16808,6 +18087,19 @@ However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 7.7 Other Antiplatelet Agents Coadministration of antiplatelet agents increase the risk of bleeding due to an additive effect.
 Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with other antiplatelet agents [see Warnings and Precautions (5.2) ] .
 7.8 Repaglinide (CYP2C8 Substrates) The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
+
+## Clopidogrel Bisulfate: Drug interactions (part 4 of 4)
+Source: FDA drug label, Clopidogrel Bisulfate (REMEDYREPACK INC.), effective 2026-08-27
+Label-set-id: 2969deac-274b-4042-9c90-9522e62a979d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2969deac-274b-4042-9c90-9522e62a979d
+Retrieved: 2026-10-06
+Keywords: clopidogrel bisulfate, clopidogrel, drug interactions
+
+Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose adjustment and appropriate monitoring.
+Clopidogrel increased repaglinide exposures by 3.9-fold to 5.1-fold [see Clinical Pharmacology (12.3) ] .
+Avoid concomitant use of repaglinide with clopidogrel.
+If concomitant use cannot be avoided, initiate repaglinide at 0.5 mg before each meal and do not exceed a total daily dose of 4 mg.
+Increased frequency of glucose monitoring may be required during concomitant use.
 
 ## Clopidogrel Bisulfate: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Clopidogrel Bisulfate (REMEDYREPACK INC.), effective 2026-08-27
@@ -17425,7 +18717,7 @@ Keywords: sertraline hydrochloride, sertraline, uses
 
 1 INDICATIONS AND USAGE Sertraline hydrochloride tablets are indicated for the treatment of the following [ See Clinical Studies (14) ]: • Major depressive disorder (MDD) • Obsessive-compulsive disorder (OCD) • Panic disorder (PD) • Posttraumatic stress disorder (PTSD) • Social anxiety disorder (SAD) • Premenstrual dysphoric disorder (PMDD) Sertraline hydrochloride tablets are a selective serotonin reuptake inhibitor (SSRI) indicated for the treatment of ( 1 ): • Major depressive disorder (MDD) • Obsessive-compulsive disorder (OCD) • Panic disorder (PD) • Posttraumatic stress disorder (PTSD) • Social anxiety disorder (SAD) • Premenstrual dysphoric disorder (PMDD)
 
-## Sertraline Hydrochloride: Dosage and administration (part 1 of 3)
+## Sertraline Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17437,7 +18729,7 @@ Recommended starting and maximum dosage is half recommended dosage ( 2.4 ) o Mod
 Not recommended ( 2.4 ) • When discontinuing sertraline hydrochloride tablets, reduce dose gradually ( 2.6 , 5.4 ) 2.1 Dosage in Patients with MDD, OCD, PD, PTSD, and SAD The recommended initial dosage and maximum sertraline hydrochloride tablets dosage in patients with MDD, OCD, PD, PTSD, and SAD are displayed in Table 1 below.
 A dosage of 25 mg or 50 mg per day is the initial therapeutic dosage.
 
-## Sertraline Hydrochloride: Dosage and administration (part 2 of 3)
+## Sertraline Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17450,7 +18742,7 @@ Table 1:
 Recommended Daily Dosage of Sertraline Hydrochloride Tablets in Patients with MDD, OCD, PD, PTSD, and SAD Indication Starting Dose Therapeutic Range Adults MDD 50 mg 50 to 200 mg OCD 50 mg PD, PTSD, SAD 25 mg Pediatric Patients OCD (ages 6 to 12 years old) 25 mg 50 to 200 mg OCD (ages 13 to 17 years old) 50 mg 2.2 Dosage in Patients with PMDD The recommended starting sertraline hydrochloride tablets dosage in adult women with PMDD is 50 mg per day.
 Sertraline hydrochloride tablets may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
 
-## Sertraline Hydrochloride: Dosage and administration (part 3 of 3)
+## Sertraline Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17462,6 +18754,19 @@ Intermittent dosing would be repeated with each new cycle. • When dosing conti
 2.3 Screen for Bipolar Disorder Prior to Starting Sertraline Hydrochloride Tablets Prior to initiating treatment with sertraline hydrochloride tablets or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [ See Warnings and Precautions (5.4) ].
 2.4 Dosage Modifications in Patients with Hepatic Impairment Both the recommended starting dosage and therapeutic range in patients with mild hepatic impairment (Child Pugh scores 5 or 6) are half the recommended daily dosage [ See Dosage and Administration (2.1 , 2.2 )] .
 
+## Sertraline Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
+Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
+Retrieved: 2026-10-06
+Keywords: sertraline hydrochloride, sertraline, dosage and administration
+
+The use of sertraline hydrochloride tablets in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10 to 15) is not recommended [ See Use in Specific Populations (8.6) , Clinical Pharmacology (12.3) ].
+2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of sertraline hydrochloride tablets.
+In addition, at least 14 days must elapse after stopping sertraline hydrochloride tablets before starting an MAOI antidepressant [ See Contraindications (4) , Warnings and Precautions (5.2) ] .
+2.6 Discontinuation of Treatment with Sertraline Hydrochloride Tablets Adverse reactions may occur upon discontinuation of sertraline hydrochloride tablets [ See Warnings and Precautions (5.5) ].
+Gradually reduce the dosage rather than stopping sertraline hydrochloride tablets abruptly whenever possible.
+
 ## Sertraline Hydrochloride: Contraindications
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17471,7 +18776,7 @@ Keywords: sertraline hydrochloride, sertraline, contraindications
 
 4 CONTRAINDICATIONS Sertraline hydrochloride tablets are contraindicated in patients: • Taking, or within 14 days of stopping, MAOIs, (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [ See Warnings and Precautions (5.2) , Drug Interactions (7.1) ] . • Taking pimozide [ See Drug Interactions (7.1) ] . • With known hypersensitivity to sertraline (e.g., anaphylaxis, angioedema) [ See Adverse Reactions (6.1 , 6.2 )]. • Concomitant use of monoamine oxidase inhibitors (MAOIs), or use within 14 days of stopping MAOIs ( 4 , 7.1 ) • Concomitant use of pimozide ( 4 , 7.1 ) • Known hypersensitivity to sertraline or excipients ( 4 , 5.4 )
 
-## Sertraline Hydrochloride: Drug interactions (part 1 of 3)
+## Sertraline Hydrochloride: Drug interactions (part 1 of 5)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17492,7 +18797,7 @@ Examples: selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, met
 Increased plasma concentrations of pimozide, a drug with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias.
 Intervention:
 
-## Sertraline Hydrochloride: Drug interactions (part 2 of 3)
+## Sertraline Hydrochloride: Drug interactions (part 2 of 5)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17514,7 +18819,7 @@ Intervention:
 Inform patients of the increased risk of bleeding associated with the concomitant use of sertraline hydrochloride and antiplatelet agents and anticoagulants.
 For patients taking warfarin, carefully monitor the international normalized ratio [ See Warnings and Precautions (5.3) ].
 
-## Sertraline Hydrochloride: Drug interactions (part 3 of 3)
+## Sertraline Hydrochloride: Drug interactions (part 3 of 5)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
 Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
@@ -17534,6 +18839,41 @@ Decrease the dosage of a CYP2D6 substrate if needed with concomitant sertraline 
 Conversely, an increase in dosage of a CYP2D6 substrate may be needed if sertraline hydrochloride is discontinued.
 Examples: propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, thioridazine, tolterodine, venlafaxine Phenytoin Clinical Impact:
 Phenytoin is a narrow therapeutic index drug.
+
+## Sertraline Hydrochloride: Drug interactions (part 4 of 5)
+Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
+Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
+Retrieved: 2026-10-06
+Keywords: sertraline hydrochloride, sertraline, drug interactions
+
+Sertraline hydrochloride may increase phenytoin concentrations.
+Intervention:
+Monitor phenytoin levels when initiating or titrating sertraline hydrochloride.
+Reduce phenytoin dosage if needed.
+Examples: phenytoin, fosphenytoin Drugs that Prolong the QTc Interval Clinical Impact:
+The risk of QTc prolongation and/or ventricular arrhythmias (e.g., TdP) is increased with concomitant use of other drugs which prolong the QTc interval [ See Warnings and Precautions (5.10) , Clinical Pharmacology (12.2) ] .
+Intervention:
+Pimozide is contraindicated for use with sertraline.
+Avoid the concomitant use of drugs known to prolong the QTc interval.
+Examples:
+Specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin);
+Class 1A antiarrhythmic medications (e.g., quinidine, procainamide);
+Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
+
+## Sertraline Hydrochloride: Drug interactions (part 5 of 5)
+Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
+Label-set-id: 1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1afd0016-d0ee-4e25-a1a4-b66f228e2f9c
+Retrieved: 2026-10-06
+Keywords: sertraline hydrochloride, sertraline, drug interactions
+
+7.2 Drugs Having No Clinically Important Interactions with Sertraline Hydrochloride Based on pharmacokinetic studies, no dosage adjustment of sertraline hydrochloride is necessary when used in combination with cimetidine.
+Additionally, no dosage adjustment is required for diazepam, lithium, atenolol, tolbutamide, digoxin, and drugs metabolized by CYP3A4, when sertraline hydrochloride is administered concomitantly [ See Clinical Pharmacology (12.3) ] .
+7.3 False-Positive Screening Tests for Benzodiazepines False-positive urine immunoassay screening tests for benzodiazepines have been reported in patients taking sertraline hydrochloride.
+This finding is due to lack of specificity of the screening tests.
+False-positive test results may be expected for several days following discontinuation of sertraline hydrochloride.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish sertraline from benzodiazepines.
 
 ## Sertraline Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Sertraline Hydrochloride (Preferred Pharmaceuticals Inc.), effective 2026-08-27
@@ -17704,7 +19044,7 @@ Keywords: fluoxetine hydrochloride, fluoxetine, uses
 Acute and maintenance treatment of Major Depressive Disorder (MDD) ( 1 ) Acute and maintenance treatment of Obsessive Compulsive Disorder (OCD) ( 1 ) Acute and maintenance treatment of Bulimia Nervosa ( 1 ) Acute treatment of Panic Disorder, with or without agoraphobia ( 1 ) Fluoxetine capsules and olanzapine in combination for treatment of:
 Acute Depressive Episodes Associated with Bipolar I Disorder ( 1 ) Treatment Resistant Depression ( 1 )
 
-## Fluoxetine Hydrochloride: Dosage and administration (part 1 of 3)
+## Fluoxetine Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
 Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
@@ -17716,7 +19056,7 @@ Keywords: fluoxetine hydrochloride, fluoxetine, dosage and administration
 2.5 mg of oral olanzapine and 20 mg of fluoxetine once daily (initial dose) Treatment Resistant Depression ( 2.6 ) Oral in combination with olanzapine:
 5 mg of oral olanzapine and 20 mg of fluoxetine once daily (initial dose) A lower or less frequent dosage should be used in patients with hepatic impairment, the elderly, and for patients with concurrent disease or on multiple concomitant medications ( 2.7 ) Fluoxetine capsules and olanzapine in combination:
 
-## Fluoxetine Hydrochloride: Dosage and administration (part 2 of 3)
+## Fluoxetine Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
 Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
@@ -17730,7 +19070,7 @@ The maximum fluoxetine dose should not exceed 80 mg/day.
 In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 mg/day to 80 mg/day.
 Studies comparing fluoxetine 20 mg/day, 40 mg/day, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases [see Clinical Studies (14.1) ].
 
-## Fluoxetine Hydrochloride: Dosage and administration (part 3 of 3)
+## Fluoxetine Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
 Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
@@ -17746,6 +19086,26 @@ All patients — As with other drugs effective in the treatment of Major Depress
 Periodically reassess to determine the need for maintenance treatment.
 Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Drug Interactions (7.7) ].
 2.2 Obsessive Compulsive Disorder Initial Treatment Adult — Initiate fluoxetine 20 mg/day, orally in the morning.
+
+## Fluoxetine Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, dosage and administration
+
+Consider a dose increase after several weeks if insufficient clinical improvement is observed.
+The full therapeutic effect may be delayed until 5 weeks of treatment or longer.
+Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
+A dose range of 20 mg/day to 60 mg/day is recommended; however, doses of up to 80 mg/day have been well tolerated in open studies of OCD.
+The maximum fluoxetine dose should not exceed 80 mg/day.
+In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fixed daily doses of 20 mg, 40 mg, or 60 mg of fluoxetine or placebo [see Clinical Studies (14.2) ].
+In one of these studies, no dose-response relationship for effectiveness was demonstrated.
+Pediatric (children and adolescents) — In adolescents and higher weight children, initiate treatment with a dose of 10 mg/day.
+After 2 weeks, increase the dose to 20mg/day.
+Consider additional dose increases after several more weeks if insufficient clinical improvement is observed.
+A dose range of 20 mg/day to 60 mg/day is recommended.
+In lower weight children, initiate treatment with a dose of 10 mg/day.
 
 ## Fluoxetine Hydrochloride: Contraindications (part 1 of 2)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
@@ -17780,7 +19140,7 @@ Pimozide [see Warnings and Precautions (5.11) and Drug Interactions (7.7 , 7.8) 
 Fluoxetine can increase the levels of pimozide and thioridazine through inhibition of CYP2D6.
 Fluoxetine can also prolong the QT interval.
 
-## Fluoxetine Hydrochloride: Drug interactions (part 1 of 3)
+## Fluoxetine Hydrochloride: Drug interactions (part 1 of 10)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
 Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
@@ -17801,7 +19161,7 @@ NSAIDs, Aspirin, Warfarin):
 May potentiate the risk of bleeding ( 7.4 ) Drugs Tightly Bound to Plasma Proteins:
 May cause a shift in plasma concentrations ( 7.6 , 7.7 ) Olanzapine:
 
-## Fluoxetine Hydrochloride: Drug interactions (part 2 of 3)
+## Fluoxetine Hydrochloride: Drug interactions (part 2 of 10)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
 Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
@@ -17817,7 +19177,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 John's Wort) with fluoxetine increases the risk of serotonin syndrome.
 Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
 
-## Fluoxetine Hydrochloride: Drug interactions (part 3 of 3)
+## Fluoxetine Hydrochloride: Drug interactions (part 3 of 10)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
 Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
@@ -17831,6 +19191,107 @@ Altered anticoagulant effects, including increased bleeding, have been reported 
 Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued [see Warnings and Precautions (5.7) ] .
 7.5 Electroconvulsive Therapy (ECT) There are no clinical studies establishing the benefit of the combined use of ECT and fluoxetine.
 There have been rare reports of prolonged seizures in patients on fluoxetine receiving ECT treatment.
+
+## Fluoxetine Hydrochloride: Drug interactions (part 4 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+7.6 Potential for Other Drugs to affect Fluoxetine Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3) ] .
+7.7 Potential for Fluoxetine to affect Other Drugs Pimozide — Concomitant use in patients taking pimozide is contraindicated.
+Pimozide can prolong the QT interval.
+Fluoxetine can increase the level of pimozide through inhibition of CYP2D6.
+Fluoxetine can also prolong the QT interval.
+Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QT prolongation.
+While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2) , Warnings and Precautions (5.11) , and Drug Interactions (7.8)].
+
+## Fluoxetine Hydrochloride: Drug interactions (part 5 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
+The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
+Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
+Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as Torsades de Pointes-type arrhythmias, and sudden death.
+This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
+Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
+Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (e.g., TCAs), antipsychotics (e.g., phenothiazines and most atypicals), and antiarrhythmics (e.g., propafenone, flecainide, and others) should be approached with caution.
+
+## Fluoxetine Hydrochloride: Drug interactions (part 6 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+Therapy with medications that are predominantly metabolized by the CYP2D6 system and that have a relatively narrow therapeutic index (see list below) should be initiated at the low end of the dose range if a patient is receiving fluoxetine concurrently or has taken it in the previous 5 weeks.
+Thus, his/her dosing requirements resemble those of poor metabolizers.
+If fluoxetine is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need for decreased dose of the original medication should be considered.
+Drugs with a narrow therapeutic index represent the greatest concern (e.g., flecainide, propafenone, vinblastine, and TCAs).
+Due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4.2)].
+Tricyclic Antidepressants (TCAs) — In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2- to 10-fold when fluoxetine has been administered in combination.
+This influence may persist for 3 weeks or longer after fluoxetine is discontinued.
+
+## Fluoxetine Hydrochloride: Drug interactions (part 7 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+Thus, the dose of TCAs may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ].
+Benzodiazepines — The half-life of concurrently administered diazepam may be prolonged in some patients [see Clinical Pharmacology (12.3)] .
+Coadministration of alprazolam and fluoxetine has resulted in increased alprazolam plasma concentrations and in further psychomotor performance decrement due to increased alprazolam levels.
+Antipsychotics — Some clinical data suggests a possible pharmacodynamic and/or pharmacokinetic interaction between SSRIs and antipsychotics.
+Elevation of blood levels of haloperidol and clozapine has been observed in patients receiving concomitant fluoxetine.
+Anticonvulsants — Patients on stable doses of phenytoin and carbamazepine have developed elevated plasma anticonvulsant concentrations and clinical anticonvulsant toxicity following initiation of concomitant fluoxetine treatment.
+Lithium — There have been reports of both increased and decreased lithium levels when lithium was used concomitantly with fluoxetine.
+Cases of lithium toxicity and increased serotonergic effects have been reported.
+
+## Fluoxetine Hydrochloride: Drug interactions (part 8 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+Lithium levels should be monitored when these drugs are administered concomitantly [see Warnings and Precautions (5.2)].
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)].
+Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
+Additionally, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than fluoxetine or norfluoxetine as an inhibitor of the metabolism of several substrates for this enzyme, including astemizole, cisapride, and midazolam.
+These data indicate that fluoxetine’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
+
+## Fluoxetine Hydrochloride: Drug interactions (part 9 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+Olanzapine — Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
+The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
+When using fluoxetine and olanzapine and in combination, also refer to the Drug Interactions section of the package insert for Symbyax.
+7.8 Drugs that Prolong the QT Interval Do not use fluoxetine in combination with thioridazine or pimozide.
+Use fluoxetine with caution in combination with other drugs that cause QT prolongation.
+These include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin);
+Class 1A antiarrhythmic medications (e.g., quinidine, procainamide);
+Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
+Fluoxetine is primarily metabolized by CYP2D6.
+
+## Fluoxetine Hydrochloride: Drug interactions (part 10 of 10)
+Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
+Label-set-id: 23899405-007b-48d9-82a9-a530b8e90784
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23899405-007b-48d9-82a9-a530b8e90784
+Retrieved: 2026-10-06
+Keywords: fluoxetine hydrochloride, fluoxetine, drug interactions
+
+Concomitant treatment with CYP2D6 inhibitors can increase the concentration of fluoxetine.
+Concomitant use of other highly protein-bound drugs can increase the concentration of fluoxetine [see Contraindications (4.2) , Warnings and Precautions (5.11) , Drug Interactions (7.7) , and Clinical Pharmacology (12.3) ].
 
 ## Fluoxetine Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Fluoxetine Hydrochloride (ScieGen Pharmaceuticals, Inc.), effective 2026-08-20
@@ -18186,7 +19647,7 @@ Keywords: escitalopram, uses
 
 1 INDICATIONS AND USAGE Escitalopram is indicated for the treatment of: • major depressive disorder (MDD) in adults and pediatric patients 12 years of age and older. • generalized anxiety disorder (GAD) in adults. Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution. However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information. Escitalopram is a selective serotonin reuptake inhibitor (SSRI) indicated for the: • treatment of major depressive disorder (MDD) in adults and pediatric patients 12 years of age and older ( 1 ) • treatment of generalized anxiety disorder (GAD) in adults ( 1 )
 
-## Escitalopram: Dosage and administration (part 1 of 3)
+## Escitalopram: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Escitalopram (Bryant Ranch Prepack), effective 2026-06-30
 Label-set-id: 20281fe6-7db9-4b33-8418-b25e6a5404ca
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20281fe6-7db9-4b33-8418-b25e6a5404ca
@@ -18206,7 +19667,7 @@ Keywords: escitalopram, dosage and administration
 A fixed-dose trial of escitalopram demonstrated the effectiveness of both 10 mg and 20 mg of escitalopram, but failed to demonstrate a greater benefit of 20 mg over 10 mg [see Clinical Studies ( 14.1 )] .
 Depending on clinical response and tolerability, dosage may be increased to the maximum recommended dosage of 20 mg once daily at an interval of no less than 1 week.
 
-## Escitalopram: Dosage and administration (part 2 of 3)
+## Escitalopram: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Escitalopram (Bryant Ranch Prepack), effective 2026-06-30
 Label-set-id: 20281fe6-7db9-4b33-8418-b25e6a5404ca
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20281fe6-7db9-4b33-8418-b25e6a5404ca
@@ -18222,7 +19683,7 @@ However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product 
 2.3 Administration Information Administer escitalopram tablets orally once daily, in the morning or evening, with or without food.
 2.4 Screen for Bipolar Disorder Prior to Starting Escitalopram Tablets Prior to initiating treatment with escitalopram or another antidepressant, screen patients for a personal family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions ( 5.5 )] .
 
-## Escitalopram: Dosage and administration (part 3 of 3)
+## Escitalopram: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Escitalopram (Bryant Ranch Prepack), effective 2026-06-30
 Label-set-id: 20281fe6-7db9-4b33-8418-b25e6a5404ca
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20281fe6-7db9-4b33-8418-b25e6a5404ca
@@ -18237,6 +19698,16 @@ Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
+
+## Escitalopram: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Escitalopram (Bryant Ranch Prepack), effective 2026-06-30
+Label-set-id: 20281fe6-7db9-4b33-8418-b25e6a5404ca
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20281fe6-7db9-4b33-8418-b25e6a5404ca
+Retrieved: 2026-10-06
+Keywords: escitalopram, dosage and administration
+
+2.7 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with escitalopram tablets.
+Conversely, at least 14 days should be allowed after stopping escitalopram tablets before starting an MAOI intended to treat psychiatric disorders [see Contraindications ( 4 )].
 
 ## Escitalopram: Contraindications (part 1 of 2)
 Source: FDA drug label, Escitalopram (Bryant Ranch Prepack), effective 2026-06-30
@@ -18438,7 +19909,7 @@ Keywords: paroxetine hydrochloride, paroxetine, uses
 
 1 INDICATIONS AND USAGE Paroxetine HCL CR is indicated in adults for the treatment of: Major depressive disorder (MDD) Panic disorder (PD) Social anxiety disorder (SAD) Premenstrual dysphoric disorder (PMDD) Paroxetine HCL CR is a selective serotonin reuptake inhibitor (SSRI) indicated in adults for the treatment of ( 1 ): Major Depressive Disorder (MDD) Panic Disorder (PD) Social Anxiety Disorder (SAD) Premenstrual Dysphoric Disorder (PMDD)
 
-## Paroxetine Hydrochloride: Dosage and administration (part 1 of 3)
+## Paroxetine Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18457,7 +19928,7 @@ Do not exceed 50 mg per day for treatment of MDD and PD and 37.5 mg per day for 
 Swallow tablets whole and do not chew or crush.
 2.2 Dosage in Patients with Major Depressive Disorder, Panic Disorder, and Social Anxiety Disorder The recommended initial dosage and maximum dosage of Paroxetine HCL CR in patients with MDD, PD, and SAD are presented in Table 1.
 
-## Paroxetine Hydrochloride: Dosage and administration (part 2 of 3)
+## Paroxetine Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18472,7 +19943,7 @@ Intermittent dosing is repeated with each new cycle.
 In patients with an inadequate response, the dosage may be increased to the maximum recommended dosage of 25 mg per day, depending on tolerability.
 Institute dosage adjustments at intervals of at least 1 week.
 
-## Paroxetine Hydrochloride: Dosage and administration (part 3 of 3)
+## Paroxetine Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18486,6 +19957,15 @@ Dosage should not exceed 50 mg per day for MDD or PD and should not exceed 37.5 
 2.6 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant At least 14 days must elapse between discontinuation of an monoamine oxidase inhibitor (MAOI) antidepressant and initiation of Paroxetine HCL CR.
 In addition, at least 14 days must elapse after stopping Paroxetine HCL CR before starting an MAOI antidepressant [see Contraindications ( 4 ), Warnings and Precautions ( 5.2 )].
 
+## Paroxetine Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
+Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
+Retrieved: 2026-10-06
+Keywords: paroxetine hydrochloride, paroxetine, dosage and administration
+
+2.7 Discontinuation of Treatment with Paroxetine HCL CR Adverse reactions may occur upon discontinuation of Paroxetine HCL CR [see Warnings and Precautions ( 5.7 )] .Gradually reduce the dosage rather than stopping Paroxetine HCL CR abruptly whenever possible.
+
 ## Paroxetine Hydrochloride: Contraindications
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18495,7 +19975,7 @@ Keywords: paroxetine hydrochloride, paroxetine, contraindications
 
 4 CONTRAINDICATIONS Paroxetine HCL CR is contraindicated in patients: Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [See Warnings and Precautions ( 5.2 ), Drug Interactions (7)]. Paroxetine HCL CR should not be used in patients receiving medications that can prolong QT interval and are also metabolized by CYP450 2D6,such as thioridazine or pimozide [see Drug Interactions (7),Warnings and Precautions (5.3)]. With known hypersensitivity (e.g., anaphylaxis, angioedema, Stevens-Johnson syndrome) to paroxetine or to any of the inactive ingredients in Paroxetine HCL CR [see Adverse Reactions ( 6.1 , 6.2 )]. Concomitant use of monoamine oxidase inhibitors (MAOIs) or use within 14 days of discontinuing a MAOIs. ( 4 , 5.2 , 7 ) Concomitant use of pimozide or thioridazine. ( 4 , 5.3 , 7 ) Known hypersensitivity to paroxetine or to any of the inactive ingredients in Paroxetine HCL CR. ( 4 )
 
-## Paroxetine Hydrochloride: Drug interactions (part 1 of 3)
+## Paroxetine Hydrochloride: Drug interactions (part 1 of 4)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18513,7 +19993,7 @@ Table 6:
 Clinically Significant Drug Interactions with Paroxetine HCL CR Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact The concomitant use of SSRIs, including Paroxetine HCL CR, and MAOIs increases the risk of serotonin syndrome.
 Intervention Paroxetine HCL CR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration ( 2.6 ), Contraindications ( 4 ), Warnings and Precautions ( 5.2 )].
 
-## Paroxetine Hydrochloride: Drug interactions (part 2 of 3)
+## Paroxetine Hydrochloride: Drug interactions (part 2 of 4)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18527,7 +20007,7 @@ If serotonin syndrome occurs, consider discontinuation of Paroxetine HCL CR and/
 Examples Other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, St.
 John’s Wort Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) Clinical Impact The concurrent use of an antiplatelet agent or anticoagulant with Paroxetine HCL CR may potentiate the risk of bleeding.
 
-## Paroxetine Hydrochloride: Drug interactions (part 3 of 3)
+## Paroxetine Hydrochloride: Drug interactions (part 3 of 4)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
 Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
@@ -18543,6 +20023,18 @@ Examples warfarin Drugs Metabolized by CYP2D6 Clinical Impact Paroxetine HCL CR 
 The concomitant use of Paroxetine HCL CR with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate.
 Intervention Decrease the dosage of a CYP2D6 substrate if needed with concomitant Paroxetine HCL CR use.
 Conversely, an increase in dosage of a CYP2D6 substrate may be needed if Paroxetine HCL CR is discontinued.
+
+## Paroxetine Hydrochloride: Drug interactions (part 4 of 4)
+Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
+Label-set-id: 087ff0d3-1761-47ea-a8c1-7c4cb679af97
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=087ff0d3-1761-47ea-a8c1-7c4cb679af97
+Retrieved: 2026-10-06
+Keywords: paroxetine hydrochloride, paroxetine, drug interactions
+
+Examples propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine, venlafaxine, risperidone.
+Tamoxifen Clinical Impact Concomitant use of tamoxifen with Paroxetine HCL CR may lead to reduced plasma concentrations of the active metabolite (endoxifen) and reduced efficacy of tamoxifen Intervention Consider use of an alternative antidepressant little or no CYP2D6 inhibition [see Warnings and Precautions ( 5.11 )].
+Fosamprenavir/Ritonavir Clinical Impact Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.
+Intervention Any dose adjustment should be guided by clinical effect (tolerability and efficacy).
 
 ## Paroxetine Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Paroxetine Hydrochloride (Apotex Corp), effective 2026-09-16
@@ -18710,7 +20202,7 @@ The avoidance, anxious anticipation, or distress in the feared situation(s) inte
 Lesser degrees of performance anxiety or shyness generally do not require psychopharmacological treatment.
 Efficacy of venlafaxine extended-release in the treatment of SAD was established in short-term SAD trials [ see Clinical Studies (14.2) ].
 
-## Venlafaxine: Dosage and administration (part 1 of 3)
+## Venlafaxine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
 Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
@@ -18725,7 +20217,7 @@ Gradual; individualized as necessary.
 ( 2.4 ) 2.1 Initial Treatment Major Depressive Disorder For most patients, the recommended starting dose for venlafaxine extended-release tablets is 75 mg/day, administered in a single dose.
 In the clinical trials establishing the efficacy of venlafaxine hydrochloride extended-release capsules in moderately depressed outpatients, the initial dose of venlafaxine was 75 mg/day.
 
-## Venlafaxine: Dosage and administration (part 2 of 3)
+## Venlafaxine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
 Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
@@ -18738,7 +20230,7 @@ Dose increases should be in increments of up to 75 mg/day, as needed, and should
 In the clinical trials establishing efficacy, upward titration was permitted at intervals of 2 weeks or more; the average doses were about 140 to 180 mg/day [ see Clinical Studies ( 14 ) ].
 It should be noted that, while the maximum recommended dose for moderately depressed outpatients is also 225 mg/day for venlafaxine hydrochloride immediate-release tablets, more severely depressed inpatients in one study of the development program for that product responded to a mean dose of 350 mg/day (range of 150 to 375 mg/day).
 
-## Venlafaxine: Dosage and administration (part 3 of 3)
+## Venlafaxine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
 Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
@@ -18751,6 +20243,18 @@ There was no evidence that higher doses confer any additional benefit.
 2.2 Maintenance Treatment There is no body of evidence available from controlled trials to indicate how long patients with major depressive disorder should be treated with venlafaxine extended-release tablets.
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
 In one study, in which patients responding during 8 weeks of acute treatment with venlafaxine hydrochloride extended-release capsules were assigned randomly to placebo or to the same dose of venlafaxine hydrochloride extended-release capsules (75, 150, or 225 mg per day, qAM) during 26 weeks of maintenance treatment as they had received during the acute stabilization phase, longer-term efficacy was demonstrated.
+
+## Venlafaxine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, dosage and administration
+
+A second longer-term study has demonstrated the efficacy of venlafaxine hydrochloride immediate-release tablets in maintaining a response in patients with recurrent major depressive disorder who had responded and continued to be improved during an initial 26 weeks of treatment and were then randomly assigned to placebo or venlafaxine hydrochloride immediate-release tablets for periods of up to 52 weeks on the same dose (100 to 200 mg/day, on a b.i.d. schedule) [ see Clinical Studies ( 14 ) ].
+Based on these limited data, it is not known whether or not the dose of venlafaxine extended-release tablets needed for maintenance treatment is identical to the dose needed to achieve an initial response.
+Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
+2.3 Special Populations Treatment of Pregnant Women During the Third Trimester Neonates exposed to venlafaxine hydrochloride extended-release capsules, other SNRIs, or SSRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [ see Use in Specific Populations ( 8.1 ) ].
 
 ## Venlafaxine: Contraindications (part 1 of 2)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
@@ -18775,7 +20279,7 @@ Keywords: venlafaxine, contraindications
 
 Starting venlafaxine extended-release tablets in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [ see Dosage and Administrations ( 2.7 ) and Warnings and Precautions ( 5.2 ) ].
 
-## Venlafaxine: Drug interactions (part 1 of 3)
+## Venlafaxine: Drug interactions (part 1 of 10)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
 Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
@@ -18804,7 +20308,7 @@ Careful patient observation advised.
 Concomitant use not recommended.
 ( 7.10 ) 7.1 Alcohol A single dose of ethanol (0.5 g/kg) had no effect on the pharmacokinetics of venlafaxine or O-desmethylvenlafaxine (ODV) when venlafaxine was administered at 150 mg/day in 15 healthy male subjects.
 
-## Venlafaxine: Drug interactions (part 2 of 3)
+## Venlafaxine: Drug interactions (part 2 of 10)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
 Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
@@ -18819,7 +20323,7 @@ The overall pharmacological activity of venlafaxine plus ODV is expected to incr
 However, for patients with pre-existing hypertension, and for elderly patients or patients with hepatic dysfunction, the interaction associated with the concomitant use of venlafaxine and cimetidine is not known and potentially could be more pronounced.
 Therefore, caution is advised with such patients.
 
-## Venlafaxine: Drug interactions (part 3 of 3)
+## Venlafaxine: Drug interactions (part 3 of 10)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
 Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
@@ -18834,6 +20338,117 @@ The mechanism explaining this finding is unknown.
 7.5 Lithium The steady-state pharmacokinetics of venlafaxine administered at 150 mg/day were not affected when a single 600 mg oral dose of lithium was administered to 12 healthy male subjects.
 ODV also was unaffected.
 Venlafaxine had no effect on the pharmacokinetics of lithium (see also CNS-Active Drugs, below).
+
+## Venlafaxine: Drug interactions (part 4 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+7.6 Drugs Highly Bound to Plasma Proteins Venlafaxine is not highly bound to plasma proteins; therefore, administration of venlafaxine extended-release tablets to a patient taking another drug that is highly protein bound should not cause increased free concentrations of the other drug.
+7.7 Drugs that Inhibit Cytochrome P450 Isoenzymes CYP2D6 Inhibitors:
+In vitro and in vivo studies indicate that venlafaxine is metabolized to its active metabolite, ODV, by CYP2D6, the isoenzyme that is responsible for the genetic polymorphism seen in the metabolism of many antidepressants.
+Therefore, the potential exists for a drug interaction between drugs that inhibit CYP2D6-mediated metabolism of venlafaxine, reducing the metabolism of venlafaxine to ODV, resulting in increased plasma concentrations of venlafaxine and decreased concentrations of the active metabolite.
+CYP2D6 inhibitors such as quinidine would be expected to do this, but the effect would be similar to what is seen in patients who are genetically CYP2D6 poor metabolizers [ see Clinical Pharmacology ( 12.3 ) ].
+Therefore, no dosage adjustment is required when venlafaxine is coadministered with a CYP2D6 inhibitor.
+Ketoconazole:
+
+## Venlafaxine: Drug interactions (part 5 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n=14) and 25 mg in poor metabolizers (PM;n=6) of CYP2D6 resulted in higher plasma concentrations of both venlafaxine and O-desmethylvenlafaxine (ODV) in most subjects following administration of ketoconazole.
+Venlafaxine C max increased by 26% in EM subjects and 48% in PM subjects.
+C max values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
+Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PM’s -2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM (range in PM’s -38% to 105%) subjects, respectively.
+Combined AUC’s of venlafaxine and ODV increased on average by approximately 23% in EM’s and 53% in PM’s, (range in PM’s 4% to 134%).
+Concomitant use of CYP3A4 inhibitors and venlafaxine may increase levels of venlafaxine and ODV.
+Therefore, caution is advised if a patient’s therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
+7.8 Drugs Metabolized by Cytochrome P450 Isoenzymes CYP2D6 In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
+
+## Venlafaxine: Drug interactions (part 6 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine with that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
+Imipramine -Venlafaxine did not affect the pharmacokinetics of imipramine and 2-OH-imipramine.
+However, desipramine AUC, C max , and C min increased by about 35% in the presence of venlafaxine.
+The 2-OH-desipramine AUC's increased by at least 2.5 fold (with venlafaxine 37.5 mg q12h) and by 4.5 fold (with venlafaxine 75 mg q12h).
+Imipramine did not affect the pharmacokinetics of venlafaxine and ODV.
+The clinical significance of elevated 2-OH-desipramine levels is unknown.
+Metoprolol -Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30 to 40% without altering the plasma concentrations of its active metabolite, α-hydroxymetoprolol.
+Metoprolol did not alter the pharmacokinetic profile of venlafaxine or its active metabolite, O-desmethylvenlafaxine.
+Venlafaxine appeared to reduce the blood pressure lowering effect of metoprolol in this study.
+
+## Venlafaxine: Drug interactions (part 7 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+The clinical relevance of this finding for hypertensive patients is unknown.
+Caution should be exercised with co-administration of venlafaxine and metoprolol.
+Venlafaxine treatment has been associated with dose-related increases in blood pressure in some patients.
+It is recommended that patients receiving venlafaxine extended-release tablets have regular monitoring of blood pressure [ see Warnings and Precautions ( 5.3 ) ].
+Risperidone -Venlafaxine administered under steady-state conditions at 150 mg/day slightly inhibited the CYP2D6-mediated metabolism of risperidone (administered as a single 1 mg oral dose) to its active metabolite, 9-hydroxyrisperidone, resulting in an approximate 32% increase in risperidone AUC.
+However, venlafaxine coadministration did not significantly alter the pharmacokinetic profile of the total active moiety (risperidone plus 9-hydroxyrisperidone).
+CYP3A4 Venlafaxine did not inhibit CYP3A4 in vitro.
+This finding was confirmed in vivo by clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
+
+## Venlafaxine: Drug interactions (part 8 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+Indinavir -In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir C max .
+Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
+The clinical significance of this finding is unknown.
+CYP1A2 Venlafaxine did not inhibit CYP1A2 in vitro.
+This finding was confirmed in vivo by a clinical drug interaction study in which venlafaxine did not inhibit the metabolism of caffeine, a CYP1A2 substrate.
+CYP2C9 Venlafaxine did not inhibit CYP2C9 in vitro.
+In vivo, venlafaxine 75 mg by mouth every 12 hours did not alter the pharmacokinetics of a single 500 mg dose of tolbutamide or the CYP2C9 mediated formation of 4-hydroxy-tolbutamide.
+CYP2C19 Venlafaxine did not inhibit the metabolism of diazepam, which is partially metabolized by CYP2C19 ( see Diazepam above ).
+7.9 Monoamine Oxidase Inhibitors (MAOIs) [ See Dosage and Administration (2.6 and 2.7 ), Contraindications (4.1), and Warnings and Precautions (5.2 ).] 7.10 Other Serotonergic Drugs The concomitant use of serotonergic drugs (including other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St.
+
+## Venlafaxine: Drug interactions (part 9 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+John’s Wort) with venlafaxine extended-release tablets increases the risk of serotonin syndrome.
+Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
+If serotonin syndrome occurs, consider discontinuation of venlafaxine extended-release tablets and/or concomitant serotonergic drugs [ see Warnings and Precautions (5.2) ] 7.11 Drugs that Interfere with Hemostasis (e.g., NSAID’s, Aspirin, and Warfarin) Serotonin release by platelets plays an important role in hemostasis.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
+These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRI’s and SNRI’s are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when venlafaxine extended-release tablets are initiated or discontinued [s ee Warnings and Precautions ( 5.13 ) ].
+
+## Venlafaxine: Drug interactions (part 10 of 10)
+Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
+Label-set-id: 1ce5786e-22e6-4afa-8052-6eababc6aa4e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ce5786e-22e6-4afa-8052-6eababc6aa4e
+Retrieved: 2026-10-06
+Keywords: venlafaxine, drug interactions
+
+7.12 Electroconvulsive Therapy There are no clinical data establishing the benefit of electroconvulsive therapy combined with venlafaxine extended-release tablets treatment.
+7.13 Postmarketing Spontaneous Drug Interaction Reports There have been reports of elevated clozapine levels that were temporally associated with adverse reactions, including seizures, following the addition of venlafaxine.
+There have been reports of increases in prothrombin time, partial thromboplastin time, or INR when venlafaxine was given to patients receiving warfarin therapy.
+7.14 Drug-Laboratory Test Interactions False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
+This is due to lack of specificity of the screening tests.
+False positive test results may be expected for several days following discontinuation of venlafaxine therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish venlafaxine from PCP and amphetamine.
 
 ## Venlafaxine: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Venlafaxine (REMEDYREPACK INC.), effective 2026-08-17
@@ -19012,7 +20627,7 @@ Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, uses
 
 1 INDICATIONS AND USAGE Duloxetine delayed-release capsules is indicated for the treatment of: Major depressive disorder in adults Generalized anxiety disorder in adults and pediatric patients 7 years of age and older Diabetic peripheral neuropathic pain in adults Fibromyalgia in adults and pediatric patients 13 years of age and older Chronic musculoskeletal pain in adults Duloxetine delayed-release capsules are a serotonin and norepinephrine reuptake inhibitor (SNRI) indicated for the treatment of the following conditions: Major depressive disorder (MDD) in adults ( 1 ) Generalized anxiety disorder (GAD) in adults and pediatric patients 7 years of age and older ( 1 ) Diabetic peripheral neuropathic pain (DPNP) in adults ( 1 ) Fibromyalgia (FM) in adults and pediatric patients 13 years of age and older ( 1 ) Chronic musculoskeletal pain in adults ( 1 )
 
-## Duloxetine Hydrochloride: Dosage and administration (part 1 of 3)
+## Duloxetine Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19027,7 +20642,7 @@ Maintenance Treatment:
 Gradually reduce dosage to avoid discontinuation symptoms ( 2.8 , 5.7 ) 2.1 Important Administration Instructions Administer Duloxetine delayed-release capsules orally (with or without meals) and swallow whole.
 Do not chew or crush, and do not open the delayed-release capsule and sprinkle its contents on food or mix with liquids because these actions might affect the enteric coating.
 
-## Duloxetine Hydrochloride: Dosage and administration (part 2 of 3)
+## Duloxetine Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19043,7 +20658,7 @@ While a 120 mg/day dose was shown to be effective, there is no evidence that dos
 Periodically reassess to determine the need for maintenance treatment and the appropriate dosage for such treatment.
 2.3 Dosage for Treatment of Generalized Anxiety Disorder Recommended Dosage in Adults Less than 65 Years of Age For most adults less than 65 years of age with GAD, initiate Duloxetine delayed-release capsules 60 mg once daily.
 
-## Duloxetine Hydrochloride: Dosage and administration (part 3 of 3)
+## Duloxetine Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19060,6 +20675,25 @@ If a decision is made to increase the dose beyond 60 mg once daily, increase dos
 The maximum dose studied was 120 mg per day.
 Recommended Dosage in Pediatric Patients 7 to 17 Years of Age Initiate Duloxetine delayed-release capsules in pediatric patients 7 to 17 years of age with GAD at a dosage of 30 mg once daily for 2 weeks before considering an increase to 60 mg once daily.
 
+## Duloxetine Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
+Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
+Retrieved: 2026-10-06
+Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, dosage and administration
+
+The recommended dosage range is 30 to 60 mg once daily.
+Some patients may benefit from dosages above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+2.4 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain in Adults Administer 60 mg once daily in adults with diabetic peripheral neuropathic pain.
+There is no evidence that doses higher than 60 mg once daily confer additional significant benefit and the higher dosage is clearly less well tolerated.
+For patients for whom tolerability is a concern, a lower starting dose may be considered.
+Since diabetes is frequently complicated by renal disease, consider a lower starting dosage and gradual increase in dosage for patients with renal impairment [see Dosage and Administration (2.7) and Use in Specific Populations (8.10) ].
+2.5 Dosage for Treatment of Fibromyalgia Recommended Dosage in Adults The recommended Duloxetine delayed-release capsules dosage is 60 mg once daily in adults with fibromyalgia.
+Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to Duloxetine delayed-release capsules before increasing to 60 mg once daily.
+Some patients may respond to the starting dosage.
+
 ## Duloxetine Hydrochloride: Contraindications
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19069,7 +20703,7 @@ Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, cont
 
 4 CONTRAINDICATIONS The use of MAOIs intended to treat psychiatric disorders with Duloxetine delayed-release capsules or within 5 days of stopping treatment with Duloxetine delayed-release capsules is contraindicated because of an increased risk of serotonin syndrome. The use of Duloxetine delayed-release capsules within 14 days of stopping an MAOI intended to treat psychiatric disorders is contraindicated [see Dosage and Administration (2.8) and Warnings and Precautions (5.4) ]. Starting Duloxetine delayed-release capsules in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see Dosage and Administration (2.9) and Warnings and Precautions (5.4) ]. Concomitant use of an MAOI antidepressant with Duloxetine delayed-release capsules is contraindicated Use of Duloxetine delayed-release capsules within 14 days of stopping an MAOI antidepressant is contraindicated In linezolid- or intravenous methylene blue-treated patients, initiation of Duloxetine delayed-release capsules is contraindicated ( 4 )
 
-## Duloxetine Hydrochloride: Drug interactions (part 1 of 3)
+## Duloxetine Hydrochloride: Drug interactions (part 1 of 7)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19082,7 +20716,7 @@ Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone anti
 7.2 Inhibitors of CYP2D6 Concomitant use of duloxetine (40 mg once daily) with paroxetine (20 mg once daily) increased the concentration of duloxetine AUC by about 60%, and greater degrees of inhibition are expected with higher doses of paroxetine.
 Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see Warnings and Precautions (5.12) ].
 
-## Duloxetine Hydrochloride: Drug interactions (part 2 of 3)
+## Duloxetine Hydrochloride: Drug interactions (part 2 of 7)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19095,7 +20729,7 @@ Epidemiological studies of the case-control and cohort design that have demonstr
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
 Concomitant administration of warfarin (2-9 mg once daily) under steady state conditions with Duloxetine delayed-release capsules 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
 
-## Duloxetine Hydrochloride: Drug interactions (part 3 of 3)
+## Duloxetine Hydrochloride: Drug interactions (part 3 of 7)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
 Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
@@ -19109,6 +20743,63 @@ Because of the potential effect of duloxetine on platelets, patients receiving w
 7.7 Drugs that Affect Gastric Acidity Duloxetine delayed-release capsules have an enteric coating that resists dissolution until reaching a segment of the gastrointestinal tract where the pH exceeds 5.5.
 In extremely acidic conditions, Duloxetine delayed-release capsules, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
 Caution is advised in using Duloxetine delayed-release capsules in patients with conditions that may slow gastric emptying (e.g., some diabetics).
+
+## Duloxetine Hydrochloride: Drug interactions (part 4 of 7)
+Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
+Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
+Retrieved: 2026-10-06
+Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, drug interactions
+
+Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
+However, co- administration of Duloxetine delayed-release capsules with aluminum- and magnesium-containing antacids (51 mEq) or Duloxetine delayed-release capsules with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
+It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see Warnings and Precautions (5.14) ].
+7.8 Drugs Metabolized by CYP1A2 In vitro drug interaction studies demonstrate that duloxetine does not induce CYP1A2 activity.
+Therefore, an increase in the metabolism of CYP1A2 substrates (e.g., theophylline, caffeine) resulting from induction is not anticipated, although clinical studies of induction have not been performed.
+Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two clinical studies the average (90% confidence interval) increase in theophylline AUC was 7% (1%-15%) and 20% (13%-27%) when co-administered with duloxetine (60 mg twice daily).
+7.9 Drugs Metabolized by CYP2D6 Duloxetine is a moderate inhibitor of CYP2D6.
+
+## Duloxetine Hydrochloride: Drug interactions (part 5 of 7)
+Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
+Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
+Retrieved: 2026-10-06
+Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, drug interactions
+
+When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see Warnings and Precautions (5.12) ].
+7.10 Drugs Metabolized by CYP2C9 Results of in vitro studies demonstrate that duloxetine does not inhibit activity.
+In a clinical study, the pharmacokinetics of S-warfarin, a CYP2C9 substrate, were not significantly affected by duloxetine [see Drug Interactions (7.4) ].
+7.11 Drugs Metabolized by CYP3A Results of in vitro studies demonstrate that duloxetine does not inhibit or induce CYP3A activity.
+Therefore, an increase or decrease in the metabolism of CYP3A substrates (e.g., oral contraceptives and other steroidal agents) resulting from induction or inhibition is not anticipated, although clinical studies have not been performed.
+7.12 Drugs Metabolized by CYP2C19 Results of in vitro studies demonstrate that duloxetine does not inhibit CYP2C19 activity at therapeutic concentrations.
+Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated, although clinical studies have not been performed.
+7.13 Monoamine Oxidase Inhibitors (MAOIs) [See Dosage and Administration (2.9 , 2.10) , Contraindications (4) , and Warnings and Precautions (5.4) ].
+
+## Duloxetine Hydrochloride: Drug interactions (part 6 of 7)
+Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
+Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
+Retrieved: 2026-10-06
+Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, drug interactions
+
+7.14 Other Serotonergic Drugs The concomitant use of serotonergic drugs (including other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St.
+John's Wort) with Duloxetine delayed-release capsules increases the risk of serotonin syndrome.
+Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.
+If serotonin syndrome occurs, consider discontinuation of Duloxetine delayed-release capsules and/or concomitant serotonergic drugs [see Warnings and Precautions (5.4) ].
+7.15 Alcohol When Duloxetine delayed-release capsules and ethanol were administered several hours apart so that peak concentrations of each would coincide, Duloxetine delayed-release capsules did not increase the impairment of mental and motor skills caused by alcohol.
+In the Duloxetine delayed-release capsules clinical trials database, three Duloxetine delayed-release capsules-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
+Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2 , 5.12) ].
+
+## Duloxetine Hydrochloride: Drug interactions (part 7 of 7)
+Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
+Label-set-id: 00628e5e-4c5b-2573-e063-6294a90a0e3b
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b
+Retrieved: 2026-10-06
+Keywords: duloxetine hydrochloride, duloxetine, duloxetine delayed-release, drug interactions
+
+7.16 CNS Drugs [See Warnings and Precautions (5.12) ].
+7.17 Drugs Highly Bound to Plasma Protein Because duloxetine is highly bound to plasma protein, administration of Duloxetine delayed-release capsules to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
+However, co-administration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4) ].
 
 ## Duloxetine Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Duloxetine Hydrochloride (Golden State Medical Supply, Inc.), effective 2026-08-20
@@ -19257,7 +20948,7 @@ Keywords: bupropion hydrochloride, bupropion, uses
 
 1 INDICATIONS AND USAGE Bupropion hydrochloride extended-release tablets (SR) are indicated for the treatment of major depressive disorder (MDD), as defined by the Diagnostic and Statistical Manual (DSM). The efficacy of bupropion in the treatment of a major depressive episode was established in two 4-week controlled inpatient trials and one 6-week controlled outpatient trial of adult subjects with MDD [see Clinical Studies (14)] . The efficacy of bupropion hydrochloride extended-release tablets (SR) in maintaining an antidepressant response for up to 44 weeks following 8 weeks of acute treatment was demonstrated in a placebo-controlled trial [see Clinical Studies (14) ]. Bupropion hydrochloride extended-release tablets (SR) are an aminoketone antidepressant, indicated for the treatment of major depressive disorder (MDD). ( 1 )
 
-## Bupropion Hydrochloride: Dosage and administration (part 1 of 3)
+## Bupropion Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
@@ -19285,7 +20976,7 @@ Bupropion hydrochloride extended-release tablets (SR) should be swallowed whole 
 Bupropion hydrochloride extended-release tablets (SR) may be taken with or without food.
 The usual adult target dose for bupropion hydrochloride extended-release (SR) tablet is 300 mg/day, given as 150 mg twice daily.
 
-## Bupropion Hydrochloride: Dosage and administration (part 2 of 3)
+## Bupropion Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
@@ -19303,7 +20994,7 @@ Periodically reassess the need for maintenance treatment and the appropriate dos
 2.2 Dose Adjustment in Patients with Hepatic Impairment In patients with moderate to severe hepatic impairment (Child-Pugh score:
 7 to 15), the maximum dose of bupropion hydrochloride extended-release tablets (SR) is 100 mg/day or 150 mg every other day.
 
-## Bupropion Hydrochloride: Dosage and administration (part 3 of 3)
+## Bupropion Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
@@ -19316,6 +21007,20 @@ In patients with mild hepatic impairment (Child-Pugh score:
 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrochloride extended-release tablets (SR).
 Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Contraindications (4) , Drug Interactions (7.6) ] .
 2.5 Use of Bupropion Hydrochloride Extended-Release Tablets (SR) with Reversible MAOIs Such as Linezolid or Methylene Blue Do not start bupropion hydrochloride extended-release tablets (SR) in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
+
+## Bupropion Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
+Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
+Retrieved: 2026-10-06
+Keywords: bupropion hydrochloride, bupropion, dosage and administration
+
+Drug interactions can increase the risk of hypertensive reactions.
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4) , Drug Interactions (7.6) ] .
+In some cases, a patient already receiving therapy with bupropion hydrochloride extended-release tablets (SR) may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, bupropion hydrochloride extended-release tablets (SR) should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with bupropion hydrochloride extended-release tablets (SR) may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
 ## Bupropion Hydrochloride: Contraindications (part 1 of 2)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
@@ -19342,7 +21047,7 @@ Starting bupropion hydrochloride extended-release tablets (SR) in a patient trea
 Do not use MAOIs intended to treat psychiatric disorders with bupropion hydrochloride extended-release tablets (SR) or within 14 days of stopping treatment with bupropion hydrochloride extended-release tablets (SR).
 Do not use bupropion hydrochloride extended-release tablets (SR) within 14 days of stopping an MAOI intended to treat psychiatric disorders.
 
-## Bupropion Hydrochloride: Drug interactions (part 1 of 3)
+## Bupropion Hydrochloride: Drug interactions (part 1 of 6)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
@@ -19365,7 +21070,7 @@ CNS toxicity can occur when used concomitantly with bupropion hydrochloride exte
 Increased risk of hypertensive reactions can occur when used concomitantly with bupropion hydrochloride extended-release tablets (SR).
 ( 7.6 ) • Drug-laboratory test interactions:
 
-## Bupropion Hydrochloride: Drug interactions (part 2 of 3)
+## Bupropion Hydrochloride: Drug interactions (part 2 of 6)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
@@ -19383,7 +21088,7 @@ Concomitant treatment with these drugs can decrease bupropion and hydroxybupropi
 Dosage increase of bupropion hydrochloride extended-release tablets (SR) may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3) ] but should not exceed the maximum recommended dose.
 Carbamazepine, Phenobarbital, Phenytoin :
 
-## Bupropion Hydrochloride: Drug interactions (part 3 of 3)
+## Bupropion Hydrochloride: Drug interactions (part 3 of 6)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
@@ -19396,6 +21101,52 @@ If bupropion is used concomitantly with a CYP inducer, it may be necessary to in
 Therefore, coadministration of bupropion hydrochloride extended-release tablets (SR) with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone and flecainide).
 When used concomitantly with bupropion hydrochloride extended-release tablets (SR), it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
+
+## Bupropion Hydrochloride: Drug interactions (part 4 of 6)
+Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
+Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
+Retrieved: 2026-10-06
+Keywords: bupropion hydrochloride, bupropion, drug interactions
+
+Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+Patients treated concomitantly with bupropion hydrochloride extended-release tablets (SR) and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3) ].
+Digoxin Coadministration of bupropion hydrochloride extended-release tablets (SR) with digoxin may decrease plasma digoxin levels.
+Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride extended-release tablets (SR) and digoxin [see Clinical Pharmacology (12.3) ] .
+7.3 Drugs that Lower Seizure Threshold Use extreme caution when coadministering bupropion hydrochloride extended-release tablets (SR) with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
+Use low initial doses and increase the dose gradually [see Contraindications (4) , Warnings and Precautions (5.3) ].
+7.4 Dopaminergic Drugs (Levodopa and Amantadine) Bupropion, levodopa, and amantadine have dopamine agonist effects.
+
+## Bupropion Hydrochloride: Drug interactions (part 5 of 6)
+Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
+Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
+Retrieved: 2026-10-06
+Keywords: bupropion hydrochloride, bupropion, drug interactions
+
+CNS toxicity has been reported when bupropion was coadministered with levodopa or amantadine.
+Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness.
+It is presumed that the toxicity results from cumulative dopamine agonist effects.
+Use caution when administering bupropion hydrochloride extended-release tablets (SR) concomitantly with these drugs.
+7.5 Use with Alcohol In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion hydrochloride extended-release tablets (SR).
+The consumption of alcohol during treatment with bupropion hydrochloride extended-release tablets (SR) should be minimized or avoided.
+7.6 MAO Inhibitors Bupropion inhibits the reuptake of dopamine and norepinephrine.
+Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
+Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
+
+## Bupropion Hydrochloride: Drug interactions (part 6 of 6)
+Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
+Label-set-id: 0aa86bd6-b37b-45f7-a837-b067e41184e9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0aa86bd6-b37b-45f7-a837-b067e41184e9
+Retrieved: 2026-10-06
+Keywords: bupropion hydrochloride, bupropion, drug interactions
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with bupropion hydrochloride extended-release tablets (SR).
+Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Dosage and Administration (2.4 , 2.5 ), Contraindications (4) ].
+7.7 Drug-Laboratory Test Interactions False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
 
 ## Bupropion Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Bupropion Hydrochloride (REMEDYREPACK INC.), effective 2026-08-27
@@ -19594,7 +21345,7 @@ Keywords: mirtazapine, contraindications
 
 4 CONTRAINDICATIONS Mirtazapine tablets are contraindicated in patients: Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.3) , Drug Interactions (7) ] . With a known hypersensitivity to mirtazapine or to any of the excipients in mirtazapine tablets . Severe skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have been reported following the use of mirtazapine tablets [see Warnings and Precautions (5.6) , Adverse Reactions (6.2 )]. Concomitant use of monoamine oxidase inhibitors (MAOIs) or use within 14 days of stopping MAOIs. ( 2.4 , 4 , 7 ) Known hypersensitivity to mirtazapine or any of the excipients in mirtazapine tablets. ( 4 )
 
-## Mirtazapine: Drug interactions (part 1 of 3)
+## Mirtazapine: Drug interactions (part 1 of 4)
 Source: FDA drug label, Mirtazapine (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 412abf0e-1f96-4d4d-bb56-a23d4699b14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=412abf0e-1f96-4d4d-bb56-a23d4699b14c
@@ -19610,7 +21361,7 @@ Intervention Monitor patients for signs and symptoms of serotonin syndrome, part
 If serotonin syndrome occurs, consider discontinuation of mirtazapine tablets and/or concomitant serotonergic drugs [see Warnings and Precautions (5.3) ] .
 Examples SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, amphetamines, St.
 
-## Mirtazapine: Drug interactions (part 2 of 3)
+## Mirtazapine: Drug interactions (part 2 of 4)
 Source: FDA drug label, Mirtazapine (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 412abf0e-1f96-4d4d-bb56-a23d4699b14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=412abf0e-1f96-4d4d-bb56-a23d4699b14c
@@ -19625,7 +21376,7 @@ Intervention Decrease the dose of mirtazapine tablets if needed with concomitant
 Conversely, an increase in dosage of mirtazapine tablets may be needed if the CYP3A inhibitor is discontinued [see Dosage and Administration (2.5) ] .
 Examples itraconazole, ritonavir, nefazodone Cimetidine Clinical Impact The concomitant use of cimetidine, a CYP1A2, CYP2D6, and CYP3A inhibitor, with mirtazapine tablets may increase the plasma concentration of mirtazapine [see Clinical Pharmacology (12.3) ] .
 
-## Mirtazapine: Drug interactions (part 3 of 3)
+## Mirtazapine: Drug interactions (part 3 of 4)
 Source: FDA drug label, Mirtazapine (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 412abf0e-1f96-4d4d-bb56-a23d4699b14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=412abf0e-1f96-4d4d-bb56-a23d4699b14c
@@ -19639,6 +21390,24 @@ Intervention Avoid concomitant use of benzodiazepines and alcohol with mirtazapi
 Examples diazepam, alprazolam, alcohol Drugs that Prolong QTc Interval Clinical Impact The concomitant use of other drugs which prolong the QTc interval with mirtazapine tablets, increases the risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes).
 Intervention Use caution when using mirtazapine tablets concomitantly with drugs that prolong the QTc interval [see Warnings and Precautions (5.5) , Clinical Pharmacology (12.3) ] .
 Warfarin Clinical Impact The concomitant use of warfarin with mirtazapine tablets may result in an increase in INR [see Clinical Pharmacology (12.3) ] .
+
+## Mirtazapine: Drug interactions (part 4 of 4)
+Source: FDA drug label, Mirtazapine (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 412abf0e-1f96-4d4d-bb56-a23d4699b14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=412abf0e-1f96-4d4d-bb56-a23d4699b14c
+Retrieved: 2026-10-06
+Keywords: mirtazapine, drug interactions
+
+Intervention Monitor INR during concomitant use of warfarin with mirtazapine tablets.
+Strong CYP3A Inducers:
+Dosage increase may be needed for mirtazapine tablets with concomitant use of strong CYP3A inducers.
+( 2.5 , 7 ) Strong CYP3A Inhibitors:
+Dosage decrease may be needed when mirtazapine tablets are coadministered with strong CYP3A inhibitors.
+( 2.5 , 7 ) Cimetidine:
+Dosage decrease may be needed when mirtazapine tablets are coadministered with cimetidine.
+( 2.5 , 7 ) Warfarin:
+Monitor INR during concomitant use.
+( 7 )
 
 ## Mirtazapine: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Mirtazapine (REMEDYREPACK INC.), effective 2026-09-04
@@ -19834,7 +21603,7 @@ Keywords: trazodone hydrochloride, trazodone, contraindications
 
 4 CONTRAINDICATIONS Concomitant use of monoamine oxidase inhibitors (MAOIs), or use within 14 days of stopping MAOIs ( 4 ). Trazodone hydrochloride tablets are contraindicated in: Patients taking, or within 14 days of stopping, monoamine oxidase inhibitors (MAOIs), including MAOIs such as linezolid or intravenous methylene blue, because of an increased risk of serotonin syndrome [see Warnings and Precautions ( 5.2 ), Drug Interactions ( 7.1 )].
 
-## Trazodone Hydrochloride: Drug interactions (part 1 of 3)
+## Trazodone Hydrochloride: Drug interactions (part 1 of 4)
 Source: FDA drug label, Trazodone Hydrochloride (REMEDYREPACK INC.), effective 2026-07-20
 Label-set-id: 2863317d-657b-4dc6-81fb-b7158ea03498
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2863317d-657b-4dc6-81fb-b7158ea03498
@@ -19855,7 +21624,7 @@ Monitor for increased or decreased prothrombin time ( 7 ).
 Intervention Trazodone is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Contraindications (4), Dosage and Administration (2.3, 2.4), and Warnings and Precautions (5.2)].
 Examples isocarboxazid, moclobemide, phenelzine, selegiline, tranylcypromine Other Serotonergic Drugs Clinical Impact The concomitant use of serotonergic drugs including trazodone and other serotonergic drugs increases the risk of serotonin syndrome.
 
-## Trazodone Hydrochloride: Drug interactions (part 2 of 3)
+## Trazodone Hydrochloride: Drug interactions (part 2 of 4)
 Source: FDA drug label, Trazodone Hydrochloride (REMEDYREPACK INC.), effective 2026-07-20
 Label-set-id: 2863317d-657b-4dc6-81fb-b7158ea03498
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2863317d-657b-4dc6-81fb-b7158ea03498
@@ -19871,7 +21640,7 @@ Intervention Inform patients of the increased risk of bleeding with the concomit
 For patients taking warfarin, carefully monitor the international normalized ratio (INR) when initiating or discontinuing trazodone [see Warnings and Precautions (5.5)].
 Examples warfarin, rivaroxaban, dabigatran, clopidogrel Strong CYP3A4 Inhibitors Clinical Impact The concomitant use of trazodone and strong CYP3A4 inhibitors increased the exposure of trazodone compared to the use of trazodone alone .
 
-## Trazodone Hydrochloride: Drug interactions (part 3 of 3)
+## Trazodone Hydrochloride: Drug interactions (part 3 of 4)
 Source: FDA drug label, Trazodone Hydrochloride (REMEDYREPACK INC.), effective 2026-07-20
 Label-set-id: 2863317d-657b-4dc6-81fb-b7158ea03498
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2863317d-657b-4dc6-81fb-b7158ea03498
@@ -19887,6 +21656,21 @@ Concomitant use of trazodone can increase digoxin or phenytoin concentrations.
 Intervention Measure serum digoxin or phenytoin concentrations before initiating concomitant use of trazodone.
 Continue monitoring and reduce digoxin or phenytoin dose as necessary.
 Examples digoxin, phenytoin Central Nervous System (CNS) Depressants Clinical Impact Trazodone may enhance the response CNS depressants.
+
+## Trazodone Hydrochloride: Drug interactions (part 4 of 4)
+Source: FDA drug label, Trazodone Hydrochloride (REMEDYREPACK INC.), effective 2026-07-20
+Label-set-id: 2863317d-657b-4dc6-81fb-b7158ea03498
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2863317d-657b-4dc6-81fb-b7158ea03498
+Retrieved: 2026-10-06
+Keywords: trazodone hydrochloride, trazodone, drug interactions
+
+Intervention Patients should be counseled that trazodone may enhance the response to alcohol, barbiturates, and other CNS depressants.
+Examples alcohol, barbiturates QT Interval Prolongation Clinical Impact Concomitant use of drugs that prolong the QT interval may add to the QT effects of trazodone and increase the risk of cardiac arrhythmia.
+Intervention Avoid the use of trazodone in combination with other drugs known to prolong QTc [see Warnings and Precautions (5.3)] .
+Examples Class 1A antiarrhythmics: quinidine, procainamide, disopyramide;
+Class 3 antiarrhythmics: amiodarone, sotalol;
+Antipsychotics: ziprasidone, chlorpromazine, thioridazine;
+Antibiotics: gatifloxacin
 
 ## Trazodone Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Trazodone Hydrochloride (REMEDYREPACK INC.), effective 2026-07-20
@@ -20084,7 +21868,7 @@ Keywords: amitriptyline hydrochloride, amitriptyline, contraindications
 
 CONTRAINDICATIONS Amitriptyline hydrochloride is contraindicated in patients who have shown prior hypersensitivity to it. It should not be given concomitantly with monoamine oxidase inhibitors. Hyperpyretic crises, severe convulsions, and deaths have occurred in patients receiving tricyclic antidepressant and monoamine oxidase inhibiting drugs simultaneously. When it is desired to replace a monoamine oxidase inhibitor with amitriptyline hydrochloride, a minimum of 14 days should be allowed to elapse after the former is discontinued. Amitriptyline hydrochloride should then be initiated cautiously with gradual increase in dosage until optimum response is achieved. Amitriptyline hydrochloride should not be given with cisapride due to the potential for increased QT interval and increased risk for arrhythmia. This drug is not recommended for use during the acute recovery phase following myocardial infarction.
 
-## Amitriptyline Hydrochloride: Drug interactions (part 1 of 3)
+## Amitriptyline Hydrochloride: Drug interactions (part 1 of 4)
 Source: FDA drug label, Amitriptyline Hydrochloride (St. Mary's Medical Park Pharmacy), effective 2026-06-30
 Label-set-id: 35aa7ab3-321a-97f7-e063-6294a90a91e2
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35aa7ab3-321a-97f7-e063-6294a90a91e2
@@ -20098,7 +21882,7 @@ Depending on the fraction of drug metabolized by P450 2D6, the increase in plasm
 In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.
 An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.
 
-## Amitriptyline Hydrochloride: Drug interactions (part 2 of 3)
+## Amitriptyline Hydrochloride: Drug interactions (part 2 of 4)
 Source: FDA drug label, Amitriptyline Hydrochloride (St. Mary's Medical Park Pharmacy), effective 2026-06-30
 Label-set-id: 35aa7ab3-321a-97f7-e063-6294a90a91e2
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35aa7ab3-321a-97f7-e063-6294a90a91e2
@@ -20112,7 +21896,7 @@ Nevertheless, caution is indicated in the coadministration of TCAs with any of t
 Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).
 Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.
 
-## Amitriptyline Hydrochloride: Drug interactions (part 3 of 3)
+## Amitriptyline Hydrochloride: Drug interactions (part 3 of 4)
 Source: FDA drug label, Amitriptyline Hydrochloride (St. Mary's Medical Park Pharmacy), effective 2026-06-30
 Label-set-id: 35aa7ab3-321a-97f7-e063-6294a90a91e2
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35aa7ab3-321a-97f7-e063-6294a90a91e2
@@ -20127,6 +21911,19 @@ When amitriptyline hydrochloride is given with anticholinergic agents or sympath
 Hyperpyrexia has been reported when amitriptyline hydrochloride is administered with anticholinergic agents or with neuroleptic drugs, particularly during hot weather.
 Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic-type drugs.
 Cimetidine is reported to reduce hepatic metabolism of certain tricyclic antidepressants, thereby delaying elimination and increasing steady-state concentrations of these drugs.
+
+## Amitriptyline Hydrochloride: Drug interactions (part 4 of 4)
+Source: FDA drug label, Amitriptyline Hydrochloride (St. Mary's Medical Park Pharmacy), effective 2026-06-30
+Label-set-id: 35aa7ab3-321a-97f7-e063-6294a90a91e2
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=35aa7ab3-321a-97f7-e063-6294a90a91e2
+Retrieved: 2026-10-06
+Keywords: amitriptyline hydrochloride, amitriptyline, drug interactions
+
+Clinically significant effects have been reported with the tricyclic antidepressants when used concomitantly with cimetidine.
+Increases in plasma levels of tricyclic antidepressants and in the frequency and severity of side effects, particularly anticholinergic, have been reported when cimetidine was added to the drug regimen.
+Discontinuation of cimetidine in well-controlled patients receiving tricyclic antidepressants and cimetidine may decrease the plasma levels and efficacy of the antidepressants.
+Caution is advised if patients receive large doses of ethchlorvynol concurrently.
+Transient delirium has been reported in patients who were treated with one gram of ethchlorvynol and 75 mg to 150 mg of amitriptyline hydrochloride.
 
 ## Amitriptyline Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Amitriptyline Hydrochloride (St. Mary's Medical Park Pharmacy), effective 2026-06-30
@@ -20594,7 +22391,7 @@ Keywords: buspirone hydrochloride, buspirone, contraindications
 
 CONTRAINDICATIONS Buspirone hydrochloride tablets are contraindicated in patients hypersensitive to buspirone hydrochloride. The use of monoamine oxidase inhibitors (MAOIs) intended to treat depression with buspirone or within 14 days of stopping treatment with buspirone is contraindicated because of an increased risk of serotonin syndrome and/or elevated blood pressure. The use of buspirone within 14 days of stopping an MAOI intended to treat depression is also contraindicated. Starting buspirone in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome. (see WARNINGS , DOSAGE AND ADMINISTRATION and DRUG INTERACTIONS )
 
-## Buspirone Hydrochloride: Drug interactions (part 1 of 3)
+## Buspirone Hydrochloride: Drug interactions (part 1 of 7)
 Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
@@ -20613,7 +22410,7 @@ Diazepam :
 After addition of buspirone to the diazepam dose regimen, no statistically significant differences in the steady-state pharmacokinetic parameters (C max , AUC, and C min ) were observed for diazepam, but increases of about 15% were seen for nordiazepam, and minor adverse clinical effects (dizziness, headache, and nausea) were observed.
 Haloperidol :
 
-## Buspirone Hydrochloride: Drug interactions (part 2 of 3)
+## Buspirone Hydrochloride: Drug interactions (part 2 of 7)
 Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
@@ -20635,7 +22432,7 @@ Buspirone has been shown in vitro to be metabolized by CYP3A4.
 This finding is consistent with the in vivo interactions observed between buspirone and the following:
 Diltiazem and Verapamil:
 
-## Buspirone Hydrochloride: Drug interactions (part 3 of 3)
+## Buspirone Hydrochloride: Drug interactions (part 3 of 7)
 Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
 Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
@@ -20650,6 +22447,72 @@ These pharmacokinetic interactions were accompanied by an increased incidence of
 If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg b.i.d.) is recommended.
 Subsequent dose adjustment of either drug should be based on clinical assessment.
 Grapefruit Juice:
+
+## Buspirone Hydrochloride: Drug interactions (part 4 of 7)
+Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
+Retrieved: 2026-10-06
+Keywords: buspirone hydrochloride, buspirone, drug interactions
+
+In a study in healthy volunteers, coadministration of buspirone (10 mg as a single dose) with grapefruit juice (200 mL double-strength t.i.d. for 2 days) increased plasma buspirone concentrations (4.3-fold increase in C max ;
+9.2-fold increase in AUC).
+Patients receiving buspirone should be advised to avoid drinking such large amounts of grapefruit juice.
+Itraconazole :
+In a study in healthy volunteers, coadministration of buspirone (10 mg as a single dose) with itraconazole (200 mg/day for 4 days) increased plasma buspirone concentrations (13-fold increase in C max and 19-fold increase in AUC).
+These pharmacokinetic interactions were accompanied by an increased incidence of side effects attributable to buspirone.
+If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg q.d.) is recommended.
+Subsequent dose adjustment of either drug should be based on clinical assessment.
+Nefazodone:
+
+## Buspirone Hydrochloride: Drug interactions (part 5 of 7)
+Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
+Retrieved: 2026-10-06
+Keywords: buspirone hydrochloride, buspirone, drug interactions
+
+In a study of steady-state pharmacokinetics in healthy volunteers, coadministration of buspirone (2.5 or 5 mg b.i.d.) with nefazodone (250 mg b.i.d.) resulted in marked increases in plasma buspirone concentrations (increases up to 20-fold in C max and up to 50-fold in AUC) and statistically significant decreases (about 50%) in plasma concentrations of the buspirone metabolite 1-PP.
+With 5 mg b.i.d. doses of buspirone, slight increases in AUC were observed for nefazodone (23%) and its metabolites hydroxynefazodone (HO-NEF) (17%) and meta-chlorophenylpiperazine (9%).
+Slight increases in C max were observed for nefazodone (8%) and its metabolite HO-NEF (11%).
+Subjects receiving buspirone 5 mg b.i.d. and nefazodone 250 mg b.i.d experienced lightheadedness, asthenia, dizziness, and somnolence, adverse events also observed with either drug alone.
+If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg q.d.) is recommended.
+Subsequent dose adjustment of either drug should be based on clinical assessment.
+Rifampin:
+In a study in healthy volunteers, coadministration of buspirone (30 mg as a single dose) with rifampin (600 mg/day for 5 days) decreased the plasma concentrations (83.7% decrease in C max ;
+
+## Buspirone Hydrochloride: Drug interactions (part 6 of 7)
+Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
+Retrieved: 2026-10-06
+Keywords: buspirone hydrochloride, buspirone, drug interactions
+
+89.6% decrease in AUC) and pharmacodynamic effects of buspirone.
+If the two drugs are to be used in combination, the dosage of buspirone may need adjusting to maintain anxiolytic effect.
+Other Inhibitors and Inducers of CYP3A4:
+Substances that inhibit CYP3A4, such as ketoconazole or ritonavir, may inhibit buspirone metabolism and increase plasma concentrations of buspirone while substances that induce CYP3A4, such as dexamethasone, or certain anticonvulsants (phenytoin, phenobarbital, carbamazepine), may increase the rate of buspirone metabolism.
+If a patient has been titrated to a stable dosage on buspirone, a dose adjustment of buspirone may be necessary to avoid adverse events attributable to buspirone or diminished anxiolytic activity.
+Consequently, when administered with a potent inhibitor of CYP3A4, a low dose of buspirone used cautiously is recommended.
+When used in combination with a potent inducer of CYP3A4 the dosage of buspirone may need adjusting to maintain anxiolytic effect.
+Other Drugs:
+Cimetidine:
+Coadministration of buspirone with cimetidine was found to increase C max (40%) and T max (2–fold), but had minimal effects on the AUC of buspirone.
+Protein Binding:
+
+## Buspirone Hydrochloride: Drug interactions (part 7 of 7)
+Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
+Label-set-id: 1315494d-7a51-4395-bc7c-afb4bc5482c9
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1315494d-7a51-4395-bc7c-afb4bc5482c9
+Retrieved: 2026-10-06
+Keywords: buspirone hydrochloride, buspirone, drug interactions
+
+In vitro , buspirone does not displace tightly bound drugs like phenytoin, propranolol, and warfarin from serum proteins.
+However, there has been one report of prolonged prothrombin time when buspirone was added to the regimen of a patient treated with warfarin.
+The patient was also chronically receiving phenytoin, phenobarbital, digoxin, and Synthroid ®* .
+In vitro , buspirone may displace less firmly bound drugs like digoxin.
+The clinical significance of this property is unknown.
+Therapeutic levels of aspirin, desipramine, diazepam, flurazepam, ibuprofen, propranolol, thioridazine, and tolbutamide had only a limited effect on the extent of binding of buspirone to plasma proteins (see CLINICAL PHARMACOLOGY ).
 
 ## Buspirone Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Buspirone Hydrochloride (Cardinal Health 107, LLC), effective 2026-04-24
@@ -20757,7 +22620,7 @@ Keywords: lithium carbonate, lithium, uses
 
 1 INDICATIONS AND USAGE Lithium is a mood-stabilizing agent indicated as monotherapy for the treatment of bipolar I disorder: • Treatment of acute manic and mixed episodes in patients 7 years and older [see Clinical Studies ( 14 )] • Maintenance treatment in patients 7 years and older [see Clinical Studies (14)] Lithium is a mood-stabilizing agent indicated as monotherapy for the treatment of bipolar I disorder: • Treatment of acute manic and mixed episodes in patients 7 years and older ( 1 ) • Maintenance treatment in patients 7 years and older ( 1 )
 
-## Lithium Carbonate: Dosage and administration (part 1 of 3)
+## Lithium Carbonate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20781,7 +22644,7 @@ Severe Renal Impairment (CLer < 30 mL/min):
 Avoid use of lithium ( 2.5 ).
 2.1 Pre-treatment Screening Before initiating treatment with lithium, renal function, vital signs, serum electrolytes, and thyroid function should be evaluated.
 
-## Lithium Carbonate: Dosage and administration (part 2 of 3)
+## Lithium Carbonate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20796,7 +22659,7 @@ Nausea and general discomfort may also appear during the first few days of lithi
 These adverse reactions may subside with continued treatment, concomitant administration with food, or temporary reduction or cessation of dosage.
 Table 1.
 
-## Lithium Carbonate: Dosage and administration (part 3 of 3)
+## Lithium Carbonate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20807,6 +22670,19 @@ Lithium Dosing for Bipolar I Disorder Patient Group Formulation Starting Dose Do
 Total reliance must not be placed on serum concentrations alone.
 Accurate patient evaluation requires both clinical and laboratory analysis.
 
+## Lithium Carbonate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
+Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
+Retrieved: 2026-10-06
+Keywords: lithium carbonate, lithium, dosage and administration
+
+In addition to regular monitoring of serum lithium concentrations for patients on maintenance treatment, serum lithium concentrations should be monitored after any change in dosage, concurrent medication (e.g., diuretics, non-steroidal anti-inflammatory drugs, renin-angiotensin system antagonists, or metronidazole), marked increase or decrease in routinely performed strenuous physical activity (such as an exercise program) and in the event of a concomitant disease [see Boxed Warning , Warnings and Precautions ( 5.1 ), Drug Interactions ( 7.1 )].
+Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are within what is considered the therapeutic range.
+Geriatric patients often respond to reduced dosage, and may exhibit signs of toxicity at serum concentrations ordinarily tolerated by other patients [see Specific Populations ( 8.5 )].
+2.4 Dosage Adjustments during Pregnancy and the Postpartum Period If the decision is made to continue lithium treatment during pregnancy, monitor serum lithium concentrations and adjust the dosage as needed in a pregnant woman because renal lithium clearance increases during pregnancy.
+Avoid sodium restriction or diuretic administration.
+
 ## Lithium Carbonate: Contraindications
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20816,7 +22692,7 @@ Keywords: lithium carbonate, lithium, contraindications
 
 4 CONTRAINDICATIONS Lithium is contraindicated in patients with known hypersensitivity to any inactive ingredient in the lithium carbonate capsule [see Adverse Reactions ( 6 )]. Known hypersensitivity to any inactive ingredient in the drug product. ( 4 )
 
-## Lithium Carbonate: Drug interactions (part 1 of 3)
+## Lithium Carbonate: Drug interactions (part 1 of 4)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20839,7 +22715,7 @@ Non-Steroidal Anti-inflammatory Drugs (NSAID) Clinical Impact:
 NSAID decrease renal blood flow, resulting in decreased renal clearance and increased serum lithium concentrations.
 Intervention:
 
-## Lithium Carbonate: Drug interactions (part 2 of 3)
+## Lithium Carbonate: Drug interactions (part 2 of 4)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20865,7 +22741,7 @@ More frequent monitoring of serum lithium concentration.
 Reduce lithium dosage based on serum lithium concentration and clinical response [see Dosage and Administration ( 2.3 )] .
 Acetazolamide, Urea, Xanthine Preparations, Alkalinizing Agents Clinical Impact:
 
-## Lithium Carbonate: Drug interactions (part 3 of 3)
+## Lithium Carbonate: Drug interactions (part 3 of 4)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
 Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
@@ -20889,6 +22765,25 @@ Concomitant use may increase the risk of neurologic adverse reactions in the for
 Intervention:
 Monitor for neurologic adverse reactions.
 Atypical and Typical Antipsychotic Drugs Clinical Impact:
+
+## Lithium Carbonate: Drug interactions (part 4 of 4)
+Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
+Label-set-id: 1c320bff-b4d5-42f2-b2b5-238564fe9589
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c320bff-b4d5-42f2-b2b5-238564fe9589
+Retrieved: 2026-10-06
+Keywords: lithium carbonate, lithium, drug interactions
+
+Reports of neurotoxic reactions in patients treated with both lithium and an antipsychotic, ranging from extrapyramidal symptoms to neuroleptic malignant syndrome, as well as reports of an encephalopathic syndrome in few patients treated with concomitant therapy [see Warnings and Precautions ( 5.5 )] .
+Intervention:
+Monitor for neurologic adverse reactions.
+Sodium-Glucose Cotransporter 2 (SGLT2) inhibitor Clinical Impact:
+Concomitant use of lithium with an SGLT2 inhibitor may decrease serum lithium concentrations.
+Intervention:
+Monitor serum lithium concentration more frequently during SGLT2 inhibitor initiation and dosage changes.
+Neuromuscular Blocking Agents Clinical Impact:
+Lithium may prolong the effects of neuromuscular blocking agents.
+Intervention:
+Monitor for prolonged paralysis.
 
 ## Lithium Carbonate: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Lithium Carbonate (REMEDYREPACK INC.), effective 2026-07-15
@@ -21108,7 +23003,7 @@ Safety and effectiveness of lamotrigine have not been established (1) as initial
 Limitations of Use Treatment of acute manic or mixed episodes is not recommended.
 Effectiveness of lamotrigine in the acute treatment of mood episodes has not been established.
 
-## Lamotrigine: Dosage and administration (part 1 of 3)
+## Lamotrigine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Lamotrigine (Cardinal Health 107, LLC), effective 2026-09-04
 Label-set-id: 20e156df-a2b6-4710-b526-0419cd17dd33
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20e156df-a2b6-4710-b526-0419cd17dd33
@@ -21127,7 +23022,7 @@ See Tables 5 and 6.
 (2.4) 2.1 General Dosing Considerations Rash There are suggestions that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine with valproate, (2) exceeding the recommended initial dose of lamotrigine, or (3) exceeding the recommended dose escalation for lamotrigine.
 However, cases have occurred in the absence of these factors [see Boxed Warning ].
 
-## Lamotrigine: Dosage and administration (part 2 of 3)
+## Lamotrigine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Lamotrigine (Cardinal Health 107, LLC), effective 2026-09-04
 Label-set-id: 20e156df-a2b6-4710-b526-0419cd17dd33
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20e156df-a2b6-4710-b526-0419cd17dd33
@@ -21142,7 +23037,7 @@ The greater the interval of time since the previous dose, the greater considerat
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
 The half-life of lamotrigine is affected by other concomitant medications [see Clinical Pharmacology (12.3) ].
 
-## Lamotrigine: Dosage and administration (part 3 of 3)
+## Lamotrigine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Lamotrigine (Cardinal Health 107, LLC), effective 2026-09-04
 Label-set-id: 20e156df-a2b6-4710-b526-0419cd17dd33
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20e156df-a2b6-4710-b526-0419cd17dd33
@@ -21156,6 +23051,17 @@ For dosing considerations for lamotrigine in patients on estrogen-containing pro
 For dosing considerations for lamotrigine in patients on other drugs known to induce or inhibit glucuronidation, see Tables 1, 2, 5-6, and 13.
 Target Plasma Levels for Patients with Epilepsy or Bipolar Disorder A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of lamotrigine should be based on therapeutic response [see Clinical Pharmacology (12.3) ].
+
+## Lamotrigine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Lamotrigine (Cardinal Health 107, LLC), effective 2026-09-04
+Label-set-id: 20e156df-a2b6-4710-b526-0419cd17dd33
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20e156df-a2b6-4710-b526-0419cd17dd33
+Retrieved: 2026-10-06
+Keywords: lamotrigine, dosage and administration, anti-epileptic agent [epc], mood stabilizer [epc], organic cation transporter 2 inhibitors [moa], dihydrofolate reductase inhibitors [moa]
+
+Women Taking Estrogen-Containing Oral Contraceptives Starting Lamotrigine in Women Taking Estrogen-Containing Oral Contraceptives Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine , no adjustments to the recommended dose-escalation guidelines for lamotrigine should be necessary solely based on the use of estrogen-containing oral contraceptives [see Clinical Pharmacology (12.3) ] .
+Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine based on the concomitant AED or other concomitant medications (see Tables 1, 5 and 7).
+See below for adjustments to maintenance doses of lamotrigine in women taking estrogen-containing oral contraceptives.
 
 ## Lamotrigine: Contraindications
 Source: FDA drug label, Lamotrigine (Cardinal Health 107, LLC), effective 2026-09-04
@@ -21375,7 +23281,7 @@ Keywords: aripiprazole, uses, atypical antipsychotic [epc]
 
 1 INDICATIONS AND USAGE Aripiprazole Oral Solution is indicated for the treatment of: Schizophrenia [see Clinical Studies (14.1) ] Acute Treatment of Manic and Mixed Episodes associated with Bipolar I Disorder [see Clinical Studies (14.2)] Adjunctive Treatment of Major Depressive Disorder [see Clinical Studies (14.3) ] Irritability Associated with Autistic Disorder [see Clinical Studies (14.4) ] Treatment of Tourette’s Disorder [see Clinical Studies ( 14.5 )] Aripiprazole is an atypical antipsychotic. The oral formulations are indicated for: Schizophrenia (14.1) Acute Treatment of Manic and Mixed Episodes associated with Bipolar I (14.2) Adjunctive Treatment of Major Depressive Disorder (14.3) Irritability Associated with Autistic Disorder (14.4) Treatment of Tourette's disorder (14.5)
 
-## Aripiprazole: Dosage and administration (part 1 of 3)
+## Aripiprazole: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21386,7 +23292,7 @@ Keywords: aripiprazole, dosage and administration, atypical antipsychotic [epc]
 Administer once daily without regard to meals (2) Known CYP2D6 poor metabolizers:
 Half of the usual dose (2.7) 2.1 Schizophrenia Adults The recommended starting and target dose for aripiprazole oral solution is 10 or 15 mg/day administered on a once-a-day schedule without regard to meals.
 
-## Aripiprazole: Dosage and administration (part 2 of 3)
+## Aripiprazole: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21403,7 +23309,7 @@ Adolescents The recommended target dose of aripiprazole oral solution is 10 mg/d
 Aripiprazole was studied in adolescent patients 13 to 17 years of age with schizophrenia at daily doses of 10 mg and 30 mg.
 The starting daily dose of the tablet formulation in these patients was 2 mg, which was titrated to 5 mg after 2 days and to the target dose of 10 mg after 2 additional days.
 
-## Aripiprazole: Dosage and administration (part 3 of 3)
+## Aripiprazole: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21421,6 +23327,26 @@ In all cases, the period of overlapping antipsychotic administration should be m
 The recommended starting dose in adults is 15 mg given once daily as monotherapy and 10 mg to 15 mg given once daily as adjunctive therapy with lithium or valproate.
 Aripiprazole oral solution can be given without regard to meals.
 
+## Aripiprazole: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
+Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
+Retrieved: 2026-10-06
+Keywords: aripiprazole, dosage and administration, atypical antipsychotic [epc]
+
+The recommended target dose of aripiprazole oral solution is 15 mg/day, as monotherapy or as adjunctive therapy with lithium or valproate.
+The dose may be increased to 30 mg/day based on clinical response.
+The safety of doses above 30 mg/day has not been evaluated in clinical trials.
+Pediatrics:
+The recommended starting dose in pediatric patients (10 to 17 years) as monotherapy is 2 mg/day, with titration to 5 mg/day after 2 days, and a target dose of 10 mg/day after 2 additional days.
+Recommended dosing as adjunctive therapy to lithium or valproate is the same.
+Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
+Aripiprazole oral solution can be given without regard to meals [see Clinical Studies (14.2) ] .
+2.3 Adjunctive Treatment of Major Depressive Disorder Adults The recommended starting dose for aripiprazole oral solution as adjunctive treatment for patients already taking an antidepressant is 2 to 5 mg/day.
+The recommended dosage range is 2 to 15 mg/day.
+Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see Clinical Studies (14.3) ] .
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
+
 ## Aripiprazole: Contraindications
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21430,7 +23356,7 @@ Keywords: aripiprazole, contraindications, atypical antipsychotic [epc]
 
 4 CONTRAINDICATIONS Aripiprazole oral solution is contraindicated in patients with a history of a hypersensitivity reaction to aripiprazole. Reactions have ranged from pruritus/urticaria to anaphylaxis [see Adverse Reactions (6.2) ] . Known hypersensitivity to aripiprazole oral solution (4)
 
-## Aripiprazole: Drug interactions (part 1 of 3)
+## Aripiprazole: Drug interactions (part 1 of 5)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21443,7 +23369,7 @@ Clinically Important Drug Interactions with Aripiprazole:
 Concomitant Drug Name or Drug Class Clinical Rationale Clinical Recommendation Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine) The concomitant use of aripiprazole with strong CYP3A4 or CYP2D6 inhibitors increased the exposure of aripiprazole compared to the use of aripiprazole alone [see Clinical Pharmacology ( 12.3 )].
 With concomitant use of aripiprazole with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole dosage [see Dosage and Administration ( 2.7 )].
 
-## Aripiprazole: Drug interactions (part 2 of 3)
+## Aripiprazole: Drug interactions (part 2 of 5)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21460,7 +23386,7 @@ Monitor sedation and blood pressure.
 Adjust dose accordingly.
 7.2 Drugs Having No Clinically Important Interactions with Aripiprazole Based on pharmacokinetic studies, no dosage adjustment of aripiprazole is required when administered concomitantly with famotidine, valproate, lithium, lorazepam.
 
-## Aripiprazole: Drug interactions (part 3 of 3)
+## Aripiprazole: Drug interactions (part 3 of 5)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
 Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
@@ -21473,6 +23399,31 @@ Additionally, no dosage adjustment is necessary for valproate, lithium, lamotrig
 Clinically Important Drug Interactions with Aripiprazole:
 Concomitant Drug Name or Drug Class Clinical Rationale Clinical Recommendation Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine) The concomitant use of aripiprazole with strong CYP3A4 or CYP2D6 inhibitors increased the exposure of aripiprazole compared to the use of aripiprazole alone [see Clinical Pharmacology ( 12.3 )].
 With concomitant use of aripiprazole with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole dosage [see Dosage and Administration ( 2.7 )].
+
+## Aripiprazole: Drug interactions (part 4 of 5)
+Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
+Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
+Retrieved: 2026-10-06
+Keywords: aripiprazole, drug interactions, atypical antipsychotic [epc]
+
+Strong CYP3A4 Inducers (e.g., carbamazepine, rifampin) The concomitant use of aripiprazole and carbamazepine decreased the exposure of aripiprazole compared to the use of aripiprazole alone [see Clinical Pharmacology ( 12.3 )] .
+With concomitant use of aripiprazole with a strong CYP3A4 inducer, consider increasing the aripiprazole dosage [see Dosage and Administration ( 2.7 )].
+Antihypertensive Drugs Due to its alpha adrenergic antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents.
+Monitor blood pressure and adjust dose accordingly [see Warnings and Precautions ( 5.8 )].
+Benzodiazepines (e.g., lorazepam) The intensity of sedation was greater with the combination of oral aripiprazole and lorazepam as compared to that observed with aripiprazole alone.
+The orthostatic hypotension observed was greater with the combination as compared to that observed with lorazepam alone [see Warnings and Precautions ( 5.8 )].
+Monitor sedation and blood pressure.
+Adjust dose accordingly.
+
+## Aripiprazole: Drug interactions (part 5 of 5)
+Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
+Label-set-id: 14910dae-da81-3d73-d0a4-e98d13917c69
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14910dae-da81-3d73-d0a4-e98d13917c69
+Retrieved: 2026-10-06
+Keywords: aripiprazole, drug interactions, atypical antipsychotic [epc]
+
+7.2 Drugs Having No Clinically Important Interactions with Aripiprazole Based on pharmacokinetic studies, no dosage adjustment of aripiprazole is required when administered concomitantly with famotidine, valproate, lithium, lorazepam. In addition, no dosage adjustment is necessary for substrates of CYP2D6 (e.g., dextromethorphan, fluoxetine, paroxetine, or venlafaxine), CYP2C9 (e.g., warfarin), CYP2C19 (e.g., omeprazole, warfarin, escitalopram), or CYP3A4 (e.g., dextromethorphan) when coadministered with aripiprazole. Additionally, no dosage adjustment is necessary for valproate, lithium, lamotrigine, lorazepam, or sertraline when co-administered with aripiprazole [see Clinical Pharmacology ( 12.3 )] .
 
 ## Aripiprazole: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Aripiprazole (Apotex Corp.), effective 2026-09-03
@@ -21659,7 +23610,7 @@ The effectiveness of quetiapine tablets USP as monotherapy for the maintenance t
 For pediatric schizophrenia, symptom profiles can be variable, and for bipolar I disorder, patients may have variable patterns of periodicity of manic or mixed symptoms.
 It is recommended that medication therapy for pediatric schizophrenia and bipolar I disorder be initiated only after a thorough diagnostic evaluation has been performed and careful consideration given to the risks associated with medication treatment.
 
-## Quetiapine Fumarate: Dosage and administration (part 1 of 3)
+## Quetiapine Fumarate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Quetiapine Fumarate (NuCare Pharmaceuticals,Inc.), effective 2026-08-17
 Label-set-id: 227b8b2b-a238-efb4-e063-6394a90acc7e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227b8b2b-a238-efb4-e063-6394a90acc7e
@@ -21672,7 +23623,7 @@ Consider a lower starting dose (50 mg/day), slower titration and careful monitor
 Lower starting dose (25 mg/day) and slower titration may be needed ( 2.4 , 8.7 , 12.3 ) 2.1 Important Administration Instructions Quetiapine tablets USP can be taken with or without food.
 2.2 Recommended Dosing The recommended initial dose, titration, dose range and maximum quetiapine dose for each approved indication is displayed in Table 1.
 
-## Quetiapine Fumarate: Dosage and administration (part 2 of 3)
+## Quetiapine Fumarate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Quetiapine Fumarate (NuCare Pharmaceuticals,Inc.), effective 2026-08-17
 Label-set-id: 227b8b2b-a238-efb4-e063-6394a90acc7e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227b8b2b-a238-efb4-e063-6394a90acc7e
@@ -21701,7 +23652,7 @@ Based on response and tolerability, may be administered three times daily.
 Twice daily dosing totaling 100 mg.
 Day 2:
 
-## Quetiapine Fumarate: Dosage and administration (part 3 of 3)
+## Quetiapine Fumarate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Quetiapine Fumarate (NuCare Pharmaceuticals,Inc.), effective 2026-08-17
 Label-set-id: 227b8b2b-a238-efb4-e063-6394a90acc7e
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227b8b2b-a238-efb4-e063-6394a90acc7e
@@ -21734,6 +23685,21 @@ Day 1:
 300 mg 300 mg/day 300 mg/day Bipolar I Disorder Maintenance Therapy-Adults Administer twice daily totaling 400 to 800 mg/day as adjunct to lithium or divalproex.
 Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized.
 400 to 800 mg/day 800 mg/day Maintenance Treatment for Schizophrenia and Bipolar I Disorder Maintenance Treatment:
+
+## Quetiapine Fumarate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Quetiapine Fumarate (NuCare Pharmaceuticals,Inc.), effective 2026-08-17
+Label-set-id: 227b8b2b-a238-efb4-e063-6394a90acc7e
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227b8b2b-a238-efb4-e063-6394a90acc7e
+Retrieved: 2026-10-06
+Keywords: quetiapine fumarate, quetiapine, dosage and administration
+
+Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see CLINICAL STUDIES ( 14.2 )].
+2.3 Dose Modifications in Elderly Patients Consideration should be given to a slower rate of dose titration and a lower target dose in the elderly and in patients who are debilitated or who have a predisposition to hypotensive reactions [see CLINICAL PHARMACOLOGY ( 12.3 )].
+When indicated, dose escalation should be performed with caution in these patients.
+Elderly patients should be started on quetiapine 50 mg/day and the dose can be increased in increments of 50 mg/day depending on the clinical response and tolerability of the individual patient.
+2.4 Dose Modifications in Hepatically Impaired Patients Patients with hepatic impairment should be started on 25 mg/day.
+The dose should be increased daily in increments of 25 mg/day to 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patients.
+2.5 Dose Modifications when used with CYP3A4 Inhibitors Quetiapine dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.).
 
 ## Quetiapine Fumarate: Contraindications
 Source: FDA drug label, Quetiapine Fumarate (NuCare Pharmaceuticals,Inc.), effective 2026-08-17
@@ -21952,7 +23918,7 @@ Keywords: risperidone, uses, atypical antipsychotic [epc]
 1.3 Irritability Associated with Autistic Disorder Risperidone is indicated for the treatment of irritability associated with autistic disorder, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
 Efficacy was established in 3 short-term trials in children and adolescents (ages 5 to 17 years) [see Clinical Studies ( 14.4 )] .
 
-## Risperidone: Dosage and administration (part 1 of 3)
+## Risperidone: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Risperidone (ANI Pharmaceuticals, Inc.), effective 2026-06-26
 Label-set-id: 1f47ec91-602f-4fba-8f7e-a5698760b655
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f47ec91-602f-4fba-8f7e-a5698760b655
@@ -21969,7 +23935,7 @@ Recommended Daily Dosage by Indication Initial Dose Titration (Increments) Targe
 May increase to dosages above 1.5 mg twice daily at intervals of one week or longer. • Recommended daily dosage:
 Initial Dose Target Dose Effective Dose Range Schizophrenia: adults (2.1) 2 mg 4 to 8 mg 4 to 16 mg Schizophrenia: adolescents (2.1) 0.5 mg 3 mg 1 to 6 mg Bipolar mania:
 
-## Risperidone: Dosage and administration (part 2 of 3)
+## Risperidone: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Risperidone (ANI Pharmaceuticals, Inc.), effective 2026-06-26
 Label-set-id: 1f47ec91-602f-4fba-8f7e-a5698760b655
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f47ec91-602f-4fba-8f7e-a5698760b655
@@ -21988,7 +23954,7 @@ In some patients, slower titration may be appropriate.
 Efficacy has been demonstrated in a range of 4 mg to 16 mg per day.
 However, doses above 6 mg per day for twice daily dosing were not demonstrated to be more efficacious than lower doses, were associated with more extrapyramidal symptoms and other adverse effects, and are generally not recommended.
 
-## Risperidone: Dosage and administration (part 3 of 3)
+## Risperidone: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Risperidone (ANI Pharmaceuticals, Inc.), effective 2026-06-26
 Label-set-id: 1f47ec91-602f-4fba-8f7e-a5698760b655
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f47ec91-602f-4fba-8f7e-a5698760b655
@@ -22003,6 +23969,23 @@ Although efficacy has been demonstrated in studies of adolescent patients with s
 Doses higher than 6 mg per day have not been studied.
 Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
 Maintenance Therapy While it is unknown how long a patient with schizophrenia should remain on risperidone, the effectiveness of risperidone 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies ( 14.1 )] .
+
+## Risperidone: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Risperidone (ANI Pharmaceuticals, Inc.), effective 2026-06-26
+Label-set-id: 1f47ec91-602f-4fba-8f7e-a5698760b655
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f47ec91-602f-4fba-8f7e-a5698760b655
+Retrieved: 2026-10-06
+Keywords: risperidone, dosage and administration, atypical antipsychotic [epc]
+
+Both adult and adolescent patients who respond acutely should generally be maintained on their effective dose beyond the acute episode.
+Patients should be periodically reassessed to determine the need for maintenance treatment.
+Reinitiation of Treatment in Patients Previously Discontinued Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off risperidone, the initial titration schedule should be followed.
+Switching From Other Antipsychotics There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to risperidone, or treating patients with concomitant antipsychotics.
+2.2 Bipolar Mania Usual Dose Adults The initial dose range is 2 mg to 3 mg per day.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
+The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
+In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies ( 14.2 , 14.3 )] .
+Risperidone doses higher than 6 mg per day were not studied.
 
 ## Risperidone: Contraindications
 Source: FDA drug label, Risperidone (ANI Pharmaceuticals, Inc.), effective 2026-06-26
@@ -22270,7 +24253,7 @@ As Olanzapine and Fluoxetine in Combination for the: • Treatment of depressive
 Efficacy was established in three clinical trials in adult patients with schizophrenia: two 6-week trials and one maintenance trial.
 In adolescent patients with schizophrenia (ages 13 to 17), efficacy was established in one 6-week trial [ see Clinical Studies ( 14.1 )].
 
-## Olanzapine: Dosage and administration (part 1 of 3)
+## Olanzapine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22290,7 +24273,7 @@ Start at 5 mg of oral olanzapine and 20 mg of fluoxetine once daily Depressive E
 Start at 2.5 mg of oral olanzapine and 20 mg of fluoxetine once daily Treatment Resistant Depression in adults (2.6) Oral in combination with fluoxetine:
 Start at 5 mg of oral olanzapine and 20 mg of fluoxetine once daily • Lower starting dose recommended in debilitated or pharmacodynamically sensitive patients or patients with predisposition to hypotensive reactions, or with potential for slowed metabolism.
 
-## Olanzapine: Dosage and administration (part 2 of 3)
+## Olanzapine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22306,7 +24289,7 @@ Olanzapine and Fluoxetine in Combination: • Dosage adjustments, if indicated, 
 Further dosage adjustments, if indicated, should 4 generally occur at intervals of not less than 1 week, since steady state for olanzapine would not be achieved for approximately 1 week in the typical patient.
 When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
 
-## Olanzapine: Dosage and administration (part 3 of 3)
+## Olanzapine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22321,6 +24304,21 @@ Dosing in Special Populations — The recommended starting dose is 5 mg in patie
 When indicated, dose escalation should be performed with caution in these patients.
 Maintenance Treatment —The effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on olanzapine for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1) ].
 
+## Olanzapine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
+Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
+Retrieved: 2026-10-06
+Keywords: olanzapine, dosage and administration, atypical antipsychotic [epc]
+
+The healthcare provider who elects to use olanzapine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+Adolescents Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
+Efficacy in adolescents with schizophrenia was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 12.5 mg/day (mean dose of 11.1 mg/day).
+When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
+The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies ( 14.1 ) ].
+Maintenance Treatment — The efficacy of olanzapine for the maintenance treatment of schizophrenia in the adolescent population has not been systematically evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
+
 ## Olanzapine: Contraindications
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22330,7 +24328,7 @@ Keywords: olanzapine, contraindications, atypical antipsychotic [epc]
 
 4 CONTRAINDICATIONS • None with olanzapine monotherapy. • When using olanzapine and fluoxetine in combination, also refer to the Contraindications section of the package insert for Symbyax. • For specific information about the contraindications of lithium or valproate, refer to the Contraindications section of the package inserts for these other products. • None with olanzapine monotherapy. (4) • When using olanzapine and fluoxetine in combination, also refer to the Contraindications section of the package insert for Symbyax®. (4) • When using olanzapine in combination with lithium or valproate, refer to the Contraindications section of the package inserts for those products ( 4 )
 
-## Olanzapine: Drug interactions (part 1 of 3)
+## Olanzapine: Drug interactions (part 1 of 5)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22349,7 +24347,7 @@ Enhanced antihypertensive effect ( 7.2 ) • Levodopa and Dopamine Agonists:
 May antagonize levodopa/dopamine agonists (7.2 ) • Other Concomitant Drug Therapy:
 When using olanzapine in combination with lithium or valproate, refer to the Drug Interactions sections of the package insert for those products ( 7.2 ) 7.1 Potential for Other Drugs to Affect Olanzapine Diazepam — The co-administration of diazepam with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2) ].
 
-## Olanzapine: Drug interactions (part 2 of 3)
+## Olanzapine: Drug interactions (part 2 of 5)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22369,7 +24367,7 @@ The mean increase in olanzapine AUC is 52% and 108%, respectively.
 Lower doses of olanzapine should be considered in patients receiving concomitant treatment with fluvoxamine.
 Inhibitors of CYP2D6 Fluoxetine :
 
-## Olanzapine: Drug interactions (part 3 of 3)
+## Olanzapine: Drug interactions (part 3 of 5)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
 Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
@@ -22384,6 +24382,39 @@ Inducers of CYP1A2 or Glucuronyl Transferase — Omeprazole and rifampin, may ca
 Charcoal — The administration of activated charcoal (1 g) reduced the Cmax and AUC of oral olanzapine by about 60%.
 As peak olanzapine levels are not typically obtained until about 6 hours after dosing, charcoal may be a useful treatment for olanzapine overdose.
 Anticholinergic Drugs — Concomitant treatment with olanzapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+
+## Olanzapine: Drug interactions (part 4 of 5)
+Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
+Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
+Retrieved: 2026-10-06
+Keywords: olanzapine, drug interactions, atypical antipsychotic [epc]
+
+Olanzapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions ( 5.14 ) ].
+7.2 Potential for Olanzapine to Affect Other Drugs CNS Acting Drugs — Given the primary CNS effects of olanzapine, caution should be used when olanzapine is taken in combination with other centrally acting drugs and alcohol.
+Antihypertensive Agents — Olanzapine, because of its potential for inducing hypotension, may enhance the effects of certain antihypertensive agents.
+Levodopa and Dopamine Agonists — Olanzapine may antagonize the effects of levodopa and dopamine agonists.
+Lithium — Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.
+Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium. [see Warnings and Precautions (5.16) ].
+Valproate —Olanzapine (10 mg daily for 2 weeks) did not affect the steady state plasma concentrations of valproate.
+Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate. [see Warnings and Precautions (5.16) ].
+
+## Olanzapine: Drug interactions (part 5 of 5)
+Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
+Label-set-id: 38a89689-efc2-4931-8f65-868dc0248d6a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=38a89689-efc2-4931-8f65-868dc0248d6a
+Retrieved: 2026-10-06
+Keywords: olanzapine, drug interactions, atypical antipsychotic [epc]
+
+Effect of Olanzapine on Drug Metabolizing Enzymes — In vitro studies utilizing human liver microsomes suggest that olanzapine has little potential to inhibit CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
+Thus, olanzapine is unlikely to cause clinically important drug interactions mediated by these enzymes.
+Imipramine — Single doses of olanzapine did not affect the pharmacokinetics of imipramine or its active metabolite desipramine.
+Warfarin — Single doses of olanzapine did not affect the pharmacokinetics of warfarin [see Drug Interactions (7.1) ].
+Diazepam — Olanzapine did not influence the pharmacokinetics of diazepam or its active metabolite N-desmethyldiazepam.
+However, diazepam co-administered with olanzapine increased the orthostatic hypotension observed with either drug given alone. [see Drug Interactions (7.1) ].
+Alcohol — Multiple doses of olanzapine did not influence the kinetics of ethanol [see Drug Interactions (7.1) ].
+Biperiden — Multiple doses of olanzapine did not influence the kinetics of biperiden.
+Theophylline — Multiple doses of olanzapine did not affect the pharmacokinetics of theophylline or its metabolites.
 
 ## Olanzapine: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Olanzapine (Cardinal Health 107, LLC), effective 2026-08-13
@@ -22602,7 +24633,7 @@ Keywords: haloperidol decanoate, haloperidol, contraindications
 
 4 CONTRAINDICATIONS Haloperidol decanoate injection is contraindicated in patients with: • Severe toxic central nervous system depression or comatose states from any cause. • Known hypersensitivity to haloperidol or any components of haloperidol decanoate injection. Hypersensitivity reactions, including anaphylactic reactions and angioedema, have been reported in patients treated with haloperidol [see Warnings and Precautions ( 5.9 ) and Adverse Reactions ( 6.2 )]. • Parkinson’s disease [see Warnings and Precautions ( 5.7 )]. • Dementia with Lewy bodies [see Warnings and Precautions ( 5.7 )]. • Severe toxic central nervous system depression or comatose states from any cause ( 4 ). • Known hypersensitivity to haloperidol or any components of haloperidol decanoate injection ( 4 ). • Parkinson’s disease ( 4 , 5.7 , 6.1 ). • Dementia with Lewy bodies ( 4 , 5.7 ).
 
-## Haloperidol Decanoate: Drug interactions (part 1 of 3)
+## Haloperidol Decanoate: Drug interactions (part 1 of 4)
 Source: FDA drug label, Haloperidol Decanoate (Gland Pharma Limited), effective 2026-07-14
 Label-set-id: 1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
@@ -22618,7 +24649,7 @@ Concomitant use of haloperidol decanoate with other products that prolong the QT
 7.2 Other Clinically Significant Drug Interactions Table 3 describes other clinically significant drug interactions of haloperidol decanoate.
 Table 3:
 
-## Haloperidol Decanoate: Drug interactions (part 2 of 3)
+## Haloperidol Decanoate: Drug interactions (part 2 of 4)
 Source: FDA drug label, Haloperidol Decanoate (Gland Pharma Limited), effective 2026-07-14
 Label-set-id: 1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
@@ -22636,7 +24667,7 @@ Concomitant use of haloperidol decanoate with CYP3A4 inducers may reduce the eff
 Prevention or Management Monitor patients and if necessary, increase the dosage of haloperidol decanoate.
 CYP2D6 Substrates Clinical Impact Haloperidol is a CYP2D6 inhibitor.
 
-## Haloperidol Decanoate: Drug interactions (part 3 of 3)
+## Haloperidol Decanoate: Drug interactions (part 3 of 4)
 Source: FDA drug label, Haloperidol Decanoate (Gland Pharma Limited), effective 2026-07-14
 Label-set-id: 1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
@@ -22652,6 +24683,17 @@ Prevention or Management Haloperidol decanoate is contraindicated in patients wi
 For conditions other than Parkinson’s disease and dementia with Lewy bodies, when possible, avoid concomitant use of haloperidol decanoate with dopaminergic drugs [see Warnings and Precautions ( 5.7 )].
 Anticholinergic Drugs Clinical Impact The healthcare provider should keep in mind the possible increase in intraocular pressure when anticholinergic drugs are administered concomitantly with haloperidol decanoate.
 Prevention or Management Monitor and manage patients as clinically appropriate.
+
+## Haloperidol Decanoate: Drug interactions (part 4 of 4)
+Source: FDA drug label, Haloperidol Decanoate (Gland Pharma Limited), effective 2026-07-14
+Label-set-id: 1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c
+Retrieved: 2026-10-06
+Keywords: haloperidol decanoate, haloperidol, drug interactions
+
+Lithium Clinical Impact Concomitant use of haloperidol decanoate with lithium may cause an encephalopathic syndrome followed by irreversible brain damage [see Warnings and Precautions ( 5.12 )].
+Prevention or Management Monitor patients who concomitantly use haloperidol decanoate with lithium closely for early signs of neurological toxicity, and discontinue haloperidol decanoate or both haloperidol decanoate and lithium promptly if such signs appear.
+1 See www.fda.gov/CYPandTransporterInteractingDrugs for examples of CYP3A4 and/or CYP2D6 inhibitors, CYP3A4 inducers, and CYP2D6 substrates.
 
 ## Haloperidol Decanoate: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Haloperidol Decanoate (Gland Pharma Limited), effective 2026-07-14
@@ -22828,7 +24870,7 @@ Keywords: alprazolam, uses, benzodiazepine [epc]
 
 1 INDICATIONS AND USAGE Alprazolam tablets are indicated for the: acute treatment of generalized anxiety disorder (GAD) in adults. treatment of panic disorder (PD), with or without agoraphobia in adults. Alprazolam is a benzodiazepine indicated for the: Acute treatment of generalized anxiety disorder in adults. ( 1 ) Treatment of panic disorder with or without agoraphobia in adults. ( 1 )
 
-## Alprazolam: Dosage and administration (part 1 of 3)
+## Alprazolam: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22849,7 +24891,7 @@ Some patients may require an even slower dosage reduction.
 Depending upon the response, the dosage may be adjusted at intervals of every 3 to 4 days.
 The maximum recommended dosage is 4 mg daily (in divided doses).
 
-## Alprazolam: Dosage and administration (part 2 of 3)
+## Alprazolam: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22866,7 +24908,7 @@ For patients receiving doses greater than 4 mg per day, periodic reassessment an
 In a controlled postmarketing dose-response study, patients treated with doses of alprazolam tablets greater than 4 mg per day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
 The necessary duration of treatment for PD in patients responding to alprazolam tablets are unknown.
 
-## Alprazolam: Dosage and administration (part 3 of 3)
+## Alprazolam: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22881,6 +24923,22 @@ Reduced the dosage by no more than 0.5 mg every 3 days.
 Some patients may benefit from an even more gradual discontinuation.
 Some patients may prove resistant to all discontinuation regimens.
 
+## Alprazolam: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
+Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
+Retrieved: 2026-10-06
+Keywords: alprazolam, dosage and administration, benzodiazepine [epc]
+
+In a controlled postmarketing discontinuation study of panic disorder patients which compared the recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
+2.4 Dosage Recommendations in Geriatric Patients In geriatric patients, the recommended starting oral dosage of alprazolam tablets is 0.25 mg, given 2 or 3 times daily.
+This may be gradually increased if needed and tolerated.
+Geriatric patients may be especially sensitive to the effects of benzodiazepines.
+If adverse reactions occur at the recommended starting dosage, the dosage may be reduced [see Use in Specific Populations (8.5) , Clinical Pharmacology (12.3) ] .
+2.5 Dosage Recommendations in Patients with Hepatic Impairment In patients with hepatic impairment, the recommended starting oral dosage of alprazolam tablets is 0.25 mg, given 2 or 3 times daily.
+This may be gradually increased if needed and tolerated.
+If adverse reactions occur at the recommended starting dose, the dosage may be reduced [see Use in Specific Populations (8.6) , Clinical Pharmacology (12.3) ] .
+
 ## Alprazolam: Contraindications
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22890,7 +24948,7 @@ Keywords: alprazolam, contraindications, benzodiazepine [epc]
 
 4 CONTRAINDICATIONS Alprazolam tablets are contraindicated in patients: with known hypersensitivity to alprazolam or other benzodiazepines. Angioedema has been reported [see Adverse Reactions (6.2) ] . taking strong cytochrome P450 3A (CYP3A) inhibitors (e.g., ketoconazole, itraconazole), except ritonavir [see Dosage and Administration (2.6) , Warnings and Precautions (5.5) , Drug Interactions (7.1) ] Known hypersensitivity to alprazolam or other benzodiazepines. ( 4 ) Concomitant use with strong cytochrome P450 3A (CYP3A) inhibitors, except ritonavir. ( 4 , 5.5 , 7.1 )
 
-## Alprazolam: Drug interactions (part 1 of 3)
+## Alprazolam: Drug interactions (part 1 of 5)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22913,7 +24971,7 @@ Clinically Significant Drug Interactions with Alprazolam Opioids Clinical implic
 Benzodiazepines interact at gamma-aminobutyric acid(GABA A ) sites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 
-## Alprazolam: Drug interactions (part 2 of 3)
+## Alprazolam: Drug interactions (part 2 of 5)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22927,7 +24985,7 @@ Prevention or management Limit dosage and duration of alprazolam during concomit
 Examples Psychotropic medications, anticonvulsants, antihistaminics, ethanol, and other drugs which themselves produce CNS depression.
 Strong Inhibitors of CYP3A (except ritonavir) Clinical implication Concomitant use of alprazolam with strong CYP3A inhibitors has a profound effect on the clearance of alprazolam, resulting in increased concentrations of alprazolam and increased risk of adverse reactions [see Clinical Pharmacology (12.3) ].
 
-## Alprazolam: Drug interactions (part 3 of 3)
+## Alprazolam: Drug interactions (part 3 of 5)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
 Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
@@ -22941,6 +24999,33 @@ Examples Nefazodone, fluvoxamine, cimetidine, erythromycin CYP3A Inducers Clinic
 Prevention or management Caution is recommended during coadministration with alprazolam.
 Examples Carbamazepine, phenytoin Ritonavir Clinical implication Interactions involving ritonavir and alprazolam are complex and time dependent.
 Short term administration of ritonavir increased alprazolam exposure due to CYP3A4 inhibition.
+
+## Alprazolam: Drug interactions (part 4 of 5)
+Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
+Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
+Retrieved: 2026-10-06
+Keywords: alprazolam, drug interactions, benzodiazepine [epc]
+
+Following long term treatment of ritonavir (>10 to 14 days), CYP3A4 induction offsets this inhibition.
+Alprazolam exposure was not meaningfully affected in the presence of ritonavir.
+Prevention or management Reduce alprazolam dosage when ritonavir and alprazolam are initiated concomitantly, or when ritonavir is added to a regimen where alprazolam is stabilized.
+Increase alprazolam dosage to the target dosage after 10 to 14 days of dosing ritonavir and alprazolam concomitantly.
+No dosage adjustment of alprazolam is necessary in patients receiving ritonavir for more than 10 to14 days [see Dosage and Administration (2.6) ] .
+Concomitant use of alprazolam with a strong CYP3A inhibitor, except ritonavir, is contraindicated [see Contraindications (4) , Warnings and Precautions (5.5) ].
+Digoxin Clinical implication Increased digoxin concentrations have been reported when alprazolam was given, especially in geriatric patients (>65 years of age).
+Prevention or management In patients on digoxin therapy, measure serum digoxin concentrations before initiating alprazolam.
+Continue monitoring digoxin serum concentration and toxicity frequently .
+Reduce the digoxin dose if necessary.
+
+## Alprazolam: Drug interactions (part 5 of 5)
+Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
+Label-set-id: 0cf8b567-201b-44fa-8fd3-c74023aff44f
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cf8b567-201b-44fa-8fd3-c74023aff44f
+Retrieved: 2026-10-06
+Keywords: alprazolam, drug interactions, benzodiazepine [epc]
+
+7.2 Drug/Laboratory Test Interactions Although interactions between benzodiazepines and commonly employed clinical laboratory tests have occasionally been reported, there is no consistent pattern for a specific drug or specific test.
 
 ## Alprazolam: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Alprazolam (Clinical Solutions Wholesale, LLC), effective 2026-07-28
@@ -23405,7 +25490,7 @@ Keywords: clonazepam, uses, benzodiazepine [epc]
 The effectiveness of clonazepam tablets in long-term use, that is, for more than 9 weeks, has not been systematically studied in controlled clinical trials.
 The physician who elects to use clonazepam tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION ).
 
-## Clonazepam: Dosage and administration (part 1 of 3)
+## Clonazepam: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Clonazepam (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
@@ -23427,7 +25512,7 @@ Clonazepam tablets are administered orally.
 In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses.
 Dosage should be increased by no more than 0.25 to 0.5 mg every third day until a daily maintenance dose of 0.1 to 0.2 mg/kg of body weight has been reached, unless seizures are controlled or side effects preclude further increase.
 
-## Clonazepam: Dosage and administration (part 2 of 3)
+## Clonazepam: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Clonazepam (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
@@ -23448,7 +25533,7 @@ The recommended dose of 1 mg/day is based on the results from a fixed dose study
 Higher doses of 2, 3 and 4 mg/day in that study were less effective than the 1 mg/day dose and were associated with more adverse effects.
 Nevertheless, it is possible that some individual patients may benefit from doses of up to a maximum dose of 4 mg/day, and in those instances, the dose may be increased in increments of 0.125 to 0.25 mg twice daily every 3 days until panic disorder is controlled or until side effects make further increases undesired.
 
-## Clonazepam: Dosage and administration (part 3 of 3)
+## Clonazepam: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Clonazepam (REMEDYREPACK INC.), effective 2026-08-27
 Label-set-id: 2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
@@ -23467,6 +25552,18 @@ In general, elderly patients should be started on low doses of clonazepam tablet
 Geriatric Use ).
 Discontinuation or Dosage Reduction of Clonazepam Tablets:
 To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clonazepam tablets or reduce the dosage.
+
+## Clonazepam: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Clonazepam (REMEDYREPACK INC.), effective 2026-08-27
+Label-set-id: 2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2606ecf9-3d71-4c1c-bfda-d7d98ffc6011
+Retrieved: 2026-10-06
+Keywords: clonazepam, dosage and administration, benzodiazepine [epc]
+
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS:
+Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE:
+Dependence ).
 
 ## Clonazepam: Contraindications
 Source: FDA drug label, Clonazepam (REMEDYREPACK INC.), effective 2026-08-27
@@ -24637,7 +26734,7 @@ Keywords: methylphenidate hydrochloride, methylphenidate, uses
 
 1 INDICATIONS AND USAGE Methylphenidate hydrochloride extended-release tablets are indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in patients aged 6 to 65 years old. Limitations of Use The use of methylphenidate hydrochloride extended-release tablets are not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage [see Warnings and Precautions (5.7) and Use in Specific Populations (8.4)]. Methylphenidate hydrochloride extended-release tablets are a CNS stimulant indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in patients aged 6 to 65 years old. (1) Limitations of Use The use of methylphenidate hydrochloride extended-release tablets are not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage (5.7, 8.4).
 
-## Methylphenidate Hydrochloride: Dosage and administration (part 1 of 3)
+## Methylphenidate Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Methylphenidate Hydrochloride (Sun Pharmaceutical Industries, Inc.), effective 2026-08-17
 Label-set-id: 18024571-4505-6d51-e063-6294a90a1972
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=18024571-4505-6d51-e063-6294a90a1972
@@ -24655,7 +26752,7 @@ May be increased weekly in 18 mg increments, up to 72 mg once daily.
 (2.3) Patients currently using immediate-release methylphenidate: starting methylphenidate hydrochloride extended-release tablets dosage is based on current dosage regimen.
 (2.4) ​ 2.1 Pretreatment Screening Prior to treating patients with methylphenidate hydrochloride extended-release tablets, assess:
 
-## Methylphenidate Hydrochloride: Dosage and administration (part 2 of 3)
+## Methylphenidate Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Methylphenidate Hydrochloride (Sun Pharmaceutical Industries, Inc.), effective 2026-08-17
 Label-set-id: 18024571-4505-6d51-e063-6294a90a1972
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=18024571-4505-6d51-e063-6294a90a1972
@@ -24669,7 +26766,7 @@ Swallow methylphenidate hydrochloride extended-release tablets whole with liquid
 Do not split, crush, or chew the extended-release tablets because doing so will compromise the extended-release characteristics of methylphenidate hydrochloride extended-release tablets and may compromise the effectiveness or safety of methylphenidate hydrochloride extended-release tablets.
 2.3 Recommended Methylphenidate Hydrochloride Extended-Release Tablets Dosage in Patients New to Methylphenidate See Table 1 for the recommended once-daily dosage of methylphenidate hydrochloride extended-release tablets in patients who were not taking a methylphenidate product.
 
-## Methylphenidate Hydrochloride: Dosage and administration (part 3 of 3)
+## Methylphenidate Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Methylphenidate Hydrochloride (Sun Pharmaceutical Industries, Inc.), effective 2026-08-17
 Label-set-id: 18024571-4505-6d51-e063-6294a90a1972
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=18024571-4505-6d51-e063-6294a90a1972
@@ -24681,6 +26778,18 @@ However, if a slower titration is recommended for patients who have not achieved
 Table 1:
 Recommended Methylphenidate Hydrochloride Extended-Release Tablets Dosage in Patients New to Methylphenidate Patient Population Recommended Starting Dose Dosage Range Pediatric patients 6 to 12 years of age 18 mg once daily 18 mg to 54 mg once daily Pediatric patients 13 to 17 years of age 18 mg once daily 18 mg to 54 mg once daily not to exceed 2 mg/kg/day Adults 18 to 65 years of age 18 or 36 mg once daily 18 mg to 54 mg once daily 2.4 Recommended Methylphenidate Hydrochloride Extended-Release Tablets Dosage in Patients Switching from Another Methylphenidate Product See Table 2 for the recommended starting dosage of methylphenidate hydrochloride extended-release tablets in patients switching from an immediate-release methylphenidate product administered twice daily or three times daily (total daily dosage of 10 to 60 mg/day).
 Table 2:
+
+## Methylphenidate Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Methylphenidate Hydrochloride (Sun Pharmaceutical Industries, Inc.), effective 2026-08-17
+Label-set-id: 18024571-4505-6d51-e063-6294a90a1972
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=18024571-4505-6d51-e063-6294a90a1972
+Retrieved: 2026-10-06
+Keywords: methylphenidate hydrochloride, methylphenidate, dosage and administration
+
+Recommended Starting Dosage in Patients Switching from Another Methylphenidate Product Previous Immediate-release Methylphenidate Daily Dosage Recommended Methylphenidate Hydrochloride Extended-Release Tablets Starting Dosage 5 mg twice daily or three times daily 18 mg every morning 10 mg twice daily or three times daily 36 mg every morning 15 mg twice daily or three times daily 54 mg every morning 20 mg twice daily or three times daily 72 mg every morning 1 1 ​ Only for patients 13 to 65 years of age.
+In patients who have not achieved an optimal response at a lower dosage, increase the methylphenidate hydrochloride extended-release tablets dosage in 18 mg increments at weekly intervals.
+The maximum recommended dosage in pediatric patients 6 to 12 years of age is 54 mg/day, and the maximum recommended dosage in patients 13 to 65 years old is 72 mg/day.
+2.5 Dosage Reduction and Discontinuation If paradoxical aggravation of ADHD symptoms or methylphenidate hydrochloride extended-release tablets -associated adverse reactions occur, reduce the methylphenidate hydrochloride extended-release tablets dosage or, if necessary, discontinue methylphenidate hydrochloride extended-release tablets.
 
 ## Methylphenidate Hydrochloride: Contraindications
 Source: FDA drug label, Methylphenidate Hydrochloride (Sun Pharmaceutical Industries, Inc.), effective 2026-08-17
@@ -24875,7 +26984,7 @@ Keywords: amphetamine, uses, central nervous system stimulant [epc]
 
 1 INDICATIONS AND USAGE Amphetamine extended-release orally disintegrating tablets are a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients 6 years and older [see Clinical Studies ( 14 )] . Limitations of Use The use of amphetamine extended-release orally disintegrating tablets are not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage [see Warnings and Precautions ( 5.5 ), Use in Specific Populations ( 8.4 )] . Amphetamine extended-release orally disintegrating tablets are a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients 6 years and older. ( 1 ) Limitations of Use The use of amphetamine extended-release orally disintegrating tablets are not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage. ( 5.5 , 8.4 )
 
-## Amphetamine: Dosage and administration (part 1 of 3)
+## Amphetamine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Amphetamine (Teva Pharmaceuticals, Inc.), effective 2025-09-01
 Label-set-id: 243e88e7-6621-47e9-8d5c-3f79bcb088bb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=243e88e7-6621-47e9-8d5c-3f79bcb088bb
@@ -24893,7 +27002,7 @@ Maximum dose is 18.8 mg once daily for patients 6 to 12 years, and 12.5 mg once 
 ( 2.5 , 5.7 ) 2.1 Pre-treatment Screening Prior to treating patients with amphetamine extended-release orally disintegrating tablets, assess: for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions ( 5.2 ) ] . the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating amphetamine extended-release orally disintegrating tablets [see Warnings and Precautions ( 5.9 )] .
 2.2 General Administration Information Amphetamine extended-release orally disintegrating tablets may be taken orally with or without food.
 
-## Amphetamine: Dosage and administration (part 2 of 3)
+## Amphetamine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Amphetamine (Teva Pharmaceuticals, Inc.), effective 2025-09-01
 Label-set-id: 243e88e7-6621-47e9-8d5c-3f79bcb088bb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=243e88e7-6621-47e9-8d5c-3f79bcb088bb
@@ -24914,7 +27023,7 @@ Increase in increments of 3.1 mg or 6.3 mg at weekly intervals.
 The maximum recommended dose is 18.8 mg daily for patients 6 to 12 years, and 12.5 mg daily for patients 13 to 17 years [see Use in Specific Populations ( 8.3 ) , Clinical Studies ( 14 ) ] .
 2.4 Dosage Recommendations in Adults The recommended dose is amphetamine extended-release orally disintegrating tablets 12.5 mg daily.
 
-## Amphetamine: Dosage and administration (part 3 of 3)
+## Amphetamine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Amphetamine (Teva Pharmaceuticals, Inc.), effective 2025-09-01
 Label-set-id: 243e88e7-6621-47e9-8d5c-3f79bcb088bb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=243e88e7-6621-47e9-8d5c-3f79bcb088bb
@@ -24925,6 +27034,17 @@ Keywords: amphetamine, dosage and administration, central nervous system stimula
 Refer to Table 1 for equivalent doses of amphetamine extended-release orally disintegrating tablets and dextroamphetamine sulfate, dextroamphetamine saccharate, amphetamine aspartate monohydrate, and amphetamine sulfate extended-release capsules.
 Dextroamphetamine sulfate, dextroamphetamine saccharate, amphetamine aspartate monohydrate, and amphetamine sulfate extended-release capsules are also referred to as mixed salts of a single-entity amphetamine product extended-release capsules (MAS ER).
 Table 1:
+
+## Amphetamine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Amphetamine (Teva Pharmaceuticals, Inc.), effective 2025-09-01
+Label-set-id: 243e88e7-6621-47e9-8d5c-3f79bcb088bb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=243e88e7-6621-47e9-8d5c-3f79bcb088bb
+Retrieved: 2026-10-06
+Keywords: amphetamine, dosage and administration, central nervous system stimulant [epc]
+
+Equivalent Doses of Amphetamine Extended-Release Orally Disintegrating Tablets and Dextroamphetamine Sulfate, Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, and Amphetamine Sulfate (Mixed Salts of a Single-Entity Amphetamine Product) Extended-Release Capsules Amphetamine extended-release orally disintegrating tablets 3.1 mg 6.3 mg 9.4 mg 12.5 mg 15.7 mg 18.8 mg Dextroamphetamine sulfate, dextroamphetamine saccharate, amphetamine aspartate monohydrate, and amphetamine sulfate extended-release capsules Mixed salts of a single-entity amphetamine product extended-release capsules (MAS ER) 5 mg 10 mg 15 mg 20 mg 25 mg 30 mg If switching from any other amphetamine products, discontinue that treatment, and titrate with amphetamine extended-release orally disintegrating tablets using the titration schedule [see Dosage and Administration ( 2.3 ) , ( 2.4 ) ] .
+Do not substitute for other amphetamine products on a milligram-per-milligram basis because of different amphetamine base compositions and differing pharmacokinetic profiles [see Warnings and Precautions ( 5.9 )] .
+2.6 Dosage Modifications Due to Drug Interactions Agents that alter urinary pH can impact urinary excretion and alter blood levels of amphetamine.
 
 ## Amphetamine: Contraindications
 Source: FDA drug label, Amphetamine (Teva Pharmaceuticals, Inc.), effective 2025-09-01
@@ -25126,7 +27246,7 @@ Keywords: atomoxetine hydrochloride, atomoxetine, uses
 
 1 INDICATIONS AND USAGE Atomoxetine capsules are a selective norepinephrine reuptake inhibitor (SNRI) indicated for the treatment of ADHD in adults and pediatric patients 6 years of age and older. ( 1 ) Atomoxetine capsules are indicated for the treatment of attention-deficit/hyperactivity disorder (ADHD) in adults and pediatric patients 6 years of age and older. Atomoxetine capsules are indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social) for patients with ADHD.
 
-## Atomoxetine Hydrochloride: Dosage and administration (part 1 of 3)
+## Atomoxetine Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Atomoxetine Hydrochloride (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
@@ -25141,7 +27261,7 @@ For the recommended dosage in patients with hepatic impairment, see Full Prescri
 ( 2.5 ) 2.1 Recommendations Prior to Initiating Atomoxetine Capsules Treatment Prior to initiating treatment with atomoxetine capsules, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions ( 5.6 )].
 2.2 Administration Instructions Atomoxetine capsules may be taken with or without food.
 
-## Atomoxetine Hydrochloride: Dosage and administration (part 2 of 3)
+## Atomoxetine Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Atomoxetine Hydrochloride (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
@@ -25154,7 +27274,7 @@ Table 1:
 Recommended Dosage of Atomoxetine Capsules for Acute Treatment of ADHD Age and Body Weight Starting Dosage Titration Interval Target Dosage Maximum Dosage Pediatric patients who weigh less than 70 kg 0.5 mg/kg/day Minimum of 3 days 1.2 mg/kg/day a,b 1.4 mg/kg/day or 100 mg/day, whichever is less a Pediatric patients who weigh 70 kg or more and adult patients 40 mg/day Minimum of 3 days 80 mg/day a 100 mg/day a,c a Administer either as once daily dosage in the morning or as evenly divided twice daily dosage in the morning and late afternoon/early evening. b No additional benefit has been demonstrated with atomoxetine capsules dosages higher than 1.2 mg/kg/day [see Clinical Studies ( 14 )]. c If a patient has not achieved an optimal response at 80 mg/day after 2 to 4 additional weeks, may increase the dosage to a maximum of 100 mg/day.
 There is no data that supports increased effectiveness at a dosage higher than 100 mg/day [see Clinical Studies ( 14 )].
 
-## Atomoxetine Hydrochloride: Dosage and administration (part 3 of 3)
+## Atomoxetine Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Atomoxetine Hydrochloride (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
@@ -25167,6 +27287,20 @@ Severe hepatic impairment (HI) (Child-Pugh Class C), the recommended initial and
 Moderate HI (Child-Pugh Class B), the recommended initial and target atomoxetine capsules dosage is 50% of the recommended dosage in patients with normal hepatic function [see Use in Specific Populations ( 8.6 ) and Clinical Pharmacology ( 12.3 )].
 Mild HI (Child-Pugh Class A), the recommended initial and target atomoxetine capsules dosage is the same as those with normal hepatic function.
 2.5 Recommended Dosage with Concomitant Use of Strong CYP2D6 Inhibitors or in CYP2D6 Poor Metabolizers Consider genetic testing to determine the patient’s CYP2D6 metabolizer status.
+
+## Atomoxetine Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Atomoxetine Hydrochloride (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6d7ea8f7-981c-4acc-aeaf-7516325bfc0c
+Retrieved: 2026-10-06
+Keywords: atomoxetine hydrochloride, atomoxetine, dosage and administration
+
+In patients taking a concomitant strong CYP2D6 inhibitor or who are CYP2D6 poor metabolizers, a longer titration interval of 4 weeks is recommended, if ADHD symptoms fail to improve and the initial atomoxetine capsules dosage is well tolerated.
+The recommended starting, target, and maximum atomoxetine capsules dosages are the same as outlined in Table 1 [see Dosage and Administration ( 2.3 )].
+For other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate), follow the recommended dosage, including the recommended titration interval (minimum of 3 days), as outlined in Table 1 [see Dosage and Administration ( 2.3 )].
+2.6 Switching to or from a Monoamine Oxidase Inhibitor Antidepressant At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of atomoxetine capsules.
+In addition, at least 14 days must elapse after stopping atomoxetine capsules before starting an MAOI antidepressant.
+2.7 Recommendations for a Missed Dose If an atomoxetine capsule dose is missed, take the dose as soon as possible, but do not take more than the prescribed total daily amount of atomoxetine capsules in any 24-hour period.
 
 ## Atomoxetine Hydrochloride: Contraindications (part 1 of 2)
 Source: FDA drug label, Atomoxetine Hydrochloride (REMEDYREPACK INC.), effective 2026-09-04
@@ -25359,7 +27493,7 @@ Keywords: gabapentin, uses
 
 1 INDICATIONS AND USAGE Gabapentin capsules are indicated for: Management of postherpetic neuralgia in adults Adjunctive therapy in the treatment of partial onset seizures, with and without secondary generalization, in adults and pediatric patients 3 years and older with epilepsy Gabapentin is indicated for: Postherpetic neuralgia in adults ( 1 ) Adjunctive therapy in the treatment of partial onset seizures, with and without secondary generalization, in adults and pediatric patients 3 years and older with epilepsy ( 1 )
 
-## Gabapentin: Dosage and administration (part 1 of 3)
+## Gabapentin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Gabapentin (REMEDYREPACK INC.), effective 2026-09-01
 Label-set-id: 1373587e-807a-462a-bff6-8a7113ce9f0a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1373587e-807a-462a-bff6-8a7113ce9f0a
@@ -25373,7 +27507,7 @@ Single 300 mg dose Day 2:
 The recommended dose is reached by upward titration over a period of approximately 3 days Dose should be adjusted in patients with reduced renal function ( 2.3 , 2.4 ) 2.1 Dosage for Postherpetic Neuralgia In adults with postherpetic neuralgia, gabapentin may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
 The dose can subsequently be titrated up as needed for pain relief to a dose of 1,800 mg/day (600 mg three times a day).
 
-## Gabapentin: Dosage and administration (part 2 of 3)
+## Gabapentin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Gabapentin (REMEDYREPACK INC.), effective 2026-09-01
 Label-set-id: 1373587e-807a-462a-bff6-8a7113ce9f0a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1373587e-807a-462a-bff6-8a7113ce9f0a
@@ -25390,7 +27524,7 @@ The maximum time between doses should not exceed 12 hours.
 Pediatric Patients Age 3 to 11 years The starting dose range is 10 mg/kg/day to 15 mg/kg/day, given in three divided doses, and the recommended maintenance dose reached by upward titration over a period of approximately 3 days.
 The recommended maintenance dose of gabapentin in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
 
-## Gabapentin: Dosage and administration (part 3 of 3)
+## Gabapentin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Gabapentin (REMEDYREPACK INC.), effective 2026-09-01
 Label-set-id: 1373587e-807a-462a-bff6-8a7113ce9f0a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1373587e-807a-462a-bff6-8a7113ce9f0a
@@ -25405,6 +27539,15 @@ The maximum time interval between doses should not exceed 12 hours.
 The use of gabapentin in patients less than 12 years of age with compromised renal function has not been studied. image1 2.4 Dosage in Elderly Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients.
 2.5 Administration Information Administer gabapentin orally with or without food.
 Gabapentin capsules should be swallowed whole with water.
+
+## Gabapentin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Gabapentin (REMEDYREPACK INC.), effective 2026-09-01
+Label-set-id: 1373587e-807a-462a-bff6-8a7113ce9f0a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1373587e-807a-462a-bff6-8a7113ce9f0a
+Retrieved: 2026-10-06
+Keywords: gabapentin, dosage and administration
+
+If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
 
 ## Gabapentin: Contraindications
 Source: FDA drug label, Gabapentin (REMEDYREPACK INC.), effective 2026-09-01
@@ -25564,7 +27707,7 @@ Keywords: pregabalin, uses
 
 1 INDICATIONS AND USAGE Pregabalin is indicated for: • Management of neuropathic pain associated with diabetic peripheral neuropathy • Management of postherpetic neuralgia • Adjunctive therapy for the treatment of partial-onset seizures in patients 1 month of age and older • Management of fibromyalgia • Management of neuropathic pain associated with spinal cord injury Pregabalin is indicated for: Neuropathic pain associated with diabetic peripheral neuropathy (DPN) ( 1 ) Postherpetic neuralgia (PHN) ( 1 ) Adjunctive therapy for the treatment of partial-onset seizures in patients 1 month of age and older ( 1 ) Fibromyalgia ( 1 ) Neuropathic pain associated with spinal cord injury ( 1 )
 
-## Pregabalin: Dosage and administration (part 1 of 3)
+## Pregabalin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Pregabalin (REMEDYREPACK INC.), effective 2026-08-14
 Label-set-id: 12309847-0857-4ff7-a7e7-edeadc3dfb61
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12309847-0857-4ff7-a7e7-edeadc3dfb61
@@ -25588,7 +27731,7 @@ Maximum dose of 600 mg/day.
 Dose should be adjusted in adult patients with reduced renal function.
 ( 2.7 ) 2.1 Important Administration Instructions Pregabalin is given orally with or without food.
 
-## Pregabalin: Dosage and administration (part 2 of 3)
+## Pregabalin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Pregabalin (REMEDYREPACK INC.), effective 2026-08-14
 Label-set-id: 12309847-0857-4ff7-a7e7-edeadc3dfb61
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12309847-0857-4ff7-a7e7-edeadc3dfb61
@@ -25605,7 +27748,7 @@ In view of the dose-dependent adverse reactions, treatment with doses above 300 
 2.3 Postherpetic Neuralgia in Adults The recommended dose of pregabalin is 75 to 150 mg two times a day, or 50 to 100 mg three times a day (150 to 300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
 Begin dosing at 75 mg two times a day, or 50 mg three times a day (150 mg/day).
 
-## Pregabalin: Dosage and administration (part 3 of 3)
+## Pregabalin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Pregabalin (REMEDYREPACK INC.), effective 2026-08-14
 Label-set-id: 12309847-0857-4ff7-a7e7-edeadc3dfb61
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12309847-0857-4ff7-a7e7-edeadc3dfb61
@@ -25620,6 +27763,23 @@ Administer the total daily dosage orally in two or three divided doses as indica
 In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Based on clinical response and tolerability, dosage may be increased, approximately weekly.
 Table 1.
+
+## Pregabalin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Pregabalin (REMEDYREPACK INC.), effective 2026-08-14
+Label-set-id: 12309847-0857-4ff7-a7e7-edeadc3dfb61
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12309847-0857-4ff7-a7e7-edeadc3dfb61
+Retrieved: 2026-10-06
+Keywords: pregabalin, dosage and administration
+
+Recommended Dosage for Adults and Pediatric Patients 1 Month and Older Age and Body Weight Recommended Initial Dosage Recommended Maximum Dosage Frequency of Administration Adults (17 years and older) 150 mg/day 600 mg/day 2 or 3 divided doses Pediatric patients weighing 30 kg or more 2.5 mg/kg/day 10 mg/kg/day (not to exceed 600 mg/day) 2 or 3 divided doses Pediatric patients weighing less than 30 kg 3.5 mg/kg/day 14 mg/kg/day 1 month to less than 4 years of age:
+3 divided doses 4 years of age and older:
+2 or 3 divided doses Both the efficacy and adverse event profiles of pregabalin have been shown to be dose-related.
+The effect of dose escalation rate on the tolerability of pregabalin has not been formally studied.
+The efficacy of adjunctive pregabalin in patients taking gabapentin has not been evaluated in controlled trials.
+Consequently, dosing recommendations for the use of pregabalin with gabapentin cannot be offered.
+2.5 Management of Fibromyalgia in Adults The recommended dose of pregabalin for fibromyalgia is 300 to 450 mg/day.
+Begin dosing at 75 mg two times a day (150 mg/day).
+The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability.
 
 ## Pregabalin: Contraindications
 Source: FDA drug label, Pregabalin (REMEDYREPACK INC.), effective 2026-08-14
@@ -25765,7 +27925,7 @@ Keywords: topiramate, uses, cytochrome p450 3a4 inducers [moa], cytochrome p450 
 
 1 INDICATIONS AND USAGE Topiramate is indicated for: Epilepsy: initial monotherapy for the treatment of partial-onset or primary generalized tonic-clonic seizures in patients 2 years of age and older ( 1.1 ); adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome in patients 2 years of age and older ( 1.2 ) Preventive treatment of migraine in patients 12 years of age and older ( 1.3 ) 1.1 Monotherapy Epilepsy Topiramate tablets and topiramate capsules are indicated as initial monotherapy for the treatment of partial-onset or primary generalized tonic-clonic seizures in patients 2 years of age and older. 1.2 Adjunctive Therapy Epilepsy Topiramate tablets and topiramate capsules are indicated as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome in patients 2 years of age and older. 1.3 Migraine Topiramate tablets and topiramate capsules are indicated for the preventive treatment of migraine in patients 12 years of age and older.
 
-## Topiramate: Dosage and administration (part 1 of 3)
+## Topiramate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Topiramate (REMEDYREPACK INC.), effective 2026-09-01
 Label-set-id: 0c0a6774-e234-47a5-866e-462cfd99744c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c0a6774-e234-47a5-866e-462cfd99744c
@@ -25780,7 +27940,7 @@ During the titration period, the initial dose of topiramate is 25 mg/day nightly
 Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week.
 Dosage can be increased by 25 mg/day to 50 mg/day each subsequent week as tolerated.
 
-## Topiramate: Dosage and administration (part 2 of 3)
+## Topiramate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Topiramate (REMEDYREPACK INC.), effective 2026-09-01
 Label-set-id: 0c0a6774-e234-47a5-866e-462cfd99744c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c0a6774-e234-47a5-866e-462cfd99744c
@@ -25793,7 +27953,7 @@ The total daily dose should not exceed the maximum maintenance dose for each ran
 Table 2 Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age * Administered in two equally divided doses Weight (kg) Total Daily Dose (mg/day)* Minimum Maintenance Dose Total Daily Dose (mg/day)* Maximum Maintenance Dose Up to 11 150 250 12 to 22 200 300 23 to 31 200 350 32 to 38 250 350 Greater than 38 250 400 2.2 Dosing in Adjunctive Therapy Epilepsy Adults (17 Years of Age and Older) The recommended total daily dose of topiramate as adjunctive therapy in adults with partial-onset seizures or Lennox-Gastaut Syndrome is 200 mg/day to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
 Topiramate should be initiated at 25 mg/day to 50 mg/day, followed by titration to an effective dose in increments of 25 mg/day to 50 mg/day every week.
 
-## Topiramate: Dosage and administration (part 3 of 3)
+## Topiramate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Topiramate (REMEDYREPACK INC.), effective 2026-09-01
 Label-set-id: 0c0a6774-e234-47a5-866e-462cfd99744c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c0a6774-e234-47a5-866e-462cfd99744c
@@ -25808,6 +27968,23 @@ The dosage should then be increased at 1- or 2-week intervals by increments of 1
 Dose titration should be guided by clinical outcome.
 The total daily dose should not exceed 400 mg/day.
 2.3 Dosing for the Preventive Treatment of Migraine The recommended total daily dose of topiramate as treatment for patients 12 years of age and older for the preventive treatment of migraine is 100 mg/day administered in two divided doses (Table 3).
+
+## Topiramate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Topiramate (REMEDYREPACK INC.), effective 2026-09-01
+Label-set-id: 0c0a6774-e234-47a5-866e-462cfd99744c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c0a6774-e234-47a5-866e-462cfd99744c
+Retrieved: 2026-10-06
+Keywords: topiramate, dosage and administration, cytochrome p450 3a4 inducers [moa], cytochrome p450 2c19 inhibitors [moa]
+
+The recommended titration rate for topiramate for the preventive treatment of migraine is as follows:
+Table 3 Preventive Treatment of Migraine Titration Schedule for Patients 12 Years of Age and Older Morning Dose Evening Dose Week 1 None 25 mg Week 2 25 mg 25 mg Week 3 25 mg 50 mg Week 4 50 mg 50 mg Dose and titration rate should be guided by clinical outcome.
+If required, longer intervals between dose adjustments can be used.
+2.4 Administration Information Topiramate can be taken without regard to meals.
+Topiramate Tablets Because of the bitter taste, tablets should not be broken.
+Topiramate Capsules Topiramate capsules may be swallowed whole or may be administered by carefully opening the capsule and sprinkling the entire contents on a small amount (teaspoon) of soft food.
+This drug/food mixture should be swallowed immediately and not chewed.
+It should not be stored for future use.
+2.5 Dosing in Patients with Renal Impairment In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m 2 ), one-half of the usual adult dose of topiramate is recommended [see Use in Specific Populations ( 8.5 , 8.6 ), Clinical Pharmacology ( 12.3 )] .
 
 ## Topiramate: Contraindications
 Source: FDA drug label, Topiramate (REMEDYREPACK INC.), effective 2026-09-01
@@ -25969,7 +28146,7 @@ Keywords: levetiracetam, uses
 
 1 INDICATIONS AND USAGE Levetiracetam is indicated for the treatment of partial-onset seizures in patients 1 month of age and older ( 1.1 ) Levetiracetam is indicated for adjunctive therapy for the treatment of: Myoclonic seizures in patients 12 years of age and older with juvenile myoclonic epilepsy ( 1.2 ) Primary generalized tonic-clonic seizures in patients 6 years of age and older with idiopathic generalized epilepsy ( 1.3 ) 1.1 Partial-Onset Seizures Levetiracetam is indicated for the treatment of partial-onset seizures in patients 1 month of age and older. 1.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy Levetiracetam is indicated as adjunctive therapy for the treatment of myoclonic seizures in patients 12 years of age and older with juvenile myoclonic epilepsy. 1.3 Primary Generalized Tonic-Clonic Seizures Levetiracetam is indicated as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in patients 6 years of age and older with idiopathic generalized epilepsy.
 
-## Levetiracetam: Dosage and administration (part 1 of 3)
+## Levetiracetam: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Levetiracetam (Mylan Institutional Inc.), effective 2025-11-12
 Label-set-id: 08e1bfea-7f3f-42d9-823d-f75080e664ff
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e1bfea-7f3f-42d9-823d-f75080e664ff
@@ -25982,7 +28159,7 @@ Keywords: levetiracetam, dosage and administration
 10 mg/kg twice daily; increase by 10 mg/kg twice daily every 2 weeks to recommended dose of 30 mg/kg twice daily ( 2.2 ) Adults 16 Years and Older:
 500 mg twice daily; increase by 500 mg twice daily every 2 weeks to a recommended dose of 1500 mg twice daily ( 2.2 ) Myoclonic Seizures in Adults and Pediatric Patients 12 Years and Older 500 mg twice daily; increase by 500 mg twice daily every 2 weeks to recommended dose of 1500 mg twice daily ( 2.3 ) Primary Generalized Tonic-Clonic Seizures 6 Years to < 16 Years:
 
-## Levetiracetam: Dosage and administration (part 2 of 3)
+## Levetiracetam: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Levetiracetam (Mylan Institutional Inc.), effective 2025-11-12
 Label-set-id: 08e1bfea-7f3f-42d9-823d-f75080e664ff
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e1bfea-7f3f-42d9-823d-f75080e664ff
@@ -25999,7 +28176,7 @@ Levetiracetam tablets should be swallowed whole.
 Levetiracetam tablets should not be chewed or crushed.
 2.2 Dosing for Partial-Onset Seizures The recommended dosing for monotherapy and adjunctive therapy is the same; as outlined below.
 
-## Levetiracetam: Dosage and administration (part 3 of 3)
+## Levetiracetam: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Levetiracetam (Mylan Institutional Inc.), effective 2025-11-12
 Label-set-id: 08e1bfea-7f3f-42d9-823d-f75080e664ff
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e1bfea-7f3f-42d9-823d-f75080e664ff
@@ -26017,6 +28194,23 @@ Increase the daily dose in 2 weeks by an increment of 20 mg/kg to the recommende
 If a patient cannot tolerate a daily dose of 50 mg/kg, the daily dose may be reduced.
 In the clinical trial, the mean daily dose was 47 mg/kg in this age group.
 4 Years to < 16 Years Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+
+## Levetiracetam: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Levetiracetam (Mylan Institutional Inc.), effective 2025-11-12
+Label-set-id: 08e1bfea-7f3f-42d9-823d-f75080e664ff
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e1bfea-7f3f-42d9-823d-f75080e664ff
+Retrieved: 2026-10-06
+Keywords: levetiracetam, dosage and administration
+
+Increase the daily dose every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
+If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
+In the clinical trial, the mean daily dose was 44 mg/kg.
+The maximum daily dose was 3000 mg/day.
+For levetiracetam tablets dosing in pediatric patients weighing 20 to 40 kg, initiate treatment with a daily dose of 500 mg given as twice daily dosing (250 mg twice daily).
+Increase the daily dose every 2 weeks by increments of 500 mg to a maximum recommended daily dose of 1500 mg (750 mg twice daily).
+For levetiracetam tablets dosing in pediatric patients weighing more than 40 kg, initiate treatment with a daily dose of 1000 mg/day given as twice daily dosing (500 mg twice daily).
+Increase the daily dose every 2 weeks by increments of 1000 mg/day to a maximum recommended daily dose of 3000 mg (1500 mg twice daily).
+Levetiracetam Oral Solution Weight-Based Dosing Calculation For Pediatric Patients The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
 
 ## Levetiracetam: Contraindications
 Source: FDA drug label, Levetiracetam (Mylan Institutional Inc.), effective 2025-11-12
@@ -26240,7 +28434,7 @@ Keywords: carbamazepine, uses, mood stabilizer [epc], cytochrome p450 3a4 induce
 
 INDICATIONS AND USAGE Epilepsy Carbamazepine tablets are indicated for use as an anticonvulsant drug. Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following seizure types: Partial seizures with complex symptomatology (psychomotor, temporal lobe). Patients with these seizures appear to show greater improvement than those with other types. Generalized tonic-clonic seizures (grand mal). Mixed seizure patterns which include the above, or other partial or generalized seizures. Absence seizures (petit mal) do not appear to be controlled by carbamazepine ( see PRECAUTIONS , General ). Trigeminal Neuralgia Carbamazepine tablets are indicated in the treatment of the pain associated with true trigeminal neuralgia. Beneficial results have also been reported in glossopharyngeal neuralgia. This drug is not a simple analgesic and should not be used for the relief of trivial aches or pains.
 
-## Carbamazepine: Dosage and administration (part 1 of 3)
+## Carbamazepine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Carbamazepine (Bionpharma Inc.,), effective 2026-06-29
 Label-set-id: 138d9ed1-2f8e-d19d-e063-6394a90a695d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=138d9ed1-2f8e-d19d-e063-6394a90a695d
@@ -26262,7 +28456,7 @@ Adjust dosage to the minimum effective level, usually 800 to 1200 mg daily.
 Children 6 to 12 years of age -Initial:
 100 mg twice a day for tablets (200 mg/day).
 
-## Carbamazepine: Dosage and administration (part 2 of 3)
+## Carbamazepine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Carbamazepine (Bionpharma Inc.,), effective 2026-06-29
 Label-set-id: 138d9ed1-2f8e-d19d-e063-6394a90a695d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=138d9ed1-2f8e-d19d-e063-6394a90a695d
@@ -26285,7 +28479,7 @@ Carbamazepine may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased ( see PRECAUTIONS , Drug Interactions , and Pregnancy ).
 Trigeminal Neuralgia (see INDICATIONS AND USAGE) Initial:
 
-## Carbamazepine: Dosage and administration (part 3 of 3)
+## Carbamazepine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Carbamazepine (Bionpharma Inc.,), effective 2026-06-29
 Label-set-id: 138d9ed1-2f8e-d19d-e063-6394a90a695d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=138d9ed1-2f8e-d19d-e063-6394a90a695d
@@ -26299,6 +28493,15 @@ Maintenance:
 Control of pain can be maintained in most patients with 400 to 800 mg daily.
 However, some patients may be maintained on as little as 200 mg daily, while others may require as much as 1200 mg daily.
 At least once every 3 months throughout the treatment period, attempts should be made to reduce the dose to the minimum effective level or even to discontinue the drug.
+
+## Carbamazepine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Carbamazepine (Bionpharma Inc.,), effective 2026-06-29
+Label-set-id: 138d9ed1-2f8e-d19d-e063-6394a90a695d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=138d9ed1-2f8e-d19d-e063-6394a90a695d
+Retrieved: 2026-10-06
+Keywords: carbamazepine, dosage and administration, mood stabilizer [epc], cytochrome p450 3a4 inducers [moa], cytochrome p450 1a2 inducers [moa], cytochrome p450 2b6 inducers [moa], cytochrome p450 2c9 inducers [moa], cytochrome p450 2c19 inducers [moa]
+
+Dosage Information for Tablets Indication Initial Dose Subsequent Dose Maximum Daily Dose Epilepsy Under 6 yr 10-20 mg/kg/day twice a day or 3 times a day Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day 35 mg/kg/24 hr ( see Dosage and Administration section above) 6-12 yr 100 mg twice a day (200 mg/day) Add up to 100 mg/day at weekly intervals, 3 times a day or 4 times a day 1000 mg/24 hr Over 12 yr 200 mg twice a day (400 mg/day) Add up to 200 mg/day at weekly intervals, 3 times a day or 4 times a day 1000 mg/24 hr (12-15 yr) 1200 mg/24 hr (>15 yr) 1600 mg/24 hr (adults, in rare instances) Trigeminal Neuralgia 100 mg twice a day (200 mg/day) Add up to 200 mg/day in increments of 100 mg every 12 hr 1200 mg/24 hr
 
 ## Carbamazepine: Contraindications
 Source: FDA drug label, Carbamazepine (Bionpharma Inc.,), effective 2026-06-29
@@ -26480,7 +28683,7 @@ Keywords: phenytoin sodium, phenytoin, uses
 
 1 INDICATIONS AND USAGE Parenteral Phenytoin Sodium Injection is indicated for the treatment of generalized tonic-clonic status epilepticus, and prevention and treatment of seizures occurring during neurosurgery. Intravenous phenytoin can also be substituted, as short-term use, for oral phenytoin. Parenteral phenytoin should be used only when oral phenytoin administration is not possible [see Dosage and Administration (2.1, 2.3 ) and Warnings and Precautions (5.1) ] . Parenteral Phenytoin Sodium Injection is indicated for the treatment of generalized tonic clonic status epilepticus and prevention and treatment of seizures occurring during neurosurgery. Intravenous phenytoin can also be substituted, as short-term use, for oral phenytoin. Parenteral phenytoin should be used only when oral phenytoin administration is not possible. ( 1 )
 
-## Phenytoin Sodium: Dosage and administration (part 1 of 3)
+## Phenytoin Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
@@ -26499,7 +28702,7 @@ Because of erratic absorption and local toxicity, Phenytoin Sodium Injection sho
 In pediatric patients, the drug should be administered at a rate not exceeding 1 to 3 mg/kg/min or 50 mg per minute, whichever is slower.
 As non-emergency therapy, Phenytoin Sodium Injection should be administered more slowly as either a loading dose or by intermittent infusion.
 
-## Phenytoin Sodium: Dosage and administration (part 2 of 3)
+## Phenytoin Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
@@ -26517,7 +28720,7 @@ The addition of parenteral Phenytoin Sodium Injection to dextrose and dextrose-c
 Treatment with Phenytoin Sodium Injection can be initiated either with a loading dose or an infusion:
 Loading Dose:
 
-## Phenytoin Sodium: Dosage and administration (part 3 of 3)
+## Phenytoin Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
@@ -26536,6 +28739,22 @@ The product is still suitable for use.
 A faint yellow coloration may develop, however this has no effect on the potency of the solution.
 For single-dose only.
 
+## Phenytoin Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
+Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
+Retrieved: 2026-10-06
+Keywords: phenytoin sodium, phenytoin, dosage and administration
+
+After opening, any unused product should be discarded.
+M onitoring Levels:
+Trough levels provide information about clinically effective serum level range and are obtained just prior to the patient’s next scheduled dose.
+Peak levels indicate an individual’s threshold for emergence of dose-related side effects and are obtained at the time of expected peak concentration.
+Therapeutic effect without clinical signs of toxicity occurs more often with serum total concentrations between 10 and 20 mcg/mL (unbound phenytoin concentrations of 1 to 2 mcg/mL), although some mild cases of tonic-clonic (grand mal) epilepsy may be controlled with lower serum levels of phenytoin.
+In patients with renal or hepatic disease, or in those with hypoalbuminemia, the monitoring of unbound phenytoin concentrations may be more relevant [see Dosage and Administration (2.3) ] .
+2.2 Status Epilepticus In adults, a loading dose of 10 to 15 mg/kg should be administered slowly intravenously, at a rate not exceeding 50 mg per minute (this will require approximately 20 minutes in a 70-kg patient).
+The loading dose should be followed by maintenance doses of 100 mg orally or intravenously every 6 to 8 hours.
+
 ## Phenytoin Sodium: Contraindications
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
@@ -26545,7 +28764,7 @@ Keywords: phenytoin sodium, phenytoin, contraindications
 
 4 CONTRAINDICATIONS Phenytoin Sodium Injection is contraindicated in patients with: A history of hypersensitivity to phenytoin, its inactive ingredients, or other hydantoins [see Warnings and Precautions (5.5) ] . Sinus bradycardia, sino-atrial block, second and third degree A-V block, and Adams-Stokes syndrome because of the effect of parenteral phenytoin on ventricular automaticity. A history of prior acute hepatotoxicity attributable to phenytoin [see Warnings and Precautions (5.6) ]. Coadministration with delavirdine because of the potential for loss of virologic response and possible resistance to delavirdine or to the class of non-nucleoside reverse transcriptase inhibitors Hypersensitivity to phenytoin, its ingredients, or other hydantoins ( 4 ) Sinus bradycardia, sino-atrial block, second and third degree A-V block, and Adams-Stokes syndrome ( 4 ) A history of prior acute hepatotoxicity attributable to phenytoin ( 4 , 5.6 ) Coadministration with delavirdine ( 4 )
 
-## Phenytoin Sodium: Drug interactions (part 1 of 3)
+## Phenytoin Sodium: Drug interactions (part 1 of 5)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
@@ -26564,7 +28783,7 @@ Individual prescribing information from relevant drugs should be consulted.
 The addition or withdrawal of these agents in patients on phenytoin therapy may require an adjustment of the phenytoin dose to achieve optimal clinical outcome.
 Table 1:
 
-## Phenytoin Sodium: Drug interactions (part 2 of 3)
+## Phenytoin Sodium: Drug interactions (part 2 of 5)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
@@ -26574,7 +28793,7 @@ Keywords: phenytoin sodium, phenytoin, drug interactions
 Drugs That Affect Phenytoin Concentrations Interacting Agent Examples Drugs that may increase phenytoin serum levels Antiepileptic drugs Ethosuximide, felbamate, oxcarbazepine, methsuximide, topiramate Azoles Fluconazole, ketoconazole, itraconazole, miconazole, voriconazole Antineoplastic agents Capecitabine, fluorouracil Antidepressants Fluoxetine, fluvoxamine, sertraline Gastric acid reducing agents H 2 antagonists (cimetidine), omeprazole Sulfonamides Sulfamethizole, sulfaphenazole, sulfadiazine, sulfamethoxazole trimethoprim Other Acute alcohol intake, amiodarone, chloramphenicol, chlordiazepoxide, disulfiram, estrogen, fluvastatin, isoniazid, methylphenidate, phenothiazines, salicylates, ticlopidine, tolbutamide, trazodone, warfarin Drugs that may decrease phenytoin serum levels Antineoplastic agents usually in combination Bleomycin, carboplatin, cisplatin, doxorubicin, methotrexate Antiviral agents Fosamprenavir, nelfinavir, ritonavir Antiepileptic drugs Carbamazepine, vigabatrin Other Chronic alcohol abuse, diazepam, diazoxide, folic acid, reserpine, rifampin, St.
 John’s wort b , theophylline Drugs that may either increase or decrease phenytoin serum levels Antiepileptic drugs Phenobarbital, valproate sodium, valproic acid b The induction potency of St.
 
-## Phenytoin Sodium: Drug interactions (part 3 of 3)
+## Phenytoin Sodium: Drug interactions (part 3 of 5)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
 Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
@@ -26592,6 +28811,25 @@ This can lead to loss of virologic response and possible resistance [see Contrai
 Neuromuscular blocking agents Cisatracurium, pancuronium, rocuronium and vecuronium: resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents has occurred in patients chronically administered phenytoin.
 Whether or not phenytoin has the same effect on other non-depolarizing agents is unknown.
 Prevention or Management :
+
+## Phenytoin Sodium: Drug interactions (part 4 of 5)
+Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
+Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
+Retrieved: 2026-10-06
+Keywords: phenytoin sodium, phenytoin, drug interactions
+
+Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.
+Warfarin Increased and decreased PT/INR responses have been reported when phenytoin is coadministered with warfarin Other Corticosteroids, doxycycline, estrogens, furosemide, oral contraceptives, paroxetine, quinidine, rifampin, sertraline, theophylline, and vitamin D Drugs whose level is decreased by phenytoin Antiepileptic drugs a Carbamazepine, felbamate, lamotrigine, topiramate, oxcarbazepine Antilipidemic agents Atorvastatin, fluvastatin, simvastatin Antiviral agents Efavirenz, lopinavir/ritonavir, indinavir, nelfinavir, ritonavir, saquinavir Fosamprenavir: phenytoin when given with fosamprenavir alone may decrease the concentration of amprenavir, the active metabolite.
+
+## Phenytoin Sodium: Drug interactions (part 5 of 5)
+Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
+Label-set-id: 43060ca9-58a7-3371-e063-6294a90a5799
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43060ca9-58a7-3371-e063-6294a90a5799
+Retrieved: 2026-10-06
+Keywords: phenytoin sodium, phenytoin, drug interactions
+
+Phenytoin when given with the combination of fosamprenavir and ritonavir may increase the concentration of amprenavir Calcium channel blockers Nifedipine, nimodipine, nisoldipine, verapamil Other Albendazole (decreases active metabolite), chlorpropamide, clozapine, cyclosporine, digoxin, disopyramide, folic acid, methadone, mexiletine, praziquantel, quetiapine a The effect of phenytoin on phenobarbital, valproic acid and sodium valproate serum levels is unpredictable 7.3 Drug/Laboratory Test Interactions Care should be taken when using immunoanalytical methods to measure serum phenytoin concentrations following fosphenytoin administration.
 
 ## Phenytoin Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Phenytoin Sodium (ProPharma Distribution), effective 2025-11-07
@@ -26802,7 +29040,7 @@ See Warnings and Precautions ( 5.1 ) for statement regarding fatal hepatic dysfu
 Valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable [see Warnings and Precautions ( 5.2 , 5.3 , 5.4 ) , Use in Specific Populations ( 8.1 ) , and Patient Counseling Information ( 17 )] .
 For prophylaxis of migraine headaches, valproate is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception [see Contraindications ( 4 )] .
 
-## Valproate Sodium: Dosage and administration (part 1 of 3)
+## Valproate Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
 Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
@@ -26819,7 +29057,7 @@ Use of Valproate Sodium Injection for periods of more than 14 days has not been 
 Patients should be switched to oral valproate products as soon as it is clinically feasible.
 Valproate Sodium Injection should be administered as a 60 minute infusion (but not more than 20 mg/min) with the same frequency as the oral products, although plasma concentration monitoring and dosage adjustments may be necessary.
 
-## Valproate Sodium: Dosage and administration (part 2 of 3)
+## Valproate Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
 Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
@@ -26838,7 +29076,7 @@ The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical
 Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL).
 
-## Valproate Sodium: Dosage and administration (part 3 of 3)
+## Valproate Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
 Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
@@ -26855,6 +29093,22 @@ If satisfactory clinical response has not been achieved, plasma levels should be
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
 Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks.
 This reduction may be started at initiation of Valproate Sodium Injection therapy, or delayed by 1 to 2 weeks if there is a concern that seizures are likely to occur with a reduction.
+
+## Valproate Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, dosage and administration
+
+The speed and duration of withdrawal of the concomitant AED can be highly variable, and patients should be monitored closely during this period for increased seizure frequency.
+Adjunctive Therapy Valproate Sodium Injection may be added to the patient's regimen at a dosage of 10 to 15 mg/kg/day.
+The dosage may be increased by 5 to 10 mg/kg/week to achieve optimal clinical response.
+Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.
+If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL).
+No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
+If the total daily dose exceeds 250 mg, it should be given in divided doses.
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies ( 14 )] .
 
 ## Valproate Sodium: Contraindications (part 1 of 2)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
@@ -26880,7 +29134,7 @@ Keywords: valproate sodium, valproate, contraindications
 Hepatic disease or significant hepatic dysfunction ( 4 , 5.1 ) Known mitochondrial disorders caused by mutations in mitochondrial DNA polymerase γ (POLG) ( 4 , 5.1 ) Suspected POLG-related disorder in children under two years of age ( 4 , 5.1 ) Known hypersensitivity to the drug ( 4 , 5.11 ) Urea cycle disorders ( 4 , 5.6 ) Prophylaxis of migraine headaches:
 Pregnant women, women of childbearing potential not using effective contraception ( 4 , 8.1 )
 
-## Valproate Sodium: Drug interactions (part 1 of 3)
+## Valproate Sodium: Drug interactions (part 1 of 10)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
 Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
@@ -26891,7 +29145,7 @@ Keywords: valproate sodium, valproate, drug interactions
 Therefore increased monitoring of valproate and concomitant drug concentrations and dosage adjustment are indicated whenever enzyme-inducing or inhibiting drugs are introduced or withdrawn ( 7.1 ) Aspirin, carbapenem antibiotics, estrogen-containing hormonal contraceptives:
 Monitoring of valproate concentrations is recommended ( 7.1 ) Co-administration of valproate can affect the pharmacokinetics of other drugs (e.g. diazepam, ethosuximide, lamotrigine, phenytoin) by inhibiting their metabolism or protein binding displacement ( 7.2 ) Patients stabilized on rufinamide should begin valproate therapy at a low dose, and titrate to clinically effective dose ( 7.2 ) Dosage adjustment of amitriptyline/nortriptyline, propofol, warfarin, and zidovudine may be necessary if used concomitantly with Valproate Sodium Injection ( 7.2 ) Topiramate:
 
-## Valproate Sodium: Drug interactions (part 2 of 3)
+## Valproate Sodium: Drug interactions (part 2 of 10)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
 Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
@@ -26905,7 +29159,7 @@ In contrast, drugs that are inhibitors of cytochrome P450 isozymes, e.g., antide
 Because of these changes in valproate clearance, monitoring of valproate and concomitant drug concentrations should be increased whenever enzyme inducing drugs are introduced or withdrawn.
 The following list provides information about the potential for an influence of several commonly prescribed medications on valproate pharmacokinetics.
 
-## Valproate Sodium: Drug interactions (part 3 of 3)
+## Valproate Sodium: Drug interactions (part 3 of 10)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
 Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
@@ -26920,6 +29174,120 @@ Caution should be observed if valproate and aspirin are to be co-administered.
 Carbapenem Antibiotics A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem this is not a complete list) and may result in loss of seizure control.
 The mechanism of this interaction is not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+
+## Valproate Sodium: Drug interactions (part 4 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions ( 5.12 )] .
+Estrogen-Containing Hormonal Contraceptives Estrogen-containing hormonal contraceptives may increase the clearance of valproate, which may result in decreased concentration of valproate and potentially increased seizure frequency.
+Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing estrogen containing products.
+Felbamate A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
+Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
+A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
+Rifampin A study involving the administration of a single-dose of valproate (7 mg/kg) 36 hours after 5 nights of daily dosing with rifampin (600 mg) revealed a 40% increase in the oral clearance of valproate.
+
+## Valproate Sodium: Drug interactions (part 5 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+Valproate dosage adjustment may be necessary when it is co-administered with rifampin.
+Drugs for which either no interaction or a likely clinically unimportant interaction has been observed Antacids A study involving the co-administration of valproate 500 mg with commonly administered antacids (Maalox, Trisogel, and Titralac - 160 mEq doses) did not reveal any effect on the extent of absorption of valproate.
+Chlorpromazine A study involving the administration of 100 to 300 mg/day of chlorpromazine to schizophrenic patients already receiving valproate (200 mg BID) revealed a 15% increase in trough plasma levels of valproate.
+Haloperidol A study involving the administration of 6 to 10 mg/day of haloperidol to schizophrenic patients already receiving valproate (200 mg BID) revealed no significant changes in valproate trough plasma levels.
+Cimetidine and Ranitidine Cimetidine and ranitidine do not affect the clearance of valproate.
+7.2 Effects of Valproate on Other Drugs Valproate has been found to be a weak inhibitor of some P450 isozymes, epoxide hydrase, and glucuronosyltransferases.
+The following list provides information about the potential for an influence of valproate co-administration on the pharmacokinetics or pharmacodynamics of several commonly prescribed medications.
+
+## Valproate Sodium: Drug interactions (part 6 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+The list is not exhaustive, since new interactions are continuously being reported.
+Drugs for which a potentially important valproate interaction has been observed Amitriptyline/Nortriptyline Administration of a single oral 50 mg dose of amitriptyline to 15 normal volunteers (10 males and 5 females) who received valproate (500 mg BID) resulted in a 21% decrease in plasma clearance of amitriptyline and a 34% decrease in the net clearance of nortriptyline.
+Rare postmarketing reports of concurrent use of valproate and amitriptyline resulting in an increased amitriptyline level have been received.
+Concurrent use of valproate and amitriptyline has rarely been associated with toxicity.
+Monitoring of amitriptyline levels should be considered for patients taking valproate concomitantly with amitriptyline.
+Consideration should be given to lowering the dose of amitriptyline/nortriptyline in the presence of valproate.
+Carbamazepine/carbamazepine-10,11-Epoxide Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
+Clonazepam The concomitant use of valproate and clonazepam may induce absence status in patients with a history of absence type seizures.
+
+## Valproate Sodium: Drug interactions (part 7 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+Diazepam Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism.
+Co-administration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n = 6).
+Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate.
+The elimination half-life of diazepam remained unchanged upon addition of valproate.
+Ethosuximide Valproate inhibits the metabolism of ethosuximide.
+Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n = 6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
+Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
+Lamotrigine In a steady-state study involving 10 healthy volunteers, the elimination half-life of lamotrigine increased from 26 to 70 hours with valproate co-administration (a 165% increase).
+The dose of lamotrigine should be reduced when co-administered with valproate.
+
+## Valproate Sodium: Drug interactions (part 8 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+Serious skin reactions (such as Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
+See lamotrigine package insert for details on lamotrigine dosing with concomitant valproate administration.
+Phenobarbital Valproate was found to inhibit the metabolism of phenobarbital.
+Co-administration of valproate (250 mg BID for 14 days) with phenobarbital to normal subjects (n = 6) resulted in a 50% increase in half-life and a 30% decrease in plasma clearance of phenobarbital (60 mg single-dose).
+The fraction of phenobarbital dose excreted unchanged increased by 50% in presence of valproate.
+There is evidence for severe CNS depression, with or without significant elevations of barbiturate or valproate serum concentrations.
+All patients receiving concomitant barbiturate therapy should be closely monitored for neurological toxicity.
+Serum barbiturate concentrations should be obtained, if possible, and the barbiturate dosage decreased, if appropriate.
+Primidone, which is metabolized to a barbiturate, may be involved in a similar interaction with valproate.
+Phenytoin Valproate displaces phenytoin from its plasma albumin binding sites and inhibits its hepatic metabolism.
+
+## Valproate Sodium: Drug interactions (part 9 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+Co-administration of valproate (400 mg TID) with phenytoin (250 mg) in normal volunteers (n = 7) was associated with a 60% increase in the free fraction of phenytoin.
+Total plasma clearance and apparent volume of distribution of phenytoin increased 30% in the presence of valproate.
+Both the clearance and apparent volume of distribution of free phenytoin were reduced by 25%.
+In patients with epilepsy, there have been reports of breakthrough seizures occurring with the combination of valproate and phenytoin.
+The dosage of phenytoin should be adjusted as required by the clinical situation.
+Propofol The concomitant use of valproate and propofol may lead to increased blood levels of propofol.
+Reduce the dose of propofol when co-administering with valproate.
+Monitor patients closely for signs of increased sedation or cardiorespiratory depression.
+Rufinamide Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
+Rufinamide concentrations were increased by < 16% to 70%, dependent on concentration of valproate (with the larger increases being seen in pediatric patients at high doses or concentrations of valproate).
+
+## Valproate Sodium: Drug interactions (part 10 of 10)
+Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
+Label-set-id: 8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad
+Retrieved: 2026-10-06
+Keywords: valproate sodium, valproate, drug interactions
+
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Dosage and Administration ( 2.3 )] .
+Similarly, patients on valproate should begin at a rufinamide dose lower than 10 mg/kg per day (pediatric patients) or 400 mg per day (adults).
+Tolbutamide From in vitro experiments, the unbound fraction of tolbutamide was increased from 20% to 50% when added to plasma samples taken from patients treated with valproate.
+The clinical relevance of this displacement is unknown.
+Warfarin In an in vitro study, valproate increased the unbound fraction of warfarin by up to 32.6%.
+The therapeutic relevance of this is unknown; however, coagulation tests should be monitored if valproate therapy is instituted in patients taking anticoagulants.
+Zidovudine In six patients who were seropositive for HIV, the clearance of zidovudine (100 mg q8h) was decreased by 38% after administration of valproate (250 or 500 mg q8h); the half-life of zidovudine was unaffected.
 
 ## Valproate Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Valproate Sodium (Sagent Pharmaceuticals), effective 2026-03-12
@@ -27499,7 +29867,7 @@ Keywords: tramadol hydrochloride, tramadol, uses
 ( 1 ) Tramadol hydrochloride extended-release tablets is not indicated as an as-needed (prn) analgesic.
 ( 1 )
 
-## Tramadol Hydrochloride: Dosage and administration (part 1 of 3)
+## Tramadol Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
@@ -27513,7 +29881,7 @@ Reserve titration to higher doses of tramadol hydrochloride extended-release tab
 ( 2.1 , 5.1 ) Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with tramadol hydrochloride extended-release tablets.
 Consider this risk when selecting an initial dose and when making dose adjustments.
 
-## Tramadol Hydrochloride: Dosage and administration (part 2 of 3)
+## Tramadol Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
@@ -27528,7 +29896,7 @@ See full prescribing information for instructions on conversion, titration, and 
 ( 2.3 , 2.4 ) Do not exceed a daily dose of 300 mg tramadol.
 Do not use with other tramadol products.
 
-## Tramadol Hydrochloride: Dosage and administration (part 3 of 3)
+## Tramadol Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
@@ -27541,6 +29909,19 @@ Keywords: tramadol hydrochloride, tramadol, dosage and administration
 Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions ( 5.3 ), ( 5.15 )] .
 Do not administer tramadol hydrochloride extended-release tablets at a dose exceeding 300 mg per day.
 Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [ see Warnings and Precautions ( 5.5 ) ].
+
+## Tramadol Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, dosage and administration
+
+Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of tramadol hydrochloride extended-release tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions ( 5.1 )] Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with tramadol hydrochloride extended-release tablets.
+Consider this risk when selecting an initial dose and when making dose adjustments [ see Warnings and Precautions ( 5 ) ].
+Tramadol hydrochloride extended-release tablets should be taken once daily, at approximately the same time every day.
+Instruct patients to swallow tramadol hydrochloride extended-release tablets whole [see Patient Counseling Information ( 17 )] , and to take it with liquid.
 
 ## Tramadol Hydrochloride: Contraindications (part 1 of 2)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
@@ -27563,7 +29944,7 @@ Keywords: tramadol hydrochloride, tramadol, contraindications
 
 ( 4 ) Significant respiratory depression ( 4 ) Acute or severe bronchial asthma in an unmonitored setting or in absence of resuscitative equipment ( 4 ) Known or suspected gastrointestinal obstruction, including paralytic ileus ( 4 ) Hypersensitivity to tramadol ( 4 ) Concurrent use of monoamine oxidase inhibitors (MAOIs) or use within the last 14 days ( 4 )
 
-## Tramadol Hydrochloride: Drug interactions (part 1 of 3)
+## Tramadol Hydrochloride: Drug interactions (part 1 of 9)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
@@ -27577,7 +29958,7 @@ Since M1 is a more potent µ-opioid agonist, decreased M1 exposure could result 
 Increased tramadol exposure can result in increased or prolonged therapeutic effects and increased risk for serious adverse events including seizures and serotonin syndrome.
 After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity and may cause potentially fatal respiratory depression [see Clinical Pharmacology ( 12.3 )] .
 
-## Tramadol Hydrochloride: Drug interactions (part 2 of 3)
+## Tramadol Hydrochloride: Drug interactions (part 2 of 9)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
@@ -27592,7 +29973,7 @@ Examples Quinidine, fluoxetine, paroxetine and bupropion Inhibitors of CYP3A4 Cl
 The concomitant use of tramadol hydrochloride extended-release tablets and CYP3A4 inhibitors can increase the plasma concentration of tramadol and may result in a greater amount of metabolism via CYP2D6 and greater levels of M1.
 Follow patients closely for increased risk of serious adverse events including seizures and serotonin syndrome, and adverse reactions related to opioid toxicity including potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of tramadol hydrochloride extended-release tablets is achieved.
 
-## Tramadol Hydrochloride: Drug interactions (part 3 of 3)
+## Tramadol Hydrochloride: Drug interactions (part 3 of 9)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
@@ -27606,6 +29987,110 @@ Inform patients and caregivers of this potential interaction, educate them on th
 Evaluate patients at frequent intervals for seizures and serotonin syndrome, and signs of respiratory depression and sedation.
 If a CYP3A4 inhibitor is discontinued, consider increasing the tramadol hydrochloride extended-release tablets dosage until stable drug effects are achieved and evaluate patients at frequent intervals for signs and symptoms of opioid withdrawal.
 Examples Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) CYP3A4 Inducers Clinical Impact:
+
+## Tramadol Hydrochloride: Drug interactions (part 4 of 9)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, drug interactions
+
+The concomitant use of tramadol hydrochloride extended-release tablets and CYP3A4 inducers can decrease the plasma concentration of tramadol [see Clinical Pharmacology ( 12.3 )] , resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to tramadol, [see Warnings and Precautions ( 5.7 )] .
+After stopping a CYP3A4 inducer, as the effects of the inducer decline, the tramadol plasma concentration will increase [see Clinical Pharmacology ( 12.3 )] , which could increase or prolong both the therapeutic effects and adverse reactions, and may cause seizures and serotonin syndrome, and potentially fatal respiratory depression.
+Intervention:
+If concomitant use is necessary, consider increasing the tramadol hydrochloride extended-release tablets dosage until stable drug effects are achieved.
+Evaluate patients for signs of opioid withdrawal.
+If a CYP3A4 inducer is discontinued, consider tramadol hydrochloride extended-release tablets dosage reduction and evaluate patients at frequent intervals for seizures and serotonin syndrome, and signs of respiratory depression and sedation.
+Patients taking carbamazepine, a CYP3A4 inducer, may have a significantly reduced analgesic effect of tramadol.
+
+## Tramadol Hydrochloride: Drug interactions (part 5 of 9)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, drug interactions
+
+Because carbamazepine increases tramadol metabolism and because of the seizure risk associated with tramadol, concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended.
+Examples:
+Rifampin, carbamazepine, phenytoin Benzodiazepines and Other Central Nervous System (CNS) Depressants Clinical Impact:
+Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death [see Warnings and Precautions ( 5.3 )] .
+Intervention:
+Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+Limit dosages and durations to the minimum required.
+Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration ( 2.2 ), Warnings and Precautions ( 5.1 , 5.2 , 5.3 )] .
+Examples:
+
+## Tramadol Hydrochloride: Drug interactions (part 6 of 9)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, drug interactions
+
+Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol.
+Serotonergic Drugs Clinical Impact:
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions ( 5.9 )] .
+Intervention:
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
+Discontinue tramadol hydrochloride extended-release tablets if serotonin syndrome is suspected.
+Examples:
+Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact:
+
+## Tramadol Hydrochloride: Drug interactions (part 7 of 9)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, drug interactions
+
+MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions ( 5.3 )] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions ( 5.2 )] .
+Intervention:
+Do not use tramadol hydrochloride extended-release tablets in patients taking MAOIs or within 14 days of stopping such treatment.
+Examples: phenelzine, tranylcypromine, linezolid Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics Clinical Impact:
+May reduce the analgesic effect of tramadol hydrochloride extended-release tablets and/or precipitate withdrawal symptoms.
+Intervention:
+Avoid concomitant use.
+Examples: butorphanol, nalbuphine, pentazocine, buprenorphine Muscle Relaxants Clinical Impact:
+Tramadol may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Intervention:
+Because respiratory depression may be greater than otherwise expected, decrease the dosage of tramadol hydrochloride extended-release tablets and/or the muscle relaxant as necessary.
+
+## Tramadol Hydrochloride: Drug interactions (part 8 of 9)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, drug interactions
+
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2 ), Warnings and Precautions ( 5.2 , 5.3 )] Examples cyclobenzaprine, metaxalone Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Intervention:
+Evaluate patients for signs of urinary retention or reduced gastric motility when tramadol hydrochloride extended-release tablets are used concomitantly with anticholinergic drugs.
+Digoxin Clinical Impact:
+Post-marketing surveillance of tramadol has revealed rare reports of digoxin toxicity.
+Intervention:
+Evaluate patients at frequent intervals for signs of digoxin toxicity and adjust the dosage of digoxin as needed.
+Warfarin Clinical Impact:
+
+## Tramadol Hydrochloride: Drug interactions (part 9 of 9)
+Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 16053b28-c759-4914-93e6-2de0afe72445
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16053b28-c759-4914-93e6-2de0afe72445
+Retrieved: 2026-10-06
+Keywords: tramadol hydrochloride, tramadol, drug interactions
+
+Post-marketing surveillance of tramadol has revealed rare reports of alteration of warfarin effect, including elevation of prothrombin times.
+Intervention:
+Frequently reevaluate the prothrombin time of patients on warfarin for signs of an interaction and adjust the dosage of warfarin as needed.
+Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics :
+Avoid use with tramadol hydrochloride extended-release tablets because they may reduce analgesic effect of tramadol hydrochloride extended-release tablets or precipitate withdrawal symptoms.
+( 5.18 , 7 )
 
 ## Tramadol Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Tramadol Hydrochloride (REMEDYREPACK INC.), effective 2026-07-02
@@ -27790,7 +30275,7 @@ Keywords: oxycodone, oxycodone hydrochloride, uses
 
 1 INDICATIONS AND USAGE Oxycodone hydrochloride (HCl) tablets are indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. Limitations of Use Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy [see Warnings and Precautions (5.1) ] , reserve opioid analgesics, including oxycodone HCl tablets for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain. Oxycodone HCl tablets are an opioid agonist indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. (1) Limitations of Use: Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy, reserve opioid analgesics, including oxycodone HCl tablets for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain. (1 , 5.1)
 
-## Oxycodone: Dosage and administration (part 1 of 3)
+## Oxycodone: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27806,7 +30291,7 @@ Clinical guidelines on opioid prescribing for some acute pain conditions are ava
 (2.1 , 5.1) Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with oxycodone HCl tablets.
 Consider this risk when selecting an initial dose and when making dose adjustments.
 
-## Oxycodone: Dosage and administration (part 2 of 3)
+## Oxycodone: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27819,7 +30304,7 @@ Titrate the dose based upon the individual patient’s response to their initial
 (2.3 , 2.4) Periodically reassess patients receiving oxycodone HCl tablets to evaluate the continued need for opioid analgesics to maintain pain control, for the signs or symptoms of adverse reactions, and for the development of addiction, abuse, or misuse.
 (2.4) Do not rapidly reduce or abruptly discontinue oxycodone HCl in a physically dependent patient because rapid reduction or abrupt discontinuation of opioid analgesics has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 
-## Oxycodone: Dosage and administration (part 3 of 3)
+## Oxycodone: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27833,6 +30318,20 @@ Many acute pain conditions (e.g., the pain that occurs with a number of surgical
 Clinical guidelines on opioid prescribing for some acute pain conditions are available.
 There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
 
+## Oxycodone: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
+Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
+Retrieved: 2026-10-06
+Keywords: oxycodone, oxycodone hydrochloride, dosage and administration
+
+Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1) ] .
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with oxycodone HCl tablets.
+Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5) ] .
+2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1 , 5.2 , 5.3) ] .
+
 ## Oxycodone: Contraindications
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27842,7 +30341,7 @@ Keywords: oxycodone, oxycodone hydrochloride, contraindications
 
 4 CONTRAINDICATIONS Oxycodone HCl is contraindicated in patients with: Significant respiratory depression [see Warnings and Precautions (5.2) ]. Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment or hypercarbia [see Warnings and Precautions (5.8) ]. Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.12) ] . Known hypersensitivity (e.g., anaphylaxis) to oxycodone [see Adverse Reactions (6.2) ] . Significant respiratory depression. ( 4 ) Acute or severe bronchial asthma in an unmonitored setting or in absence of resuscitative equipment. ( 4 ) Known or suspected gastrointestinal obstruction, including paralytic ileus. ( 4 ) Hypersensitivity to oxycodone. ( 4 )
 
-## Oxycodone: Drug interactions (part 1 of 3)
+## Oxycodone: Drug interactions (part 1 of 6)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27862,7 +30361,7 @@ If a CYP3A4 inhibitor is discontinued, consider increasing the oxycodone HCl dos
 Evaluate for signs of opioid withdrawal.
 Examples:
 
-## Oxycodone: Drug interactions (part 2 of 3)
+## Oxycodone: Drug interactions (part 2 of 6)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27880,7 +30379,7 @@ If a CYP3A4 inducer is discontinued, consider oxycodone HCl dosage reduction and
 Examples:
 Rifampin, carbamazepine, phenytoin Benzodiazepines and Other Central Nervous System (CNS) Depressants Clinical Impact:
 
-## Oxycodone: Drug interactions (part 3 of 3)
+## Oxycodone: Drug interactions (part 3 of 6)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
 Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
@@ -27898,6 +30397,66 @@ Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscl
 Serotonergic Drugs Clinical Impact:
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Adverse Reactions (6.2) ] .
 Intervention:
+
+## Oxycodone: Drug interactions (part 4 of 6)
+Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
+Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
+Retrieved: 2026-10-06
+Keywords: oxycodone, oxycodone hydrochloride, drug interactions
+
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
+Discontinue oxycodone HCl if serotonin syndrome is suspected.
+Examples:
+Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact:
+MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2) ] .
+Intervention:
+The use of oxycodone HCl is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+If urgent use of an opioid is necessary, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression.
+
+## Oxycodone: Drug interactions (part 5 of 6)
+Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
+Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
+Retrieved: 2026-10-06
+Keywords: oxycodone, oxycodone hydrochloride, drug interactions
+
+Examples: phenelzine, tranylcypromine, linezolid Mixed Agonist/Antagonist Opioid Analgesics Clinical Impact:
+May reduce the analgesic effect of oxycodone HCl and/or may precipitate withdrawal symptoms.
+Intervention:
+Avoid concomitant use Examples:
+Butorphanol, nalbuphine, pentazocine, buprenorphine Muscle Relaxants Clinical Impact:
+Oxycodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Intervention:
+Because respiratory depression may be greater than otherwise expected, decrease the dosage of oxycodone HCl and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2) , Warnings and Precautions (5.2 , 5.3) ] .
+Examples:
+Cyclobenzaprine, metaxalone Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Evaluate patients for signs of dismissed diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+
+## Oxycodone: Drug interactions (part 6 of 6)
+Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
+Label-set-id: 094b64b3-cd32-4de5-afb6-ea00d9caad74
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=094b64b3-cd32-4de5-afb6-ea00d9caad74
+Retrieved: 2026-10-06
+Keywords: oxycodone, oxycodone hydrochloride, drug interactions
+
+The concomitant risk of anticholinergic drugs may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Intervention:
+Evaluate patients for signs of urinary retention or reduced gastric motility when oxycodone HCl is used concurrently with anticholinergic drugs.
+Serotonergic Drugs:
+Concomitant use may result in serotonin syndrome.
+Discontinue oxycodone HCl tablets if serotonin syndrome is suspected.
+( 7 ) Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics:
+Avoid use with oxycodone HCl tablets because they may reduce analgesic effect of oxycodone HCl tablets or precipitate withdrawal symptoms.
+( 7 ) Monoamine Oxidase Inhibitors (MAOIs):
+Can potentiate the effects of morphine.
+Avoid concomitant use in patients receiving MAOIs or within 14 days of stopping treatment with an MAOI.
+( 7 )
 
 ## Oxycodone: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Oxycodone (Amneal Pharmaceuticals LLC), effective 2026-06-23
@@ -28078,7 +30637,7 @@ Keywords: morphine sulfate, morphine, uses
 
 1 INDICATIONS AND USAGE Morphine Sulfate Injection is an opioid agonist indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. ( 1 ) Limitations of Use : • Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy, reserve opioid analgesics, including Morphine Sulfate Injection, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain. ( 1 , 5.1 ) Morphine Sulfate Injection is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. Limitations of Use • Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration [see Warnings and Precautions ( 5.1 )], and persist over the course of therapy, reserve opioid analgesics, including Morphine Sulfate Injection, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
 
-## Morphine Sulfate: Dosage and administration (part 1 of 3)
+## Morphine Sulfate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28093,7 +30652,7 @@ Clinical guidelines on opioid prescribing for some acute pain conditions are ava
 ( 2.1 ) • Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse.
 ( 2.1 , 5.1 ) • Respiratory depression can occur at any time during opioid therapy, especially when initiating the following dosage increases with Morphine Sulfate Injection.
 
-## Morphine Sulfate: Dosage and administration (part 2 of 3)
+## Morphine Sulfate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28111,7 +30670,7 @@ Initiate treatment with 10 mg, every 4 hours as needed to manage pain (based on 
 Dosing errors can result in accidental overdose and death.
 Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine injections of different concentrations when prescribing, dispensing, and administering Morphine Sulfate Injection.
 
-## Morphine Sulfate: Dosage and administration (part 3 of 3)
+## Morphine Sulfate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28122,6 +30681,19 @@ Ensure that the dose is communicated and dispensed accurately. • Administratio
 Morphine must be injected slowly; rapid intravenous administration may result in chest wall rigidity. • Morphine Sulfate Injection should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks. • Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions ( 5 )].
 Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Morphine Sulfate Injection for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks. • Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
 
+## Morphine Sulfate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
+Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
+Retrieved: 2026-10-06
+Keywords: morphine sulfate, morphine, dosage and administration
+
+Clinical guidelines on opioid prescribing for some acute pain conditions are available. • There is a variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions ( 5.1 )]. • Respiratory depression can occur at any time during opioid therapy, especially when initiating the following dosage increases with Morphine Sulfate Injection.
+Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions ( 5 )]. • Inspect Morphine Sulfate Injection for particulate matter and discoloration prior to administration.
+2.2 Initial Dosage Direct Intravenous Injection Initiate treatment with Morphine Sulfate Injection in adults at a dosing range of 0.1 mg to 0.2 mg per kg every 4 hours as needed to manage pain, and at the lowest dose necessary to achieve adequate analgesia.
+Administer the injection slowly.
+
 ## Morphine Sulfate: Contraindications
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28131,7 +30703,7 @@ Keywords: morphine sulfate, morphine, contraindications
 
 4 CONTRAINDICATIONS Morphine Sulfate Injection is contraindicated in patients with: • Significant respiratory depression [see Warnings and Precautions ( 5.2 )] • Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions ( 5.7 )] • Concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days [see Warnings and Precautions ( 5.8 )]. • Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions ( 5.12 )] • Hypersensitivity to morphine (e.g., anaphylaxis) [see Adverse Reactions ( 6 )] • Significant respiratory depression. ( 4 ) • Acute or severe bronchial asthma in an unmonitored setting or in absence of resuscitative equipment. ( 4 ) • Concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days. ( 4 ) • Known or suspected gastrointestinal obstruction, including paralytic ileus. ( 4 ) • Hypersensitivity to morphine. ( 4 )
 
-## Morphine Sulfate: Drug interactions (part 1 of 3)
+## Morphine Sulfate: Drug interactions (part 1 of 5)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28152,7 +30724,7 @@ Serotonergic Drugs Clinical Impact:
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
 Intervention:
 
-## Morphine Sulfate: Drug interactions (part 2 of 3)
+## Morphine Sulfate: Drug interactions (part 2 of 5)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28168,7 +30740,7 @@ MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxi
 Intervention:
 Do not use Morphine Sulfate Injection in patients taking MAOIs or within 14 days of stopping such treatment.
 
-## Morphine Sulfate: Drug interactions (part 3 of 3)
+## Morphine Sulfate: Drug interactions (part 3 of 5)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
 Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
@@ -28187,6 +30759,41 @@ Monitor patients for signs of respiratory depression that may be greater than ot
 Examples: cyclobenzaprine, metaxalone Cimetidine Clinical Impact:
 The concomitant administration of morphine sulfate and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report.
 Intervention:
+
+## Morphine Sulfate: Drug interactions (part 4 of 5)
+Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
+Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
+Retrieved: 2026-10-06
+Keywords: morphine sulfate, morphine, drug interactions
+
+Monitor patients for increased respiratory and CNS depression when receiving cimetidine concomitantly with Morphine Sulfate Injection.
+Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Intervention:
+Monitor patients for signs of urinary retention or reduced gastric motility when Morphine Sulfate Injection is used concomitantly with anticholinergic drugs.
+Oral P2Y 12 Inhibitors Clinical Impact:
+The co-administration of oral P2Y 12 inhibitors and intravenous morphine sulfate can decrease the absorption and peak concentration of oral P2Y 12 inhibitors and delay the onset of antiplatelet effect.
+Intervention:
+Consider the use of a parenteral antiplatelet agent in the setting of acute coronary syndrome requiring co-administration of intravenous morphine sulfate.
+Examples: clopidogrel, prasugrel, ticagrelor • Serotonergic Drugs :
+Concomitant use may result in serotonin syndrome.
+
+## Morphine Sulfate: Drug interactions (part 5 of 5)
+Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
+Label-set-id: 1f53de80-efc8-4930-b3e3-fba0d026af05
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f53de80-efc8-4930-b3e3-fba0d026af05
+Retrieved: 2026-10-06
+Keywords: morphine sulfate, morphine, drug interactions
+
+Discontinue Morphine Sulfate Injection if serotonin syndrome is suspected.
+( 7 ) • Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics :
+Avoid use with Morphine Sulfate Injection because they may reduce analgesic effect of Morphine Sulfate Injection or precipitate withdrawal symptoms.
+( 7 )
 
 ## Morphine Sulfate: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Morphine Sulfate (Fresenius Kabi, USA LLC), effective 2026-08-31
@@ -28370,7 +30977,7 @@ Keywords: codeine sulfate, codeine, uses
 
 1 INDICATIONS AND USAGE Codeine Sulfate Tablets are indicated for the management of mild to moderate pain, where treatment with an opioid is appropriate and for which alternative treatments are inadequate. Limitations of Use: • Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy [see Warnings and Precautions ( 5.1 )] , reserve opioid analgesics, including Codeine Sulfate Tablets, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain. Codeine Sulfate Tablets are an opioid agonist, indicated for the management of mild to moderate pain, where treatment with an opioid is appropriate and for which alternative treatments are inadequate. ( 1 ) Limitations of Use • Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy, reserve opioid analgesics, including Codeine Sulfate Tablets, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain. ( 1 , 5.1 )
 
-## Codeine Sulfate: Dosage and administration (part 1 of 3)
+## Codeine Sulfate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
 Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
@@ -28385,7 +30992,7 @@ Clinical guidelines on opioid prescribing for some acute pain conditions are ava
 ( 2.1 ) • Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse.
 ( 2.1 , 5.1 ) • Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Codeine Sulfate Tablets.
 
-## Codeine Sulfate: Dosage and administration (part 2 of 3)
+## Codeine Sulfate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
 Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
@@ -28399,7 +31006,7 @@ Titrate the dose based upon the individual patient’s response to their initial
 ( 2.3 ) • Periodically reassess patients receiving Codeine Sulfate Tablets to evaluate the continued need for opioid analgesics to maintain pain control, for the signs or symptoms of adverse reactions, and for the development of addiction, abuse, or misuse.
 ( 2.4 ) • Do not rapidly reduce or abruptly discontinue Codeine Sulfate Tablets in a physically-dependent patient because rapid reduction or abrupt discontinuation of opioid analgesics has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 
-## Codeine Sulfate: Dosage and administration (part 3 of 3)
+## Codeine Sulfate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
 Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
@@ -28409,6 +31016,19 @@ Keywords: codeine sulfate, codeine, dosage and administration
 ( 2.5 , 5.16 ) 2.1 Important Dosage and Administration Instructions • Codeine Sulfate Tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks. • Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions ( 5 )] .
 Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Codeine Sulfate Tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks. • Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
 Clinical guidelines on opioid prescribing for some acute pain conditions are available. • There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+
+## Codeine Sulfate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
+Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+Retrieved: 2026-10-06
+Keywords: codeine sulfate, codeine, dosage and administration
+
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions ( 5.1 )] . • Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Codeine Sulfate Tablets.
+Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions ( 5 )].
+2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions ( 5.1 , 5.2 , 5.3 )].
 
 ## Codeine Sulfate: Contraindications (part 1 of 2)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
@@ -28434,7 +31054,7 @@ Keywords: codeine sulfate, codeine, contraindications
 ( 4 ) • Hypersensitivity to codeine.
 ( 4 )
 
-## Codeine Sulfate: Drug interactions (part 1 of 3)
+## Codeine Sulfate: Drug interactions (part 1 of 8)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
 Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
@@ -28449,7 +31069,7 @@ After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it m
 Intervention:
 If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of Codeine Sulfate Tablets until stable drug effects are achieved.
 
-## Codeine Sulfate: Drug interactions (part 2 of 3)
+## Codeine Sulfate: Drug interactions (part 2 of 8)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
 Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
@@ -28465,7 +31085,7 @@ The concomitant use of Codeine Sulfate Tablets and CYP3A4 inducers can result in
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, codeine plasma concentrations may increase with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels [see Clinical Pharmacology ( 12.3 )] , which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
 Intervention:
 
-## Codeine Sulfate: Drug interactions (part 3 of 3)
+## Codeine Sulfate: Drug interactions (part 3 of 8)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
 Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
@@ -28480,6 +31100,100 @@ Codeine is metabolized by CYP2D6 to form morphine.
 The concomitant use of Codeine Sulfate Tablets and CYP2D6 inhibitors can increase the plasma concentration of codeine, but can decrease the plasma concentration of active metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid withdrawal, particularly when an inhibitor is added after a stable dose of Codeine Sulfate Tablets is achieved [see Clinical Pharmacology ( 12.3 )] .
 After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the active metabolite morphine plasma concentration will increase, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression [see Clinical Pharmacology ( 12.3 )] .
 Intervention:
+
+## Codeine Sulfate: Drug interactions (part 4 of 8)
+Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
+Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+Retrieved: 2026-10-06
+Keywords: codeine sulfate, codeine, drug interactions
+
+If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after concomitant use, consider dosage adjustment of Codeine Sulfate Tablets and evaluate patients at frequent intervals.
+If concomitant use with CYP2D6 inhibitors is necessary, evaluate patients for reduced efficacy or signs and symptoms of opioid withdrawal and consider increasing the dosage of Codeine Sulfate Tablets as needed.
+After stopping use of a CYP2D6 inhibitor, consider reducing the dosage of Codeine Sulfate Tablets and evaluate patients at frequent intervals for signs and symptoms of respiratory depression or sedation.
+Examples:
+Paroxetine, fluoxetine, bupropion, quinidine.
+Benzodiazepines and Other Central Nervous System (CNS) Depressants Clinical Impact:
+Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
+Intervention:
+Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+Limit dosages and durations to the minimum required.
+
+## Codeine Sulfate: Drug interactions (part 5 of 8)
+Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
+Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+Retrieved: 2026-10-06
+Keywords: codeine sulfate, codeine, drug interactions
+
+Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration ( 2.2 ), Warnings and Precautions ( 5.1 , 5.2 , 5.3 )] .
+Examples:
+Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol.
+Serotonergic Drugs Clinical Impact:
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
+Intervention:
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
+Discontinue Codeine Sulfate Tablets if serotonin syndrome is suspected.
+Examples:
+
+## Codeine Sulfate: Drug interactions (part 6 of 8)
+Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
+Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+Retrieved: 2026-10-06
+Keywords: codeine sulfate, codeine, drug interactions
+
+Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact:
+MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions ( 5.10 )].
+Intervention:
+Do not use Codeine Sulfate Tablets in patients taking MAOIs or within 14 days of stopping such treatment.
+If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression.
+Examples:
+Phenelzine, tranylcypromine, linezolid.
+Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics Clinical Impact:
+
+## Codeine Sulfate: Drug interactions (part 7 of 8)
+Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
+Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+Retrieved: 2026-10-06
+Keywords: codeine sulfate, codeine, drug interactions
+
+May reduce the analgesic effect of Codeine Sulfate Tablets and/or precipitate withdrawal symptoms.
+Intervention:
+Avoid concomitant use.
+Examples:
+Butorphanol, nalbuphine, pentazocine, buprenorphine.
+Muscle Relaxants Clinical Impact:
+Codeine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Intervention:
+Because respiratory depression may be greater than otherwise expected, decrease the dosage of Codeine Sulfate Tablets and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration ( 2.2 ), Warnings and Precautions ( 5.2 , 5.3 )].
+Examples:
+Cyclobenzaprine, metaxalone.
+Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+
+## Codeine Sulfate: Drug interactions (part 8 of 8)
+Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
+Label-set-id: 010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=010905f9-3bcb-4b50-9fe8-a3ad0010f14c
+Retrieved: 2026-10-06
+Keywords: codeine sulfate, codeine, drug interactions
+
+Intervention:
+Evaluate patients for signs of urinary retention or reduced gastric motility when Codeine Sulfate Tablets are used concomitantly with anticholinergic drugs. • Serotonergic Drugs:
+Concomitant use may result in serotonin syndrome.
+Discontinue codeine sulfate if serotonin syndrome is suspected.
+( 7 ) • Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics:
+Avoid use with Codeine Sulfate Tablets because they may reduce analgesic effect of Codeine Sulfate Tablets or precipitate withdrawal symptoms.
+( 7 )
 
 ## Codeine Sulfate: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Codeine Sulfate (Hikma Pharmaceuticals USA Inc.), effective 2025-12-22
@@ -28672,7 +31386,7 @@ Keywords: fentanyl citrate, fentanyl, uses
 
 Fentanyl Citrate Injection is an opioid agonist indicated for ( 1 ): • analgesic action of short duration during the anesthetic periods, premedication, induction and maintenance, and in the immediate postoperative period (recovery room) as the need arises. • use as an opioid analgesic supplement in general or regional anesthesia. • administration with a neuroleptic as an anesthetic premedication, for the induction of anesthesia and as an adjunct in the maintenance of general and regional anesthesia. • use as an anesthetic agent with oxygen in selected high risk patients, such as those undergoing open heart surgery or certain complicated neurological or orthopedic procedures.
 
-## Fentanyl Citrate: Dosage and administration (part 1 of 3)
+## Fentanyl Citrate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28685,7 +31399,7 @@ Keywords: fentanyl citrate, fentanyl, dosage and administration
 ( 2.1 ) • Initiate treatment in adults with 50 to 100 mcg (0.05 to 0.1 mg) (1 to 2 mL).
 ( 2.2 ) • Initiate treatment in children 2 to 12 years of age with a reduced dose as low as 2 to 3 mcg/kg.
 
-## Fentanyl Citrate: Dosage and administration (part 2 of 3)
+## Fentanyl Citrate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28698,7 +31412,7 @@ The total dose of all opioid agonists administered should be considered by the p
 If Fentanyl Citrate Injection is administered with a CNS depressant, become familiar with the properties of each drug, particularly each product's duration of action.
 In addition, when such a combination is used, fluids and other countermeasures to manage hypotension should be available [see Warnings and Precautions (5.3) ] .
 
-## Fentanyl Citrate: Dosage and administration (part 3 of 3)
+## Fentanyl Citrate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28718,6 +31432,24 @@ Expect respiratory depression requiring artificial ventilation during anesthesia
 20–50 mcg/kg (0.02–0.05 mg/kg) (0.4–1 mL/kg).
 For open heart surgery and certain more complicated neurosurgical and orthopedic procedures where surgery is more prolonged, and the stress response to surgery would be detrimental to the wellbeing of the patient.
 
+## Fentanyl Citrate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
+Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
+Retrieved: 2026-10-06
+Keywords: fentanyl citrate, fentanyl, dosage and administration
+
+In conjunction with nitrous oxide/oxygen has been shown to attenuate the stress response as defined by increased levels of circulating growth hormone, catecholamine, ADH and prolactin.
+Expect the need for postoperative ventilation and observation are essential due to extended postoperative respiratory depression.
+MAINTENANCE DOSE (expressed as fentanyl base) Low Dose – Moderate Dose – High Dose – 2 mcg/kg (0.002 mg/kg) (0.04 mL/kg).
+Additional dosages are infrequently needed in these minor procedures.
+2–20 mcg/kg (0.002–0.02 mg/kg) (0.04–0.4 mL/kg).
+25 to 100 mcg (0.025 to 0.1 mg) (0.5 to 2 mL) Administer intravenously or intramuscularly as needed when movement and/or changes in vital signs indicate surgical stress or lightening of analgesia.
+20–50 mcg/kg (0.02–0.05 mg/kg) (0.4–1 mL/kg).
+Maintenance dosage [ranging from 25 mcg (0.025 mg) (0.5 mL) to one half the initial loading dose] as needed based on vital signs changes indicative of stress and lightening of analgesia.
+Individualize dosage especially if the anticipated remaining operative time is short.
+Adjunct to Regional Anesthesia 50 to 100 mcg (0.05 to 0.1 mg) (1 to 2 mL) may be administered intramuscularly or slowly intravenously, over one to two minutes, when additional analgesia is required.
+
 ## Fentanyl Citrate: Contraindications
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28727,7 +31459,7 @@ Keywords: fentanyl citrate, fentanyl, contraindications
 
 4 CONTRAINDICATIONS Fentanyl Citrate Injection is contraindicated in patients with: • Hypersensitivity to fentanyl (e.g., anaphylaxis) [see Adverse Reactions (6) ]. • Hypersensitivity to fentanyl. ( 4 )
 
-## Fentanyl Citrate: Drug interactions (part 1 of 3)
+## Fentanyl Citrate: Drug interactions (part 1 of 6)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28746,7 +31478,7 @@ If a CYP3A4 inhibitor is discontinued, consider increasing the Fentanyl Citrate 
 Monitor for signs of opioid withdrawal.
 Examples:
 
-## Fentanyl Citrate: Drug interactions (part 2 of 3)
+## Fentanyl Citrate: Drug interactions (part 2 of 6)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28764,7 +31496,7 @@ If a CYP3A4 inducer is discontinued, consider Fentanyl Citrate Injection dosage 
 Examples:
 Rifampin, carbamazepine, phenytoin Benzodiazepines and Other Central Nervous System (CNS) Depressants Clinical Impact:
 
-## Fentanyl Citrate: Drug interactions (part 3 of 3)
+## Fentanyl Citrate: Drug interactions (part 3 of 6)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
 Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
@@ -28782,6 +31514,72 @@ Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscl
 Serotonergic Drugs Clinical Impact:
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.8) ].
 Intervention:
+
+## Fentanyl Citrate: Drug interactions (part 4 of 6)
+Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
+Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
+Retrieved: 2026-10-06
+Keywords: fentanyl citrate, fentanyl, drug interactions
+
+If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
+Discontinue Fentanyl Citrate Injection if serotonin syndrome is suspected.
+Examples:
+Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Monoamine Oxidase Inhibitors Clinical Impact:
+MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions (5.8) ] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2) ] Intervention:
+The use of Fentanyl Citrate Injection is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+Examples:
+Phenelzine, tranylcypromine, linezolid Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics Clinical Impact:
+
+## Fentanyl Citrate: Drug interactions (part 5 of 6)
+Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
+Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
+Retrieved: 2026-10-06
+Keywords: fentanyl citrate, fentanyl, drug interactions
+
+May reduce the analgesic effect of Fentanyl Citrate Injection and/or precipitate withdrawal symptoms.
+Intervention:
+Avoid concomitant use.
+Examples:
+Butorphanol, nalbuphine, pentazocine, buprenorphine.
+Muscle Relaxants Clinical Impact:
+Fentanyl may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Intervention:
+Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Fentanyl Citrate Injection and/or the muscle relaxant as necessary.
+Examples:
+Cyclobenzaprine, metaxalone.
+Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Intervention:
+Monitor patients for signs of urinary retention or reduced gastric motility when Fentanyl Citrate Injection is used concomitantly with anticholinergic drugs.
+Neuroleptics Clinical Impact:
+
+## Fentanyl Citrate: Drug interactions (part 6 of 6)
+Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
+Label-set-id: bfa8018a-4cbc-434b-e09e-782872b0340a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bfa8018a-4cbc-434b-e09e-782872b0340a
+Retrieved: 2026-10-06
+Keywords: fentanyl citrate, fentanyl, drug interactions
+
+Elevated blood pressure, with and without pre-existing hypertension, has been reported following administration of Fentanyl Citrate Injection combined with a neuroleptic [see Warnings and Precautions (5.14) ] .
+Intervention:
+ECG monitoring is indicated when a neuroleptic agent is used in conjunction with Fentanyl Citrate Injection as an anesthetic premedication, for the induction of anesthesia, or as an adjunct in the maintenance of general or regional anesthesia.
+Nitrous oxide Clinical Impact:
+Nitrous oxide has been reported to produce cardiovascular depression when given with higher doses of Fentanyl Citrate Injection.
+Intervention:
+Monitor patients for signs of cardiovascular depression that may be greater than otherwise expected. • Concomitant Use of CNS Depressants :
+May decrease pulmonary arterial pressure and may cause hypotension.
+See FPI for management instructions.
+For post-operative pain, start with the lowest effective dosage and monitor for potentiation of CNS depressant effects.
+( 5.3 , 7 ) • Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics :
+Avoid use with Fentanyl Citrate Injection because they may reduce analgesic effect of Fentanyl Citrate Injection or precipitate withdrawal symptoms.
+( 7 )
 
 ## Fentanyl Citrate: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Fentanyl Citrate (Hospira, Inc.), effective 2026-08-24
@@ -28976,7 +31774,7 @@ Keywords: buprenorphine, uses, partial opioid agonist [epc], partial opioid agon
 ( 1 , 5.1 ) Buprenorphine transdermal system is not indicated as an as-needed (prn) analgesic.
 ( 1 )
 
-## Buprenorphine: Dosage and administration (part 1 of 3)
+## Buprenorphine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
@@ -28990,7 +31788,7 @@ Reserve titration to higher doses of buprenorphine transdermal system for patien
 ( 2.1 , 5 ) Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse.
 ( 2.1 , 5.1 ) Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with buprenorphine transdermal system.
 
-## Buprenorphine: Dosage and administration (part 2 of 3)
+## Buprenorphine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
@@ -29004,7 +31802,7 @@ Consider this risk when selecting an initial dose and when making dose adjustmen
 ( 2.2 , 5.1 , 5.2 , 5.3 ) Periodically reassess patients receiving buprenorphine transdermal system to evaluate the continued need for opioid analgesics to maintain pain control, for the signs or symptoms of adverse reactions, and for the development of addiction, abuse, or misuse.
 ( 2.3 ) Do not rapidly reduce or abruptly discontinue buprenorphine transdermal system in a physically dependent patient because rapid reduction or abrupt discontinuation of opioid analgesics has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 
-## Buprenorphine: Dosage and administration (part 3 of 3)
+## Buprenorphine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
@@ -29017,6 +31815,21 @@ Use the lowest effective dosage for the shortest duration of time consistent wit
 Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of buprenorphine transdermal system for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks .
 Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1) ] .
 
+## Buprenorphine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
+Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
+Retrieved: 2026-10-06
+Keywords: buprenorphine, dosage and administration, partial opioid agonist [epc], partial opioid agonists [moa]
+
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with buprenorphine transdermal system.
+Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2) ] .
+Buprenorphine transdermal system is for transdermal use (on intact skin) only.
+Each buprenorphine transdermal system patch is intended to be worn for 7 days.
+Instruct patients not to use buprenorphine transdermal system if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut buprenorphine transdermal system.
+Instruct patients to avoid exposing buprenorphine transdermal system to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.6) ] .
+2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+
 ## Buprenorphine: Contraindications
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
@@ -29026,7 +31839,7 @@ Keywords: buprenorphine, contraindications, partial opioid agonist [epc], partia
 
 4 CONTRAINDICATIONS Buprenorphine transdermal system is contraindicated in patients with: Significant respiratory depression [see Warnings and Precautions (5.2) ] Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.10) ] Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.15) ] Hypersensitivity (e.g., anaphylaxis) to buprenorphine [see Warnings and Precautions (5.18) , Adverse Reactions (6) ] Significant respiratory depression ( 4 ) Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment ( 4 ) Known or suspected gastrointestinal obstruction, including paralytic ileus ( 4 ) Hypersensitivity to buprenorphine ( 4 )
 
-## Buprenorphine: Drug interactions (part 1 of 3)
+## Buprenorphine: Drug interactions (part 1 of 7)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
@@ -29044,7 +31857,7 @@ Regularly evaluate patients with concurrent use of buprenorphine transdermal sys
 Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking buprenorphine transdermal system, and warn patients to use benzodiazepines concurrently with buprenorphine transdermal system only as directed by their physician.
 Benzodiazepines and Other Central Nervous System (CNS) Depressants Clinical Impact:
 
-## Buprenorphine: Drug interactions (part 2 of 3)
+## Buprenorphine: Drug interactions (part 2 of 7)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
@@ -29061,7 +31874,7 @@ Examples:
 Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol.
 Inhibitors of CYP3A4 Clinical Impact:
 
-## Buprenorphine: Drug interactions (part 3 of 3)
+## Buprenorphine: Drug interactions (part 3 of 7)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
 Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
@@ -29077,6 +31890,85 @@ If a CYP3A4 inhibitor is discontinued, consider increasing the buprenorphine tra
 Assess for signs of opioid withdrawal.
 Examples:
 Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir) CYP3A4 Inducers Clinical Impact:
+
+## Buprenorphine: Drug interactions (part 4 of 7)
+Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
+Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
+Retrieved: 2026-10-06
+Keywords: buprenorphine, drug interactions, partial opioid agonist [epc], partial opioid agonists [moa]
+
+The concomitant use of buprenorphine and CYP3A4 inducers can decrease the plasma concentration of buprenorphine [see Clinical Pharmacology (12.3) ] , potentially resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to buprenorphine.
+After stopping a CYP3A4 inducer, as the effects of the inducer decline, the buprenorphine plasma concentration will increase [see Clinical Pharmacology (12.3) ] , which could increase or prolong both therapeutic effects and adverse reactions and may cause serious respiratory depression.
+Intervention:
+If concomitant use is necessary, consider increasing the buprenorphine transdermal system dosage until stable drug effects are achieved.
+Assess for signs of opioid withdrawal.
+If a CYP3A4 inducer is discontinued, consider buprenorphine transdermal system dosage reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation.
+Examples:
+Rifampin, carbamazepine, phenytoin Serotonergic Drugs Clinical Impact:
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
+Intervention:
+
+## Buprenorphine: Drug interactions (part 5 of 7)
+Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
+Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
+Retrieved: 2026-10-06
+Keywords: buprenorphine, drug interactions, partial opioid agonist [epc], partial opioid agonists [moa]
+
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
+Discontinue buprenorphine transdermal system if serotonin syndrome is suspected.
+Examples:
+Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact:
+MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2) ] Intervention:
+The use of buprenorphine transdermal system is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+Examples: phenelzine, tranylcypromine, linezolid Mixed Agonist/Antagonist Opioid Analgesics Clinical Impact:
+May reduce the analgesic effect of buprenorphine transdermal system and/or precipitate withdrawal symptoms.
+Intervention:
+
+## Buprenorphine: Drug interactions (part 6 of 7)
+Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
+Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
+Retrieved: 2026-10-06
+Keywords: buprenorphine, drug interactions, partial opioid agonist [epc], partial opioid agonists [moa]
+
+Avoid concomitant use.
+Examples: butorphanol, nalbuphine, pentazocine Muscle Relaxants Clinical Impact:
+Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Intervention:
+Because respiratory depression may be greater than otherwise expected, decrease the dosage of buprenorphine transdermal system and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2) , Warnings and Precautions (5.2 , 5.3) ].
+Examples:
+Cyclobenzaprine, metaxalone Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+The concomitant use of opioid analgesics, including buprenorphine, and anticholinergic drugs may increase the risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Intervention:
+
+## Buprenorphine: Drug interactions (part 7 of 7)
+Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
+Label-set-id: 2738feae-316e-426f-971c-5f142ac01b60
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2738feae-316e-426f-971c-5f142ac01b60
+Retrieved: 2026-10-06
+Keywords: buprenorphine, drug interactions, partial opioid agonist [epc], partial opioid agonists [moa]
+
+Evaluate patients for signs of urinary retention or reduced gastric motility when buprenorphine transdermal system is used concomitantly with anticholinergic drugs.
+Benzodiazepines :
+May increase buprenorphine-induced respiratory depression.
+Frequently evaluate patients on concurrent therapy closely.
+( 7 ) CYP3A4 Inhibitors/Inducers :
+Initiating CYP3A4 inhibitors or discontinuing CYP3A4 inducers may result in an increase in buprenorphine plasma concentrations.
+Evaluate patients starting CYP3A4 inhibitors or stopping CYP3A4 inducers at frequent intervals for respiratory depression.
+( 7 ) Serotonergic Drugs :
+Concomitant use may result in serotonin syndrome.
+Discontinue buprenorphine transdermal system if serotonin syndrome is suspected.
+( 7 ) Mixed Agonist/Antagonist Analgesics :
+Avoid use with buprenorphine transdermal system because they may reduce analgesic effect of buprenorphine transdermal system or precipitate withdrawal symptoms.
+( 7 )
 
 ## Buprenorphine: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Buprenorphine (Rhodes Pharmaceuticals LLC), effective 2026-05-29
@@ -29232,7 +32124,7 @@ Keywords: naloxone hydrochloride, naloxone, uses
 
 INDICATIONS AND USAGE Naloxone is indicated for the complete or partial reversal of opioid depression, including respiratory depression, induced by natural and synthetic opioids, including propoxyphene, methadone and certain mixed agonist-antagonist analgesics: nalbuphine, pentazocine, butorphanol, and cyclazocine. Naloxone is also indicated for diagnosis of suspected or known acute opioid overdosage. Naloxone may be useful as an adjunctive agent to increase blood pressure in the management of septic shock (see CLINICAL PHARMACOLOGY; Adjunctive Use in Septic Shock ).
 
-## Naloxone Hydrochloride: Dosage and administration (part 1 of 3)
+## Naloxone Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Naloxone Hydrochloride (Fresenius Kabi USA, LLC), effective 2025-07-31
 Label-set-id: 201fdedf-1736-4e52-9d7d-de14292547fd
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=201fdedf-1736-4e52-9d7d-de14292547fd
@@ -29251,7 +32143,7 @@ The rate of administration should be titrated in accordance with the patient's r
 Naloxone should not be mixed with preparations containing bisulfite, metabisulfite, long-chain or high molecular weight anions, or any solution having an alkaline pH.
 No drug or chemical agent should be added to Naloxone unless its effect on the chemical and physical stability of the solution has first been established.
 
-## Naloxone Hydrochloride: Dosage and administration (part 2 of 3)
+## Naloxone Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Naloxone Hydrochloride (Fresenius Kabi USA, LLC), effective 2025-07-31
 Label-set-id: 201fdedf-1736-4e52-9d7d-de14292547fd
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=201fdedf-1736-4e52-9d7d-de14292547fd
@@ -29269,7 +32161,7 @@ For the partial reversal of opioid depression following the use of opioids durin
 The dose of Naloxone should be titrated according to the patient's response.
 For the initial reversal of respiratory depression, Naloxone should be injected in increments of 0.1 to 0.2 mg intravenously at two- to three-minute intervals to the desired degree of reversal, i.e., adequate ventilation and alertness without significant pain or discomfort.
 
-## Naloxone Hydrochloride: Dosage and administration (part 3 of 3)
+## Naloxone Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Naloxone Hydrochloride (Fresenius Kabi USA, LLC), effective 2025-07-31
 Label-set-id: 201fdedf-1736-4e52-9d7d-de14292547fd
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=201fdedf-1736-4e52-9d7d-de14292547fd
@@ -29289,6 +32181,18 @@ If an I.V. route of administration is not available, Naloxone may be administere
 If necessary, Naloxone can be diluted with sterile water for injection.
 Postoperative Opioid Depression:
 Follow the recommendations and cautions under Adult Postoperative Depression .
+
+## Naloxone Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Naloxone Hydrochloride (Fresenius Kabi USA, LLC), effective 2025-07-31
+Label-set-id: 201fdedf-1736-4e52-9d7d-de14292547fd
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=201fdedf-1736-4e52-9d7d-de14292547fd
+Retrieved: 2026-10-06
+Keywords: naloxone hydrochloride, naloxone, dosage and administration
+
+For the initial reversal of respiratory depression, Naloxone should be injected in increments of 0.005 mg to 0.01 mg intravenously at two- to three-minute intervals to the desired degree of reversal.
+Usage in Neonates Opioid-induced Depression:
+The usual initial dose is 0.01 mg/kg body weight administered I.V., I.M. or S.C.
+This dose may be repeated in accordance with adult administration guidelines for postoperative opioid depression.
 
 ## Naloxone Hydrochloride: Contraindications
 Source: FDA drug label, Naloxone Hydrochloride (Fresenius Kabi USA, LLC), effective 2025-07-31
@@ -29425,7 +32329,7 @@ Keywords: naltrexone, uses
 Patients should not be actively drinking at the time of initial naltrexone for extended-release injectable suspension administration.
 1.2 Opioid Dependence Naltrexone for extended-release injectable suspension is indicated for the prevention of relapse to opioid dependence, following opioid detoxification.
 
-## Naltrexone: Dosage and administration (part 1 of 3)
+## Naltrexone: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Naltrexone (Amneal Pharmaceuticals NY LLC), effective 2026-01-30
 Label-set-id: 6de5637f-d527-4228-af1a-3aae71155cb5
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6de5637f-d527-4228-af1a-3aae71155cb5
@@ -29440,7 +32344,7 @@ See Full Prescribing Information for complete Directions for Use (2.6) .
 2.1 Important Dosage and Administration Information Naltrexone for extended-release injectable suspension must be prepared and administered by a healthcare provider.
 Naltrexone for extended-release injectable suspension must ONLY be administered as a deep intramuscular gluteal injection.
 
-## Naltrexone: Dosage and administration (part 2 of 3)
+## Naltrexone: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Naltrexone (Amneal Pharmaceuticals NY LLC), effective 2026-01-30
 Label-set-id: 6de5637f-d527-4228-af1a-3aae71155cb5
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6de5637f-d527-4228-af1a-3aae71155cb5
@@ -29455,7 +32359,7 @@ The needles provided in the carton are customized needles.
 Naltrexone for extended-release injectable suspension must not be injected using any other needle.
 The needle lengths (either 1 1/2 or 2 inches) may not be adequate in every patient because of body habitus.
 
-## Naltrexone: Dosage and administration (part 3 of 3)
+## Naltrexone: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Naltrexone (Amneal Pharmaceuticals NY LLC), effective 2026-01-30
 Label-set-id: 6de5637f-d527-4228-af1a-3aae71155cb5
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6de5637f-d527-4228-af1a-3aae71155cb5
@@ -29469,6 +32373,17 @@ Either needle may be used for patients with average body habitus.
 Healthcare providers should ensure that the naltrexone for extended-release injectable suspension injection is given correctly, and should consider alternate treatment for those patients whose body habitus precludes an intramuscular gluteal injection with one of the provided needles.
 If a patient misses a dose, he/she should be instructed to receive the next dose as soon as possible.
 Pretreatment with oral naltrexone is not required before using naltrexone for extended-release injectable suspension.
+
+## Naltrexone: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Naltrexone (Amneal Pharmaceuticals NY LLC), effective 2026-01-30
+Label-set-id: 6de5637f-d527-4228-af1a-3aae71155cb5
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6de5637f-d527-4228-af1a-3aae71155cb5
+Retrieved: 2026-10-06
+Keywords: naltrexone, dosage and administration
+
+2.2 Patient Access to an Opioid Reversal Agent for the Emergency Treatment of Opioid Overdose At the initial naltrexone for extended-release injectable suspension injection and with each subsequent injection, inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose after naltrexone for extended-release injectable suspension treatment is discontinued, at the end of the naltrexone for extended-release injectable suspension dosing interval (i.e., near the end of the month that naltrexone for extended-release injectable suspension was administered), or after a dose of naltrexone for extended-release injectable suspension is missed, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose [see Warnings and Precautions ( 5.1 ) ] .
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program [see Warning and Precautions (5.1) ] .
 
 ## Naltrexone: Contraindications
 Source: FDA drug label, Naltrexone (Amneal Pharmaceuticals NY LLC), effective 2026-01-30
@@ -29666,7 +32581,7 @@ Detoxification treatment of opioid addiction (heroin or other morphine-like drug
 Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
 (1) Limitations of Use Methadone products used for the treatment of opioid addiction in detoxification or maintenance programs are subject to the conditions for distribution and use required under 42 CFR 8.12 (2.1) .
 
-## Methadone Hydrochloride: Dosage and administration (part 1 of 3)
+## Methadone Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
@@ -29679,7 +32594,7 @@ Management of Pain Methadone hydrochloride tablets should be prescribed only by 
 Reserve titration to higher doses of methadone hydrochloride tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 (2.1 , 5) Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse (2.1 , 5.1) Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with methadone hydrochloride tablets.
 
-## Methadone Hydrochloride: Dosage and administration (part 2 of 3)
+## Methadone Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
@@ -29693,7 +32608,7 @@ Consider this risk when selecting an initial dose and when making dose adjustmen
 (2.6 , 5.16) Initiation of Detoxification and Maintenance Treatment A single dose of 20 to 30 mg may be sufficient to suppress withdrawal syndrome.
 (2.7) 2.1 Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction Code of Federal Regulations, Title 42, Sec 8:
 
-## Methadone Hydrochloride: Dosage and administration (part 3 of 3)
+## Methadone Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
@@ -29707,6 +32622,21 @@ Failure to abide by the requirements in these regulations may result in criminal
 Regulatory Exceptions to the General Requirement for Certification to Provide Opioid Agonist Treatment:
 During inpatient care, when the patient was admitted for any condition other than concurrent opioid addiction (pursuant to 21CFR 1306.07(c)), to facilitate the treatment of the primary admitting diagnosis).
 
+## Methadone Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, dosage and administration
+
+During an emergency period of no longer than 3 days while definitive care for the addiction is being sought in an appropriately licensed facility (pursuant to 21CFR 1306.07(b)).
+2.2 Important General Information The peak respiratory depressant effect of methadone occurs later and persists longer than its peak therapeutic effect.
+A high degree of opioid tolerance does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
+Deaths have been reported during conversion to methadone from chronic, high-dose treatment with other opioid agonists and during initiation of methadone treatment of addiction in subjects previously abusing high doses of other agonists.
+With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
+Methadone has a narrow therapeutic index, especially when combined with other drugs.
+2.3 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent [see Warnings and Precautions (5.2) , Overdosage (10) ].
+
 ## Methadone Hydrochloride: Contraindications
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
@@ -29716,7 +32646,7 @@ Keywords: methadone hydrochloride, methadone, contraindications
 
 4 CONTRAINDICATIONS Methadone hydrochloride tablets are contraindicated in patients with: Significant respiratory depression [see Warnings and Precautions (5.2) ]. Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.10) ]. Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.14) ]. Hypersensitivity (e.g., anaphylaxis) to methadone [see Adverse Reactions (6) ]. Significant respiratory depression (4) Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment (4) Known or suspected gastrointestinal obstruction, including paralytic ileus (4) Hypersensitivity to methadone (4)
 
-## Methadone Hydrochloride: Drug interactions (part 1 of 3)
+## Methadone Hydrochloride: Drug interactions (part 1 of 9)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
@@ -29732,7 +32662,7 @@ Intervention:
 If concomitant use is necessary, consider dosage reduction of methadone hydrochloride tablets until stable drug effects are achieved.
 Monitor patients at frequent intervals for respiratory depression and sedation.
 
-## Methadone Hydrochloride: Drug interactions (part 2 of 3)
+## Methadone Hydrochloride: Drug interactions (part 2 of 9)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
@@ -29748,7 +32678,7 @@ These effects could be more pronounced with concomitant use of drugs that can in
 After stopping a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer, as the effects of the inducer decline, the methadone plasma concentration can increase [see Clinical Pharmacology (12.3) ], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression, sedation, or death.
 Intervention:
 
-## Methadone Hydrochloride: Drug interactions (part 3 of 3)
+## Methadone Hydrochloride: Drug interactions (part 3 of 9)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
 Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
@@ -29766,6 +32696,121 @@ Intervention:
 For Patients Being Treated for Pain Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation). [see Warnings and Precautions (5.3) ].
+
+## Methadone Hydrochloride: Drug interactions (part 4 of 9)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, drug interactions
+
+If concomitant use is warranted, consider prescribing or recommending an opioid overdose reversal agent. [see Warnings and Precautions (5.1 , 5.2 , 5.3) ].
+For Patients Being Treated for Opioid Addiction Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use.
+In some cases, monitoring in a higher level of care for taper may be appropriate.
+In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.
+Before co-prescribing benzodiazepines for anxiety or insomnia, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments.
+If concomitant use is warranted, strongly consider prescribing or recommending an opioid overdose reversal agent, as is recommended for all patients in treatment for opioid use disorder [see Warnings and Precautions (5.1 , 5.2 , 5.3) ].
+Examples:
+Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol.
+Potentially Arrhythmogenic Agents Clinical Impact:
+
+## Methadone Hydrochloride: Drug interactions (part 5 of 9)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, drug interactions
+
+Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia).
+Intervention:
+Evaluate patients closely for cardiac conduction changes.
+Examples:
+Drugs known to have potential to prolong QT interval:
+Class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.
+Drugs capable of inducing electrolyte disturbances:
+Diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
+Serotonergic Drugs Clinical Impact:
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.9) ].
+Intervention:
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
+Discontinue methadone hydrochloride tablets immediately if serotonin syndrome is suspected.
+Examples:
+
+## Methadone Hydrochloride: Drug interactions (part 6 of 9)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, drug interactions
+
+Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact:
+MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions (5.9) ] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2) ].
+Intervention:
+The use of methadone hydrochloride tablets is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics Clinical Impact:
+May reduce the analgesic effect of methadone hydrochloride tablets and/or precipitate withdrawal symptoms.
+Intervention:
+Avoid concomitant use.
+Examples:
+Butorphanol, nalbuphine, pentazocine, buprenorphine.
+Muscle Relaxants Clinical Impact:
+
+## Methadone Hydrochloride: Drug interactions (part 7 of 9)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, drug interactions
+
+Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Intervention:
+Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of methadone hydrochloride tablets and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of muscle relaxants and opioids, consider prescribing an opioid overdose reversal agent. [see Warnings and Precautions (5.2 , 5.3) ] Examples: cyclobenzaprine, metaxalone Diuretics Clinical Impact:
+Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
+Intervention:
+Evaluate patients for signs for diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
+Anticholinergic Drugs Clinical Impact:
+The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Intervention:
+Evaluate patients for signs of urinary retention or reduced gastric motility when methadone hydrochloride tablets are used concomitantly with anticholinergic drugs.
+
+## Methadone Hydrochloride: Drug interactions (part 8 of 9)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, drug interactions
+
+Paradoxical Effects of Antiretroviral Agents on Methadone Hydrochloride Tablets Concurrent use of certain antiretroviral agents with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranavir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
+This may result in reduced efficacy of methadone hydrochloride tablets and could precipitate a withdrawal syndrome.
+Monitor methadone-maintained patients receiving any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the methadone dose accordingly.
+Effects of Methadone Hydrochloride Tablets on Antiretroviral Agents Didanosine and Stavudine:
+Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+Methadone disposition was not substantially altered.
+Zidovudine:
+Experimental evidence demonstrated that methadone increased the AUC of zidovudine, which could result in toxic effects.
+Effects of Methadone Hydrochloride Tablets on Antidepressants Desipramine:
+
+## Methadone Hydrochloride: Drug interactions (part 9 of 9)
+Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
+Label-set-id: 540edd43-165d-4257-b989-3bccc8f54afb
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb
+Retrieved: 2026-10-06
+Keywords: methadone hydrochloride, methadone, drug interactions
+
+Blood levels of desipramine have increased with concurrent methadone administration.
+Anti-Retroviral Agents:
+May result in decreased efficacy or, in certain cases, increased toxicity.
+(7) Potentially Arrhythmogenic Agents:
+Pharmacodynamic interactions may occur.
+Regularly evaluate patients closely for cardiac conduction changes.
+(7) Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics:
+Avoid use with methadone hydrochloride tablets because they may reduce analgesic effect of methadone hydrochloride tablets or precipitate withdrawal symptoms.
+(5.16 , 7) Monoamine Oxidase Inhibitors (MAOIs):
+Can potentiate the effects of methadone.
+Avoid concomitant use in patients receiving MAOIs or within 14 days of stopping treatment with an MAOI.
+(7)
 
 ## Methadone Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Methadone Hydrochloride (American Health Packaging), effective 2026-09-09
@@ -30462,7 +33507,7 @@ GABLOFEN is a gamma-aminobutyric acid (GABA) ergic agonist indicated for use in 
 ( 1 ) Spasticity due to traumatic brain injury: wait at least one year after injury before considering GABLOFEN therapy.
 ( 1 )
 
-## Baclofen Injection: Dosage and administration (part 1 of 3)
+## Baclofen Injection: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Baclofen Injection (Piramal Critical Care Inc), effective 2026-05-07
 Label-set-id: 00d3e846-dd92-448d-9ab8-6a07be823cc1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00d3e846-dd92-448d-9ab8-6a07be823cc1
@@ -30480,7 +33525,7 @@ The screening procedure is as follows.
 An initial bolus containing 50 micrograms in a volume of 1 milliliter is administered into the intrathecal space by barbotage over a period of not less than one minute.
 The patient is observed over the ensuing 4 to 8 hours.
 
-## Baclofen Injection: Dosage and administration (part 2 of 3)
+## Baclofen Injection: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Baclofen Injection (Piramal Critical Care Inc), effective 2026-05-07
 Label-set-id: 00d3e846-dd92-448d-9ab8-6a07be823cc1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00d3e846-dd92-448d-9ab8-6a07be823cc1
@@ -30500,7 +33545,7 @@ For a 50 mcg bolus dose, use 1 mL of the screening syringe.
 Use 1.5 mL of 50 mcg/mL baclofen injection for a 75 mcg bolus dose.
 For the maximum screening dose of 100 mcg, use 2 mL of 50 mcg/mL baclofen injection (2 screening syringes).
 
-## Baclofen Injection: Dosage and administration (part 3 of 3)
+## Baclofen Injection: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Baclofen Injection (Piramal Critical Care Inc), effective 2026-05-07
 Label-set-id: 00d3e846-dd92-448d-9ab8-6a07be823cc1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00d3e846-dd92-448d-9ab8-6a07be823cc1
@@ -30514,6 +33559,20 @@ The external surface of GABLOFEN prefilled syringes (all strengths, including th
 The use of GABLOFEN prefilled syringe in an aseptic setting (i.e., operating room) to fill sterile intrathecal pumps prior to implantation in patients is not recommended.
 For outpatient use, modify aseptic procedures to avoid contamination of sterile surfaces through contact with the non-sterile exterior of the GABLOFEN prefilled syringe when filling the pump reservoir [see Warnings and Precautions ( 5.2 )].
 Delivery Regimen GABLOFEN is most often administered in a continuous infusion mode immediately following implant.
+
+## Baclofen Injection: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Baclofen Injection (Piramal Critical Care Inc), effective 2026-05-07
+Label-set-id: 00d3e846-dd92-448d-9ab8-6a07be823cc1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00d3e846-dd92-448d-9ab8-6a07be823cc1
+Retrieved: 2026-10-06
+Keywords: baclofen injection, baclofen, gablofen, dosage and administration, gamma-aminobutyric acid-ergic agonist [epc], gaba a agonists [moa], gaba b agonists [moa]
+
+For those patients implanted with programmable pumps who have achieved relatively satisfactory control on continuous infusion, further benefit may be attained using more complex schedules of GABLOFEN delivery.
+For example, patients who have increased spasms at night may require a 20% increase in their hourly infusion rate.
+Changes in flow rate should be programmed to start two hours before the time of desired clinical effect.
+2.5 Dose Titration Post-Implant Dose Titration Period To determine the initial total daily dose of GABLOFEN following implant, the screening dose that gave a positive effect should be doubled and administered over a 24-hour period, unless the efficacy of the bolus dose was maintained for more than 8 hours, in which case the starting daily dose should be the screening dose delivered over a 24-hour period.
+No dose increases should be given in the first 24 hours (i.e., until the steady state is achieved).
+In most patients, it will be necessary to increase the dose gradually over time to maintain effectiveness; a sudden requirement for substantial dose escalation typically indicates a catheter complication (i.e., catheter kink or dislodgement).
 
 ## Baclofen Injection: Contraindications
 Source: FDA drug label, Baclofen Injection (Piramal Critical Care Inc), effective 2026-05-07
@@ -30859,7 +33918,7 @@ Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes
 Allergic corneal marginal ulcers Herpes zoster ophthalmicus Anterior segment inflammation Diffuse posterior uveitis and choroiditis Sympathetic ophthalmia Allergic conjunctivitis Keratitis Chorioretinitis Optic neuritis Iritis and iridocyclitis 7.
 Respiratory Diseases Symptomatic sarcoidosis Loeffler’s syndrome not manageable by other means Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy Aspiration pneumonitis 8.
 
-## Prednisone: Dosage and administration (part 1 of 3)
+## Prednisone: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30878,7 +33937,7 @@ The initial dosage of PredniSONE tablets may vary from 5 mg to 60 mg per day, de
 In situations of less severity lower doses will generally suffice, while in selected patients higher initial doses may be required.
 The initial dosage should be maintained or adjusted until a satisfactory response is noted.
 
-## Prednisone: Dosage and administration (part 2 of 3)
+## Prednisone: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30892,7 +33951,7 @@ It should be kept in mind that constant monitoring is needed in regard to drug d
 Included in the situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient's individual drug responsiveness, and the effect of patient jexposure to stressful situations not directly related to the disease entity under treatment; in this latter situation, it may be necessary to increase the dosage of PredniSONE for a period of time consistent with the patient's condition.
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
-## Prednisone: Dosage and administration (part 3 of 3)
+## Prednisone: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30906,6 +33965,22 @@ The rationale for this treatment schedule is based on two major premises:
 (a) the anti-inflammatory or therapeutic effect of corticoids persists longer than their physical presence and metabolic effects and (b) administration of the corticosteroid every other morning allows for re-establishment of more nearly normal hypothalamic-pituitary-adrenal (HPA) activity on the off-steroid day.
 A brief review of the HPA physiology may be helpful in understanding this rationale.
 
+## Prednisone: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, dosage and administration, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Acting primarily through the hypothalamus a fall in free cortisol stimulates the pituitary gland to produce increasing amounts of corticotropin (ACTH) while a rise in free cortisol inhibits ACTH secretion.
+Normally the HPA system is characterized by diurnal (circadian) rhythm.
+Serum levels of ACTH rise from a low point about 10 pm to a peak level about 6 am.
+Increasing levels of ACTH stimulate adrenocortical activity resulting in a rise in plasma cortisol with maximal levels occurring between 2 am and 8 am.
+This rise in cortisol dampens ACTH production and in turn adrenocortical activity.
+There is a gradual fall in plasma corticoids during the day with lowest levels occurring about midnight.
+The diurnal rhythm of the HPA axis is lost in Cushing's disease, a syndrome of adrenocortical hyperfunction characterized by obesity with centripetal fat distribution, thinning of the skin with easy bruisability, muscle wasting with weakness, hypertension, latent diabetes, osteoporosis, electrolyte imbalance, etc.
+The same clinical findings of hyperadrenocorticism may be noted during long-term pharmacologic dose corticoid therapy administered in conventional daily divided doses.
+
 ## Prednisone: Contraindications
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30915,7 +33990,7 @@ Keywords: prednisone, contraindications, corticosteroid [epc], corticosteroid ho
 
 CONTRAINDICATIONS Prednisone tablets are contraindicated in systemic fungal infections and known hypersensitivity to components.
 
-## Prednisone: Drug interactions (part 1 of 3)
+## Prednisone: Drug interactions (part 1 of 10)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30932,7 +34007,7 @@ If possible, anticholinesterase agents should be withdrawn at least 24 hours bef
 If concomitant therapy must occur, it should take place under close supervision and the need for respiratory support should be anticipated.
 Anticoagulants, Oral Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
 
-## Prednisone: Drug interactions (part 2 of 3)
+## Prednisone: Drug interactions (part 2 of 10)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30949,7 +34024,7 @@ Convulsions have been reported with this concurrent use.
 Digitalis Glycosides Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
 Estrogens, Including Oral Contraceptives Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
-## Prednisone: Drug interactions (part 3 of 3)
+## Prednisone: Drug interactions (part 3 of 10)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
 Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
@@ -30963,6 +34038,96 @@ Drugs which inhibit CYP 3A4 (e.g., ketoconazole, itraconazole, ritonavir, indina
 Glucocorticoids are moderate inducers of CYP 3A4.
 Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin ) may increase their clearance, resulting in decreased plasma concentration.
 Ketoconazole Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects.
+
+## Prednisone: Drug interactions (part 4 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+In addition, ketoconazole alone can inhibit adrenal corticosteroid synthesis and may cause adrenal insufficiency during corticosteroid withdrawal.
+Nonsteroidal Anti-Inflammatory Agents (NSAIDS) Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents ) and corticosteroids increases the risk of gastrointestinal side effects.
+Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
+The clearance of salicylates may be increased with concurrent use of corticosteroids; this could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when corticosteroid is withdrawn.
+Phenytoin In post-marketing experience, there have been reports of both increases and decreases in phenytoin levels with dexamethasone co-administration, leading to alterations in seizure control.
+Phenytoin has been demonstrated to increase the hepatic metabolism of corticosteroids, resulting in a decreased therapeutic effect of the corticosteroid.
+Quetiapine Increased doses of quetiapine may be required to maintain control of symptoms of schizophrenia in patients receiving a glucocorticoid, a hepatic enzyme inducer.
+Skin Tests Corticosteroids may suppress reactions to skin tests.
+
+## Prednisone: Drug interactions (part 5 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Thalidomide Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.
+Vaccines Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
+Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS:
+Infection:
+Vaccination ).
+Amphotericin B Injection and Potassium-Depleting Agents When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics ), patients should be observed closely for development of hypokalemia. In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
+Antibiotics Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see PRECAUTIONS: Drug Interactions: Hepatic Enzyme Inducers, Inhibitors and Substrates ).
+
+## Prednisone: Drug interactions (part 6 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Anticholinesterases Concomitant use of anticholinesterase agents (e.g., neostigmine, pyridostigmine ) and corticosteroids may produce severe weakness in patients with myasthenia gravis. If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy. If concomitant therapy must occur, it should take place under close supervision and the need for respiratory support should be anticipated.
+Anticoagulants, Oral Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports. Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
+Antidiabetics Because corticosteroids may increase blood glucose concentrations, dosage adjustments of antidiabetic agents may be required.
+Antitubercular drugs Serum concentrations of isoniazid may be decreased.
+Bupropion Since systemic steroids, as well as bupropion, can lower the seizure threshold, concurrent administration should be undertaken only with extreme caution; low initial dosing and small gradual increases should be employed.
+Cholestyramine Cholestyramine may increase the clearance of corticosteroids.
+
+## Prednisone: Drug interactions (part 7 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Cyclosporine Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently. Convulsions have been reported with this concurrent use.
+Digitalis Glycosides Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
+Estrogens, Including Oral Contraceptives Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
+Fluoroquinolones Post-marketing surveillance reports indicate that the risk of tendon rupture may be increased in patients receiving concomitant fluoroquinolones (e.g., ciprofloxacin, levofloxacin ) and corticosteroids, especially in the elderly. Tendon rupture can occur during or after treatment with quinolones.
+
+## Prednisone: Drug interactions (part 8 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Hepatic Enzyme Inducers, Inhibitors and Substrates Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., barbiturates, phenytoin, carbamazepine, rifampin ) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased. Drugs which inhibit CYP 3A4 (e.g., ketoconazole, itraconazole, ritonavir, indinavir, macrolide antibiotics such as erythromycin ) have the potential to result in increased plasma concentrations of corticosteroids. Glucocorticoids are moderate inducers of CYP 3A4. Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin ) may increase their clearance, resulting in decreased plasma concentration.
+Ketoconazole Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects. In addition, ketoconazole alone can inhibit adrenal corticosteroid synthesis and may cause adrenal insufficiency during corticosteroid withdrawal.
+
+## Prednisone: Drug interactions (part 9 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Nonsteroidal Anti-Inflammatory Agents (NSAIDS) Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents ) and corticosteroids increases the risk of gastrointestinal side effects. Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia. The clearance of salicylates may be increased with concurrent use of corticosteroids; this could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when corticosteroid is withdrawn.
+Phenytoin In post-marketing experience, there have been reports of both increases and decreases in phenytoin levels with dexamethasone co-administration, leading to alterations in seizure control. Phenytoin has been demonstrated to increase the hepatic metabolism of corticosteroids, resulting in a decreased therapeutic effect of the corticosteroid.
+Quetiapine Increased doses of quetiapine may be required to maintain control of symptoms of schizophrenia in patients receiving a glucocorticoid, a hepatic enzyme inducer.
+Skin Tests Corticosteroids may suppress reactions to skin tests.
+Thalidomide Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.
+
+## Prednisone: Drug interactions (part 10 of 10)
+Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
+Label-set-id: 0062fcc7-aa08-4990-9d33-d798725907f1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1
+Retrieved: 2026-10-06
+Keywords: prednisone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Vaccines Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response. Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines. Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infection: Vaccination ).
 
 ## Prednisone: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Prednisone (Bryant Ranch Prepack), effective 2026-09-08
@@ -31067,7 +34232,7 @@ Keywords: prednisolone sodium phosphate, prednisolone, orapred odt, uses
 
 Acute leukemia Aggressive lymphomas 1.7 Nervous System Conditions Acute exacerbations of multiple sclerosis Cerebral edema associated with primary or metastatic brain tumor, craniotomy or head injury 1.8 Ophthalmic Conditions Sympathetic ophthalmia Uveitis and ocular inflammatory conditions unresponsive to topical corticosteroids 1.9 Conditions Related to Organ Transplantation Acute or chronic solid organ rejection 1.10 Pulmonary Diseases Acute exacerbations of chronic obstructive pulmonary disease (COPD) Allergic bronchopulmonary aspergillosis Aspiration pneumonitis Asthma Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate chemotherapy Hypersensitivity pneumonitis Idiopathic bronchiolitis obliterans with organizing pneumonia Idiopathic eosinophilic pneumonias Idiopathic pulmonary fibrosis Pneumocystis carinii pneumonia (PCP) associated with hypoxemia occurring in an HIV (+) individual who is also under treatment with appropriate anti-PCP antibiotics Symptomatic sarcoidosis 1.11 Renal Conditions To induce a diuresis or remission of proteinuria in nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus 1.12 Rheumatologic Conditions As adjunctive therapy for short term administration (to tide the patient
 
-## Prednisolone Sodium Phosphate: Dosage and administration (part 1 of 3)
+## Prednisolone Sodium Phosphate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Prednisolone Sodium Phosphate (Advanz Pharma (US) Corp.), effective 2025-06-03
 Label-set-id: 1e379543-c4cf-4e72-953b-db15b7f0c2a1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1
@@ -31086,7 +34251,7 @@ Do not break or use partial Orapred ODT tablets.
 Use an appropriate formulation of prednisolone if indicated dose cannot be obtained using Orapred ODT.
 This may become important in the treatment of conditions that require tapering doses that cannot be adequately accommodated by Orapred ODT, e.g., tapering the dose below 10 mg.
 
-## Prednisolone Sodium Phosphate: Dosage and administration (part 2 of 3)
+## Prednisolone Sodium Phosphate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Prednisolone Sodium Phosphate (Advanz Pharma (US) Corp.), effective 2025-06-03
 Label-set-id: 1e379543-c4cf-4e72-953b-db15b7f0c2a1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1
@@ -31101,7 +34266,7 @@ IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVI
 After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage that will maintain an adequate clinical response is reached.
 It should be kept in mind that constant monitoring is needed in regard to drug dosage.
 
-## Prednisolone Sodium Phosphate: Dosage and administration (part 3 of 3)
+## Prednisolone Sodium Phosphate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Prednisolone Sodium Phosphate (Advanz Pharma (US) Corp.), effective 2025-06-03
 Label-set-id: 1e379543-c4cf-4e72-953b-db15b7f0c2a1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1
@@ -31114,6 +34279,21 @@ Orapred ODT are packaged in a blister.
 Patients should be instructed not to remove the tablet from the blister until just prior to dosing.
 The blister pack should then be peeled open, and the orally disintegrating tablet placed on the tongue, where tablets may be swallowed whole as any conventional tablet, or allowed to dissolve in the mouth, with or without the assistance of water.
 Orally disintegrating tablet dosage forms are friable and are not intended to be cut, split, or broken.
+
+## Prednisolone Sodium Phosphate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Prednisolone Sodium Phosphate (Advanz Pharma (US) Corp.), effective 2025-06-03
+Label-set-id: 1e379543-c4cf-4e72-953b-db15b7f0c2a1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1
+Retrieved: 2026-10-06
+Keywords: prednisolone sodium phosphate, prednisolone, orapred odt, dosage and administration
+
+Multiple Sclerosis In the treatment of acute exacerbations of multiple sclerosis, daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day for one month have been shown to be effective.
+Pediatric In pediatric patients, the initial dose of Orapred may vary depending on the specific disease entity being treated.
+The range of initial doses is 0.14 to 2 mg/kg/day in three or four divided doses (4 to 60 mg/m 2 bsa/day).
+Nephrotic Syndrome The standard regimen used to treat nephrotic syndrome in pediatric patients is 60 mg/m 2 /day given in three divided doses for 4 weeks, followed by 4 weeks of single dose alternate-day therapy at 40 mg/m 2 /day.
+Asthma The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone or methylprednisolone in children whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1-2 mg/kg/day in single or divided doses.
+It is further recommended that short course, or "burst" therapy, be continued until a child achieves a peak expiratory flow rate of 80% of his or her personal best or symptoms resolve.
+This usually requires 3 to 10 days of treatment, although it can take longer.
 
 ## Prednisolone Sodium Phosphate: Contraindications
 Source: FDA drug label, Prednisolone Sodium Phosphate (Advanz Pharma (US) Corp.), effective 2025-06-03
@@ -31373,7 +34553,7 @@ Respiratory diseases:
 Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
 Rheumatic disorders :
 
-## Methylprednisolone Sodium Succinate: Dosage and administration (part 1 of 3)
+## Methylprednisolone Sodium Succinate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Methylprednisolone Sodium Succinate (Sportpharm LLC), effective 2026-07-23
 Label-set-id: 0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
@@ -31388,7 +34568,7 @@ This preparation may be administered by intravenous injection, by intravenous in
 Following the initial emergency period, consideration should be given to employing a longer acting injectable preparation or an oral preparation.
 There are reports of cardiac arrhythmias and/or cardiac arrest following the rapid administration of large intravenous doses of SOLU-MEDROL ( greater than 0.5 gram administered over a period of less than 10 minutes ).
 
-## Methylprednisolone Sodium Succinate: Dosage and administration (part 2 of 3)
+## Methylprednisolone Sodium Succinate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Methylprednisolone Sodium Succinate (Sportpharm LLC), effective 2026-07-23
 Label-set-id: 0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
@@ -31404,7 +34584,7 @@ However, in certain overwhelming, acute, life-threatening situations, administra
 It Should Be Emphasized that Dosage Requirements are Variable and Must Be Individualized on the Basis of the Disease Under Treatment and the Response of the Patient.
 After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
 
-## Methylprednisolone Sodium Succinate: Dosage and administration (part 3 of 3)
+## Methylprednisolone Sodium Succinate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Methylprednisolone Sodium Succinate (Sportpharm LLC), effective 2026-07-23
 Label-set-id: 0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
@@ -31419,6 +34599,21 @@ To administer by intravenous (or intramuscular) injection, prepare solution as d
 The desired dose may be administered intravenously over a period of several minutes.
 If desired, the medication may be administered in diluted solutions by adding Water for Injection or other suitable diluent (see below) to the Act-O-Vial and withdrawing the indicated dose.
 To prepare solutions for intravenous infusion, first prepare the solution for injection as directed.
+
+## Methylprednisolone Sodium Succinate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Methylprednisolone Sodium Succinate (Sportpharm LLC), effective 2026-07-23
+Label-set-id: 0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cb0ba76-067f-46c4-a5d8-b585d5ecafe3
+Retrieved: 2026-10-06
+Keywords: methylprednisolone sodium succinate, methylprednisolone, solu-medrol, dosage and administration
+
+This solution may then be added to indicated amounts of 5% dextrose in water, isotonic saline solution, or 5% dextrose in isotonic saline solution.
+From a microbiological point of view, unless the method of opening/reconstitution/dilution precludes the risk of microbial contamination, the product should be used immediately.
+If not used immediately, in-use storage times and conditions are the responsibility of the user.
+Chemical and physical stability of the further diluted product has been demonstrated within 4 hours of preparation if stored below 25°C or within 24 hours of preparation if stored at 2°C to 8°C.
+In pediatric patients, the initial dose of methylprednisolone may vary depending on the specific disease entity being treated.
+The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m 2 bsa/day).
+The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone, or methylprednisolone in pediatric patients whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1–2 mg/kg/day in single or divided doses.
 
 ## Methylprednisolone Sodium Succinate: Contraindications
 Source: FDA drug label, Methylprednisolone Sodium Succinate (Sportpharm LLC), effective 2026-07-23
@@ -31623,7 +34818,7 @@ Ophthalmic Diseases Sympathetic ophthalmia, temporal arteritis, uveitis, and ocu
 Renal Diseases To induce a diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus.
 Respiratory Diseases Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
 
-## Dexamethasone: Dosage and administration (part 1 of 3)
+## Dexamethasone: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31637,7 +34832,7 @@ Situations which may make dosage adjustments necessary are changes in clinical s
 In this latter situation it may be necessary to increase the dosage of the corticosteroid for a period of time consistent with the patient's condition.
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
-## Dexamethasone: Dosage and administration (part 2 of 3)
+## Dexamethasone: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31653,7 +34848,7 @@ Cortisone, 25 mg Triamcinolone, 4 mg Hydrocortisone, 20 mg Paramethasone, 2 mg P
 When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.
 In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested:
 
-## Dexamethasone: Dosage and administration (part 3 of 3)
+## Dexamethasone: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31668,6 +34863,20 @@ Dexamethasone Suppression Tests 1.
 Tests for Cushing's syndrome Give 1 mg of dexamethasone orally at 11:00 p.m.
 Blood is drawn for plasma cortisol determination at 8:00 a.m. the following morning.
 
+## Dexamethasone: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
+Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
+Retrieved: 2026-10-06
+Keywords: dexamethasone, dosage and administration, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+For greater accuracy, give 0.5 mg of dexamethasone orally every 6 hours for 48 hours.
+Twenty-four hour urine collections are made for determination of 17-hydroxycorticosteroid excretion.
+2.
+Test to distinguish Cushing's syndrome due to pituitary ACTH excess from Cushing's syndrome due to other causes.
+Give 2 mg of dexamethasone orally every 6 hours for 48 hours.
+Twenty-four hour urine collections are made for determination of 17-hydroxycorticosteroid excretion.
+
 ## Dexamethasone: Contraindications
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31677,7 +34886,7 @@ Keywords: dexamethasone, contraindications, corticosteroid [epc], corticosteroid
 
 CONTRAINDICATIONS Systemic fungal infections (see WARNINGS : Fungal Infections ) and in patients who are hypersensitive to any components of these products.
 
-## Dexamethasone: Drug interactions (part 1 of 3)
+## Dexamethasone: Drug interactions (part 1 of 5)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31699,7 +34908,7 @@ Co-administration of corticosteroids and warfarin usually results in inhibition 
 Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
 Antidiabetics:
 
-## Dexamethasone: Drug interactions (part 2 of 3)
+## Dexamethasone: Drug interactions (part 2 of 5)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31726,7 +34935,7 @@ Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereb
 CYP 3A4 Inducers:
 Dexamethasone is metabolized by CYP 3A4.
 
-## Dexamethasone: Drug interactions (part 3 of 3)
+## Dexamethasone: Drug interactions (part 3 of 5)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
 Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
@@ -31742,6 +34951,39 @@ Co-administration with other drugs which strongly inhibit CYP 3A4 (e.g., itracon
 Consider the benefit of co-administration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.
 CYP 3A4 Substrates:
 Dexamethasone is a moderate inducer of CYP 3A4.
+
+## Dexamethasone: Drug interactions (part 4 of 5)
+Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
+Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
+Retrieved: 2026-10-06
+Keywords: dexamethasone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.
+Nonsteroidal Anti-Inflammatory Agents (NSAIDS):
+Concomitant use of aspirin (or other nonsteroidal anti- inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
+Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
+The clearance of salicylates may be increased with concurrent use of corticosteroids.
+Phenytoin:
+In post-marketing experience, there have been reports of both increases and decreases in phenytoin levels with dexamethasone co-administration, leading to alterations in seizure control.
+Skin Tests:
+Corticosteroids may suppress reactions to skin tests.
+Thalidomide:
+Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.
+Vaccines:
+Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
+Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
+
+## Dexamethasone: Drug interactions (part 5 of 5)
+Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
+Label-set-id: 12d19271-867b-41ae-a6d2-7e8de3637011
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d19271-867b-41ae-a6d2-7e8de3637011
+Retrieved: 2026-10-06
+Keywords: dexamethasone, drug interactions, corticosteroid [epc], corticosteroid hormone receptor agonists [moa]
+
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS :
+Infections:
+Vaccination).
 
 ## Dexamethasone: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Dexamethasone (Sportpharm LLC), effective 2026-04-24
@@ -32272,7 +35514,7 @@ Keywords: albuterol sulfate, albuterol, uses
 
 1 INDICATIONS AND USAGE Albuterol Sulfate Inhalation Aerosol is a beta 2 -adrenergic agonist indicated for: Treatment or prevention of bronchospasm in patients 4 years of age and older with reversible obstructive airway disease. ( 1.1 ) Prevention of exercise-induced bronchospasm in patients 4 years of age and older. ( 1.2 ) 1.1 Bronchospasm Albuterol Sulfate Inhalation Aerosol is indicated for the treatment or prevention of bronchospasm in patients 4 years of age and older with reversible obstructive airway disease. 1.2 Exercise-Induced Bronchospasm Albuterol Sulfate Inhalation Aerosol is indicated for the prevention of exercise-induced bronchospasm in patients 4 years of age and older.
 
-## Albuterol Sulfate: Dosage and administration (part 1 of 3)
+## Albuterol Sulfate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Albuterol Sulfate (Armstrong Pharmaceuticals, Inc.), effective 2026-08-06
 Label-set-id: 17858afa-dcdf-4612-b475-3b6baadfb639
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17858afa-dcdf-4612-b475-3b6baadfb639
@@ -32293,7 +35535,7 @@ At least once a week, wash the actuator with warm water, shake off excess, and a
 ( 2.3 ) Albuterol Sulfate Inhalation Aerosol inhaler should be discarded when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 ( 2.3 ) 2.1 Bronchospasm For treatment of acute episodes of bronchospasm or prevention of symptoms associated with bronchospasm, the usual dosage for adults and children 4 years and older is two inhalations repeated every 4 to 6 hours.
 
-## Albuterol Sulfate: Dosage and administration (part 2 of 3)
+## Albuterol Sulfate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Albuterol Sulfate (Armstrong Pharmaceuticals, Inc.), effective 2026-08-06
 Label-set-id: 17858afa-dcdf-4612-b475-3b6baadfb639
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17858afa-dcdf-4612-b475-3b6baadfb639
@@ -32314,7 +35556,7 @@ The inhaler may cease to deliver medication if the plastic actuator mouthpiece i
 To clean:
 Wash the plastic mouthpiece with warm running water for 30 seconds, shake off excess water, and air dry thoroughly at least once a week.
 
-## Albuterol Sulfate: Dosage and administration (part 3 of 3)
+## Albuterol Sulfate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Albuterol Sulfate (Armstrong Pharmaceuticals, Inc.), effective 2026-08-06
 Label-set-id: 17858afa-dcdf-4612-b475-3b6baadfb639
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17858afa-dcdf-4612-b475-3b6baadfb639
@@ -32331,6 +35573,17 @@ Dose Counter:
 Albuterol Sulfate Inhalation Aerosol has a dose counter attached to the actuator.
 When the patient receives the inhaler, the number 200 will appear slightly to the right of the viewing window until it has been primed 3 times, at which point the number 200 will be displayed.
 The dose counter will count down each time a spray is released.
+
+## Albuterol Sulfate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Albuterol Sulfate (Armstrong Pharmaceuticals, Inc.), effective 2026-08-06
+Label-set-id: 17858afa-dcdf-4612-b475-3b6baadfb639
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17858afa-dcdf-4612-b475-3b6baadfb639
+Retrieved: 2026-10-06
+Keywords: albuterol sulfate, albuterol, dosage and administration
+
+When the dose counter reaches 20, the color of the background will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
+This color will remain when the dose counter reaches 0.
+Albuterol Sulfate Inhalation Aerosol inhaler should be discarded when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
 ## Albuterol Sulfate: Contraindications
 Source: FDA drug label, Albuterol Sulfate (Armstrong Pharmaceuticals, Inc.), effective 2026-08-06
@@ -32897,7 +36150,7 @@ Keywords: montelukast, uses
 Because the benefits of montelukast sodium tablets may not outweigh the risk of neuropsychiatric symptoms in patients with allergic rhinitis [see Warnings and Precautions (5.1)], reserve use for patients who have an inadequate response or intolerance to alternative therapies.
 1.4 Limitations of Use Montelukast sodium is not indicated for the treatment of an acute asthma attack.
 
-## Montelukast: Dosage and administration (part 1 of 3)
+## Montelukast: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Montelukast (Coupler LLC), effective 2026-08-04
 Label-set-id: 583a9499-97f0-2ebf-e063-6394a90a35af
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=583a9499-97f0-2ebf-e063-6394a90a35af
@@ -32925,7 +36178,7 @@ Recommended Dosage in Asthma Age Dose Adult and adolescent patients 15 years of 
 The following doses are recommended:
 Table 2:
 
-## Montelukast: Dosage and administration (part 2 of 3)
+## Montelukast: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Montelukast (Coupler LLC), effective 2026-08-04
 Label-set-id: 583a9499-97f0-2ebf-e063-6394a90a35af
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=583a9499-97f0-2ebf-e063-6394a90a35af
@@ -32941,7 +36194,7 @@ All patients should have available for rescue a short-acting β-agonist.
 Daily administration of montelukast sodium for the chronic treatment of asthma has not been established to prevent acute episodes of EIB.Daily administration of montelukast sodium for the chronic treatment of asthma has not been established to prevent acute episodes of EIB.
 2.3 Allergic Rhinitis For allergic rhinitis, administer montelukast sodium orally once daily without regard to time of food ingestion.
 
-## Montelukast: Dosage and administration (part 3 of 3)
+## Montelukast: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Montelukast (Coupler LLC), effective 2026-08-04
 Label-set-id: 583a9499-97f0-2ebf-e063-6394a90a35af
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=583a9499-97f0-2ebf-e063-6394a90a35af
@@ -32957,6 +36210,17 @@ Table 3:
 Recommended Dosage in Seasonal Allergic Rhinitis Age Dose Adult and adolescent patients 15 years of age and older Adult and adolescent patients 15 years of age and older one 10 mg tablet one 10 mg tablet The following doses for the treatment of symptoms of perennial allergic rhinitis are recommended:
 Table 4:
 Recommended Dosage in Perennial Allergic Rhinitis Age Dose Adult and adolescent patients 15 years of age and older Adult and adolescent patients 15 years of age and older one 10 mg tablet one 10 mg tablet .
+Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
+
+## Montelukast: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Montelukast (Coupler LLC), effective 2026-08-04
+Label-set-id: 583a9499-97f0-2ebf-e063-6394a90a35af
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=583a9499-97f0-2ebf-e063-6394a90a35af
+Retrieved: 2026-10-06
+Keywords: montelukast, dosage and administration
+
+2.4 Asthma and Allergic Rhinitis For patients with both asthma and allergic rhinitis, administer only one montelukast sodium dose orally once daily in the evening.
+For patients with both asthma and allergic rhinitis, administer only one montelukast sodium dose orally once daily in the evening.
 Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
 
 ## Montelukast: Contraindications
@@ -33097,7 +36361,7 @@ Keywords: theophylline, uses, methylxanthine [epc]
 
 INDICATIONS AND USAGE: Theophylline extended-release tablets are indicated for the treatment of the symptoms and reversible airflow obstruction associated with chronic asthma and other chronic lung diseases, e.g., emphysema and chronic bronchitis.
 
-## Theophylline: Dosage and administration (part 1 of 3)
+## Theophylline: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33112,7 +36376,7 @@ General Considerations:
 The steady-state peak serum theophylline concentration is a function of the dose, the dosing interval, and the rate of theophylline absorption and clearance in the individual patient.
 Because of marked individual differences in the rate of theophylline clearance, the dose required to achieve a peak serum theophylline concentration in the 10 to 20 mcg/mL range varies fourfold among otherwise similar patients in the absence of factors known to alter theophylline clearance (e.g., 400 to 1600 mg/day in adults <60 years old and 10 to 36 mg/kg/day in children 1 to 9 years old).
 
-## Theophylline: Dosage and administration (part 2 of 3)
+## Theophylline: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33125,7 +36389,7 @@ For example, at a dose of 900 mg/d in adults <60 years or 22 mg/kg/d in children
 The dose of theophylline must be individualized on the basis of peak serum theophylline concentration measurements in order to achieve a dose that will provide maximum potential benefit with minimal risk of adverse effects.
 Transient caffeine-like adverse effects and excessive serum concentrations in slow metabolizers can be avoided in most patients by starting with a sufficiently low dose and slowly increasing the dose, if judged to be clinically indicated , in small increments (See Table V).
 
-## Theophylline: Dosage and administration (part 3 of 3)
+## Theophylline: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33139,6 +36403,24 @@ If the patient's symptoms are well controlled, there are no apparent adverse eff
 In acutely ill patients, serum theophylline concentrations should be monitored at frequent intervals, e.g., every 24 hours.
 Theophylline distributes poorly into body fat, therefore, mg/kg dose should be calculated on the basis of ideal body weight.
 
+## Theophylline: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
+Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
+Retrieved: 2026-10-06
+Keywords: theophylline, dosage and administration, methylxanthine [epc]
+
+Table V contains theophylline dosing titration schema recommended for patients in various age groups and clinical circumstances.
+Table VI contains recommendations for theophylline dosage adjustment based upon serum theophylline concentrations.
+Application of these general dosing recommendations to individual patients must take into account the unique clinical characteristics of each patient.
+In general, these recommendations should serve as the upper limit for dosage adjustments in order to decrease the risk of potentially serious adverse events associated with unexpected large increases in serum theophylline concentration.
+Table V.
+Dosing initiation and titration (as anhydrous theophylline).* A.
+Children (6 to 15 years) and adults (16 to 60 years) without risk factors for impaired clearance.
+Titration Step Children < 45 kg Children > 45 kg and adults 1 Starting Dosage 12 to 14 mg/kg/day up to a maximum of 300 mg/day divided Q12 hrs* 300 mg/day divided Q12 hrs* 2 After 3 days, if tolerated , increase dose to:
+16 mg/kg/day up to a maximum of 400 mg/day divided Q12 hrs* 400 mg/day divided Q12 hrs* 3 After 3 more days, if tolerated , increase dose to:
+20 mg/kg/day up to a maximum of 600 mg/day divided Q12 hrs* 600 mg/day divided Q12 hrs* B.
+
 ## Theophylline: Contraindications
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33148,7 +36430,7 @@ Keywords: theophylline, contraindications, methylxanthine [epc]
 
 CONTRAINDICATIONS: Theophylline extended-release tablets are contraindicated in patients with a history of hypersensitivity to theophylline or other components in the product.
 
-## Theophylline: Drug interactions (part 1 of 3)
+## Theophylline: Drug interactions (part 1 of 8)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33165,7 +36447,7 @@ The drugs listed in Table II have the potential to produce clinically significan
 The information in the "Effect" column of Table II assumes that the interacting drug is being added to a steady-state theophylline regimen.
 If theophylline is being initiated in a patient who is already taking a drug that inhibits theophylline clearance (e.g., cimetidine, erythromycin), the dose of theophylline required to achieve a therapeutic serum theophylline concentration will be smaller.
 
-## Theophylline: Drug interactions (part 2 of 3)
+## Theophylline: Drug interactions (part 2 of 8)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33180,7 +36462,7 @@ The listing of drugs in Tables II and III are current as of February 9, 1995.
 New interactions are continuously being reported for theophylline, especially with new chemical entities.
 The healthcare professional should not assume that a drug does not interact with theophylline if it is not listed in Table II.
 
-## Theophylline: Drug interactions (part 3 of 3)
+## Theophylline: Drug interactions (part 3 of 8)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
 Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
@@ -33199,6 +36481,115 @@ Alcohol A single large dose of alcohol (3 mL/kg of whiskey) decreases theophylli
 25% decrease Carbamazepine Similar to aminoglutethimide.
 30% decrease Cimetidine Decreases theophylline clearance by inhibiting cytochrome P450 1A2.
 70% increase Ciprofloxacin Similar to cimetidine.
+
+## Theophylline: Drug interactions (part 4 of 8)
+Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
+Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
+Retrieved: 2026-10-06
+Keywords: theophylline, drug interactions, methylxanthine [epc]
+
+40% increase Clarithromycin Similar to erythromycin.
+25% increase Diazepam Benzodiazepines increase CNS concentrations of adenosine, a potent CNS depressant, while theophylline blocks adenosine receptors.
+Larger diazepam doses may be required to produce desired level of sedation.
+Discontinuation of theophylline without reduction of diazepam dose may result in respiratory depression.
+Disulfiram Decreases theophylline clearance by inhibiting hydroxylation and demethylation.
+50% increase Enoxacin Similar to cimetidine.
+300% increase Ephedrine Synergistic CNS effects.
+Increased frequency of nausea, nervousness, and insomnia.
+Erythromycin Erythromycin metabolite decreases theophylline clearance by inhibiting cytochrome P450 3A3.
+35% increase.
+Erythromycin steady-state serum concentrations decrease by a similar amount.
+Estrogen Estrogen containing oral contraceptives decrease theophylline clearance in a dose-dependent fashion.
+The effect of progesterone on theophylline clearance is unknown.
+30% increase Flurazepam Similar to diazepam.
+Similar to diazepam.
+Fluvoxamine Similar to cimetidine.
+Similar to cimetidine.
+Halothane Halothane sensitizes the myocardium to catecholamines, theophylline increases release of endogenous catecholamines.
+Increased risk of ventricular arrhythmias.
+
+## Theophylline: Drug interactions (part 5 of 8)
+Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
+Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
+Retrieved: 2026-10-06
+Keywords: theophylline, drug interactions, methylxanthine [epc]
+
+Interferon, human recombinant alpha-A Decreases theophylline clearance.
+100% increase Isoproterenol (IV) Increases theophylline clearance.
+20% decrease Ketamine Pharmacologic.
+May lower theophylline seizure threshold Lithium Theophylline increases renal lithium clearance.
+Lithium dose required to achieve a therapeutic serum concentration increased an average of 60%.
+Lorazepam Similar to diazepam.
+Similar to diazepam.
+Methotrexate (MTX) Decreases theophylline clearance.
+20% increase after low dose MTX, higher dose MTX may have a greater effect.
+Mexiletine Similar to disulfiram.
+80% increase Midazolam Similar to diazepam.
+Similar to diazepam.
+Moricizine Increases theophylline clearance.
+25% decrease Pancuronium Theophylline may antagonize non-depolarizing neuromuscular blocking effects; possibly due to phosphodiesterase inhibition.
+Larger dose of pancuronium may be required to achieve neuromuscular blockade.
+Pentoxifylline Decreases theophylline clearance.
+30% increase Phenobarbital (PB) Similar to aminoglutethimide.
+25% decrease after two weeks of concurrent PB.
+Phenytoin Phenytoin increases theophylline clearance by increasing microsomal enzyme activity.
+Theophylline decreases phenytoin absorption.
+Serum theophylline and phenytoin concentrations decrease about 40%.
+
+## Theophylline: Drug interactions (part 6 of 8)
+Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
+Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
+Retrieved: 2026-10-06
+Keywords: theophylline, drug interactions, methylxanthine [epc]
+
+Propafenone Decreases theophylline clearance and pharmacologic interaction.
+40% increase.
+Beta-2 blocking effect may decrease efficacy of theophylline.
+Propranolol Similar to cimetidine and pharmacologic interaction.
+100% increase.
+Beta-2 blocking effect may decrease efficacy of theophylline.
+Rifampin Increases theophylline clearance by increasing cytochrome P450 1A2 and 3A3 activity.
+20 to 40% decrease St.
+John's Wort (Hypericum Perforatum) Decrease in theophylline plasma concentrations.
+Higher doses of theophylline may be required to achieve desired effect.
+Stopping St.
+John's Wort may result in theophylline toxicity.
+Sulfinpyrazone Increase theophylline clearance by increasing demethylation and hydroxylation.
+Decreases renal clearance of theophylline.
+20% decrease Tacrine Similar to cimetidine, also increases renal clearance of theophylline.
+90% increase Thiabendazole Decreases theophylline clearance.
+190% increase Ticlopidine Decreases theophylline clearance.
+60% increase Troleandomycin Similar to erythromycin.
+33 to 100% increase depending on troleandomycin dose.
+Verapamil Similar to disulfiram.
+20% increase Table III.
+
+## Theophylline: Drug interactions (part 7 of 8)
+Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
+Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
+Retrieved: 2026-10-06
+Keywords: theophylline, drug interactions, methylxanthine [epc]
+
+Drugs that have been documented not to interact with theophylline or drugs that produce no clinically significant interaction with theophylline.* * Refer to PRECAUTIONS, Drug Interactions for information regarding table. albuterol, systemic and inhaled mebendazole amoxicillin medroxyprogesterone ampicilin, with or without methylprednisolone sulbactam metronidazole atenolol metoprolol azithromycin nadolol caffeine, dietary ingestion nifedipine cefaclor nizatidine co-trimoxazole (trimethoprim and sulfamethoxazole) norfloxacin ofloxacin diltiazem omeprazole dirithromycin prednisone, prednisolone enflurane ranitidine famotidine rifabutin felodipine roxithromycin finasteride Sorbitol (purgative doses do not inhibit hydrocortisone theophylline absorption) isoflurane sucralfate isoniazid terbutaline, systemic isradipine terfenadine influenza vaccine tetracycline ketoconazole tocainide lomefloxacin Drug-Food Interactions:
+Taking theophylline extended-release tablets immediately after ingesting a high fat content meal (45 g fat, 55 g carbohydrates, 28 g protein, 789 calories) may result in a somewhat higher C max and delayed T max and a somewhat greater extent of absorption when compared to taking it in the fasting state.
+
+## Theophylline: Drug interactions (part 8 of 8)
+Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
+Label-set-id: 5e64036a-ee3e-42e7-9e59-881f88a4e298
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e64036a-ee3e-42e7-9e59-881f88a4e298
+Retrieved: 2026-10-06
+Keywords: theophylline, drug interactions, methylxanthine [epc]
+
+The influence of the type and amount of other foods, as well as the time interval between drug and food, has not been studied.
+The Effect of Other Drugs on Theophylline Serum Concentration Measurements:
+Most serum theophylline assays in clinical use are immunoassays which are specific for theophylline.
+Other xanthines such as caffeine, dyphylline, and pentoxifylline are not detected by these assays.
+Some drugs (e.g., cefazolin, cephalothin), however, may interfere with certain HPLC techniques.
+Caffeine and xanthine metabolites in neonates or patients with renal dysfunction may cause the reading from some dry reagent office methods to be higher than the actual serum theophylline concentration.
 
 ## Theophylline: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Theophylline (PD-Rx Pharmaceuticals, Inc.), effective 2026-07-29
@@ -33358,7 +36749,7 @@ Dual therapy for H. pylori with lansoprazole Amoxicillin, in combination with la
 (See the clarithromycin package insert, MICROBIOLOGY.) Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of amoxicillin and other antibacterial drugs, amoxicillin should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 
-## Amoxicillin: Dosage and administration (part 1 of 3)
+## Amoxicillin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Amoxicillin (REMEDYREPACK INC.), effective 2026-07-21
 Label-set-id: 102c62ca-da20-4866-84a8-e3513824af4a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=102c62ca-da20-4866-84a8-e3513824af4a
@@ -33378,7 +36769,7 @@ Dual therapy:
 ( 2.5 ) 2.1 Important Administration Instructions To minimize the potential for gastrointestinal intolerance, amoxcillin should be taken at the start of a meal.
 2.2 Dosage for Adults and Pediatric Patients Aged 3 Months (12 Weeks and Older) Treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 
-## Amoxicillin: Dosage and administration (part 2 of 3)
+## Amoxicillin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Amoxicillin (REMEDYREPACK INC.), effective 2026-07-21
 Label-set-id: 102c62ca-da20-4866-84a8-e3513824af4a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=102c62ca-da20-4866-84a8-e3513824af4a
@@ -33390,7 +36781,7 @@ In some infections, therapy may be required for several weeks.
 It may be necessary to continue clinical and/or bacteriological follow-up for several months after cessation of therapy.
 Table 1.
 
-## Amoxicillin: Dosage and administration (part 3 of 3)
+## Amoxicillin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Amoxicillin (REMEDYREPACK INC.), effective 2026-07-21
 Label-set-id: 102c62ca-da20-4866-84a8-e3513824af4a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=102c62ca-da20-4866-84a8-e3513824af4a
@@ -33399,6 +36790,25 @@ Keywords: amoxicillin, dosage and administration
 
 Dosage Recommendations for Adult and Pediatric Patients Aged 3 Months (12 Weeks) and Older Infection Severity Recommended Dosage for Adult and Pediatrics Patients Aged 3 Months and Older and Weight Greater than 40 kg Recommended Dosage for Pediatric Patient Aged 3 Months and Older and Weight Less than 40 kg Ear/Nose/Throat Skin/Skin Structure Genitourinary Tract Mild/Moderate 500 mg every 12 hours or 250 mg every 8 hours 25 mg/kg/day in divided doses every 12 hours or 20 mg/kg/day in divided doses every 8 hours Severe 875 mg every 12 hours or 500 mg every 8 hours 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours Lower Respiratory Tract Mild/Moderate or Severe 875 mg every 12 hours or 500 mg every 8 hours 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours 2.3 Dosage in Pediatric Patients Aged Less than 12 Weeks (3 months) It is recommended that there be at least 10 days’ treatment for any infection caused by Streptococcus pyogenes to prevent the occurrence of acute rheumatic fever.
 Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended upper dose of amoxicillin is 30 mg/kg/day divided every 12 hours.
+
+## Amoxicillin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Amoxicillin (REMEDYREPACK INC.), effective 2026-07-21
+Label-set-id: 102c62ca-da20-4866-84a8-e3513824af4a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=102c62ca-da20-4866-84a8-e3513824af4a
+Retrieved: 2026-10-06
+Keywords: amoxicillin, dosage and administration
+
+There are currently no dosing recommendations for pediatric patients with impaired renal function.
+Treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
+2.4Dosage for H. pylori Infection in Adults Triple therapy:
+The recommended adult oral dose is 1 gram amoxicillin, 500 mg clarithromycin, and 30 mg lansoprazole, all given twice daily (every 12 hours) for 14 days.
+Dual therapy:
+The recommended adult oral dose is 1 gram amoxicillin and 30 mg lansoprazole, each given three times daily (every 8 hours) for 14 days.
+Please refer to clarithromycin and lansoprazole full prescribing information.
+2.5 Dosage in Renal Impairment for Adults and Pediatric Patients Aged 3 Months and Older and Weight Greater than 40 kg Patients with impaired renal function do not generally require a reduction in dose unless the impairment is severe.
+Renal impairment patients with a glomerular filtration rate of less than 30 mL/min, should NOT receive the 875 mg dose.
+See dosage regimens in patients with severe renal impairment provided in Table 2.
+Table 2.
 
 ## Amoxicillin: Contraindications
 Source: FDA drug label, Amoxicillin (REMEDYREPACK INC.), effective 2026-07-21
@@ -34003,7 +37413,7 @@ The efficacy of cefuroxime axetil tablets in the treatment of penicillin-resista
 1.2 Acute Bacterial Otitis Media Cefuroxime axetil tablets are indicated for the treatment of pediatric patients (who can swallow tablets whole) with acute bacterial otitis media caused by susceptible strains of Streptococcus pneumoniae, Haemophilus influenzae (including β-lactamase–producing strains), Moraxella catarrhalis (including β-lactamase–producing strains), or Streptococcus pyogenes .
 1.3 Acute Bacterial Maxillary Sinusitis Cefuroxime axetil tablets are indicated for the treatment of adult and pediatric patients (13 years and older) with mild-to-moderate acute bacterial maxillary sinusitis caused by susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae (non - β-lactamase–producing strains only).
 
-## Cefuroxime Axetil: Dosage and administration (part 1 of 3)
+## Cefuroxime Axetil: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Cefuroxime Axetil (REMEDYREPACK INC.), effective 2026-08-05
 Label-set-id: 76cec54f-d167-4298-951b-5411a3c47f4a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=76cec54f-d167-4298-951b-5411a3c47f4a
@@ -34015,7 +37425,7 @@ Keywords: cefuroxime axetil, cefuroxime, dosage and administration
 ( 2.2 ) Administer cefuroxime axetil tablets as described in the dosage guidelines.
 ( 2.2 ) Dosage adjustment is required for patients with impaired renal function.
 
-## Cefuroxime Axetil: Dosage and administration (part 2 of 3)
+## Cefuroxime Axetil: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Cefuroxime Axetil (REMEDYREPACK INC.), effective 2026-08-05
 Label-set-id: 76cec54f-d167-4298-951b-5411a3c47f4a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=76cec54f-d167-4298-951b-5411a3c47f4a
@@ -34026,7 +37436,7 @@ Keywords: cefuroxime axetil, cefuroxime, dosage and administration
 Administer cefuroxime axetil tablets as described in the appropriate dosage guidelines [see Dosage and Administration (2.2) ].
 Administer cefuroxime axetil tablets with or without food.
 
-## Cefuroxime Axetil: Dosage and administration (part 3 of 3)
+## Cefuroxime Axetil: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Cefuroxime Axetil (REMEDYREPACK INC.), effective 2026-08-05
 Label-set-id: 76cec54f-d167-4298-951b-5411a3c47f4a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=76cec54f-d167-4298-951b-5411a3c47f4a
@@ -34038,6 +37448,16 @@ Pediatric patients (aged 13 years and older) who cannot swallow the cefuroxime a
 Table 1.
 Adult Patients and Pediatric Patients Dosage Guidelines for Cefuroxime Axetil Tablets a The safety and effectiveness of cefuroxime axetil tablets administered for less than 10 days in patients with acute exacerbations of chronic bronchitis have not been established. b When crushed, the tablet has a strong, persistent bitter taste.
 Therefore, patients who cannot swallow the tablet whole should receive the oral suspension.
+
+## Cefuroxime Axetil: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Cefuroxime Axetil (REMEDYREPACK INC.), effective 2026-08-05
+Label-set-id: 76cec54f-d167-4298-951b-5411a3c47f4a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=76cec54f-d167-4298-951b-5411a3c47f4a
+Retrieved: 2026-10-06
+Keywords: cefuroxime axetil, cefuroxime, dosage and administration
+
+Infection Dosage Duration (Days) Adults and Adolescents (13 years and older) Pharyngitis/tonsillitis (mild to moderate) 250 mg every 12 hours 10 Acute bacterial maxillary sinusitis (mild to moderate) 250 mg every 12 hours 10 Acute bacterial exacerbations of chronic bronchitis (mild to moderate) 250 mg or 500 mg every 12 hours 10 a Uncomplicated skin and skin-structure infections 250 mg or 500 mg every 12 hours 10 Uncomplicated urinary tract infections 250 mg every 12 hours 7 to 10 Uncomplicated gonorrhea 1,000 mg single dose Early Lyme disease 500 mg every 12 hours 20 Pediatric Patients younger than 13 years (who can swallow tablets whole) b Acute bacterial otitis media 250 mg every 12 hours 10 Acute bacterial maxillary sinusitis 250 mg every 12 hours 10 2.5 Dosage in Patients with Impaired Renal Function A dosage interval adjustment is required for patients whose creatinine clearance is less than 30 mL/min, as listed in Table 4 below, because cefuroxime is eliminated primarily by the kidney [see Clinical Pharmacology (12.3) ].
+Table 4.
 
 ## Cefuroxime Axetil: Contraindications
 Source: FDA drug label, Cefuroxime Axetil (REMEDYREPACK INC.), effective 2026-08-05
@@ -34228,7 +37648,7 @@ Cefdinir has not, however, been studied for the prevention of rheumatic fever fo
 Only intramuscular penicillin has been demonstrated to be effective for the prevention of rheumatic fever.
 Uncomplicated Skin and Skin Structure Infections Caused by Staphylococcus aureus (including β-lactamase producing strains) and Streptococcus pyogenes .
 
-## Cefdinir: Dosage and administration (part 1 of 3)
+## Cefdinir: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Cefdinir (A-S Medication Solutions), effective 2026-08-20
 Label-set-id: 0eeac6df-bad7-413e-8b41-0660f3a99373
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0eeac6df-bad7-413e-8b41-0660f3a99373
@@ -34240,7 +37660,7 @@ Once-daily dosing for 10 days is as effective as BID dosing.
 Once-daily dosing has not been studied in skin infections; therefore, cefdinir for oral suspension USP should be administered twice daily in this infection.
 Cefdinir for oral suspension USP may be administered without regard to meals.
 
-## Cefdinir: Dosage and administration (part 2 of 3)
+## Cefdinir: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Cefdinir (A-S Medication Solutions), effective 2026-08-20
 Label-set-id: 0eeac6df-bad7-413e-8b41-0660f3a99373
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0eeac6df-bad7-413e-8b41-0660f3a99373
@@ -34255,7 +37675,7 @@ However, the following formula may be used to estimate creatinine clearance (CL 
 For estimates to be valid, serum creatinine levels should reflect steady-state levels of renal function.
 Males:
 
-## Cefdinir: Dosage and administration (part 3 of 3)
+## Cefdinir: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Cefdinir (A-S Medication Solutions), effective 2026-08-20
 Label-set-id: 0eeac6df-bad7-413e-8b41-0660f3a99373
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0eeac6df-bad7-413e-8b41-0660f3a99373
@@ -34272,6 +37692,21 @@ Patients on Hemodialysis Hemodialysis removes cefdinir from the body.
 In patients maintained on chronic hemodialysis, the recommended initial dosage regimen is a 300 mg or 7 mg/kg dose every other day.
 At the conclusion of each hemodialysis session, 300 mg (or 7 mg/kg) should be given.
 Subsequent doses (300 mg or 7 mg/kg) are then administered every other day.
+
+## Cefdinir: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Cefdinir (A-S Medication Solutions), effective 2026-08-20
+Label-set-id: 0eeac6df-bad7-413e-8b41-0660f3a99373
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0eeac6df-bad7-413e-8b41-0660f3a99373
+Retrieved: 2026-10-06
+Keywords: cefdinir, dosage and administration
+
+Directions for Mixing Cefdinir for Oral Suspension, USP Final Concentration Final Volume (mL) Amount of Water Directions 125 mg/5 mL 60 50 mL Tap bottle to loosen powder, then add water in 2 portions.
+Shake well after each aliquot.
+100 80 mL 250 mg/5 mL 60 49 mL Tap bottle to loosen powder, then add water in 2 portions.
+Shake well after each aliquot.
+100 80 mL After mixing, the suspension can be stored at room temperature (25°C/77°F).
+The container should be kept tightly closed, and the suspension should be shaken well before each administration.
+The suspension may be used for 10 days, after which any unused portion must be discarded.
 
 ## Cefdinir: Contraindications
 Source: FDA drug label, Cefdinir (A-S Medication Solutions), effective 2026-08-20
@@ -34618,7 +38053,7 @@ Keywords: clarithromycin, uses, macrolide antimicrobial [epc], cytochrome p450 3
 Haemophilus influenzae (in adults) Mycoplasma pneumoniae , Streptococcus pneumoniae , Chlamydophila pneumoniae 1.4 Pharyngitis/Tonsillitis Clarithromycin tablets, USP are indicated for the treatment of mild to moderate infections caused by susceptible isolates due to Streptococcus pyogenes as an alternative in individuals who cannot use first line therapy.
 1.5 Uncomplicated Skin and Skin Structure Infections Clarithromycin tablets, USP are indicated for the treatment of mild to moderate infections caused by susceptible isolates due to Staphylococcus aureus , or Streptococcus pyogenes .
 
-## Clarithromycin: Dosage and administration (part 1 of 3)
+## Clarithromycin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
 Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
@@ -34632,7 +38067,7 @@ See full prescribing information (FPI) for additional information.
 2.2 Adult Dosage The recommended dosages of clarithromycin for the treatment of mild to moderate infections in adults are listed in Table 1.
 Table 1.
 
-## Clarithromycin: Dosage and administration (part 2 of 3)
+## Clarithromycin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
 Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
@@ -34643,7 +38078,7 @@ Adult Dosage Guidelines Clarithromycin tablets Infection Dosage (every 12 hours)
 For H. influenzae and H. parainfluenzae , use 500 mg. b For H. parainfluenzae , the duration of therapy is 7 days. c For H. parainfluenzae and M. catarrhalis use clarithromycin extended-release tablets only. d For H. influenzae , the duration of therapy is 7 days. e Clarithromycin therapy should continue if clinical response is observed.
 Clarithromycin can be discontinued when the patient is considered at low risk of disseminated infection.
 
-## Clarithromycin: Dosage and administration (part 3 of 3)
+## Clarithromycin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
 Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
@@ -34656,6 +38091,21 @@ In patients with an ulcer present at the time of initiation of therapy, an addit
 Dual therapy: clarithromycin/omeprazole The recommended adult dosage is 500 mg clarithromycin given every 8 hours and 40 mg omeprazole given once every morning for 14 days.
 An additional 14 days of omeprazole 20 mg once daily is recommended for ulcer healing and symptom relief [see Indications and Usage (1.8) and Clinical Studies (14.3) ] .
 2.4 Pediatric Dosage The recommended daily dosage is 15 mg/kg/day divided every 12 hours for 10 days (up to the adult dose).
+
+## Clarithromycin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, dosage and administration, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Refer to dosage regimens for mycobacterial infections in pediatric patients for additional dosage information [see Dosage and Administration (2.5) ] .
+2.5 Dosage Regimens for Mycobacterial Infections For the treatment of disseminated infection due to Mycobacterium avium complex (MAC), clarithromycin is recommended as the primary agents.
+Clarithromycin should be used in combination with other antimycobacterial drugs (e.g., ethambutol) that have shown in vitro activity against MAC or clinical benefit in MAC treatment [see Clinical Studies (14.1) ] .
+Adult Patients For treatment and prophylaxis of mycobacterial infections in adults, the recommended dose of clarithromycin is 500 mg every 12 hours.
+Pediatric Patients For treatment and prophylaxis of mycobacterial infections in pediatric patients, the recommended dose is 7.5 mg/kg every 12 hours up to 500 mg every 12 hours. [See Use in Specific Populations (8.4) and Clinical Studies (14.1) ] .
+Clarithromycin therapy should continue if clinical response is observed.
+Clarithromycin can be discontinued when the patient is considered at low risk of disseminated infection.
 
 ## Clarithromycin: Contraindications (part 1 of 2)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
@@ -34684,7 +38134,7 @@ Concomitant administration of clarithromycin with HMG-CoA reductase inhibitors (
 4.7 Lurasidone Concomitant administration of clarithromycin and lurasidone is contraindicated since it may result in an increase in lurasidone exposure and the potential for serious adverse reactions [see Drug Interactions (7) ] .
 4.8 Contraindications for Co-administered Drugs For information about contraindications of other drugs indicated in combination with clarithromycin, refer to their full prescribing information (contraindications section).
 
-## Clarithromycin: Drug interactions (part 1 of 3)
+## Clarithromycin: Drug interactions (part 1 of 10)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
 Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
@@ -34699,7 +38149,7 @@ Clinically Significant Drug Interactions with Clarithromycin Drugs That Are Affe
 Disopyramide Quinidine Dofetilide Amiodarone Sotalol Procainamide Not Recommended Disopyramide, Quinidine:
 There have been postmarketing reports of torsades de pointes occurring with concurrent use of clarithromycin and quinidine or disopyramide.
 
-## Clarithromycin: Drug interactions (part 2 of 3)
+## Clarithromycin: Drug interactions (part 2 of 10)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
 Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
@@ -34719,7 +38169,7 @@ Some patients have shown clinical signs consistent with digoxin toxicity, includ
 Monitoring of serum digoxin concentrations should be considered, especially for patients with digoxin concentrations in the upper therapeutic range.
 Oral Anticoagulants:
 
-## Clarithromycin: Drug interactions (part 3 of 3)
+## Clarithromycin: Drug interactions (part 3 of 10)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
 Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
@@ -34739,6 +38189,135 @@ Antifungals:
 Itraconazole Use With Caution Itraconazole:
 Both clarithromycin and itraconazole are substrates and inhibitors of CYP3A, potentially leading to a bi-directional drug interaction when administered concomitantly (see also Itraconazole under “Drugs That Affect Clarithromycin” in the table below).
 Clarithromycin may increase the plasma concentrations of itraconazole.
+
+## Clarithromycin: Drug interactions (part 4 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions.
+Fluconazole No Dose Adjustment Fluconazole: [see Pharmacokinetics (12.3) ] Anti-Gout Agents:
+Colchicine (in patients with renal or hepatic impairment) Contraindicated Colchicine:
+Colchicine is a substrate for both CYP3A and the efflux transporter, P-glycoprotein (Pgp).
+Clarithromycin and other macrolides are known to inhibit CYP3A and Pgp.
+The dose of colchicine should be reduced when co-administered with clarithromycin in patients with normal renal and hepatic function [see Contraindications (4.4) and Warnings and Precautions (5.4) ] .
+Colchicine (in patients with normal renal and hepatic function) Use With Caution Antipsychotics:
+Pimozide Contraindicated Pimozide: [See Contraindications (4.2) ] Quetiapine Quetiapine:
+Quetiapine is a substrate for CYP3A4, which is inhibited by clarithromycin.
+Co-administration with clarithromycin could result in increased quetiapine exposure and possible quetiapine related toxicities.
+There have been postmarketing reports of somnolence, orthostatic hypotension, altered state of consciousness, neuroleptic malignant syndrome, and QT prolongation during concomitant administration.
+
+## Clarithromycin: Drug interactions (part 5 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Refer to quetiapine prescribing information for recommendations on dose reduction if co-administered with CYP3A4 inhibitors such as clarithromycin.
+Lurasidone Lurasidone: [See Contraindications (4.7) ] Antispasmodics:
+Tolterodine (patients deficient in CYP2D6 activity) Use With Caution Tolterodine:
+The primary route of metabolism for tolterodine is via CYP2D6.
+However, in a subset of the population devoid of CYP2D6, the identified pathway of metabolism is via CYP3A.
+In this population subset, inhibition of CYP3A results in significantly higher serum concentrations of tolterodine.
+Tolterodine 1 mg twice daily is recommended in patients deficient in CYP2D6 activity (poor metabolizers) when co-administered with clarithromycin.
+Antivirals:
+Atazanavir Use With Caution Atazanavir:
+Both clarithromycin and atazanavir are substrates and inhibitors of CYP3A, and there is evidence of a bi-directional drug interaction (see Atazanavir under “Drugs That Affect Clarithromycin” in the table below) [see Pharmacokinetics (12.3) ] .
+Saquinavir (in patients with decreased renal function) Saquinavir:
+
+## Clarithromycin: Drug interactions (part 6 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Both clarithromycin and saquinavir are substrates and inhibitors of CYP3A and there is evidence of a bi-directional drug interaction (see Saquinavir under “Drugs That Affect Clarithromycin” in the table below) [see Pharmacokinetics (12.3) ] .
+Ritonavir Etravirine Ritonavir, Etravirine:
+(see Ritonavir and Etravirine under “Drugs That Affect Clarithromycin” in the table below) [see Pharmacokinetics (12.3) ] .
+Maraviroc Maraviroc:
+Clarithromycin may result in increases in maraviroc exposures by inhibition of CYP3A metabolism.
+See Selzentry ® prescribing information for dose recommendation when given with strong CYP3A inhibitors such as clarithromycin.
+Boceprevir (in patients with normal renal function) Didanosine No Dose Adjustment Boceprevir:
+Both clarithromycin and boceprevir are substrates and inhibitors of CYP3A, potentially leading to a bi-directional drug interaction when co-administered.
+No dose adjustments are necessary for patients with normal renal function (see Victrelis ® prescribing information).
+Zidovudine Zidovudine:
+Simultaneous oral administration of clarithromycin immediate-release tablets and zidovudine to HIV-infected adult patients may result in decreased steady-state zidovudine concentrations.
+
+## Clarithromycin: Drug interactions (part 7 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Administration of clarithromycin and zidovudine should be separated by at least two hours [see Pharmacokinetics (12.3) ] .
+The impact of co-administration of clarithromycin extended-release tablets or granules and zidovudine has not been evaluated.
+Calcium Channel Blockers:
+Verapamil Use With Caution Verapamil:
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, [see Warnings and Precautions (5.4) ] .
+Amlodipine Diltiazem Amlodipine, Diltiazem: [See Warnings and Precautions (5.4) ] Nifedipine Nifedipine:
+Nifedipine is a substrate for CYP3A.
+Clarithromycin and other macrolides are known to inhibit CYP3A.
+There is potential of CYP3A-mediated interaction between nifedipine and clarithromycin.
+Hypotension and peripheral edema were observed when clarithromycin was taken concomitantly with nifedipine [see Warnings and Precautions (5.4) ] .
+Ergot Alkaloids:
+Ergotamine Dihydroergotamine Contraindicated Ergotamine, Dihydroergotamine:
+
+## Clarithromycin: Drug interactions (part 8 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Postmarketing reports indicate that coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system [see Contraindications (4.6) ] .
+Gastroprokinetic Agents:
+Cisapride Contraindicated Cisapride: [See Contraindications (4.2) ] Lipid-lowering agents:
+Lomitapide Lovastatin Simvastatin Contraindicated Lomitapide, Lovastatin, Simvastatin:
+Clarithromycin may increase the exposure of these drugs by inhibition of CYP3A metabolism, thereby increasing the risk of toxicities from these drugs [See Contraindications (4.5) and Warnings and Precautions (5.4) ] Atorvastatin, Pravastatin, Fluvastatin: [See Warnings and Precautions (5.4) ] Atorvastatin Pravastatin Use With Caution Fluvastatin No Dose Adjustment Hypoglycemic Agents:
+Nateglinide Pioglitazone Repaglinide Rosiglitazone Use With Caution Nateglinide, Pioglitazone, Repaglinide, Rosiglitazone: [See Warnings and Precautions (5.4) and Adverse Reactions (6.2) ] Insulin Insulin: [See Warnings and Precautions (5.4) and Adverse Reactions (6.2) ] Immunosuppressants:
+Cyclosporine Use With Caution Cyclosporine:
+
+## Clarithromycin: Drug interactions (part 9 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with cyclosporine.
+Tacrolimus Tacrolimus:
+There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with tacrolimus.
+Phosphodiesterase inhibitors:
+Sildenafil Tadalafil Vardenafil Use With Caution Sildenafil, Tadalafil, Vardenafil:
+Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A, and CYP3A will be inhibited by concomitant administration of clarithromycin.
+Co-administration of clarithromycin with sildenafil, tadalafil, or vardenafil will result in increased exposure of these phosphodiesterase inhibitors.
+Co-administration of these phosphodiesterase inhibitors with clarithromycin is not recommended.
+Increased systemic exposure of these drugs may occur with clarithromycin; reduction of dosage for phosphodiesterase inhibitors should be considered (see their respective prescribing information).
+Proton Pump Inhibitors:
+Omeprazole No Dose Adjustment Omeprazole:
+
+## Clarithromycin: Drug interactions (part 10 of 10)
+Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
+Label-set-id: 4d42821d-ce7a-7d64-e063-6294a90a0875
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d42821d-ce7a-7d64-e063-6294a90a0875
+Retrieved: 2026-10-06
+Keywords: clarithromycin, drug interactions, macrolide antimicrobial [epc], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when coadministered with clarithromycin as a result of increased omeprazole exposures [see Pharmacokinetics (12.3) ] (see also Omeprazole under “Drugs That Affect Clarithromycin” in the table below).
+Xanthine Derivatives:
+Theophylline Use With Caution Theophylline:
+Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations [see Pharmacokinetics (12.3) ] .
+Monitoring of serum theophylline concentrations should be considered for patients receiving high doses of theophylline or with baseline concentrations in the upper therapeutic range.
+Triazolobenzodiazepines and Other Related Benzodiazepines:
+Midazolam Use With Caution Midazolam:
+When oral midazolam is co-administered with clarithromycin, dose adjustments may be necessary and possible prolongation and intensity of effect should be anticipated [see Warnings and Precautions (5.4) and Pharmacokinetics (12.3) ] .
+Alprazolam Triazolam Triazolam, Alprazolam:
+Caution and appropriate dose adjustments should be considered when triazolam or alprazolam is co-administered with clarithromycin.
 
 ## Clarithromycin: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Clarithromycin (Solaris Pharma Corporation), effective 2026-04-09
@@ -35333,7 +38912,7 @@ Keywords: ciprofloxacin hydrochloride, ciprofloxacin, uses
 1.2 Bone and Joint Infections Ciprofloxacin tablets are indicated in adult patients for treatment of bone and joint infections caused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
 1.3 Complicated Intra-Abdominal Infections Ciprofloxacin tablets are indicated in adult patients for treatment of complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiella pneumoniae, or Bacteroides fragilis.
 
-## Ciprofloxacin Hydrochloride: Dosage and administration (part 1 of 3)
+## Ciprofloxacin Hydrochloride: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35342,7 +38921,7 @@ Keywords: ciprofloxacin hydrochloride, ciprofloxacin, dosage and administration
 
 Infection Dose Frequency Duration Skin and Skin Structure 500 mg to 750 mg every 12 hours 7 to 14 days Bone and Joint 500 mg to 750 mg every 12 hours 4 to 8 weeks Complicated Intra-Abdominal 500 mg every 12 hours 7 to 14 days Infectious Diarrhea 500 mg every 12 hours 5 to 7 days Typhoid Fever 500 mg every 12 hours 10 days Uncomplicated Gonorrhea 250 mg single dose single dose Inhalational anthrax (post-exposure) 500 mg every 12 hours 60 days Plague 500 mg to 750 mg every 12 hours 14 days Chronic Bacterial Prostatitis 500 mg every 12 hours 28 days Lower Respiratory Tract 500 mg to 750 mg every 12 hours 7 to 14 days Urinary Tract 250 mg to 500 mg every 12 hours 7 to 14 days Acute Uncomplicated Cystitis 250 mg every 12 hours 3 days Acute Sinusitis 500 mg every 12 hours 10 days Adults with creatinine clearance 30-50 mL/min 250-500 mg q 12 h ( 2.3 ) Adults with creatinine clearance 5–29 mL/min 250–500 mg q 18 h ( 2.3 ) Patients on hemodialysis or peritoneal dialysis 250–500 mg q 24 h (after dialysis) ( 2.3 ) Pediatric Oral Dosage Guidelines Infection Dose Frequency Duration Complicated UTI and Pyelonephritis (1 to 17 years of age) 10 to 20 mg/kg (maximum 750 mg per dose) Every 12 hours 10 to 21 days Inhalational Anthrax (Post-Exposure) 15 mg/kg (maximum 500 mg per dose) Every 12 hours
 
-## Ciprofloxacin Hydrochloride: Dosage and administration (part 2 of 3)
+## Ciprofloxacin Hydrochloride: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35356,7 +38935,7 @@ Table 1:
 Adult Dosage Guidelines Infection Dose Frequency Usual Durations Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure).
 Skin and Skin Structure 500 mg to 750 mg every 12 hours 7 to 14 days Bone and Joint 500 mg to 750 mg every 12 hours 4 to 8 weeks Complicated Intra-Abdominal Used in conjunction with metronidazole.
 
-## Ciprofloxacin Hydrochloride: Dosage and administration (part 3 of 3)
+## Ciprofloxacin Hydrochloride: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35367,6 +38946,21 @@ Keywords: ciprofloxacin hydrochloride, ciprofloxacin, dosage and administration
 500 mg every 12 hours 60 days Plague 500 mg to 750 mg every 12 hours 14 days Chronic Bacterial Prostatitis 500 mg every 12 hours 28 days Lower Respiratory Tract Infections 500 mg to 750 mg every 12 hours 7 to 14 days Urinary Tract Infections 250 mg to 500 mg every 12 hours 7 to 14 days Acute Uncomplicated Cystitis 250 mg every 12 hours 3 days Acute Sinusitis 500 mg every 12 hours 10 days Conversion of IV to Oral Dosing in Adults Patients whose therapy is started with ciprofloxacin IV may be switched to citrofloxacin tablets when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3) ].
 Table 2:
 
+## Ciprofloxacin Hydrochloride: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
+Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
+Retrieved: 2026-10-06
+Keywords: ciprofloxacin hydrochloride, ciprofloxacin, dosage and administration
+
+Equivalent AUC Dosing Regimens Ciprofloxacin Oral Dosage Equivalent Ciprofloxacin IV Dosage 250 mg Tablet every 12 hours 200 mg intravenous every 12 hours 500 mg Tablet every 12 hours 400 mg intravenous every 12 hours 750 mg Tablet every 12 hours 400 mg intravenous every 8 hours 2.2 Dosage in Pediatric Patients Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
+Ciprofloxacin should be administered as described in Table 3.
+Table 3:
+Pediatric Dosage Guidelines Infection Dose Frequency Total Duration Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) 10mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) Every 12 hours 10 to 21 days The total duration of therapy for cUTI and pyelonephritis in the clinical trail was determined by the physician.
+The mean duration of treatment was 11 days (range 10 to 21 days).
+Inhalational Anthrax (Post-Exposure) Begin drug administration as soon as possible after suspected or confirmed exposure.
+15 mg/kg maximum 500 mg per dose) Every 12 hours 60 days Plague , Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis.
+
 ## Ciprofloxacin Hydrochloride: Contraindications
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35376,7 +38970,7 @@ Keywords: ciprofloxacin hydrochloride, ciprofloxacin, contraindications
 
 4 CONTRAINDICATIONS Known hypersensitivity to ciprofloxacin or other quinolones ( 4.1 , 5.6 , 5.7 ) Concomitant administration with tizanidine ( 4.2 ) 4.1 Hypersensitivity Ciprofloxacin is contraindicated in persons with a history of hypersensitivity to ciprofloxacin, any member of the quinolone class of antibacterials, or any of the product components [see Warnings and Precautions (5.7) ]. 4.2 Tizanidine Concomitant administration with tizanidine is contraindicated [see Drug Interactions (7) ].
 
-## Ciprofloxacin Hydrochloride: Drug interactions (part 1 of 3)
+## Ciprofloxacin Hydrochloride: Drug interactions (part 1 of 6)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35389,7 +38983,7 @@ Table 8:
 Drugs That are Affected by and Affecting Ciprofloxacin Drugs That are Affected by Ciprofloxacin Drug(s) Recommendation Comments Tizanidine Contraindicated Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2) ] Theophylline Avoid Use (Plasma Exposure Likely to be Increased and Prolonged) Concurrent administration of ciprofloxacin with theophylline may result in increased risk of a patienyt developing central nervous system (CNS) or other adverse reactions.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Warnings and Precautions (5.10) ].
 
-## Ciprofloxacin Hydrochloride: Drug interactions (part 2 of 3)
+## Ciprofloxacin Hydrochloride: Drug interactions (part 2 of 6)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35402,7 +38996,7 @@ Fatalities have been reported.
 Monitor blood glucose when ciprofloxacin is co-administered with oral antidiabetic drugs [see Adverse Reactions (6.1) ].
 Phenytoin Use with caution Altered serum levels of phenytoin (increased and decreased) To avoid the loss of seizure control associated with decreased phenytoin levels and to prevent phenytoin overdose-related adverse reactions upon ciprofloxacin discontinuation in patients receiving both agents, monitor phenytoin therapy, including phenytoin serum concentration during and shortly after co-adminstration of ciprofloxacin with phenytoin.
 
-## Ciprofloxacin Hydrochloride: Drug interactions (part 3 of 3)
+## Ciprofloxacin Hydrochloride: Drug interactions (part 3 of 6)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
 Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
@@ -35415,6 +39009,45 @@ Monitor prothrombin time and INR frequently during and shortly after co-administ
 Methotrexate Use with caution Inhibition of methotrexate renal tubular transport potentially leading to increased methotrexate plasma levels Potential increase in the risk of methotrexate associated toxic reactions.
 Therefore, carefully monitor patients under methotrexate therapy when concomitant ciprofloxacin therapy is indicated.
 Ropinirole Use with caution Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.16) ].
+
+## Ciprofloxacin Hydrochloride: Drug interactions (part 4 of 6)
+Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
+Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
+Retrieved: 2026-10-06
+Keywords: ciprofloxacin hydrochloride, ciprofloxacin, drug interactions
+
+Clozapine Use with caution Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin are advised.
+NSAIDs Use with caution Non-steroidal anti-inflammatory drugs (but not acetyl salicylic acid) in combination of very high doses of quinolones have been shown to provoke convulsions in pre-clinical studies and in postmarketing.
+Sildenafil Use with caution Two-fold increase in exposure Monitor for sildenafil toxicity [see Clinical Pharmacology (12.3) ].
+Duloxetine Avoid Use Five-fold increase in duloxetine exposure If unavoidable, monitor for duloxetine toxicity Caffeine/Xanthine Derivatives Use with caution Reduced clearance resulting in elevated levels and prolongation of serum half-life Ciprofloxacin inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products).
+Monitor for xanthine toxicity and adjust doses as necessary.
+
+## Ciprofloxacin Hydrochloride: Drug interactions (part 5 of 6)
+Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
+Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
+Retrieved: 2026-10-06
+Keywords: ciprofloxacin hydrochloride, ciprofloxacin, drug interactions
+
+Zolpidem Avoid Use Co-administration with ciprofloxacin may increase blood levels of zolpidem, concurrent use is not recommended Drug(s) Affecting Pharmacokinetics of Ciprofloxacin Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations (magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate); sucralfate;
+Videx ® (didanosine) chewable/buffered tablets or pediatric powder; other highly buffered drugs; or products containing calcium, iron, or zinc and dairy products) Ciprofloxacin should be taked at least two hours before or six hours after Multivalent cation-containing products administration [see Dosage and Administration (2.4) ].
+Decrease ciprofloxacin absorption, resulting in lower serum and urine levels Probenecid Use with caution (interferes with renal tubular secretion of ciprofloxacin and increases ciprofloxacin serum levels) Potentiation of ciprofloxacin toxicity may occur.
+Interacting Drug Interaction Theophylline Serious and fatal reactions.
+Avoid concomitant use.
+Monitor serum level ( 7 ) Warfarin Anticoagulant effect enhanced.
+Monitor prothrombin time, INR, and bleeding ( 7 ) Antidiabetic agents Hypoglycemia including fatal outcomes have been reported.
+
+## Ciprofloxacin Hydrochloride: Drug interactions (part 6 of 6)
+Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
+Label-set-id: 14c3bc33-201d-492e-9aee-a4d84c813a3d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14c3bc33-201d-492e-9aee-a4d84c813a3d
+Retrieved: 2026-10-06
+Keywords: ciprofloxacin hydrochloride, ciprofloxacin, drug interactions
+
+Monitor blood glucose ( 7 ) Phenytoin Monitor phenytoin level ( 7 ) Methotrexate Monitor for methotrexate toxicity ( 7 ) Cyclosporine May increase serum creatinine.
+Monitor serum creatinine ( 7 ) Multivalent cation-containing products including antacids, metal cations or didanosine Decreased ciprofloxacin absorption.
+Take ciprofloxacin 2 hours before or 6 hours after administration of multivalent cation containing drugs ( 7 )
 
 ## Ciprofloxacin Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Ciprofloxacin Hydrochloride (PD-Rx Pharmaceuticals, Inc.), effective 2026-08-26
@@ -35569,7 +39202,7 @@ Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combinatio
 1.2 Community-Acquired Pneumonia:
 7 to 14 day Treatment Regimen Levofloxacin tablets are indicated in adult patients for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration ( 2.1 ) and Clinical Studies ( 14.2)].
 
-## Levofloxacin: Dosage and administration (part 1 of 3)
+## Levofloxacin: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35578,7 +39211,7 @@ Keywords: levofloxacin, dosage and administration, fluoroquinolone antibacterial
 
 Dosage in Adult and Pediatric Patients with Creatinine Clearance greater than or equal to 50 mL/minute (2.1, 2.2) Type of Infection Dose Every 24 hours Duration (days) Nosocomial Pneumonia (1.1) 750 mg 7 to 14 Community Acquired Pneumonia (1.2) 500 mg 7 to 14 Community Acquired Pneumonia (1.3) 750 mg 5 Complicated SSSI (1.4) 750 mg 7 to 14 Uncomplicated SSSI (1.5) 500 mg 7 to 10 Chronic Bacterial Prostatitis (1.6) 500 mg 28 Inhalational Anthrax (Post-Exposure) (1.7) Adults and Pediatric Patients 50 kg or greater Pediatric Patients 30 kg to less than 50 kg (2.2) 500 mg 250 mg every 12 hours 60 60 Plague (1.8) Adults and Pediatric Patients 50 kg or greater Pediatric Patients 30 kg to less than 50 kg (2.2) 500 mg 250 mg every 12 hours 10 to 14 10 to 14 Complicated UTI (1.9) or Acute Pyelonephritis (1.11) 750 mg 5 Complicated UTI (1.10) or Acute Pyelonephritis (1.11) 250 mg 10 Uncomplicated UTI (1.12) 250 mg 3 Acute Bacterial Exacerbation of Chronic Bronchitis (1.13) 500 mg 7 Acute Bacterial Sinusitis (1.14) 750 mg 5 500 mg 10 to 14 • Adjust dose for creatinine clearance less than 50 mL/minute ( 2.3 , 8.6 , 12.3 ) 2.1 Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Clearance ≥ 50 mL/minute The usual dose of levofloxacin tablets is 250 mg, 500 mg, or 750 mg
 
-## Levofloxacin: Dosage and administration (part 2 of 3)
+## Levofloxacin: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35587,7 +39220,7 @@ Keywords: levofloxacin, dosage and administration, fluoroquinolone antibacterial
 
 Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Clearance greater than or equal to 50 mL/minute) Type of Infection* Dosed Every 24 hours Duration (days) † Nosocomial Pneumonia 750 mg 7 to 14 Community Acquired Pneumonia ‡ 500 mg ‡ 7 to 14 ‡ Community Acquired Pneumonia § 750 mg § 5 § Complicated Skin and Skin Structure Infections (SSSI) 750 mg 7 to 14 Uncomplicated SSSI 500 mg 7 to 10 Chronic Bacterial Prostatitis 500 mg 28 Inhalational Anthrax (Post-Exposure), adult and pediatric patients weighing 50 kg Þ,ß or greater Pediatric patients weighing 30 kg to less than 50 kg Þ,ß 500 mg see Table 2 below (2.2) 60 ß 60 ß Plague, adult and pediatric patients weighing 50 kg à or greater Pediatric patients weighing 30 kg to less than 50 kg 500 mg see Table 2 below (2.2) 10 to 14 10 to 14 Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP) ¶ 750 mg 5 Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP) # 250 mg # 10 # Uncomplicated Urinary Tract Infection 250 mg 3 Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) 500 mg 7 Acute Bacterial Sinusitis (ABS) 750 mg 5 500 mg 10 to 14 * Due to the designated pathogens [see Indications and Usage ( 1)]. † Sequential therapy (intravenous levofloxacin to oral levofloxacin tablets) may
 
-## Levofloxacin: Dosage and administration (part 3 of 3)
+## Levofloxacin: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35601,6 +39234,16 @@ These recommendations apply to patients with creatinine clearance ≥ 50 mL/minu
 For patients with creatinine clearance less than 50 mL/min, adjustments to the dosing regimen are required [see Dosage and Administration ( 2.3 )].
 Table 1:
 
+## Levofloxacin: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
+Retrieved: 2026-10-06
+Keywords: levofloxacin, dosage and administration, fluoroquinolone antibacterial [epc]
+
+be instituted at the discretion of the healthcare provider. ‡ Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage ( 1.2 )]. § Due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Indications and Usage ( 1.3 )]. ¶ This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia. # This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli . Þ Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis .
+This indication is based on a surrogate endpoint.
+
 ## Levofloxacin: Contraindications
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35610,7 +39253,7 @@ Keywords: levofloxacin, contraindications, fluoroquinolone antibacterial [epc]
 
 4 CONTRAINDICATIONS Levofloxacin tablets are contraindicated in persons with known hypersensitivity to levofloxacin, or other quinolone antibacterials [see Warnings and Precautions ( 5.3 )]. Known hypersensitivity to levofloxacin or other quinolones ( 4 , 5.7 )
 
-## Levofloxacin: Drug interactions (part 1 of 3)
+## Levofloxacin: Drug interactions (part 1 of 5)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35623,7 +39266,7 @@ Monitor prothrombin time, INR and watch for bleeding ( 7.2 ) Antidiabetic agents
 Antacids, Sucralfate, Metal Cations, Multivitamins While the chelation by divalent cations is less marked than with other fluoroquinolones, concurrent administration of levofloxacin tablets with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 Tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine may substantially interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 
-## Levofloxacin: Drug interactions (part 2 of 3)
+## Levofloxacin: Drug interactions (part 2 of 5)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35639,7 +39282,7 @@ Prothrombin time, International Normalized Ratio (INR), or other suitable antico
 Patients should also be monitored for evidence of bleeding [see Adverse Reactions ( 6.3) and Patient Counseling Information ( 17)].
 7.3 Antidiabetic Agents Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
 
-## Levofloxacin: Drug interactions (part 3 of 3)
+## Levofloxacin: Drug interactions (part 3 of 5)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
 Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
@@ -35652,6 +39295,36 @@ Therefore, careful monitoring of blood glucose is recommended when these agents 
 Similarly, no apparent effect of theophylline on levofloxacin absorption and disposition was observed.
 However, concomitant administration of other fluoroquinolones with theophylline has resulted in prolonged elimination half-life, elevated serum theophylline levels, and a subsequent increase in the risk of theophylline-related adverse reactions in the patient population.
 Therefore, theophylline levels should be closely monitored and appropriate dosage adjustments made when levofloxacin is co-administered.
+
+## Levofloxacin: Drug interactions (part 4 of 5)
+Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
+Retrieved: 2026-10-06
+Keywords: levofloxacin, drug interactions, fluoroquinolone antibacterial [epc]
+
+Adverse reactions, including seizures, may occur with or without an elevation in serum theophylline levels [see Warnings and Precautions ( 5.4)].
+7.6 Cyclosporine No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other disposition parameters for cyclosporine was detected in a clinical study involving healthy volunteers.
+However, elevated serum levels of cyclosporine have been reported in the patient population when co-administered with some other fluoroquinolones.
+Levofloxacin C max and k e were slightly lower while T max and t 1/2 were slightly longer in the presence of cyclosporine than those observed in other studies without concomitant medication.
+The differences, however, are not considered to be clinically significant.
+Therefore, no dosage adjustment is required for levofloxacin or cyclosporine when administered concomitantly.
+7.7 Digoxin No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other disposition parameters for digoxin was detected in a clinical study involving healthy volunteers.
+Levofloxacin absorption and disposition kinetics were similar in the presence or absence of digoxin.
+Therefore, no dosage adjustment for levofloxacin or digoxin is required when administered concomitantly.
+
+## Levofloxacin: Drug interactions (part 5 of 5)
+Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
+Label-set-id: 2a4e97e0-0709-411b-92e8-6f7d669412e4
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4
+Retrieved: 2026-10-06
+Keywords: levofloxacin, drug interactions, fluoroquinolone antibacterial [epc]
+
+7.8 Probenecid and Cimetidine No significant effect of probenecid or cimetidine on the C max of levofloxacin was observed in a clinical study involving healthy volunteers.
+The AUC and t 1/2 of levofloxacin were higher while CL/F and CL R were lower during concomitant treatment of levofloxacin with probenecid or cimetidine compared to levofloxacin alone.
+However, these changes do not warrant dosage adjustment for levofloxacin when probenecid or cimetidine is co-administered.
+7.9 Interactions with Laboratory or Diagnostic Testing Some fluoroquinolones, including levofloxacin, may produce false-positive urine screening results for opiates using commercially available immunoassay kits.
+Confirmation of positive opiate screens by more specific methods may be necessary.
 
 ## Levofloxacin: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Levofloxacin (REMEDYREPACK INC.), effective 2026-07-02
@@ -36398,7 +40071,7 @@ Gynecologic infections, including endometritis, endomyometritis, tubo-ovarian ab
 Bacterial septicemia caused by Bacteroides species including the B. fragilis group and Clostridium species.
 Bone and joint infections, (as adjunctive therapy), caused by Bacteroides species including the B. fragilis group.
 
-## Metronidazole Oral: Dosage and administration (part 1 of 3)
+## Metronidazole Oral: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
 Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
@@ -36427,7 +40100,7 @@ In the treatment of most serious anaerobic infections, intravenous metronidazole
 500 mg (5 mL) for a 70-kg adult) to a maximum dose of 4 g (40 mL) during a 24-hour period, orally for 7 to 10 days.
 ( 2.3 ) Infections of the bone and joint, lower respiratory tract, and endocardium may require longer treatment.
 
-## Metronidazole Oral: Dosage and administration (part 2 of 3)
+## Metronidazole Oral: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
 Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
@@ -36446,7 +40119,7 @@ A seven-day course of treatment may minimize reinfection by protecting the patie
 There are some data from controlled comparative studies that cure rates as determined by vaginal smears and signs and symptoms, may be higher after a seven-day course of treatment than after a one-day treatment regimen.
 Further, some patients may tolerate one treatment regimen better than the other.
 
-## Metronidazole Oral: Dosage and administration (part 3 of 3)
+## Metronidazole Oral: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
 Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
@@ -36467,6 +40140,24 @@ Adult Patients:
 Administer 7.5 mg/kg of LIKMEZ orally every six hours (approx.
 500 mg (5 mL) for a 70 kg adult) for 7 days to 10 days.
 Infections of the bone and joint, lower respiratory tract, and endocardium may require longer treatment.
+
+## Metronidazole Oral: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
+Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
+Retrieved: 2026-10-06
+Keywords: metronidazole oral, metronidazole, likmez, dosage and administration, nitroimidazole antimicrobial [epc]
+
+Do not exceed a maximum of 4 g (40 mL) during a 24-hour period.
+2.4 Recommended Dosage in Patients with Severe Hepatic Impairment For patients with severe hepatic impairment (Child-Pugh C), reduce the dose of LIKMEZ by 50% [ see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3) ].
+2.5 Recommended Dosage in Patients Undergoing Hemodialysis Hemodialysis removes significant amounts of metronidazole and its metabolites from systemic circulation.
+The clearance of metronidazole will depend on the type of dialysis membrane used, the duration of the dialysis session, and other factors.
+If the administration of LIKMEZ cannot be separated from the hemodialysis session, consider a supplemental dose of LIKMEZ following the hemodialysis session, depending on the patient’s clinical situation [ see Clinical Pharmacology (12.3) ] .
+No adjustment in LIKMEZ dose is needed in patients undergoing continuous ambulatory peritoneal dialysis (CAPD) [ see Clinical Pharmacology (12.3) ] .
+2.6 Important Administration Instructions Shake the bottle well before administering the recommended dosage.
+Use a calibrated oral dosing device to correctly measure the prescribed dose of medication.
+Do not use household teaspoons or tablespoons to measure doses.
+Calibrated oral dosing devices may be obtained from the pharmacy.
 
 ## Metronidazole Oral: Contraindications (part 1 of 2)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
@@ -36493,7 +40184,7 @@ Keywords: metronidazole oral, metronidazole, likmez, contraindications, nitroimi
 4.4 Cockayne Syndrome LIKMEZ is contraindicated in patients with Cockayne syndrome.
 Severe irreversible hepatotoxicity/acute liver failure with fatal outcomes have been reported after initiation of metronidazole in patients with Cockayne syndrome [ see Adverse Reactions (6.2) ] .
 
-## Metronidazole Oral: Drug interactions (part 1 of 3)
+## Metronidazole Oral: Drug interactions (part 1 of 4)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
 Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
@@ -36516,7 +40207,7 @@ Prolonged or accelerated half-life of metronidazole or concomitant medications.
 ( 7.6 , 7.7 ) Drugs with the Potential for Prolonging the QT Interval:
 QT prolongation when used with LIKMEZ ( 7.8 ) Interference with Laboratory Tests:
 
-## Metronidazole Oral: Drug interactions (part 2 of 3)
+## Metronidazole Oral: Drug interactions (part 2 of 4)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
 Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
@@ -36530,7 +40221,7 @@ Use of LIKMEZ with alcohol or other products containing propylene glycol is asso
 7.3 Warfarin and other Oral Anticoagulants Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
 When LIKMEZ is prescribed for patients on this type of anticoagulant therapy, prothrombin time and INR should be carefully monitored.
 
-## Metronidazole Oral: Drug interactions (part 3 of 3)
+## Metronidazole Oral: Drug interactions (part 3 of 4)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
 Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
@@ -36543,6 +40234,21 @@ Monitor serum lithium and serum creatinine concentrations for several days after
 Do not administer LIKMEZ concomitantly with busulfan unless the benefit outweighs the risk.
 If no therapeutic alternatives to LIKMEZ are available, and concomitant administration with busulfan is medically needed, monitor for busulfan plasma concentrations and adjust the busulfan dose accordingly.
 7.6 Inhibitors of CYP450 Liver Enzymes The simultaneous administration of LIKMEZ and drugs that decrease microsomal liver enzymes, such as cimetidine, may prolong the half-life and decrease plasma clearance of metronidazole.
+
+## Metronidazole Oral: Drug interactions (part 4 of 4)
+Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
+Label-set-id: 23927a8b-1641-4104-aa85-d7b7bf4ebb9d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23927a8b-1641-4104-aa85-d7b7bf4ebb9d
+Retrieved: 2026-10-06
+Keywords: metronidazole oral, metronidazole, likmez, drug interactions, nitroimidazole antimicrobial [epc]
+
+7.7 Inducers of CYP450 Liver Enzymes The simultaneous administration of LIKMEZ and drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma concentrations of metronidazole.
+Impaired clearance of phenytoin has also been reported.
+7.8 Drugs that Prolong the QT Interval QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+7.9 Drug/Laboratory Test Interactions Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and glucose hexokinase.
+Values of zero may be observed.
+All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD + ⇌ NADH).
+Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.
 
 ## Metronidazole Oral: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Metronidazole Oral (Kesin Pharma Corporation), effective 2024-12-30
@@ -36727,7 +40433,7 @@ Septicemia caused by Staphylococcus aureus , streptococci (except Enterococcus f
 Bone and joint infections including acute hematogenous osteomyelitis caused by Staphylococcus aureus and as adjunctive therapy in the surgical treatment of chronic bone and joint infections due to susceptible organisms.
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of CLEOCIN PHOSPHATE and other antibacterial drugs, CLEOCIN PHOSPHATE should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 
-## Clindamycin Phosphate: Dosage and administration (part 1 of 3)
+## Clindamycin Phosphate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Clindamycin Phosphate (Pharmacia & Upjohn Company LLC), effective 2026-07-29
 Label-set-id: 05a75685-0af5-407c-ac57-e380c882b49d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05a75685-0af5-407c-ac57-e380c882b49d
@@ -36749,7 +40455,7 @@ Doses of as much as 4800 mg daily have been given intravenously to adults.
 See Dilution for IV use and IV Infusion Rates section below.
 Single intramuscular injections of greater than 600 mg are not recommended.
 
-## Clindamycin Phosphate: Dosage and administration (part 2 of 3)
+## Clindamycin Phosphate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Clindamycin Phosphate (Pharmacia & Upjohn Company LLC), effective 2026-07-29
 Label-set-id: 05a75685-0af5-407c-ac57-e380c882b49d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05a75685-0af5-407c-ac57-e380c882b49d
@@ -36768,7 +40474,7 @@ As an alternative to dosing on a body weight basis, pediatric patients may be do
 Parenteral therapy may be changed to oral CLEOCIN PEDIATRIC ® Flavored Granules (clindamycin palmitate hydrochloride) or CLEOCIN HCl ® Capsules (clindamycin hydrochloride) when the condition warrants and at the discretion of the physician.
 In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
 
-## Clindamycin Phosphate: Dosage and administration (part 3 of 3)
+## Clindamycin Phosphate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Clindamycin Phosphate (Pharmacia & Upjohn Company LLC), effective 2026-07-29
 Label-set-id: 05a75685-0af5-407c-ac57-e380c882b49d
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05a75685-0af5-407c-ac57-e380c882b49d
@@ -36787,6 +40493,20 @@ The usual infusion dilutions and rates are as follows:
 Dose Diluent Time 300 mg 50 mL 10 min 600 mg 50 mL 20 min 900 mg 50–100 mL 30 min 1200 mg 100 mL 40 min Administration of more than 1200 mg in a single 1-hour infusion is not recommended.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Dilution and Compatibility:
+
+## Clindamycin Phosphate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Clindamycin Phosphate (Pharmacia & Upjohn Company LLC), effective 2026-07-29
+Label-set-id: 05a75685-0af5-407c-ac57-e380c882b49d
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05a75685-0af5-407c-ac57-e380c882b49d
+Retrieved: 2026-10-06
+Keywords: clindamycin phosphate, clindamycin, cleocin phosphate, dosage and administration
+
+Physical and biological compatibility studies monitored for 24 hours at room temperature have demonstrated no inactivation or incompatibility with the use of CLEOCIN PHOSPHATE Sterile Solution (clindamycin phosphate) in IV solutions containing sodium chloride, glucose, calcium or potassium, and solutions containing vitamin B complex in concentrations usually used clinically.
+No incompatibility has been demonstrated with the antibacterial drugs cephalothin, kanamycin, gentamicin, penicillin or carbenicillin.
+The following drugs are physically incompatible with clindamycin phosphate: ampicillin sodium, phenytoin sodium, barbiturates, aminophylline, calcium gluconate, and magnesium sulfate.
+The compatibility and duration of stability of drug admixtures will vary depending on concentration and other conditions.
+Physico-Chemical Stability of Diluted Solutions of CLEOCIN PHOSPHATE Room Temperature:
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or Mini-Bag containers, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
 ## Clindamycin Phosphate: Contraindications
 Source: FDA drug label, Clindamycin Phosphate (Pharmacia & Upjohn Company LLC), effective 2026-07-29
@@ -37327,7 +41047,7 @@ Keywords: fluconazole, uses, azole antifungal [epc], cytochrome p450 2c19 inhibi
 
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
 
-## Fluconazole: Dosage and administration (part 1 of 3)
+## Fluconazole: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37346,7 +41066,7 @@ Patients with AIDS and cryptococcal meningitis or recurrent oropharyngeal candid
 Oropharyngeal candidiasis:
 The recommended dosage of fluconazole tablets for oropharyngeal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
 
-## Fluconazole: Dosage and administration (part 2 of 3)
+## Fluconazole: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37366,7 +41086,7 @@ For the treatment of Candida urinary tract infections and peritonitis, daily dos
 Cryptococcal meningitis:
 The recommended dosage for treatment of acute cryptococcal meningitis is 400 mg on the first day, followed by 200 mg once daily.
 
-## Fluconazole: Dosage and administration (part 3 of 3)
+## Fluconazole: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37385,6 +41105,21 @@ The recommended dosage of fluconazole tablets for oropharyngeal candidiasis in p
 Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
 Esophageal candidiasis:
 
+## Fluconazole: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, dosage and administration, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+For the treatment of esophageal candidiasis, the recommended dosage of fluconazole tablets in pediatric patients 6 months and older is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.
+Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
+Systemic Candida infections:
+The following dosing regimens in Table 6 are recommended for pediatric patients to achieve systemic exposures similar to adults for the treatment of systemic Candida infections, i.e., to maintain an AUC 0-24 between 400 to 800 mg*h/L.
+Table 6:
+Recommended Dosing Regimens for the Treatment of Systemic Candida Infections in Pediatric Patients Patient age Dosing regimen 3 months and older A loading dose of 25 mg/kg on the first day (not to exceed 800 mg) followed by 12 mg/kg once daily (not to exceed 400 mg).
+
 ## Fluconazole: Contraindications
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37394,7 +41129,7 @@ Keywords: fluconazole, contraindications, azole antifungal [epc], cytochrome p45
 
 CONTRAINDICATIONS Fluconazole tablets are contraindicated in patients who have shown hypersensitivity to fluconazole or to any of its excipients. There is no information regarding cross-hypersensitivity between fluconazole and other azole antifungal agents. Caution should be used in prescribing fluconazole tablets to patients with hypersensitivity to other azoles. Coadministration of other drugs known to prolong the QT interval and which are metabolized via the enzyme CYP3A4 such as erythromycin, pimozide, and quinidine are contraindicated in patients receiving fluconazole. (See CLINICAL PHARMACOLOGY: Drug Interaction Studies and PRECAUTIONS .)
 
-## Fluconazole: Drug interactions (part 1 of 3)
+## Fluconazole: Drug interactions (part 1 of 10)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37411,7 +41146,7 @@ The order of study treatment was random.
 Single doses of an oral contraceptive tablet containing levonorgestrel and ethinyl estradiol were administered on the final treatment day (Day 10) of both cycles.
 Following administration of 200 mg of fluconazole, the mean percentage increase of AUC for levonorgestrel compared to placebo was 25% (range: –12 to 82%) and the mean percentage increase for ethinyl estradiol compared to placebo was 38% (range: –11 to 101%).
 
-## Fluconazole: Drug interactions (part 2 of 3)
+## Fluconazole: Drug interactions (part 2 of 10)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37430,7 +41165,7 @@ Cimetidine:
 Fluconazole 100 mg was administered as a single oral dose alone and two hours after a single dose of cimetidine 400 mg to six healthy male volunteers.
 After the administration of cimetidine, there was a significant decrease in fluconazole AUC and C max .
 
-## Fluconazole: Drug interactions (part 3 of 3)
+## Fluconazole: Drug interactions (part 3 of 10)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
 Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
@@ -37448,6 +41183,146 @@ There was a mean ± SD increase in fluconazole AUC and C max of 45% ± 31% (rang
 19 to 122%), respectively.
 These changes are attributed to a mean ± SD reduction in renal clearance of 30% ± 12% (range: –10 to –50%).
 Rifampin:
+
+## Fluconazole: Drug interactions (part 4 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+Administration of a single oral 200 mg dose of fluconazole after 15 days of rifampin administered as 600 mg daily in eight healthy male volunteers resulted in a significant decrease in fluconazole AUC and a significant increase in apparent oral clearance of fluconazole.
+There was a mean ± SD reduction in fluconazole AUC of 23% ± 9% (range: –13 to –42%).
+Apparent oral clearance of fluconazole increased 32% ± 17% (range:
+16 to 72%).
+Fluconazole half-life decreased from 33.4 ± 4.4 hours to 26.8 ± 3.9 hours.
+(See PRECAUTIONS .) Warfarin:
+There was a significant increase in prothrombin time response (area under the prothrombin time-time curve) following a single dose of warfarin (15 mg) administered to 13 normal male volunteers following oral fluconazole 200 mg administered daily for 14 days as compared to the administration of warfarin alone.
+There was a mean ± SD increase in the prothrombin time response (area under the prothrombin time-time curve) of 7% ± 4% (range: –2 to 13%).
+(See PRECAUTIONS .) Mean is based on data from 12 subjects as one of 13 subjects experienced a 2-fold increase in his prothrombin time response.
+Phenytoin:
+
+## Fluconazole: Drug interactions (part 5 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+Phenytoin AUC was determined after 4 days of phenytoin dosing (200 mg daily, orally for 3 days followed by 250 mg intravenously for one dose) both with and without the administration of fluconazole (oral fluconazole 200 mg daily for 16 days) in 10 normal male volunteers.
+There was a significant increase in phenytoin AUC.
+The mean ± SD increase in phenytoin AUC was 88% ± 68% (range:
+16 to 247%).
+The absolute magnitude of this interaction is unknown because of the intrinsically nonlinear disposition of phenytoin.
+(See PRECAUTIONS .) Cyclosporine:
+Cyclosporine AUC and C max were determined before and after the administration of fluconazole 200 mg daily for 14 days in eight renal transplant patients who had been on cyclosporine therapy for at least 6 months and on a stable cyclosporine dose for at least 6 weeks.
+There was a significant increase in cyclosporine AUC, C max , C min (24-hour concentration), and a significant reduction in apparent oral clearance following the administration of fluconazole.
+The mean ± SD increase in AUC was 92% ± 43% (range:
+18 to 147%).
+The C max increased 60% ± 48% (range: –5 to 133%).
+The C min increased 157% ± 96% (range:
+33 to 360%).
+The apparent oral clearance decreased 45% ± 15% (range: –15 to –60%).
+(See PRECAUTIONS .) Zidovudine:
+
+## Fluconazole: Drug interactions (part 6 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+Plasma zidovudine concentrations were determined on two occasions (before and following fluconazole 200 mg daily for 15 days) in 13 volunteers with AIDS or ARC who were on a stable zidovudine dose for at least two weeks.
+There was a significant increase in zidovudine AUC following the administration of fluconazole.
+The mean ± SD increase in AUC was 20% ± 32% (range: –27 to 104%).
+The metabolite, GZDV, to parent drug ratio significantly decreased after the administration of fluconazole, from 7.6 ± 3.6 to 5.7 ± 2.2.
+Theophylline:
+The pharmacokinetics of theophylline were determined from a single intravenous dose of aminophylline (6 mg/kg) before and after the oral administration of fluconazole 200 mg daily for 14 days in 16 normal male volunteers.
+There were significant increases in theophylline AUC, C max , and half-life with a corresponding decrease in clearance.
+The mean ± SD theophylline AUC increased 21% ± 16% (range: –5 to 48%).
+The C max increased 13% ± 17% (range: –13 to 40%).
+Theophylline clearance decreased 16% ± 11% (range: –32 to 5%).
+The half-life of theophylline increased from 6.6 ± 1.7 hours to 7.9 ± 1.5 hours.
+(See PRECAUTIONS .) Quinidine:
+
+## Fluconazole: Drug interactions (part 7 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+Although not studied in vitro or in vivo , concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsade de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS and PRECAUTIONS .) Oral hypoglycemics:
+The effects of fluconazole on the pharmacokinetics of the sulfonylurea oral hypoglycemic agents tolbutamide, glipizide, and glyburide were evaluated in three placebo-controlled studies in normal volunteers.
+All subjects received the sulfonylurea alone as a single dose and again as a single dose following the administration of fluconazole 100 mg daily for 7 days.
+In these three studies, 22/46 (47.8%) of fluconazole-treated patients and 9/22 (40.1%) of placebo-treated patients experienced symptoms consistent with hypoglycemia.
+(See PRECAUTIONS .) Tolbutamide:
+In 13 normal male volunteers, there was significant increase in tolbutamide (500 mg single dose) AUC and C max following the administration of fluconazole.
+There was a mean ± SD increase in tolbutamide AUC of 26% ± 9% (range:
+12 to 39%).
+Tolbutamide C max increased 11% ± 9% (range: –6 to 27%).
+(See PRECAUTIONS .) Glipizide:
+
+## Fluconazole: Drug interactions (part 8 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+The AUC and C max of glipizide (2.5 mg single dose) were significantly increased following the administration of fluconazole in 13 normal male volunteers.
+There was a mean ± SD increase in AUC of 49% ± 13% (range:
+27 to 73%) and an increase in C max of 19% ± 23% (range: –11 to 79%).
+(See PRECAUTIONS .) Glyburide:
+The AUC and C max of glyburide (5 mg single dose) were significantly increased following the administration of fluconazole in 20 normal male volunteers.
+There was a mean ± SD increase in AUC of 44% ± 29% (range: –13 to 115%) and C max increased 19% ± 19% (range: –23 to 62%).
+Five subjects required oral glucose following the ingestion of glyburide after 7 days of fluconazole administration.
+(See PRECAUTIONS .) Rifabutin:
+There have been published reports that an interaction exists when fluconazole is administered concomitantly with rifabutin, leading to increased serum levels of rifabutin.
+(See PRECAUTIONS .) Tacrolimus:
+There have been published reports that an interaction exists when fluconazole is administered concomitantly with tacrolimus, leading to increased serum levels of tacrolimus.
+(See PRECAUTIONS .) Midazolam:
+The effect of fluconazole on the pharmacokinetics and pharmacodynamics of midazolam was examined in a randomized, cross-over study in 12 volunteers.
+
+## Fluconazole: Drug interactions (part 9 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+In the study, subjects ingested placebo or 400 mg fluconazole on Day 1 followed by 200 mg daily from Day 2 to Day 6.
+In addition, a 7.5 mg dose of midazolam was orally ingested on the first day, 0.05 mg/kg was administered intravenously on the fourth day, and 7.5 mg orally on the sixth day.
+Fluconazole reduced the clearance of IV midazolam by 51%.
+On the first day of dosing, fluconazole increased the midazolam AUC and C max by 259% and 150%, respectively.
+On the sixth day of dosing, fluconazole increased the midazolam AUC and C max by 259% and 74%, respectively.
+The psychomotor effects of midazolam were significantly increased after oral administration of midazolam but not significantly affected following intravenous midazolam.
+A second randomized, double-dummy, placebo-controlled, cross over study in three phases was performed to determine the effect of route of administration of fluconazole on the interaction between fluconazole and midazolam.
+In each phase the subjects were given oral fluconazole 400 mg and intravenous saline; oral placebo and intravenous fluconazole 400 mg; and oral placebo and IV saline.
+An oral dose of 7.5 mg of midazolam was ingested after fluconazole/placebo.
+
+## Fluconazole: Drug interactions (part 10 of 10)
+Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
+Label-set-id: 1c82929f-934b-4df4-b24f-1e5da090fd8a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c82929f-934b-4df4-b24f-1e5da090fd8a
+Retrieved: 2026-10-06
+Keywords: fluconazole, drug interactions, azole antifungal [epc], cytochrome p450 2c19 inhibitors [moa], cytochrome p450 3a4 inhibitors [moa], cytochrome p450 2c9 inhibitors [moa]
+
+The AUC and C max of midazolam were significantly higher after oral than IV administration of fluconazole.
+Oral fluconazole increased the midazolam AUC and C max by 272% and 129%, respectively.
+IV fluconazole increased the midazolam AUC and C max by 244% and 79%, respectively.
+Both oral and IV fluconazole increased the pharmacodynamic effects of midazolam.
+(See PRECAUTIONS . ) Azithromycin:
+An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 800 mg oral dose of fluconazole on the pharmacokinetics of a single 1200 mg oral dose of azithromycin as well as the effects of azithromycin on the pharmacokinetics of fluconazole.
+There was no significant pharmacokinetic interaction between fluconazole and azithromycin.
+Voriconazole :
+Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
+Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in C max and AUC τ of voriconazole by an average of 57% (90% CI:
+20% to 107%) and 79% (90% CI:
+40% to 128%), respectively.
 
 ## Fluconazole: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Fluconazole (REMEDYREPACK INC.), effective 2026-09-04
@@ -37978,7 +41853,7 @@ The efficacy of valacyclovir tablets for the reduction of transmission of genita
 The efficacy of valacyclovir tablets for the reduction of transmission of genital herpes in individuals with multiple partners and non-heterosexual couples has not been established.
 Safer sex practices should be used with suppressive therapy (see current Centers for Disease Control and Prevention [CDC] Sexually Transmitted Diseases Treatment Guidelines).
 
-## Valacyclovir: Dosage and administration (part 1 of 3)
+## Valacyclovir: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Valacyclovir (Sportpharm LLC), effective 2026-09-05
 Label-set-id: 14e479b1-8afd-4912-8f93-59b60a0868bc
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e479b1-8afd-4912-8f93-59b60a0868bc
@@ -37989,7 +41864,7 @@ Keywords: valacyclovir, dosage and administration
 Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from the 500-mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3) ].
 Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) can be prepared from the Valacyclovir Tablets, USP 500 mg.
 
-## Valacyclovir: Dosage and administration (part 2 of 3)
+## Valacyclovir: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Valacyclovir (Sportpharm LLC), effective 2026-09-05
 Label-set-id: 14e479b1-8afd-4912-8f93-59b60a0868bc
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e479b1-8afd-4912-8f93-59b60a0868bc
@@ -38003,7 +41878,7 @@ The recommended dosage of valacyclovir tablets for treatment of initial genital 
 Therapy was most effective when administered within 48 hours of the onset of signs and symptoms.
 Recurrent Episodes:
 
-## Valacyclovir: Dosage and administration (part 3 of 3)
+## Valacyclovir: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Valacyclovir (Sportpharm LLC), effective 2026-09-05
 Label-set-id: 14e479b1-8afd-4912-8f93-59b60a0868bc
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e479b1-8afd-4912-8f93-59b60a0868bc
@@ -38020,6 +41895,22 @@ Reduction of Transmission:
 The recommended dosage of valacyclovir tablets for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 Herpes Zoster The recommended dosage of valacyclovir tablets for treatment of herpes zoster is 1 gram 3 times daily for 7 days.
 Therapy should be initiated at the earliest sign or symptom of herpes zoster and is most effective when started within 48 hours of the onset of rash.
+
+## Valacyclovir: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Valacyclovir (Sportpharm LLC), effective 2026-09-05
+Label-set-id: 14e479b1-8afd-4912-8f93-59b60a0868bc
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e479b1-8afd-4912-8f93-59b60a0868bc
+Retrieved: 2026-10-06
+Keywords: valacyclovir, dosage and administration
+
+2.2 Pediatric Dosing Recommendations Cold Sores (Herpes Labialis) The recommended dosage of valacyclovir tablets for the treatment of cold sores in pediatric patients aged greater than or equal to 12 years is 2 grams twice daily for 1 day taken 12 hours apart.
+Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
+Chickenpox The recommended dosage of valacyclovir tablets for treatment of chickenpox in immunocompetent pediatric patients aged 2 to less than 18 years is 20 mg/kg administered 3 times daily for 5 days.
+The total dose should not exceed 1 gram 3 times daily.
+Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4) , Clinical Pharmacology (12.3) , Clinical Studies (14.4) ].
+2.3 Extemporaneous Preparation of Oral Suspension Ingredients and Preparation per USP-NF Valacyclovir tablets 500 mg, cherry flavor, and Suspension Structured Vehicle USP-NF (SSV).
+Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots of 100 mL.
+Instructions for Preparing Suspension at Time of Dispensing Prepare SSV according to the USP-NF.
 
 ## Valacyclovir: Contraindications
 Source: FDA drug label, Valacyclovir (Sportpharm LLC), effective 2026-09-05
@@ -38382,7 +42273,7 @@ Other factors (for example, changes in viral virulence) might also diminish clin
 Prescribers should consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate for oral suspension [see Microbiology (12.4) ] .
 Oseltamivir phosphate for oral suspension is not recommended for patients with end‐stage renal disease not undergoing dialysis [see Dosage and Administration (2.4) and Use in Specific Populations (8.6) ].
 
-## Oseltamivir Phosphate: Dosage and administration (part 1 of 3)
+## Oseltamivir Phosphate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Oseltamivir Phosphate (Aurobindo Pharma Limited), effective 2026-08-07
 Label-set-id: 07958a9a-2360-4380-b7da-5371ed80a271
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07958a9a-2360-4380-b7da-5371ed80a271
@@ -38403,7 +42294,7 @@ Reduce to a single 30 mg dose immediately ( 2.4 ) Prophylaxis of influenza Adult
 Based on weight once daily for 10 days ( 2.3 ) - Community outbreak:
 Based on weight once daily for up to 6 weeks ( 2.3 ) Renally impaired adult patients (creatinine clearance >30 to 60 mL/min):
 
-## Oseltamivir Phosphate: Dosage and administration (part 2 of 3)
+## Oseltamivir Phosphate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Oseltamivir Phosphate (Aurobindo Pharma Limited), effective 2026-08-07
 Label-set-id: 07958a9a-2360-4380-b7da-5371ed80a271
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07958a9a-2360-4380-b7da-5371ed80a271
@@ -38419,7 +42310,7 @@ This is the preferred formulation (6 mg per mL) for patients who cannot swallow 
 Prior to use, the supplied oseltamivir phosphate for oral suspension powder must be constituted with water by the pharmacist to produce the oral suspension [see Dosage and Administration (2.5) ].
 The oral suspension may be taken with or without food; however, tolerability may be enhanced if oseltamivir phosphate for oral suspension is taken with food.
 
-## Oseltamivir Phosphate: Dosage and administration (part 3 of 3)
+## Oseltamivir Phosphate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Oseltamivir Phosphate (Aurobindo Pharma Limited), effective 2026-08-07
 Label-set-id: 07958a9a-2360-4380-b7da-5371ed80a271
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07958a9a-2360-4380-b7da-5371ed80a271
@@ -38432,6 +42323,19 @@ Adults and Adolescents (13 years of age and older) The recommended oral dosage o
 Pediatric Patients (2 weeks of age through 12 years of age) Table 1 displays the recommended oral dosage of oseltamivir phosphate for oral suspension for treatment of influenza in pediatric patients 2 weeks of age through 12 years of age and provides information about prescribing the formulation for oral suspension.
 2.3 Recommended Dosage for Prophylaxis of Influenza Initiate post‐exposure prophylaxis with oseltamivir phosphate for oral suspension within 48 hours following close contact with an infected individual.
 Initiate seasonal prophylaxis with oseltamivir phosphate for oral suspension during a community outbreak.
+
+## Oseltamivir Phosphate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Oseltamivir Phosphate (Aurobindo Pharma Limited), effective 2026-08-07
+Label-set-id: 07958a9a-2360-4380-b7da-5371ed80a271
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07958a9a-2360-4380-b7da-5371ed80a271
+Retrieved: 2026-10-06
+Keywords: oseltamivir phosphate, oseltamivir, dosage and administration
+
+Adults and Adolescents (13 years of age and older) The recommended dosage of oseltamivir phosphate for oral suspension for prophylaxis of influenza in adults and adolescents 13 years and older is 75 mg orally once daily (12.5 mL of oral suspension once daily) for at least 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak.
+In immunocompromised patients, oseltamivir phosphate for oral suspension may be continued for up to 12 weeks [see Use in Specific Populations (8.9) ] .
+The duration of protection lasts for as long as oseltamivir phosphate for oral suspension dosing is continued.
+Pediatric Patients (1 year to 12 years of age) Table 1 displays the recommended oral dosage of oseltamivir phosphate for oral suspension for prophylaxis of influenza in pediatric patients 1 year to 12 years of age based on body weight and provides information about prescribing the formulation for oral suspension.
+Prophylaxis in pediatric patients is recommended for 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak [see Use in Specific Populations (8.4) and Clinical Studies (14.2) ] .
 
 ## Oseltamivir Phosphate: Contraindications
 Source: FDA drug label, Oseltamivir Phosphate (Aurobindo Pharma Limited), effective 2026-08-07
@@ -39354,7 +43258,7 @@ Keywords: tadalafil, uses, phosphodiesterase 5 inhibitor [epc], phosphodiesteras
 
 1 INDICATIONS AND USAGE Tadalafil is a phosphodiesterase 5 (PDE5) inhibitor indicated for the treatment of: erectile dysfunction (ED) ( 1.1 ) the signs and symptoms of benign prostatic hyperplasia (BPH) ( 1.2 ) ED and the signs and symptoms of BPH (ED/BPH) ( 1.3 ) If tadalafil tablets are used with finasteride to initiate BPH treatment, such use is recommended for up to 26 weeks ( 1.4 ). 1.1 Erectile Dysfunction Tadalafil tablets are indicated for the treatment of erectile dysfunction (ED). 1.2 Benign Prostatic Hyperplasia Tadalafil tablets are indicated for the treatment of the signs and symptoms of benign prostatic hyperplasia (BPH). 1.3 Erectile Dysfunction and Benign Prostatic Hyperplasia Tadalafil tablets are indicated for the treatment of ED and the signs and symptoms of BPH (ED/BPH). 1.4 Limitation of Use If tadalafil tablets are used with finasteride to initiate BPH treatment, such use is recommended for up to 26 weeks because the incremental benefit of tadalafil decreases from 4 weeks until 26 weeks, and the incremental benefit of tadalafil beyond 26 weeks is unknown [see Clinical Studies ( 14.3 )] .
 
-## Tadalafil: Dosage and administration (part 1 of 3)
+## Tadalafil: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39383,7 +43287,7 @@ The dose may be increased to 20 mg or decreased to 5 mg, based on individual eff
 The maximum recommended dosing frequency is once per day in most patients.
 Tadalafil tablets for use as needed were shown to improve erectile function compared to placebo up to 36 hours following dosing.
 
-## Tadalafil: Dosage and administration (part 2 of 3)
+## Tadalafil: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39398,7 +43302,7 @@ When therapy for BPH is initiated with tadalafil tablets and finasteride, the re
 2.4 Tadalafil Tablets for Once Daily Use for Erectile Dysfunction and Benign Prostatic Hyperplasia The recommended dose of tadalafil tablets for once daily use is 5 mg, taken at approximately the same time every day, without regard to timing of sexual activity.
 2.5 Use with Food Tadalafil tablets may be taken without regard to food.
 
-## Tadalafil: Dosage and administration (part 3 of 3)
+## Tadalafil: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39417,6 +43321,24 @@ Creatinine clearance less than 30 mL/min or on hemodialysis: tadalafil tablets f
 Hepatic Impairment Tadalafil Tablets for Use as Needed Mild or moderate (Child Pugh Class A or B):
 The dose should not exceed 10 mg once per day.
 
+## Tadalafil: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
+Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
+Retrieved: 2026-10-06
+Keywords: tadalafil, dosage and administration, phosphodiesterase 5 inhibitor [epc], phosphodiesterase 5 inhibitors [moa]
+
+The use of tadalafil tablets once per day has not been extensively evaluated in patients with hepatic impairment and therefore, caution is advised.
+Severe (Child Pugh Class C):
+The use of tadalafil tablets are not recommended [see Warnings and Precautions ( 5.8 ) and Use in Specific Populations ( 8.6 )] .
+Tadalafil Tablets for Once Daily Use Mild or moderate (Child Pugh Class A or B):
+Tadalafil tablets for once daily use has not been extensively evaluated in patients with hepatic impairment.
+Therefore, caution is advised if tadalafil tablets for once daily use are prescribed to these patients.
+Severe (Child Pugh Class C):
+The use of tadalafil tablets are not recommended [see Warnings and Precautions ( 5.8 ) and Use in Specific Populations ( 8.6 )] .
+2.7 Concomitant Medications Nitrates Concomitant use of nitrates in any form is contraindicated [see Contraindications ( 4.1 )] .
+Alpha-Blockers ED — When tadalafil tablets are coadministered with an alpha-blocker in patients being treated for ED, patients should be stable on alpha-blocker therapy prior to initiating treatment, and tadalafil tablets should be initiated at the lowest recommended dose [see Warnings and Precautions ( 5.6 ), Drug Interactions ( 7.1 ), and Clinical Pharmacology ( 12.2 )] .
+
 ## Tadalafil: Contraindications
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39426,7 +43348,7 @@ Keywords: tadalafil, contraindications, phosphodiesterase 5 inhibitor [epc], pho
 
 4 CONTRAINDICATIONS Administration of tadalafil tablets to patients using any form of organic nitrate is contraindicated. Tadalafil was shown to potentiate the hypotensive effect of nitrates ( 4.1 ). History of known serious hypersensitivity reaction to tadalafil or ADCIRCA ® ( 4.2 ). Administration with guanylate cyclase (GC) stimulators, such as riociguat ( 4.3 ). 4.1 Nitrates Administration of tadalafil tablets to patients who are using any form of organic nitrate, either regularly and/or intermittently, is contraindicated. In clinical pharmacology studies, tadalafil was shown to potentiate the hypotensive effect of nitrates [see Clinical Pharmacology ( 12.2 )] . 4.2 Hypersensitivity Reactions Tadalafil tablets are contraindicated in patients with a known serious hypersensitivity to tadalafil (tadalafil tablets or ADCIRCA ® ). Hypersensitivity reactions have been reported, including Stevens-Johnson syndrome and exfoliative dermatitis [see Adverse Reactions ( 6.2 )] . 4.3 Concomitant Guanylate Cyclase (GC) Stimulators Do not use tadalafil tablets in patients who are using a GC stimulator, such as riociguat. PDE5 inhibitors, including tadalafil, may potentiate the hypotensive effects of GC stimulators.
 
-## Tadalafil: Drug interactions (part 1 of 3)
+## Tadalafil: Drug interactions (part 1 of 6)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39443,7 +43365,7 @@ In clinical pharmacology studies, tadalafil was shown to potentiate the hypotens
 In a patient who has taken tadalafil, where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should elapse after the last dose of tadalafil before nitrate administration is considered.
 In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring [see Dosage and Administration ( 2.7 ), Contraindications ( 4.1 ), and Clinical Pharmacology ( 12.2 )] .
 
-## Tadalafil: Drug interactions (part 2 of 3)
+## Tadalafil: Drug interactions (part 2 of 6)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39459,7 +43381,7 @@ Clinical pharmacology studies were conducted to assess the effect of tadalafil o
 Small reductions in blood pressure occurred following coadministration of tadalafil with these agents compared with placebo. [see Warnings and Precautions ( 5.6 ) and Clinical Pharmacology ( 12.2 )] .
 Alcohol — Both alcohol and tadalafil, a PDE5 inhibitor, act as mild vasodilators.
 
-## Tadalafil: Drug interactions (part 3 of 3)
+## Tadalafil: Drug interactions (part 3 of 6)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
 Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
@@ -39475,6 +43397,53 @@ H 2 Antagonists (e.g.
 Nizatidine) — An increase in gastric pH resulting from administration of nizatidine had no significant effect on pharmacokinetics.
 Cytochrome P450 Inhibitors — tadalafil is a substrate of and predominantly metabolized by CYP3A4.
 Studies have shown that drugs that inhibit CYP3A4 can increase tadalafil exposure.
+
+## Tadalafil: Drug interactions (part 4 of 6)
+Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
+Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
+Retrieved: 2026-10-06
+Keywords: tadalafil, drug interactions, phosphodiesterase 5 inhibitor [epc], phosphodiesterase 5 inhibitors [moa]
+
+CYP3A4 (e.g., Ketoconazole) — Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4, increased tadalafil 20 mg single-dose exposure (AUC) by 312% and C max by 22%, relative to the values for tadalafil 20 mg alone.
+Ketoconazole (200 mg daily) increased tadalafil 10-mg single-dose exposure (AUC) by 107% and C max by 15%, relative to the values for tadalafil 10 mg alone [see Dosage and Administration ( 2.7 )] .
+Although specific interactions have not been studied, other CYP3A4 inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
+HIV Protease inhibitor — Ritonavir (500 mg or 600 mg twice daily at steady state), an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil 20-mg single-dose exposure (AUC) by 32% with a 30% reduction in C max , relative to the values for tadalafil 20 mg alone.
+Ritonavir (200 mg twice daily), increased tadalafil 20-mg single-dose exposure (AUC) by 124% with no change in C max , relative to the values for tadalafil 20 mg alone.
+Although specific interactions have not been studied, other HIV protease inhibitors would likely increase tadalafil exposure [see Dosage and Administration ( 2.7 )] .
+
+## Tadalafil: Drug interactions (part 5 of 6)
+Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
+Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
+Retrieved: 2026-10-06
+Keywords: tadalafil, drug interactions, phosphodiesterase 5 inhibitor [epc], phosphodiesterase 5 inhibitors [moa]
+
+Cytochrome P450 Inducers — Studies have shown that drugs that induce CYP3A4 can decrease tadalafil exposure.
+CYP3A4 (e.g., Rifampin) — Rifampin (600 mg daily), a CYP3A4 inducer, reduced tadalafil 10-mg single-dose exposure (AUC) by 88% and C max by 46%, relative to the values for tadalafil 10 mg alone.
+Although specific interactions have not been studied, other CYP3A4 inducers, such as carbamazepine, phenytoin, and phenobarbital, would likely decrease tadalafil exposure.
+No dose adjustment is warranted.
+The reduced exposure of tadalafil with the coadministration of rifampin or other CYP3A4 inducers can be anticipated to decrease the efficacy of tadalafil tablets for once daily use; the magnitude of decreased efficacy is unknown.
+7.3 Potential for Tadalafil Tablets to Affect Other Drugs Aspirin — tadalafil tablets did not potentiate the increase in bleeding time caused by aspirin.
+Cytochrome P450 Substrates — tadalafil tablets are not expected to cause clinically significant inhibition or induction of the clearance of drugs metabolized by cytochrome P450 (CYP) isoforms.
+Studies have shown that tadalafil does not inhibit or induce P450 isoforms CYP1A2, CYP3A4, CYP2C9, CYP2C19, CYP2D6, and CYP2E1.
+CYP1A2 (e.g.
+
+## Tadalafil: Drug interactions (part 6 of 6)
+Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
+Label-set-id: 07567ae5-7345-4ab1-9b2c-c586c4da0427
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07567ae5-7345-4ab1-9b2c-c586c4da0427
+Retrieved: 2026-10-06
+Keywords: tadalafil, drug interactions, phosphodiesterase 5 inhibitor [epc], phosphodiesterase 5 inhibitors [moa]
+
+Theophylline) — tadalafil tablets had no significant effect on the pharmacokinetics of theophylline.
+When tadalafil was administered to subjects taking theophylline, a small augmentation (3 beats per minute) of the increase in heart rate associated with theophylline was observed.
+CYP2C9 (e.g.
+Warfarin) — tadalafil tablets had no significant effect on exposure (AUC) to S-warfarin or R-warfarin, nor did tadalafil affect changes in prothrombin time induced by warfarin.
+CYP3A4 (e.g.
+Midazolam or Lovastatin) — Tadalafil had no significant effect on exposure (AUC) to midazolam or lovastatin.
+P-glycoprotein (e.g.
+Digoxin) — Coadministration of tadalafil (40 mg once per day) for 10 days did not have a significant effect on the steady-state pharmacokinetics of digoxin (0.25 mg/day) in healthy subjects.
 
 ## Tadalafil: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Tadalafil (Bryant Ranch Prepack), effective 2026-06-24
@@ -39781,7 +43750,7 @@ Keywords: tamsulosin hydrochloride, tamsulosin, contraindications
 
 4 CONTRAINDICATIONS Tamsulosin hydrochloride capsules are contraindicated in patients known to be hypersensitive to tamsulosin hydrochloride or any component of tamsulosin hydrochloride capsules. Reactions have included skin rash, urticaria, pruritus, angioedema, and respiratory symptoms [see Adverse Reactions (6.2) ]. • Contraindicated in patients known to be hypersensitive to tamsulosin hydrochloride or any component of tamsulosin hydrochloride capsules (4 , 6.2)
 
-## Tamsulosin Hydrochloride: Drug interactions (part 1 of 3)
+## Tamsulosin Hydrochloride: Drug interactions (part 1 of 5)
 Source: FDA drug label, Tamsulosin Hydrochloride (Cardinal Health 107, LLC), effective 2026-08-25
 Label-set-id: 0e3206ba-db3e-40b3-b46b-c7ae4703fdea
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e3206ba-db3e-40b3-b46b-c7ae4703fdea
@@ -39795,7 +43764,7 @@ Tamsulosin hydrochloride capsules should be used with caution in combination wit
 Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in an increase in the C max and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ] .
 The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ] .
 
-## Tamsulosin Hydrochloride: Drug interactions (part 2 of 3)
+## Tamsulosin Hydrochloride: Drug interactions (part 2 of 5)
 Source: FDA drug label, Tamsulosin Hydrochloride (Cardinal Health 107, LLC), effective 2026-08-25
 Label-set-id: 0e3206ba-db3e-40b3-b46b-c7ae4703fdea
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e3206ba-db3e-40b3-b46b-c7ae4703fdea
@@ -39808,7 +43777,7 @@ Since CYP2D6 PMs cannot be readily identified and the potential for significant 
 The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ] .
 The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with tamsulosin hydrochloride capsules have not been evaluated.
 
-## Tamsulosin Hydrochloride: Drug interactions (part 3 of 3)
+## Tamsulosin Hydrochloride: Drug interactions (part 3 of 5)
 Source: FDA drug label, Tamsulosin Hydrochloride (Cardinal Health 107, LLC), effective 2026-08-25
 Label-set-id: 0e3206ba-db3e-40b3-b46b-c7ae4703fdea
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e3206ba-db3e-40b3-b46b-c7ae4703fdea
@@ -39820,6 +43789,30 @@ Cimetidine Treatment with cimetidine resulted in a significant decrease (26%) in
 7.2 Other Alpha Adrenergic Blocking Agents The pharmacokinetic and pharmacodynamic interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents may be expected [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ] .
 7.3 PDE5 Inhibitors Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride are co-administered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
+
+## Tamsulosin Hydrochloride: Drug interactions (part 4 of 5)
+Source: FDA drug label, Tamsulosin Hydrochloride (Cardinal Health 107, LLC), effective 2026-08-25
+Label-set-id: 0e3206ba-db3e-40b3-b46b-c7ae4703fdea
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e3206ba-db3e-40b3-b46b-c7ae4703fdea
+Retrieved: 2026-10-06
+Keywords: tamsulosin hydrochloride, tamsulosin, drug interactions
+
+Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ] .
+7.4 Warfarin A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted.
+Results from limited in vitro and in vivo studies are inconclusive.
+Caution should be exercised with concomitant administration of warfarin and tamsulosin hydrochloride capsules [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3) ] .
+7.5 Nifedipine, Atenolol, Enalapril Dosage adjustments are not necessary when tamsulosin hydrochloride capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see Clinical Pharmacology (12.3) ] .
+7.6 Digoxin and Theophylline Dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is administered concomitantly with digoxin or theophylline [see Clinical Pharmacology (12.3) ] .
+7.7 Furosemide Tamsulosin hydrochloride capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
+
+## Tamsulosin Hydrochloride: Drug interactions (part 5 of 5)
+Source: FDA drug label, Tamsulosin Hydrochloride (Cardinal Health 107, LLC), effective 2026-08-25
+Label-set-id: 0e3206ba-db3e-40b3-b46b-c7ae4703fdea
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e3206ba-db3e-40b3-b46b-c7ae4703fdea
+Retrieved: 2026-10-06
+Keywords: tamsulosin hydrochloride, tamsulosin, drug interactions
+
+While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride C max and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see Clinical Pharmacology (12.3) ] .
 
 ## Tamsulosin Hydrochloride: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Tamsulosin Hydrochloride (Cardinal Health 107, LLC), effective 2026-08-25
@@ -40321,7 +44314,7 @@ Keywords: mirabegron, uses, beta3-adrenergic agonist [epc], adrenergic beta3-ago
 
 1 INDICATIONS AND USAGE Mirabegron extended-release tablets are a beta-3 adrenergic agonist indicated for the treatment of: Overactive bladder (OAB) in adult patients with symptoms of urge urinary incontinence, urgency, and urinary frequency. ( 1.1 ) Neurogenic detrusor overactivity (NDO) in pediatric patients aged 3 years and older and weighing 35 kg or more. ( 1.2 ) 1.1 Adult Overactive Bladder (OAB) Mirabegron Monotherapy Mirabegron extended-release tablets are indicated for the treatment of OAB in adult patients with symptoms of urge urinary incontinence, urgency, and urinary frequency. 1.2 Pediatric Neurogenic Detrusor Overactivity (NDO) Mirabegron extended-release tablets are indicated for the treatment of NDO in pediatric patients aged 3 years and older and weighing 35 kg or more.
 
-## Mirabegron: Dosage and administration (part 1 of 3)
+## Mirabegron: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Mirabegron (REMEDYREPACK INC.), effective 2026-09-03
 Label-set-id: 5f7a1758-8691-4e53-96d6-a01626ee8140
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f7a1758-8691-4e53-96d6-a01626ee8140
@@ -40345,7 +44338,7 @@ Do not chew, divide, or crush.
 Take with or without food.
 ( 2.7 ) Pediatric patients:
 
-## Mirabegron: Dosage and administration (part 2 of 3)
+## Mirabegron: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Mirabegron (REMEDYREPACK INC.), effective 2026-09-03
 Label-set-id: 5f7a1758-8691-4e53-96d6-a01626ee8140
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f7a1758-8691-4e53-96d6-a01626ee8140
@@ -40363,7 +44356,7 @@ For administration instructions, see Dosage and Administration ( 2.7 ).
 2.3 Recommended Dosage for Pediatric Patients Aged 3 Years and Older with NDO For pediatric patients 3 years of age and older, select the appropriate product (Mirabegron extended-release tablets and Mirabegron Granules) based on the patient's weight.
 Pediatric Patients weighing 35 kg or more:
 
-## Mirabegron: Dosage and administration (part 3 of 3)
+## Mirabegron: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Mirabegron (REMEDYREPACK INC.), effective 2026-09-03
 Label-set-id: 5f7a1758-8691-4e53-96d6-a01626ee8140
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f7a1758-8691-4e53-96d6-a01626ee8140
@@ -40377,6 +44370,19 @@ For administration instructions, see Dosage and Administration (2.7) .
 For administration instructions, see Dosage and Administration ( 2.7 ).
 Table 1:
 Mirabegron Extended-Release Tablets Recommended Dosage in Adult Patients with Renal Impairment (Administered Orally Once Daily) Estimated GFR 1 Starting Dose Maximum Dose eGFR 30 to 89 mL/min/1.73 m 2 25 mg 50 mg eGFR 15 to 29 mL/min/1.73 m 2 25 mg 25 mg eGFR < 15 mL/min/1.73 m 2 or requiring dialysis Not Recommended 1.
+
+## Mirabegron: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Mirabegron (REMEDYREPACK INC.), effective 2026-09-03
+Label-set-id: 5f7a1758-8691-4e53-96d6-a01626ee8140
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f7a1758-8691-4e53-96d6-a01626ee8140
+Retrieved: 2026-10-06
+Keywords: mirabegron, dosage and administration, beta3-adrenergic agonist [epc], adrenergic beta3-agonists [moa], cytochrome p450 2d6 inhibitors [moa], cytochrome p450 3a inhibitors [moa], p-glycoprotein inhibitors [moa]
+
+Estimated GFR using the modification of diet in renal disease (MDRD) formula Dosage in Adults with Hepatic Impairment The recommended dosage of mirabegron extended-release tablets (administered orally once daily) in adult patients with hepatic impairment is described in Table 2 [see Use in Specific Populations ( 8.7 )].
+For administration instructions, see Dosage and Administration ( 2.7 ).
+Table 2:
+Mirabegron Recommended Dosage in Adult Patients with Hepatic Impairment (Administered Orally Once Daily) Hepatic Impairment Classification Starting Dose Maximum Dose Child-Pugh Class A ( Mild hepatic impairment 25 mg 50 mg Child-Pugh Class B ( Moderate hepatic impairment 25 mg 25 mg Child-Pugh Class C ( Severe hepatic impairment Not Recommended 2.5 Recommended Dosage in Pediatric Patients with Renal or Hepatic Impairment For pediatric patients 3 years of age and older, select the appropriate product (Mirabegron extended-release tablets and Mirabegron Granules) based on the patient's weight.
+Pediatric Patients weighing 35 kg or more with renal or hepatic impairment:
 
 ## Mirabegron: Contraindications
 Source: FDA drug label, Mirabegron (REMEDYREPACK INC.), effective 2026-09-03
@@ -41164,7 +45170,7 @@ Keywords: levonorgestrel, kyleena, uses, progestin [epc], progestin-containing i
 
 1 INDICATIONS AND USAGE Kyleena is indicated to prevent pregnancy for up to 5 years. Replace the system after 5 years if continued use is desired. Kyleena is a progestin-containing intrauterine system (IUS) indicated for prevention of pregnancy for up to 5 years. ( 1 )
 
-## Levonorgestrel: Dosage and administration (part 1 of 3)
+## Levonorgestrel: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Levonorgestrel (Bayer HealthCare Pharmaceuticals Inc.), effective 2025-10-23
 Label-set-id: 2e07c155-21e1-4781-9633-ce8bddd47080
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07c155-21e1-4781-9633-ce8bddd47080
@@ -41181,7 +45187,7 @@ This rate decreases progressively to 9.8 mcg/day after 1 year and to 7.4 mcg/day
 The average in vivo release rate of LNG is approximately 12.6 mcg/day over the first year and 9.0 mcg/day over a period of 5 years . [See Clinical Pharmacology ( 12.3 ).] Kyleena must be removed by the end of the fifth year and can be replaced at the time of removal with a new Kyleena if continued contraceptive protection is desired.
 Kyleena can be physically distinguished from other intrauterine systems (IUSs) by the combination of the visibility of the silver ring on ultrasound and the blue color of the removal threads.
 
-## Levonorgestrel: Dosage and administration (part 2 of 3)
+## Levonorgestrel: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Levonorgestrel (Bayer HealthCare Pharmaceuticals Inc.), effective 2025-10-23
 Label-set-id: 2e07c155-21e1-4781-9633-ce8bddd47080
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07c155-21e1-4781-9633-ce8bddd47080
@@ -41196,7 +45202,7 @@ Kyleena and Inserter 2.2.
 Insertion Instructions • Obtain a complete medical and social history to determine conditions that might influence the selection of a levonorgestrel-releasing intrauterine system (LNG IUS) for contraception .
 If indicated, perform a physical examination and appropriate tests for any forms of genital or other sexually transmitted infections. [See Contraindications ( 4 ) and Warnings and Precautions ( 5.10 ).] Because irregular bleeding/spotting is common during the first months of Kyleena use, exclude endometrial pathology (polyps or cancer) prior to the insertion of Kyleena in women with persistent or uncharacteristic bleeding [see Warnings and Precautions ( 5.8 )] . • Follow the insertion instructions exactly as described to ensure proper placement and avoid premature release of Kyleena from the inserter.
 
-## Levonorgestrel: Dosage and administration (part 3 of 3)
+## Levonorgestrel: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Levonorgestrel (Bayer HealthCare Pharmaceuticals Inc.), effective 2025-10-23
 Label-set-id: 2e07c155-21e1-4781-9633-ce8bddd47080
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07c155-21e1-4781-9633-ce8bddd47080
@@ -41209,6 +45215,18 @@ Consider administering analgesics prior to insertion.
 Timing of Insertion Table 1:
 When to Insert Kyleena Starting Kyleena in women not currently using hormonal or intrauterine contraception • Insert Kyleena any time there is reasonable certainty that the woman is not pregnant.
 Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications ( 4 )]. • If Kyleena is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back-up contraception is not needed. • If Kyleena is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used, or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy.
+
+## Levonorgestrel: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Levonorgestrel (Bayer HealthCare Pharmaceuticals Inc.), effective 2025-10-23
+Label-set-id: 2e07c155-21e1-4781-9633-ce8bddd47080
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07c155-21e1-4781-9633-ce8bddd47080
+Retrieved: 2026-10-06
+Keywords: levonorgestrel, kyleena, dosage and administration, progestin [epc], progestin-containing intrauterine system [epc]
+
+Switching to Kyleena from an oral, transdermal or vaginal hormonal contraceptive • Insert Kyleena at any time, including during the hormone-free interval of the previous method. • If inserted during active use of the previous method, continue that method for 7 days after Kyleena insertion or until the end of the current treatment cycle. • If the woman was using continuous hormonal contraception, discontinue that method seven days after Kyleena insertion.
+Switching to Kyleena from an injectable progestin contraceptive • Insert Kyleena at any time; a non-hormonal back-up birth control (such as condoms or spermicide) should also be used for 7 days if Kyleena is inserted more than 3 months (13 weeks) after the last injection.
+Switching to Kyleena from a contraceptive implant or another IUS • Insert Kyleena on the same day the implant or IUS is removed. • Insert Kyleena at any time during the menstrual cycle.
+Inserting Kyleena after first trimester abortion or miscarriage • Insert Kyleena immediately after a first-trimester abortion or miscarriage, unless it is a septic abortion [see Contraindications ( 4 )].
 
 ## Levonorgestrel: Contraindications (part 1 of 2)
 Source: FDA drug label, Levonorgestrel (Bayer HealthCare Pharmaceuticals Inc.), effective 2025-10-23
@@ -41492,7 +45510,7 @@ All patients on bisphosphonate therapy should have the need for continued therap
 Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use.
 Patients who discontinue therapy should have their risk for fracture re-evaluated periodically.
 
-## Alendronate Sodium: Dosage and administration (part 1 of 3)
+## Alendronate Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Alendronate Sodium (REMEDYREPACK INC.), effective 2026-07-03
 Label-set-id: c7e470d6-508e-466e-a78d-060bbbc9745c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7e470d6-508e-466e-a78d-060bbbc9745c
@@ -41510,7 +45528,7 @@ Keywords: alendronate sodium, alendronate, dosage and administration
 ( 2.5 ) Instruct patients to:
 ( 2.6 ) o Swallow tablets whole with 6-8 ounces plain water at least 30 minutes before the first food, drink, or medication of the day. o Not lie down for at least 30 minutes after taking alendronate sodium tablets and until after food.
 
-## Alendronate Sodium: Dosage and administration (part 2 of 3)
+## Alendronate Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Alendronate Sodium (REMEDYREPACK INC.), effective 2026-07-03
 Label-set-id: c7e470d6-508e-466e-a78d-060bbbc9745c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7e470d6-508e-466e-a78d-060bbbc9745c
@@ -41523,7 +45541,7 @@ Re-treatment of Paget's Disease Re-treatment with alendronate sodium tablets, ma
 Re-treatment may also be considered in those who failed to normalize their serum alkaline phosphatase.
 2.6 Important Administration Instructions Instruct patients to do the following:
 
-## Alendronate Sodium: Dosage and administration (part 3 of 3)
+## Alendronate Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Alendronate Sodium (REMEDYREPACK INC.), effective 2026-07-03
 Label-set-id: c7e470d6-508e-466e-a78d-060bbbc9745c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7e470d6-508e-466e-a78d-060bbbc9745c
@@ -41538,6 +45556,20 @@ To facilitate delivery to the stomach and thus reduce the potential for esophage
 Patients should not lie down for at least 30 minutes and until after their first food of the day.
 Alendronate sodium tablets should not be taken at bedtime or before arising for the day.
 Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions ( 5.1 ) and Patient Counseling Information ( 17 )] .
+
+## Alendronate Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Alendronate Sodium (REMEDYREPACK INC.), effective 2026-07-03
+Label-set-id: c7e470d6-508e-466e-a78d-060bbbc9745c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7e470d6-508e-466e-a78d-060bbbc9745c
+Retrieved: 2026-10-06
+Keywords: alendronate sodium, alendronate, dosage and administration
+
+2.7 Recommendations for Calcium and Vitamin D Supplementation Instruct patients to take supplemental calcium if dietary intake is inadequate [see Warnings and Precautions ( 5.2 )] .
+Patients at increased risk for vitamin D insufficiency (e.g., over the age of 70 years, nursing home-bound, or chronically ill) may need vitamin D supplementation.
+Patients with gastrointestinal malabsorption syndromes may require higher doses of vitamin D supplementation and measurement of 25-hydroxyvitamin D should be considered.
+Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.
+2.8 Administration Instructions for Missed Doses If a once-weekly dose of alendronate sodium tablets is missed, instruct patients to take one dose on the morning after they remember.
+They should not take two doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day .
 
 ## Alendronate Sodium: Contraindications
 Source: FDA drug label, Alendronate Sodium (REMEDYREPACK INC.), effective 2026-07-03
@@ -41942,7 +45974,7 @@ Keywords: allopurinol, uses, xanthine oxidase inhibitor [epc], xanthine oxidase 
 Adult patients with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis, and/or nephropathy) ( 1 ) Adult and pediatric patients with leukemia, lymphoma and solid tumor malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels ( 1 ) Adult patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients, despite lifestyle changes ( 1 ) Limitations of Use Allopurinol tablets are not recommended for the treatment of asymptomatic hyperuricemia.
 ( 1 )
 
-## Allopurinol: Dosage and administration (part 1 of 3)
+## Allopurinol: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
@@ -41970,7 +46002,7 @@ The recommended initial dosage in patients with normal kidney function is 200 mg
 ( 2.5 ) Dosage in Patients with Renal Impairment:
 See FPI for dosage modifications in patients with renal impairment.
 
-## Allopurinol: Dosage and administration (part 2 of 3)
+## Allopurinol: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
@@ -41984,7 +46016,7 @@ While adjusting the dosage of allopurinol tablets in patients who are being trea
 If a gout flare occurs during allopurinol tablets treatment, allopurinol tablets need not be discontinued.
 Manage the gout flare concurrently, as appropriate for the individual patient [see Warnings and Precautions ( 5.2 )].
 
-## Allopurinol: Dosage and administration (part 3 of 3)
+## Allopurinol: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
@@ -42000,6 +46032,23 @@ The appropriate dosage may be administered in divided doses or as a single equiv
 Doses in excess of 300 mg should be administered in divided doses.
 Monitor patients’ kidney function during the early stages of administration of allopurinol tablets and decrease the dosage or withdraw the drug if persistent abnormalities in kidney function occur [see Dosage and Administration (2.6), Warnings and Precautions (5.3), Use in Specific Populations ( 8.6 )].
 
+## Allopurinol: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
+Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
+Retrieved: 2026-10-06
+Keywords: allopurinol, dosage and administration, xanthine oxidase inhibitor [epc], xanthine oxidase inhibitors [moa]
+
+The dosage of allopurinol tablets to achieve control of gout varies with the severity of the disease.
+In general, gout control is achieved with 200 mg to 300 mg daily in patients with mild gout, and with 400 mg to 600 mg daily in patients with moderate to severe tophaceous gout.
+Gout attacks usually become shorter and less severe after several months of therapy.
+If a dose of allopurinol tablets is missed, there is no need to double the dose at the next scheduled time.
+Allopurinol tablets is generally better tolerated if taken following meals.
+A fluid intake sufficient to yield a daily urinary output of at least 2 liters and the maintenance of a neutral or preferably, slightly alkaline urine are desirable.
+Inform patients of the possibility of gout flares [see Warnings and Precautions ( 5.2 )].
+Instruct them to remain on allopurinol tablets if this occurs and to increase fluid intake during therapy to prevent kidney stones.
+Concurrent Use of Uricosuric Agents Some patients, may benefit using uricosuric agents concurrently, to reduce serum uric acid to target levels.
+
 ## Allopurinol: Contraindications
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
@@ -42009,7 +46058,7 @@ Keywords: allopurinol, contraindications, xanthine oxidase inhibitor [epc], xant
 
 4 CONTRAINDICATIONS Allopurinol tablets are contraindicated in patients with a history of hypersensitivity reaction to allopurinol or to any of the ingredients of allopurinol tablets. Known hypersensitivity to allopurinol or to any of the ingredients of allopurinol tablets.
 
-## Allopurinol: Drug interactions (part 1 of 3)
+## Allopurinol: Drug interactions (part 1 of 5)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
@@ -42028,7 +46077,7 @@ Discontinue and refrain from initiating treatment with allopurinol tablets.
 Renal impairment may further increase risk with concomitant use of thiazide diuretics [see Warnings and Precautions ( 5.1 , 5.2 ) and Clinical Pharmacology ( 12.2 )] .
 Monitor kidney function and reduce the dose of allopurinol tablets in patients with concomitant thiazide diuretic use and impaired renal function [see Dosage and Administration ( 2.6 ), Warnings and Precautions ( 5.1 )].
 
-## Allopurinol: Drug interactions (part 2 of 3)
+## Allopurinol: Drug interactions (part 2 of 5)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
@@ -42044,7 +46093,7 @@ In patients with renal insufficiency, the risk of hypoglycemia may be increased 
 Intervention Monitor patients with renal insufficiency for hypoglycemia when administering chlorpropamide and allopurinol tablets concomitantly.
 Cyclosporine Clinical Impact Concomitant use of allopurinol increases cyclosporine concentrations, which may increase the risk of adverse reactions.
 
-## Allopurinol: Drug interactions (part 3 of 3)
+## Allopurinol: Drug interactions (part 3 of 5)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
 Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
@@ -42060,6 +46109,37 @@ Intervention Monitor prothrombin time.
 Adjust the dosage of dicumarol accordingly when allopurinol tablets are added to anticoagulant therapy.
 Fluorouracil Clinical Impact Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil.
 Intervention Concomitant administration with fluorouracil should be avoided.
+
+## Allopurinol: Drug interactions (part 4 of 5)
+Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
+Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
+Retrieved: 2026-10-06
+Keywords: allopurinol, drug interactions, xanthine oxidase inhibitor [epc], xanthine oxidase inhibitors [moa]
+
+Mercaptopurine or Azathioprine Clinical Impact Allopurinol inhibits xanthine oxidase mediated metabolism of mercaptopurine and azathioprine.
+Concomitant use of allopurinol increases the exposure of either mercaptopurine or azathioprine which may increase the risk of their adverse reactions, including myelosuppression [see Warnings and Precautions 5.5 ].
+Intervention In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 mg to 600 mg of allopurinol tablets per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.
+Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects.
+Pegloticase Clinical Impact Concomitant use of allopurinol tablets and pegloticase may potentially blunt the rise of serum uric acid levels and increase the risk of pegloticase related anaphylaxis in patients whose uric acid level increase to above 6 mg/dL.
+Intervention Discontinue and do not institute allopurinol tablets therapy during treatment with pegloticase.
+Theophylline Clinical Impact Concomitant use of allopurinol doses greater than or equal to 600 mg/day may decrease the clearance of theophylline.
+
+## Allopurinol: Drug interactions (part 5 of 5)
+Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
+Label-set-id: 005048dd-844f-468c-bf56-1a09727e3477
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477
+Retrieved: 2026-10-06
+Keywords: allopurinol, drug interactions, xanthine oxidase inhibitor [epc], xanthine oxidase inhibitors [moa]
+
+Intervention Monitor and adjust theophylline doses as reflected in the prescribing information.
+Uricosuric Drugs Clinical Impact Uricosuric agents increase the excretion of the active allopurinol metabolite oxypurinol.
+Concomitant use with uricosuric agents decreases oxypurinol exposure which may reduce the inhibition of xanthine oxidase by oxypurinol and increases the urinary excretion of uric acid.
+The net effect of such combined therapy may be useful in some patients in achieving minimum serum uric acid levels provided the total urinary uric acid load does not exceed the competence of the patient's kidney function.
+Intervention Monitor uric acid levels due to the increased chance of hypouricemic effects.
+Warfarin Clinical Impact Allopurinol may inhibit the metabolism of warfarin, possibly enhancing its anticoagulant effect.
+Intervention Monitor patients on concomitant therapy for excessive anticoagulation.
+Assess INR frequently and adjust warfarin dosage accordingly when allopurinol is added to warfarin therapy.
 
 ## Allopurinol: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Allopurinol (Bryant Ranch Prepack), effective 2024-07-08
@@ -42432,7 +46512,7 @@ Keywords: colchicine, uses, alkaloid [epc]
 
 1 INDICATIONS & USAGE Colchicine tablets are an alkaloid indicated for: Familial Mediterranean fever (FMF) in adults and children 4 years or older ( 1.2 ). 1.2 Familial Mediterranean Fever (FMF) Colchicine tablets are indicated in adults and children four years or older for treatment of familial Mediterranean fever (FMF).
 
-## Colchicine: Dosage and administration (part 1 of 3)
+## Colchicine: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Colchicine (A-S Medication Solutions), effective 2026-07-15
 Label-set-id: 5c1ceff7-8f00-48cc-8ea4-678106455ff1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c1ceff7-8f00-48cc-8ea4-678106455ff1
@@ -42451,7 +46531,7 @@ Colchicine tablets are administered orally without regard to meals.
 See full prescribing information (FPI) for dose adjustment regarding patients with impaired renal function ( 2.5 ), impaired hepatic function ( 2.6 ), the patient’s age ( 2.3 , 8.5 ) or use of coadministered drugs ( 2.4 ).
 2.2 FMF The recommended dosage of colchicine tablets for FMF in adults is 1.2 mg to 2.4 mg daily.
 
-## Colchicine: Dosage and administration (part 2 of 3)
+## Colchicine: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Colchicine (A-S Medication Solutions), effective 2026-07-15
 Label-set-id: 5c1ceff7-8f00-48cc-8ea4-678106455ff1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c1ceff7-8f00-48cc-8ea4-678106455ff1
@@ -42470,7 +46550,7 @@ Children 4 to 6 years:
 If patients are taking or have recently completed treatment with drugs listed in Table 1 within the prior 14 days, the dose adjustments are as shown in the table below [see Drug Interactions ( 7 )].
 Table 1.
 
-## Colchicine: Dosage and administration (part 3 of 3)
+## Colchicine: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Colchicine (A-S Medication Solutions), effective 2026-07-15
 Label-set-id: 5c1ceff7-8f00-48cc-8ea4-678106455ff1
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c1ceff7-8f00-48cc-8ea4-678106455ff1
@@ -42481,6 +46561,18 @@ Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs i
 Similarly, significant increase in colchicine plasma levels is anticipated with other strong CYP3A4 inhibitors.
 Maximum daily dose of 1.2 – 2.4 mg Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) Moderate CYP3A4 Inhibitors FMF Drug Noted or Anticipated Outcome Original Intended Dosage Adjusted Dose Amprenavir ‡ Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir ‡ (prodrug of Amprenavir) Grapefruit juice Verapamil Significant increase in colchicine plasma concentration is anticipated.
 Neuromuscular toxicity has been reported with diltiazem and verapamil interactions.
+
+## Colchicine: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Colchicine (A-S Medication Solutions), effective 2026-07-15
+Label-set-id: 5c1ceff7-8f00-48cc-8ea4-678106455ff1
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c1ceff7-8f00-48cc-8ea4-678106455ff1
+Retrieved: 2026-10-06
+Keywords: colchicine, dosage and administration, alkaloid [epc]
+
+Maximum daily dose of 1.2 – 2.4 mg Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) P-gp Inhibitors † FMF Drug Noted or Anticipated Outcome Original Intended Dosage Adjusted Dose Cyclosporine Ranolazine Significant increase in colchicine plasma levels*; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor.
+Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors.
+Maximum daily dose of 1.2 –2.4 mg Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) * For magnitude of effect on colchicine plasma concentrations [see Clinical Pharmacology ( 12.3 )] † Patients with renal or hepatic impairment should not be given colchicine tablets in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications ( 4 )] ‡ When used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications ( 4 )] Table 2.
+Colchicine tablets Dose Adjustment for Coadministration with Protease Inhibitors Protease Inhibitor Clinical Comment w/Colchicine-Treatment of FMF Atazanavir sulfate (Reyataz) Patients with renal or hepatic impairment should not be given colchicine with Reyataz.
 
 ## Colchicine: Contraindications
 Source: FDA drug label, Colchicine (A-S Medication Solutions), effective 2026-07-15
@@ -42697,7 +46789,7 @@ Keywords: methotrexate, uses
 1.3 Polyarticular Juvenile Idiopathic Arthritis Methotrexate tablets are indicated for the treatment of pediatric patients with polyarticular Juvenile Idiopathic Arthritis (pJIA).
 1.4 Psoriasis Methotrexate tablets are indicated for the treatment of adults with severe psoriasis.
 
-## Methotrexate: Dosage and administration (part 1 of 3)
+## Methotrexate: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Methotrexate (A-S Medication Solutions), effective 2026-08-27
 Label-set-id: 22e10810-16fb-4c84-bccf-972405b77ef8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22e10810-16fb-4c84-bccf-972405b77ef8
@@ -42718,7 +46810,7 @@ The recommended starting dosage is 7.5 mg orally once weekly; adjust dose to ach
 The recommended starting dosage is 10 mg/m 2 orally once weekly; adjust dose to achieve an optimal response ( 2.4 ) Psoriasis :
 The recommended dosage is 10 to 25 mg orally once weekly until adequate response is achieved.
 
-## Methotrexate: Dosage and administration (part 2 of 3)
+## Methotrexate: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Methotrexate (A-S Medication Solutions), effective 2026-08-27
 Label-set-id: 22e10810-16fb-4c84-bccf-972405b77ef8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22e10810-16fb-4c84-bccf-972405b77ef8
@@ -42734,7 +46826,7 @@ Follow applicable special handling and disposal procedures.
 1 2.2 Recommended Dosage for Neoplastic Diseases Acute Lymphoblastic Leukemia The recommended starting dosage of methotrexate tablets is 20 mg/m 2 orally once weekly, as part of a combination chemotherapy maintenance regimen.
 After initiating methotrexate tablets, periodically monitor absolute neutrophil count (ANC) and platelet count and adjust the dose to maintain ANC at a desirable level and for excessive myelosuppression.
 
-## Methotrexate: Dosage and administration (part 3 of 3)
+## Methotrexate: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Methotrexate (A-S Medication Solutions), effective 2026-08-27
 Label-set-id: 22e10810-16fb-4c84-bccf-972405b77ef8
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22e10810-16fb-4c84-bccf-972405b77ef8
@@ -42748,6 +46840,23 @@ Dosages of more than 20 mg once weekly result in an increased risk of serious ad
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions ( 5.10 )] .
 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis The recommended starting dosage of methotrexate tablets is 10 mg/m 2 orally once weekly with escalation to achieve optimal response.
+
+## Methotrexate: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Methotrexate (A-S Medication Solutions), effective 2026-08-27
+Label-set-id: 22e10810-16fb-4c84-bccf-972405b77ef8
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22e10810-16fb-4c84-bccf-972405b77ef8
+Retrieved: 2026-10-06
+Keywords: methotrexate, dosage and administration
+
+Dosages of more than 30 mg/m 2 once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
+When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions ( 5.10 )] .
+2.5 Recommended Dosage for Psoriasis The recommended dosage of methotrexate tablets is 10 to 25 mg orally once weekly until an adequate response is achieved.
+Adjust the dose gradually to achieve optimal clinical response; do not exceed a dose of 30 mg per week.
+Once optimal clinical response has been achieved, reduce the dosage to the lowest possible dosing regimen.
+Administer folic acid or folinic acid supplementation to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions ( 5.10 )] .
+2.6 Dosage Modifications for Adverse Reactions Discontinue methotrexate tablets for:
+Anaphylaxis or other severe hypersensitivity reactions [see Warnings and Precautions ( 5.2 )] Lymphoproliferative disease [see Warnings and Precautions ( 5.13 )] Withhold, dose reduce or discontinue methotrexate tablets as appropriate for:
 
 ## Methotrexate: Contraindications
 Source: FDA drug label, Methotrexate (A-S Medication Solutions), effective 2026-08-27
@@ -43218,7 +47327,7 @@ ABRILADA can be used alone or in combination with methotrexate.
 ABRILADA can be used alone or in combination with non-biologic DMARDs.
 1.4 Ankylosing Spondylitis ABRILADA is indicated for reducing signs and symptoms in adult patients with active ankylosing spondylitis.
 
-## Adalimumab-Afzb: Dosage and administration (part 1 of 3)
+## Adalimumab-Afzb: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Adalimumab-Afzb (A-S Medication Solutions), effective 2026-08-07
 Label-set-id: 1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
@@ -43239,7 +47348,7 @@ Pediatric Weight Recommended Dosage Days 1 and 15 Starting on Day 29 17 kg (37 l
 80 mg 40 mg every other week Ulcerative Colitis ( 2.5 ): • Adults:
 160 mg on Day 1 (given in one day or split over two consecutive days), 80 mg on Day 15 and 40 mg every other week starting on Day 29.
 
-## Adalimumab-Afzb: Dosage and administration (part 2 of 3)
+## Adalimumab-Afzb: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Adalimumab-Afzb (A-S Medication Solutions), effective 2026-08-07
 Label-set-id: 1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
@@ -43257,7 +47366,7 @@ Hidradenitis Suppurativa ( 2.7 ): • Adults: o Day 1:
 2.2 Recommended Dosage in Rheumatoid Arthritis, Psoriatic Arthritis, and Ankylosing Spondylitis The recommended subcutaneous dosage of ABRILADA for adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), or ankylosing spondylitis (AS) [see Indications and Usage (1.1 , 1.3 , 1.4) ] is 40 mg administered every other week.
 Methotrexate (MTX), other non-biologic DMARDs, glucocorticoids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with ABRILADA.
 
-## Adalimumab-Afzb: Dosage and administration (part 3 of 3)
+## Adalimumab-Afzb: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Adalimumab-Afzb (A-S Medication Solutions), effective 2026-08-07
 Label-set-id: 1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
@@ -43269,6 +47378,24 @@ In the treatment of RA, some patients not taking concomitant MTX may derive addi
 MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatment with ABRILADA.
 Pediatric Weight (2 years of age and older) Recommended Dosage 10 kg (22 lbs) to less than 15 kg (33 lbs) 10 mg every other week 15 kg (33 lbs) to less than 30 kg (66 lbs) 20 mg every other week 30 kg (66 lbs) and greater 40 mg every other week Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
 2.4 Recommended Dosage in Crohn's Disease Subcutaneous Adult Dosage Regimen The recommended subcutaneous dosage of ABRILADA for adult patients with moderately to severely active Crohn's disease (CD) is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+
+## Adalimumab-Afzb: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Adalimumab-Afzb (A-S Medication Solutions), effective 2026-08-07
+Label-set-id: 1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5
+Retrieved: 2026-10-06
+Keywords: adalimumab-afzb, adalimumab, abrilada, dosage and administration
+
+Two weeks later (Day 29) begin a dosage of 40 mg every other week.
+Aminosalicylates and/or corticosteroids may be continued during treatment with ABRILADA.
+Azathioprine, 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2) ] or MTX may be continued during treatment with ABRILADA if necessary.
+Subcutaneous Pediatric Dosage Regimen The recommended subcutaneous dosage of ABRILADA for pediatric patients 6 years of age and older with moderately to severely active Crohn’s disease (CD), based on body weight, is shown below:
+Pediatric Weight Recommended Dosage Days 1 through 15 Starting on Day 29 17 kg (37 lbs) to less than 40 kg (88 lbs) Day 1:
+80 mg Day 15:
+40 mg 20 mg every other week 40 kg (88 lbs) and greater Day 1:
+160 mg (single dose or split over two consecutive days) Day 15:
+80 mg 40 mg every other week 2.5 Recommended Dosage in Ulcerative Colitis Subcutaneous Adult Dosage Regimen The recommended subcutaneous dosage of ABRILADA for adult patients with moderately to severely active ulcerative colitis is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+Two weeks later (Day 29) continue with a dosage of 40 mg every other week.
 
 ## Adalimumab-Afzb: Drug interactions (part 1 of 2)
 Source: FDA drug label, Adalimumab-Afzb (A-S Medication Solutions), effective 2026-08-07
@@ -43483,7 +47610,7 @@ Keywords: metoclopramide, uses
 ( 1 , 5.1 ) Metoclopramide tablets are not recommended for use in pediatric patients due to the risk of tardive dyskinesia (TD) and other extrapyramidal symptoms as well as the risk of methemoglobinemia in neonates.
 ( 1 , 8.4 )
 
-## Metoclopramide: Dosage and administration (part 1 of 3)
+## Metoclopramide: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
@@ -43499,7 +47626,7 @@ Acute and Recurrent Diabetic Gastroparesis in Adults ( 2.2 ) The recommended dos
 Dosage Adjustment in Specific Populations ( 2.1 , 2.2 ) For symptomatic, documented gastroesophageal reflux and acute and recurrent diabetic gastroparesis, see Full Prescribing Information for recommended dosage reductions for elderly patients, in patients with moderate or severe hepatic or renal impairment, and cytochrome P450 2D6 (CYP2D6) poor metabolizers.
 2.1 Recommended Dosage for Symptomatic, Documented Gastroesophageal Reflux in Adults Who Fail Conventional Therapy Metoclopramide tablets may be administered continuously or intermittently in patients with symptomatic, documented gastroesophageal reflux who fail to respond to conventional therapy:
 
-## Metoclopramide: Dosage and administration (part 2 of 3)
+## Metoclopramide: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
@@ -43508,7 +47635,7 @@ Keywords: metoclopramide, dosage and administration
 
 Recommended Dosage of Metoclopramide Tablet for Symptomatic, Documented Gastroesophageal Reflux in Adults Who Fail Conventional Therapy Recommended Dosage Maximum Recommended Daily Dosage Adult patients 10 to 15 mg four times daily (thirty minutes before each meal and at bedtime) 60 mg Mild hepatic impairment (Child-Pugh A) Elderly patients [see Use in Specific Populations ( 8.5 )] 5 mg 1 four times daily (thirty minutes before each meal and at bedtime) Moderate or severe hepatic impairment (Child-Pugh B or C) [see Use in Specific Populations ( 8.7 )] 5 mg four times daily (thirty minutes before each meal and at bedtime), or 10 mg taken three times daily 30 mg CYP2D6 poor metabolizers [see Use in Specific Populations ( 8.9 )] Concomitant use with strong CYP2D6 inhibitors (e.g., quinidine, bupropion, fluoxetine, and paroxetine) [see Drug Interactions ( 7.1 )] Moderate or severe renal impairment (creatinine clearance less than or equal to 60 mL/minute) [see Use in Specific Populations ( 8.6 )] Patients with End-Stage Renal Disease (ESRD) including those treated with hemodialysis and continuous ambulatory peritoneal dialysis [see Use in Specific Populations ( 8.6 )] 5 mg four times daily (thirty minutes before each meal and at bedtime) or 10 mg twice daily 20 mg 1 Elderly patients
 
-## Metoclopramide: Dosage and administration (part 3 of 3)
+## Metoclopramide: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
@@ -43526,6 +47653,21 @@ Intermittent Dosing If symptoms only occur intermittently or at specific times o
 Consider dosage reductions for the populations and situations in Table 1.
 Table 1.
 
+## Metoclopramide: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
+Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
+Retrieved: 2026-10-06
+Keywords: metoclopramide, dosage and administration
+
+may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a lower starting dosage of 5 mg four times daily with titration to the recommended adult dosage of 10 to 15 mg four times daily based upon response and tolerability.
+2.2 Recommended Dosage for Acute and Recurrent Diabetic Gastroparesis in Adults The recommended oral dosage of metoclopramide tablets for the relief of symptoms in adults with acute and recurrent diabetic gastroparesis is 10 mg four times daily.
+The maximum recommended daily dosage is 40 mg.
+Administer each dose thirty minutes before each meal and at bedtime.
+Use metoclopramide for the shortest duration of treatment and periodically reassess the need for continued treatment.
+Avoid treatment with metoclopramide, including metoclopramide tablets, for longer than 12 weeks.
+If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD [see Warnings and Precautions ( 5.1 )] .
+
 ## Metoclopramide: Contraindications
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
@@ -43535,7 +47677,7 @@ Keywords: metoclopramide, contraindications
 
 4 CONTRAINDICATIONS Metoclopramide is contraindicated: In patients with a history of tardive dyskinesia (TD) or a dystonic reaction to metoclopramide [see Warnings and Precautions ( 5.1 , 5.2 )] . When stimulation of gastrointestinal motility might be dangerous (e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation). In patients with pheochromocytoma or other catecholamine-releasing paragangliomas. Metoclopramide may cause a hypertensive/pheochromocytoma crisis, probably due to release of catecholamines from the tumor [see Warnings and Precautions ( 5.5 )] . In patients with epilepsy. Metoclopramide may increase the frequency and severity of seizures [see Adverse Reactions ( 6 )] . In patients with hypersensitivity to metoclopramide. Reactions have included laryngeal and glossal angioedema and bronchospasm [see Adverse Reactions ( 6 )] . History of TD or dystonic reaction to metoclopramide ( 4 ) When stimulation of gastrointestinal motility might be dangerous ( 4 ) Pheochromocytoma, catecholamine-releasing paragangliomas ( 4 ) Epilepsy ( 4 ) Hypersensitivity to metoclopramide ( 4 )
 
-## Metoclopramide: Drug interactions (part 1 of 3)
+## Metoclopramide: Drug interactions (part 1 of 4)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
@@ -43558,7 +47700,7 @@ Table 3.
 Effects of Other Drugs on Metoclopramide Antipsychotics Clinical Impact Potential for additive effects, including increased frequency and severity of tardive dyskinesia (TD), other extrapyramidal symptoms (EPS), and neuroleptic malignant syndrome (NMS).
 Intervention Avoid concomitant use [see Warnings and Precautions ( 5.1 , 5.2 , 5.3 )] .
 
-## Metoclopramide: Drug interactions (part 2 of 3)
+## Metoclopramide: Drug interactions (part 2 of 4)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
@@ -43575,7 +47717,7 @@ Examples alcohol, sedatives, hypnotics, opiates and anxiolytics Drugs that Impai
 Intervention Monitor for reduced therapeutic effect.
 Examples antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations Clinical Impact Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine.
 
-## Metoclopramide: Drug interactions (part 3 of 3)
+## Metoclopramide: Drug interactions (part 3 of 4)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
 Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
@@ -43591,6 +47733,22 @@ Intervention Avoid concomitant use [see Warnings and Precautions ( 5.2 )] .
 Examples Apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, rotigotine Succinylcholine, Mivacurium Clinical Impact Metoclopramide inhibits plasma cholinesterase leading to enhanced neuromuscular blockade.
 Intervention Monitor for signs and symptoms of prolonged neuromuscular blockade Drugs with Absorption Altered due to Increased Gastrointestinal Motility Clinical Impact The effect of metoclopramide on other drugs is variable.
 Increased gastrointestinal (GI) motility by metoclopramide may impact absorption of other drugs leading to decreased or increased drug exposure.
+
+## Metoclopramide: Drug interactions (part 4 of 4)
+Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
+Label-set-id: 5345905d-18b0-1e42-e063-6394a90af745
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5345905d-18b0-1e42-e063-6394a90af745
+Retrieved: 2026-10-06
+Keywords: metoclopramide, drug interactions
+
+Intervention Drugs with Decreased Absorption (e.g., digoxin, atovaquone, posaconazole oral suspension Interaction does not apply to posaconazole delayed-release tablets , fosfomycin) :
+Monitor for reduced therapeutic effect of the interacting drug.
+For digoxin monitor therapeutic drug concentrations and increase the digoxin dose as needed (see prescribing information for digoxin).
+Drugs with Increased Absorption (e.g., sirolimus, tacrolimus, cyclosporine) :
+Monitor therapeutic drug concentrations and adjust the dose as needed.
+See prescribing information for the interacting drug.
+Insulin Clinical Impact Increased GI motility by metoclopramide may increase delivery of food to the intestines and increase blood glucose.
+Intervention Monitor blood glucose and adjust insulin dosage regimen as needed.
 
 ## Metoclopramide: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Metoclopramide (Coupler LLC), effective 2026-06-02
@@ -43724,7 +47882,7 @@ Keywords: pantoprazole sodium, pantoprazole, uses
 
 1 INDICATIONS AND USAGE Pantoprazole sodium for injection is indicated for treatment of: • gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) for up to 10 days in adults. • pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome in adults. Limitations of Use The safety and effectiveness of pantoprazole sodium for injection for the treatment of upper gastrointestinal bleeding have not been established in adult or pediatric patients. Pediatric use information is approved for Pfizer Inc.'s PROTONIX ® I.V. (pantoprazole sodium) for Injection. However, due to Pfizer Inc.'s marketing exclusivity rights, this drug product is not labeled with that information. Pantoprazole sodium for injection is a proton pump inhibitor (PPI) indicated for treatment of: • gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) for up to 10 days in adults. ( 1 ) • pathological hypersecretion conditions including Zollinger-Ellison (ZE) Syndrome in adults. ( 1 ) Limitations of Use The safety and effectiveness of pantoprazole sodium for injection for the treatment of upper gastrointestinal bleeding have not been established in adult or pediatric patients. ( 1 )
 
-## Pantoprazole Sodium: Dosage and administration (part 1 of 3)
+## Pantoprazole Sodium: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43738,7 +47896,7 @@ Switch to an appropriate oral medication within 10 days of starting pantoprazole
 ( 2.2 ) • When switching between intravenous to oral formulations of gastric acid inhibitors, consider the pharmacodynamic action of the drugs to ensure continuity of acid suppression.
 ( 2.2 ) Preparation and Administration Instructions • See full prescribing information for preparation and administration instructions by indication.
 
-## Pantoprazole Sodium: Dosage and administration (part 2 of 3)
+## Pantoprazole Sodium: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43753,7 +47911,7 @@ Pediatric use information is approved for Pfizer Inc.'s PROTONIX® I.V.
 However, due to Pfizer Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 2.2 Recommended Dosage for Pathological Hypersecretion Including Zollinger-Ellison Syndrome • The recommended adult dosage of pantoprazole sodium for injection is 80 mg every 12 hours by intravenous injection (over at least 2 minutes) or intravenous infusion (for 15 minutes). • Adjust the frequency of dosing to individual patient needs based on acid output measurements.
 
-## Pantoprazole Sodium: Dosage and administration (part 3 of 3)
+## Pantoprazole Sodium: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43776,6 +47934,26 @@ Withdraw the dose of the diluted pantoprazole sodium for injection solution for 
 Infuse intravenously over a period of approximately 15 minutes through a dedicated line or through a Y-site [see Dosage and Administration (2.5)] .
 9.
 
+## Pantoprazole Sodium: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
+Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
+Retrieved: 2026-10-06
+Keywords: pantoprazole sodium, pantoprazole, dosage and administration
+
+Flush the intravenous line before and after administration of pantoprazole sodium for injection with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection.
+Storage • Store the reconstituted solution may be up to 6 hours at room temperature up to 30°C (86°F) prior to further dilution. • Store the diluted solution at room temperature up to 30°C (86°F) and must be used within 24 hours from the time of initial reconstitution. • Do not freeze the reconstituted or diluted solution.
+2-Minute Intravenous Injection for Adult Patients 1.
+Reconstitute each vial of pantoprazole sodium for injection with 10 mL of 0.9% Sodium Chloride Injection, to a final concentration of approximately 4 mg/mL.
+2.
+Withdraw the dose of 40 mg of reconstituted pantoprazole sodium for injection solution.
+3.
+Inspect the diluted pantoprazole sodium for injection solution visually for particulate matter and discoloration prior to and during administration.
+4.
+Administer intravenously over a period of at least 2 minutes.
+5.
+Flush the intravenous line before and after administration of pantoprazole sodium for injection with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection.
+
 ## Pantoprazole Sodium: Contraindications
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43785,7 +47963,7 @@ Keywords: pantoprazole sodium, pantoprazole, contraindications
 
 4 CONTRAINDICATIONS • Pantoprazole sodium for injection is contraindicated in patients with known hypersensitivity reactions including anaphylaxis to the formulation or any substituted benzimidazole. Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (5.2, 5.4) and Adverse Reactions ( 6 )]. • Proton pump inhibitors (PPIs), including pantoprazole sodium for injection, are contraindicated in patients receiving rilpivirine-containing products [see Drug Interactions ( 7 )]. • Known hypersensitivity to any component of the formulation or to substituted benzimidazoles. ( 4 ) • Patients receiving rilpivirine-containing products. ( 4 , 7 )
 
-## Pantoprazole Sodium: Drug interactions (part 1 of 3)
+## Pantoprazole Sodium: Drug interactions (part 1 of 5)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43804,7 +47982,7 @@ There are other antiretroviral drugs which do not result in clinically relevant 
 Intervention:
 Rilpivirine-containing products:
 
-## Pantoprazole Sodium: Drug interactions (part 2 of 3)
+## Pantoprazole Sodium: Drug interactions (part 2 of 5)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43834,7 +48012,7 @@ Concomitant administration of pantoprazole and clopidogrel in healthy subjects h
 Intervention:
 No dose adjustment of clopidogrel is necessary when administered with an approved dose of pantoprazole sodium for injection.
 
-## Pantoprazole Sodium: Drug interactions (part 3 of 3)
+## Pantoprazole Sodium: Drug interactions (part 3 of 5)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
 Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
@@ -43851,6 +48029,37 @@ Pantoprazole can reduce the absorption of other drugs due to its effect on reduc
 Intervention:
 Mycophenolate mofetil (MMF):
 Co-administration of pantoprazole sodium in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH [see Clinical Pharmacology ( 12.3 )] .
+
+## Pantoprazole Sodium: Drug interactions (part 4 of 5)
+Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
+Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
+Retrieved: 2026-10-06
+Keywords: pantoprazole sodium, pantoprazole, drug interactions
+
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving pantoprazole sodium for injection and MMF.
+Use pantoprazole sodium for injection with caution in transplant patients receiving MMF.
+See the prescribing information for other drugs dependent on gastric pH for absorption.
+Interactions with Investigations of Neuroendocrine Tumors Clinical Impact:
+CgA levels increase secondary to PPI-induced decreases in gastric acidity.
+The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions ( 5.12 ) and Clinical Pharmacology ( 12.2 )] .
+Intervention:
+Temporarily stop pantoprazole sodium for injection treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
+False Positive Urine Tests for THC Clinical Impact:
+There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs [see Warnings and Precautions ( 5.13 )] .
+Intervention:
+
+## Pantoprazole Sodium: Drug interactions (part 5 of 5)
+Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
+Label-set-id: 1bb94d3c-8bc3-4193-9dd8-e9a22066707c
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bb94d3c-8bc3-4193-9dd8-e9a22066707c
+Retrieved: 2026-10-06
+Keywords: pantoprazole sodium, pantoprazole, drug interactions
+
+An alternative confirmatory method should be considered to verify positive results.
+See the full prescribing information for a list of clinically important drug interactions.
+( 7 )
 
 ## Pantoprazole Sodium: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Pantoprazole Sodium (Camber Pharmaceuticals, Inc.), effective 2026-08-31
@@ -44629,7 +48838,7 @@ Keywords: magnesium sulfate in dextrose, magnesium, uses
 
 1 INDICATIONS AND USAGE Magnesium Sulfate in 5% Dextrose Injection is indicated for: • Prevention of eclampsia in patients with preeclampsia • Treatment of seizures and prevention of recurrent seizures in patients with eclampsia Magnesium Sulfate in 5% Dextrose Injection is indicated for ( 1 ): • Prevention of eclampsia in patients with preeclampsia ( 1 ) • Treatment of seizures and prevention of recurrent seizures in patients with eclampsia ( 1 )
 
-## Magnesium Sulfate In Dextrose: Dosage and administration (part 1 of 3)
+## Magnesium Sulfate In Dextrose: Dosage and administration (part 1 of 4)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44639,7 +48848,7 @@ Keywords: magnesium sulfate in dextrose, magnesium, dosage and administration
 2 DOSAGE AND ADMINISTRATION • Administer via intravenous infusion pump ( 2.1 ) • Recommended loading dosage is 4 to 6 grams over 15 minutes followed by a recommended maintenance dosage of 1 to 2 grams every hour; maximum recommended dosage is 30 to 40 grams over 24 hours ( 2.2 ) • Obtain serum magnesium concentrations and assess clinical status to adjust the dose ( 2.2 ) • Administration beyond 5 to 7 days is not recommended ( 2.2 , 5.1 ) • In patients with severe renal impairment and/or urine output less than 0.5 mL/kg/hour, administer a 4 gram loading dose followed by a maintenance dosage of 1 gram every hour; do not exceed the maximum recommended dosage of 20 grams over 48 hours ( 2.3 ) • Do not administer Magnesium Sulfate in 5% Dextrose Injection with incompatible drugs through the same intravenous line, specifically with salicylates and alkali carbonates ( 2.4 ) 2.1 Important Administration Instructions Magnesium Sulfate in 5% Dextrose Injection is: • A clear solution.
 Visually inspect Magnesium Sulfate in 5% Dextrose Injection for particulate matter and discoloration prior to administration.
 
-## Magnesium Sulfate In Dextrose: Dosage and administration (part 2 of 3)
+## Magnesium Sulfate In Dextrose: Dosage and administration (part 2 of 4)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44653,7 +48862,7 @@ Do not administer Magnesium Sulfate in 5% Dextrose Injection with incompatible d
 Do not use Magnesium Sulfate in 5% Dextrose Injection in series connections.
 2.2 Recommended Dosage • The recommended loading dosage of Magnesium Sulfate in 5% Dextrose Injection in patients with eclampsia or preeclampsia is 4 to 6 grams over 15 minutes followed by a recommended maintenance dosage of 1 to 2 grams every hour. • Obtain serum magnesium concentrations and assess clinical status to adjust the dosage. • In patients with eclampsia, consider targeting the maintenance dosage to achieve serum magnesium concentrations of 3 to 6 mg per 100 mL (2.5 to 5 mEq per liter).
 
-## Magnesium Sulfate In Dextrose: Dosage and administration (part 3 of 3)
+## Magnesium Sulfate In Dextrose: Dosage and administration (part 3 of 4)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44664,6 +48873,17 @@ For patients with recurrent eclampsia, consider giving an additional 2 gram intr
 2.3 Dosage in Patients with Severe Renal Impairment and/or Oliguria • In patients with severe renal impairment and/or a urine output less than 0.5 mL/kg/hour, initiate Magnesium Sulfate in 5% Dextrose Injection with a 4 gram loading dose followed by a maintenance dosage of 1 gram every hour. • Titrate the magnesium sulfate maintenance dosage to maintain concentrations in the target range through frequent monitoring of magnesium concentrations and observation for clinical signs of magnesium toxicity (e.g., facial edema, diminished strength of deep tendon reflexes, respiratory depression).
 A lower maintenance dosage requirement is likely in these patients. • Do not exceed the maximum recommended dosage of 20 grams of Magnesium Sulfate in 5% Dextrose Injection over 48 hours.
 
+## Magnesium Sulfate In Dextrose: Dosage and administration (part 4 of 4)
+Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
+Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
+Retrieved: 2026-10-06
+Keywords: magnesium sulfate in dextrose, magnesium, dosage and administration
+
+2.4 Drug Incompatibilities Magnesium Sulfate in 5% Dextrose Injection is not compatible with administration of a variety of solutions and forms precipitates of magnesium salts.
+Before using Magnesium Sulfate in 5% Dextrose Injection with another parenteral product, investigate potential incompatibilities.
+Incompatible products that should not be coadministered include salicylates and alkali carbonates.
+
 ## Magnesium Sulfate In Dextrose: Contraindications
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44673,7 +48893,7 @@ Keywords: magnesium sulfate in dextrose, magnesium, contraindications
 
 4 CONTRAINDICATIONS Magnesium Sulfate in 5% Dextrose Injection is contraindicated in patients: • with heart block or myocardial damage • in diabetic coma • with myasthenia gravis [see Warnings and Precautions (5.6) ] • Heart block or myocardial damage ( 4 ) • Diabetic coma ( 4 ) • Myasthenia gravis ( 4 , 5.6 )
 
-## Magnesium Sulfate In Dextrose: Drug interactions (part 1 of 3)
+## Magnesium Sulfate In Dextrose: Drug interactions (part 1 of 4)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44686,7 +48906,7 @@ Potential Clinically Significant Drug Interactions with Magnesium Sulfate in 5% 
 Neuromuscular Blocking Agents Clinical Impact: • Potentiation and prolongation of neuromuscular blockade is possible with the concomitant use of magnesium sulfate and neuromuscular blocking agents [see Clinical Pharmacology (12.2) ] . • The underlying mechanism of this interaction may involve suppression of peripheral neuromuscular function by decreasing acetylcholine release, reduction of endplate sensitivity, and decreased muscle fiber excitability with magnesium sulfate therapy.
 Intervention: • Monitor respiration and the depth of neuromuscular blockade frequently (e.g., train-of-four monitoring) when a neuromuscular blocking agent is used concomitantly with Magnesium Sulfate in 5% Dextrose Injection. • Adjust the dosage of the neuromuscular blocking agent accordingly to maintain the desired level of musculoskeletal activity.
 
-## Magnesium Sulfate In Dextrose: Drug interactions (part 2 of 3)
+## Magnesium Sulfate In Dextrose: Drug interactions (part 2 of 4)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44699,7 +48919,7 @@ The potential for magnesium sulfate to affect other CNS depressants is unknown [
 Intervention: • Monitor the depth of CNS depression frequently using a reliable instrument. • Adjust the narcotic and/or propofol dosage accordingly to maintain the desired level of analgesia and sedation.
 Examples: • Narcotics and propofol Dihydropyridine Calcium Channel Blockers Clinical Impact: • An exaggerated hypotensive response is possible with the concomitant use of Magnesium Sulfate in 5% Dextrose Injection with dihydropyridine calcium channel blockers.
 
-## Magnesium Sulfate In Dextrose: Drug interactions (part 3 of 3)
+## Magnesium Sulfate In Dextrose: Drug interactions (part 3 of 4)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
 Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
 URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
@@ -44712,6 +48932,16 @@ Examples: • Amlodipine, clevidipine, felodipine, isradipine, nicardipine, nife
 Examples: • Alcohol, aminoglycosides, amphotericin B, cisplatin, cyclosporine, digitalis, loop diuretics, thiazide diuretics • Neuromuscular blocking agents :
 Potentiation and prolongation of neuromuscular blockade is possible with the concomitant use of Magnesium Sulfate in 5% Dextrose Injection ( 7 ) • Narcotics and/or propofol :
 Potentiation and prolongation of analgesia and CNS depression is possible with the concomitant use of Magnesium Sulfate in 5% Dextrose Injection ( 7 ) • Dihydropyridine calcium channel blockers :
+
+## Magnesium Sulfate In Dextrose: Drug interactions (part 4 of 4)
+Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24
+Label-set-id: 03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
+URL: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03ebeabb-8386-4af4-3086-bdf3c3fc4a5a
+Retrieved: 2026-10-06
+Keywords: magnesium sulfate in dextrose, magnesium, drug interactions
+
+An exaggerated hypotensive response is possible with the concomitant use of Magnesium Sulfate in 5% Dextrose Injection ( 7 ) • Drugs that may induce magnesium loss with concomitant use of Magnesium Sulfate in 5% Dextrose Injection :
+Alcohol, aminoglycosides, amphotericin B, cisplatin, cyclosporine, digitalis, loop diuretics, and thiazide diuretics ( 7 )
 
 ## Magnesium Sulfate In Dextrose: Warnings and precautions (part 1 of 3)
 Source: FDA drug label, Magnesium Sulfate In Dextrose (Hospira, Inc.), effective 2026-08-24

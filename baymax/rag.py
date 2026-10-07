@@ -55,6 +55,7 @@ before something older is silently pushed out of it."""
 MIN_COSINE = 0.62
 STRONG_BM25 = 12.0
 _RRF_K = 60
+BM25_WEIGHT = 0.5  # how much the keyword ranking counts relative to the embedding ranking
 _CANDIDATES = 40
 _VETTED_BONUS = 0.003
 # Added to a vetted official source's fused score -- about a fifth of one rank position -- so that
@@ -208,10 +209,10 @@ def _hybrid(index: Index, vector: np.ndarray, text: str, k: int) -> list[_Hit]:
     cosine = index._matrix @ vector
     bm25 = index._bm25.scores(_terms(text))
     fused = np.zeros(len(index._chunks), dtype=np.float32)
-    for scores in (cosine, bm25):
+    for scores, weight in ((cosine, 1.0), (bm25, BM25_WEIGHT)):
         for rank, i in enumerate(np.argsort(-scores)[:_CANDIDATES]):
             if scores[i] > 0:
-                fused[i] += 1.0 / (_RRF_K + rank + 1)
+                fused[i] += weight / (_RRF_K + rank + 1)
     fused += np.where(index._vetted, _VETTED_BONUS, 0.0)
     hits = []
     for i in np.argsort(-fused)[:_CANDIDATES]:
@@ -220,6 +221,62 @@ def _hybrid(index: Index, vector: np.ndarray, text: str, k: int) -> list[_Hit]:
         if len(hits) == k:
             break
     return hits
+
+
+# Words a label uses for a drug's class, so "ibuprofen with warfarin" finds warfarin's passage about
+# "NSAIDs" even though it never says "ibuprofen".
+_CLASS_WORDS = {
+    **dict.fromkeys(["ibuprofen", "naproxen", "aspirin", "diclofenac", "meloxicam"], ["nsaid", "nonsteroidal", "salicylate"]),
+    **dict.fromkeys(["sertraline", "fluoxetine", "citalopram", "escitalopram", "paroxetine"], ["ssri", "serotonin", "antidepressant"]),
+    **dict.fromkeys(["venlafaxine", "duloxetine"], ["snri", "serotonin", "antidepressant"]),
+    **dict.fromkeys(["tramadol", "oxycodone", "morphine", "codeine", "fentanyl"], ["opioid", "serotonin"]),
+    **dict.fromkeys(["lisinopril", "enalapril", "ramipril", "benazepril"], ["ace inhibitor", "angiotensin"]),
+    **dict.fromkeys(["warfarin", "apixaban", "rivaroxaban", "dabigatran"], ["anticoagulant", "blood thinner"]),
+    **dict.fromkeys(["alprazolam", "lorazepam", "clonazepam", "diazepam"], ["benzodiazepine"]),
+    **dict.fromkeys(["sildenafil", "tadalafil"], ["pde5", "phosphodiesterase"]),
+    **dict.fromkeys(["isosorbide", "nitroglycerin"], ["nitrate"]),
+}
+_INTERACTION_HEADINGS = ("drug interactions", "warnings and precautions", "contraindications", "boxed warning")
+
+
+def _drug_chunks(index: Index) -> dict[str, list[int]]:
+    """For each medicine with an FDA label, the indices of its interaction / warning passages."""
+    found = getattr(index, "_drug_map", None)
+    if found is None:
+        found = {}
+        for i, chunk in enumerate(index._chunks):
+            if not chunk.source.startswith("FDA drug label, "):
+                continue
+            title = chunk.text.split(":", 1)[0].strip()
+            if not any(h in chunk.text[: len(title) + 60].lower() for h in _INTERACTION_HEADINGS):
+                continue
+            name = _terms(title.split()[0])
+            if name:
+                found.setdefault(name[0], []).append(i)
+        index._drug_map = found
+    return found
+
+
+def _pair_hits(index: Index, text: str, limit: int = 2) -> list[_Hit]:
+    """When a question names two or more medicines, the label passages of one that mention the other
+    (or its drug class): the answer to "can I take X with Y?" lives there, in a form similar search misses."""
+    drugs = _drug_chunks(index)
+    named = [t for t in dict.fromkeys(_terms(text)) if t in drugs]
+    if len(named) < 2:
+        return []
+    out: list[_Hit] = []
+    for drug in named:
+        others = [o for o in named if o != drug]
+        needles = {w for o in others for w in [o, *[_terms(c)[0] if " " not in c else c for c in _CLASS_WORDS.get(o, [])]]}
+        best: tuple[int, int] | None = None
+        for i in drugs[drug]:
+            body = index._chunks[i].text.lower()
+            score = sum(body.count(n) for n in needles)
+            if score and (best is None or score > best[0]):
+                best = (score, i)
+        if best:
+            out.append(_Hit(1.0, 1.0, 0.0, index._chunks[best[1]]))
+    return out[:limit]
 
 
 def _curated_chunks(path: Path) -> list[Chunk]:
@@ -391,7 +448,10 @@ class Retriever:
             return []
         query = self._embed([_QUERY_PREFIX + text])[0]
         if mode == "hybrid":
-            return _hybrid(index, query, text, TOP_K)
+            paired = _pair_hits(index, text)
+            rest = _hybrid(index, query, text, TOP_K)
+            seen = {h.chunk.text for h in paired}
+            return (paired + [h for h in rest if h.chunk.text not in seen])[:TOP_K]
         results = index.search(query, TOP_K)
         floor = max(MIN_SIMILARITY, results[0][0] - CLOSE_TO_BEST)
         return [_Hit(sc, sc, 0.0, c) for sc, c in results if sc >= floor]

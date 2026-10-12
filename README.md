@@ -33,6 +33,15 @@ uv run baymax --no-search     # fully offline, no web lookups
 
 Sensible default model is `llama3.1:8b`. Change with `--model`. Everything can also be set with `BAYMAX_*` environment variables.
 
+## Phone and Tailscale
+
+`--phone` (on by default in the desktop launcher) also serves a tap-to-talk page, so a phone becomes a remote for this machine. Nothing runs on the phone, and nothing is published to the open internet.
+
+- **Same WiFi:** open `http://<this-pc-ip>:8520`. The page walks you through trusting a certificate once, because browsers only allow the microphone over HTTPS.
+- **From anywhere, via [Tailscale](https://tailscale.com):** if Tailscale is installed, signed in, and has HTTPS certificates enabled, Baymax automatically serves a real certificate for your machine's tailnet name at `https://<machine>.<tailnet>.ts.net:8544`. No certificate step, and only devices on your tailnet can reach it.
+- Ports differ from Legion's (8420 / 8443 / 8444), so both can run at once.
+- Emergency detection runs in the same place for the phone as the desktop, so a phone gets the same 911 / 988 scripts.
+
 ## Knowledge
 
 Baymax answers from a local library searched with RAG (retrieval-augmented generation). Nothing leaves your machine.

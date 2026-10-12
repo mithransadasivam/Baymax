@@ -5,6 +5,8 @@ description = "Baymax: a local, offline personal healthcare companion you can ta
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "bottle>=0.13.4",
+    "cryptography>=50.0.1",
     "ddgs>=9.16.0",
     "faster-whisper>=1.1",
     "huggingface-hub>=0.23",

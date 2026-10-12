@@ -70,6 +70,8 @@ def main(argv: list[str] | None = None) -> int:
         brain.load()
         if memory:
             print(f"Memory: {len(memory.notes)} notes in {args.memory}")
+        if args.phone and not args.ask:
+            _start_phone_server(args, web, research=research)
         if args.ask:
             return _answer_recording(args, brain)
         elif args.text:
@@ -153,6 +155,30 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
         help="wake word: a built-in name, or the path to a custom .onnx model (default: %(default)s)",
     )
     parser.add_argument(
+        "--phone",
+        action="store_true",
+        default=os.environ.get("BAYMAX_PHONE") == "1",
+        help="also serve a tap-to-talk page for a phone on the same WiFi, and over Tailscale when it's set up",
+    )
+    parser.add_argument(
+        "--phone-port",
+        type=int,
+        default=int(os.environ.get("BAYMAX_PHONE_PORT", "8520")),
+        help="port for --phone's plain-HTTP page, which explains the certificate step (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--phone-https-port",
+        type=int,
+        default=int(os.environ.get("BAYMAX_PHONE_HTTPS_PORT", "8543")),
+        help="port for --phone's HTTPS page, where the microphone actually works (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--phone-tailscale-port",
+        type=int,
+        default=int(os.environ.get("BAYMAX_PHONE_TAILSCALE_PORT", "8544")),
+        help="port for --phone's page over Tailscale, used automatically when Tailscale is set up (default: %(default)s)",
+    )
+    parser.add_argument(
         "--wake-threshold",
         type=float,
         default=float(os.environ.get("BAYMAX_WAKE_THRESHOLD", "0.5")),
@@ -211,6 +237,69 @@ def _start_speech(voice: str) -> SpeechQueue:
 
     print("Loading voice...", flush=True)
     return SpeechQueue(Synthesizer(voice))
+
+
+def _start_phone_server(
+    args: argparse.Namespace,
+    web: Callable[[str], object] | None,
+    transcriber: Transcriber | None = None,
+    synthesizer: Synthesizer | None = None,
+    research: Callable[[str], object] | None = None,
+) -> None:
+    """Starts baymax.phone's servers on background threads, so they run alongside whatever else
+    --phone was combined with -- the window, the terminal, either.
+
+    Its own Brain and Memory, not the ones any other mode is using: a phone request runs on these
+    background threads, and Brain's conversation history isn't safe to mutate from two threads at
+    once. The phone and the desktop window therefore keep separate conversations, though both write
+    to the same health-profile file. The emergency check lives in Brain, so a phone gets exactly the
+    same 911 / 988 scripts as the desktop.
+
+    Transcriber and Synthesizer hold no conversation state, so --gui hands its own over rather than
+    loading Whisper and Piper into memory a second time.
+
+    Reachable only on your own network, or over Tailscale: plain HTTP serves the page that explains
+    the certificate step, HTTPS is where a browser exposes the microphone, and when Tailscale is
+    installed and signed in, a third server uses a real certificate for this machine's tailnet name.
+    Nothing here is published to the open internet.
+    """
+    from baymax.memory import DEFAULT_FILE
+    from baymax.phone import build_app, ensure_certificate, lan_address, run_http, run_https
+    from baymax.stt import Transcriber
+    from baymax.tailscale import certificate as tailnet_certificate
+    from baymax.tts import Synthesizer
+
+    print("Loading phone server...", flush=True)
+    phone_memory = None if args.no_memory else Memory(args.memory, args.host, args.model, on_noted=_announce_notes)
+    phone_brain = Brain(model=args.model, host=args.host, lookup=web, research_lookup=research, memory=phone_memory)
+    if transcriber is None:
+        transcriber = Transcriber(args.whisper)
+    if synthesizer is None and not args.quiet:
+        synthesizer = Synthesizer(args.voice)
+
+    address = lan_address()
+    cert_path, key_path = ensure_certificate(DEFAULT_FILE.parent, address)
+    https_url = f"https://{address}:{args.phone_https_port}"
+    phone_app = build_app(
+        phone_brain, transcriber, synthesizer, model=args.model, host=args.host,
+        https_url=https_url, cert_path=cert_path,
+    )
+
+    print(f'Phone: open "http://{address}:{args.phone_port}" on a device on the same WiFi.', flush=True)
+    print(f'       first time only, it walks you through trusting a certificate for "{https_url}".', flush=True)
+    threading.Thread(target=run_http, args=(phone_app,), kwargs={"port": args.phone_port}, daemon=True).start()
+    threading.Thread(
+        target=run_https, args=(phone_app, cert_path, key_path), kwargs={"port": args.phone_https_port}, daemon=True
+    ).start()
+
+    # Automatic when Tailscale is installed, signed in, and has HTTPS certificates enabled.
+    tailnet = tailnet_certificate(DEFAULT_FILE.parent)
+    if tailnet:
+        print(f'Tailscale: open "https://{tailnet.name}:{args.phone_tailscale_port}" from anywhere.', flush=True)
+        threading.Thread(
+            target=run_https, args=(phone_app, tailnet.cert, tailnet.key),
+            kwargs={"port": args.phone_tailscale_port}, daemon=True,
+        ).start()
 
 
 def _text_loop(brain: Brain, speech: SpeechQueue | None) -> None:
@@ -313,7 +402,7 @@ def _start_up(
 
     # The phone always needs a microphone path even under --text (which only turns off the GUI's
     # own mic), so a transcriber is loaded whenever either side of the app will use one.
-    need_input = not args.text
+    need_input = args.phone or not args.text
     need_output = not args.quiet
     built: dict[str, object] = {}  # results from the loader threads below, keyed by name
 
@@ -352,6 +441,9 @@ def _start_up(
     transcriber = built.get("transcriber")
     synthesizer = built.get("synthesizer")
     wake = built.get("wake")
+    if args.phone:
+        hud.set_readout("STARTING", "starting the phone server...")
+        _start_phone_server(args, web, transcriber=transcriber, synthesizer=synthesizer, research=research)
     return _StartUp(brain, transcriber, synthesizer, wake)
 
 

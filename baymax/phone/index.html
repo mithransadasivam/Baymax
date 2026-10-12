@@ -1,0 +1,327 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Baymax</title>
+<meta name="theme-color" content="#f6f3f0">
+<link rel="icon" href="/watchface.png">
+<style>
+  :root{
+    --bg:#f6f3f0; --card:#ffffff; --line:#e7e1dc; --ink:#1d1b1b; --ink-2:#5f5853; --ink-3:#9a918b;
+    --red:#d9363e; --red-soft:rgba(217,54,62,0.12); --amber:#e08a1e;
+    --face-1:#ffffff; --face-2:#ece8e4; --shadow:0 10px 30px rgba(120,40,40,0.14);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#161414; --card:#201d1d; --line:#322e2e; --ink:#f4efec; --ink-2:#bdb3ad; --ink-3:#85796f;
+      --red:#ef5a5f; --red-soft:rgba(239,90,95,0.16); --face-2:#e6e1dd; --shadow:0 10px 30px rgba(0,0,0,0.5); }
+  }
+  [hidden]{display:none !important;}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+  html,body{height:100%;}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,'Segoe UI',system-ui,Roboto,sans-serif;
+    display:flex;align-items:center;justify-content:center;overscroll-behavior:none;user-select:none;
+  }
+  .stage{
+    width:100%;height:100%;max-width:480px;
+    padding:calc(16px + env(safe-area-inset-top)) 18px calc(14px + env(safe-area-inset-bottom));
+    display:flex;flex-direction:column;gap:12px;
+  }
+  .topbar{display:flex;align-items:center;gap:10px;flex-shrink:0;}
+  .topbar img{width:36px;height:36px;border-radius:9px;}
+  .mark{font-weight:700;font-size:19px;} .sub{font-size:12px;color:var(--ink-2);display:block;margin-top:1px;}
+
+  .stage-area{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;position:relative;}
+  .orb{position:relative;width:min(74vw,320px);aspect-ratio:1/1;}
+  button.core{position:absolute;inset:0;border:none;background:transparent;padding:0;cursor:pointer;-webkit-appearance:none;}
+  button.core svg{width:100%;height:100%;display:block;overflow:visible;}
+  .state-label{
+    position:absolute;bottom:-6px;left:50%;transform:translate(-50%,100%);
+    font-size:13px;font-weight:600;letter-spacing:0.03em;color:var(--ink-2);white-space:nowrap;transition:color .3s;
+  }
+  .state-label.thinking{color:var(--amber);} .state-label.recording{color:var(--red);} .state-label.alert{color:var(--red);}
+
+  .readout{
+    flex-shrink:0;min-height:72px;max-height:34vh;overflow-y:auto;background:var(--card);border:1px solid var(--line);
+    border-radius:16px;box-shadow:var(--shadow);padding:12px 16px;display:flex;flex-direction:column;gap:6px;
+    font-size:15px;line-height:1.45;transition:border-color .3s,background .3s;
+  }
+  .readout .you{color:var(--ink-2);} .readout .baymax{color:var(--ink);} .readout .hint{color:var(--ink-3);}
+  .readout.alert{border-color:var(--red);background:var(--red-soft);}
+
+  .footer{display:flex;justify-content:space-between;font-size:11px;color:var(--ink-3);flex-shrink:0;}
+  .disclaimer{font-size:11px;color:var(--ink-3);line-height:1.4;flex-shrink:0;} .disclaimer b{color:var(--red);}
+
+  .setup{
+    border:1px solid var(--amber);background:rgba(224,138,30,0.1);border-radius:14px;
+    padding:14px;font-size:13px;line-height:1.6;flex-shrink:0;
+  }
+  .setup .setup-title{color:var(--amber);font-weight:700;font-size:13px;display:block;margin-bottom:8px;}
+  .setup ol{margin:8px 0 0;padding-left:18px;} .setup li{margin-bottom:6px;}
+  .setup a{color:var(--red);} .setup code{color:var(--red);word-break:break-all;}
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="topbar">
+    <img src="/watchface.png" alt="">
+    <div><span class="mark">Baymax</span><span class="sub">Your personal healthcare companion</span></div>
+  </div>
+
+  <div class="setup" id="setup" hidden>
+    <span class="setup-title">SECURE CONNECTION NEEDED</span>
+    Browsers only allow the microphone over a trusted connection. One-time setup:
+    <ol>
+      <li><a id="certLink" href="/baymax-cert.cer">Download Baymax's certificate</a></li>
+      <li>Install it: <b>Settings → General → VPN &amp; Device Management</b> → tap the downloaded profile → Install</li>
+      <li>Trust it: <b>Settings → General → About → Certificate Trust Settings</b> → turn on full trust for "Baymax"</li>
+      <li>Come back here and open <code id="httpsHint">—</code> instead of this address</li>
+    </ol>
+  </div>
+
+  <div class="stage-area" id="stageArea">
+    <div class="orb">
+      <button class="core" id="talkButton" aria-label="Tap to talk">
+        <svg viewBox="0 0 1024 1024" aria-hidden="true">
+          <defs>
+            <radialGradient id="face" cx="0.42" cy="0.36" r="0.75"><stop offset="0" stop-color="var(--face-1)"/><stop offset="1" stop-color="var(--face-2)"/></radialGradient>
+            <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>
+          </defs>
+          <circle id="ripple1" cx="512" cy="512" r="330" fill="none" stroke="var(--red)" stroke-width="6" opacity="0"/>
+          <circle id="ripple2" cx="512" cy="512" r="330" fill="none" stroke="var(--red)" stroke-width="4" opacity="0"/>
+          <circle id="halo" cx="512" cy="532" r="345" fill="#d9363e" opacity="0.22" filter="url(#soft)"/>
+          <g id="face">
+            <circle cx="512" cy="512" r="330" fill="url(#face)"/>
+            <line id="mouth" x1="337" y1="505" x2="687" y2="505" stroke="#1d1b1b" stroke-width="15" stroke-linecap="round"/>
+            <ellipse id="eyeL" cx="337" cy="505" rx="36" ry="42" fill="#1d1b1b"/>
+            <ellipse id="eyeR" cx="687" cy="505" rx="36" ry="42" fill="#1d1b1b"/>
+          </g>
+        </svg>
+      </button>
+      <span class="state-label" id="stateLabel">Tap to talk</span>
+    </div>
+  </div>
+
+  <div class="readout" id="readout">
+    <span class="hint">Tap Baymax, tell me what's going on, then tap again to send.</span>
+  </div>
+
+  <div class="disclaimer">General health information, not a diagnosis. In an emergency call <b>911</b>. For thoughts of suicide, call or text <b>988</b>.</div>
+
+  <div class="footer">
+    <span id="hostLabel">—</span>
+    <span id="modelLabel">—</span>
+  </div>
+</div>
+
+<script>
+(function(){
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  const $ = (id) => document.getElementById(id);
+  const face = $('face'), eyeL = $('eyeL'), eyeR = $('eyeR'), mouth = $('mouth'), halo = $('halo');
+  const rip1 = $('ripple1'), rip2 = $('ripple2');
+  const stateLabel = $('stateLabel');
+  const readout = $('readout');
+  const talkButton = $('talkButton');
+
+  let current = 'idle';
+  let alertShown = false;
+  let t = 0;
+  let targetLevel = 0;
+  let level = 0;
+  let nextBlink = 2.5, blinkAt = -1;
+
+  function draw() {
+    level += (targetLevel - level) * 0.3;
+    const m = reduceMotion ? 0 : 1;
+    if (blinkAt < 0 && t > nextBlink && current !== 'thinking') blinkAt = t;
+    let blink = 0;
+    if (blinkAt >= 0) {
+      const p = (t - blinkAt) / 0.22;
+      if (p >= 1) { blinkAt = -1; nextBlink = t + 2.5 + Math.random() * 3.5; } else blink = Math.sin(p * Math.PI);
+    }
+    let dx = 0, ry = 42, rx = 36, lineW = 15, breathe = 1 + 0.012 * Math.sin(t * 1.3) * m;
+    if (current === 'thinking') { dx = Math.sin(t * 1.7) * 20 * m; ry = 36; }
+    if (current === 'recording') { ry = 46; rx = 38; breathe += level * 0.04 * m; }
+    if (current === 'speaking') { lineW = 15 + (0.5 + 0.5 * Math.sin(t * 9)) * 14 * m; }
+    if (alertShown) { ry = 48; rx = 40; }
+    ry = Math.max(4, ry * (1 - 0.92 * blink));
+    for (const [el, x] of [[eyeL, 337], [eyeR, 687]]) {
+      el.setAttribute('cx', x + dx); el.setAttribute('rx', rx); el.setAttribute('ry', ry);
+    }
+    mouth.setAttribute('x1', 337 + dx); mouth.setAttribute('x2', 687 + dx); mouth.setAttribute('stroke-width', lineW);
+    face.setAttribute('transform', `translate(512 512) scale(${breathe}) translate(-512 -512)`);
+    halo.setAttribute('opacity', (alertShown ? 0.55 : current === 'idle' ? 0.18 : 0.28 + level * 0.35).toFixed(3));
+    for (const [r, phase] of [[rip1, 0], [rip2, 0.5]]) {
+      if ((current === 'recording' || current === 'speaking') && !reduceMotion) {
+        const q = (t * 0.55 + phase) % 1;
+        r.setAttribute('r', (335 + q * (90 + level * 120)).toFixed(1));
+        r.setAttribute('opacity', (0.35 * (1 - q) * (0.35 + level * 1.2)).toFixed(3));
+      } else r.setAttribute('opacity', 0);
+    }
+    t += 0.016;
+    requestAnimationFrame(draw);
+  }
+
+  function setState(mode, label) {
+    current = mode;
+    targetLevel = 0;
+    stateLabel.textContent = alertShown && mode === 'speaking' ? 'Please get help now' : label;
+    stateLabel.className = 'state-label ' + (alertShown && mode === 'speaking' ? 'alert' : mode);
+  }
+
+  function setReadout(html) {
+    // An emergency script always names 911, 988 or Poison Control: show it unmistakably.
+    alertShown = /baymax">\s*Baymax: [^<]*(call 911|9 8 8|1, 8 0 0, 2 2 2)/i.test(html);
+    readout.classList.toggle('alert', alertShown);
+    readout.innerHTML = html;
+    readout.scrollTop = readout.scrollHeight;
+  }
+
+  window.addEventListener('resize', () => {});
+  setState('idle', 'Tap to talk');
+  draw();
+
+  // -- recording -------------------------------------------------------------------
+  let mediaRecorder = null;
+  let audioContext = null;
+  let analyser = null;
+  let levelTimer = null;
+  let chunks = [];
+  let recording = false;
+
+  // Safari only allows an <audio> element to actually produce sound if play() is called
+  // synchronously inside a user gesture. By the time the reply comes back, we're several
+  // async turns (fetch, JSON parsing) removed from the tap that started this, so a fresh
+  // `new Audio(...).play()` there gets silently rejected. Instead, one element is "unlocked"
+  // right inside the tap handler, then reused (just re-set .src and play() again) once the
+  // reply is ready -- Safari keeps allowing playback on an element it already granted.
+  // A one-sample silent WAV -- an element with no src at all fails to play immediately (there's
+  // nothing to decode), so it never actually starts and the gesture-linked unlock never sticks.
+  const SILENT_WAV = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=';
+
+  let playbackAudio = null;
+  function unlockPlayback() {
+    if (playbackAudio) return;
+    playbackAudio = new Audio(SILENT_WAV);
+    playbackAudio.play().catch((err) => {
+      setReadout('<span class="hint">Playback unlock failed: ' + err.message + '</span>');
+    });
+  }
+
+  function startLevelMeter(stream) {
+    audioContext = new (window.AudioContext || window.webkitAudioContext)();
+    const source = audioContext.createMediaStreamSource(stream);
+    analyser = audioContext.createAnalyser();
+    analyser.fftSize = 512;
+    source.connect(analyser);
+    const data = new Uint8Array(analyser.frequencyBinCount);
+    levelTimer = setInterval(() => {
+      analyser.getByteTimeDomainData(data);
+      let sum = 0;
+      for (let i = 0; i < data.length; i++) { const v = (data[i] - 128) / 128; sum += v * v; }
+      targetLevel = Math.min(1, Math.sqrt(sum / data.length) * 4);
+    }, 60);
+  }
+
+  function stopLevelMeter() {
+    if (levelTimer) clearInterval(levelTimer);
+    if (audioContext) audioContext.close();
+    levelTimer = null; audioContext = null; analyser = null;
+    targetLevel = 0;
+  }
+
+  async function startRecording() {
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      chunks = [];
+      mediaRecorder = new MediaRecorder(stream);
+      mediaRecorder.ondataavailable = (e) => { if (e.data.size > 0) chunks.push(e.data); };
+      mediaRecorder.onstop = () => {
+        stream.getTracks().forEach((track) => track.stop());
+        stopLevelMeter();
+        sendRecording(new Blob(chunks, { type: mediaRecorder.mimeType || 'audio/webm' }));
+      };
+      mediaRecorder.start();
+      startLevelMeter(stream);
+      recording = true;
+      setState('recording', 'Listening… tap to send');
+    } catch (err) {
+      setReadout('<span class="hint">Couldn\'t access the microphone: ' + err.message + '</span>');
+    }
+  }
+
+  function stopRecording() {
+    recording = false;
+    if (mediaRecorder && mediaRecorder.state !== 'inactive') mediaRecorder.stop();
+  }
+
+  async function sendRecording(blob) {
+    setState('thinking', 'Thinking…');
+    setReadout('<span class="hint">Sending...</span>');
+    try {
+      const form = new FormData();
+      form.append('audio', blob, 'question.webm');
+      // Without a limit, a server that's slow or stuck leaves this on "thinking" indefinitely with
+      // nothing to say why -- the only way out being to refresh the page.
+      const res = await fetch('/ask', { method: 'POST', body: form, signal: AbortSignal.timeout(120000) });
+      const data = await res.json();
+      if (!data.heard) {
+        setReadout('<span class="hint">(Didn\'t catch that.)</span>');
+        setState('idle', 'Tap to talk');
+        return;
+      }
+      setReadout('<span class="you">You: ' + escapeHtml(data.heard) + '</span><span class="baymax">Baymax: ' + escapeHtml(data.reply) + '</span>');
+      if (data.audio && playbackAudio) {
+        setState('speaking', 'Speaking…');
+        playbackAudio.onended = () => setState('idle', 'Tap to talk');
+        playbackAudio.src = 'data:audio/wav;base64,' + data.audio;
+        playbackAudio.play().catch((err) => {
+          setReadout('<span class="hint">Couldn\'t play reply: ' + err.message + '</span>');
+          setState('idle', 'Tap to talk');
+        });
+      } else {
+        setState('idle', 'Tap to talk');
+      }
+    } catch (err) {
+      setReadout('<span class="hint">' + (err.name === 'TimeoutError'
+        ? 'Baymax took too long to answer. Check that it is running and try again.'
+        : 'Couldn\'t reach Baymax: ' + err.message) + '</span>');
+      setState('idle', 'Tap to talk');
+    }
+  }
+
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  talkButton.addEventListener('click', () => {
+    unlockPlayback();
+    if (current === 'thinking' || current === 'speaking') return;
+    if (!recording) startRecording(); else stopRecording();
+  });
+
+  // A browser simply doesn't expose navigator.mediaDevices at all outside a secure context --
+  // there's nothing to catch here, so this has to be checked before ever touching the mic.
+  if (!window.isSecureContext) {
+    document.getElementById('setup').hidden = false;
+    document.getElementById('stageArea').hidden = true;
+    document.getElementById('readout').hidden = true;
+  }
+
+  fetch('/config').then((r) => r.json()).then((cfg) => {
+    document.getElementById('hostLabel').textContent = cfg.host;
+    document.getElementById('modelLabel').textContent = cfg.model;
+    // The certificate link stays on this page's own (HTTP) origin on purpose: navigating to the
+    // HTTPS one before it's trusted would just hit Safari's own warning page instead of downloading.
+    if (cfg.httpsUrl) document.getElementById('httpsHint').textContent = cfg.httpsUrl;
+  }).catch(() => {});
+})();
+</script>
+</body>
+</html>

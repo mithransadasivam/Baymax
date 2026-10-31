@@ -13,6 +13,7 @@ from baymax.research import NOT_CHECKED as RESEARCH_NOT_CHECKED
 from baymax.research import ResearchCheck
 from baymax.search import NOT_CHECKED, WebCheck
 from baymax.text import speak_moment
+from baymax.vitals import VitalsStore
 
 _FOLLOW_UP_WORDS = 6
 
@@ -29,6 +30,7 @@ class Brain:
         lookup: Callable[[str], WebCheck] | None = None,
         research_lookup: Callable[[str], ResearchCheck] | None = None,
         memory: Memory | None = None,
+        vitals: VitalsStore | None = None,
     ) -> None:
         self._client = ollama.Client(host=host)
         self._model = model
@@ -40,6 +42,7 @@ class Brain:
         self._research_lookup = research_lookup
         self._system_prompt = SEARCH_SYSTEM_PROMPT if lookup else SYSTEM_PROMPT
         self._memory = memory
+        self._vitals = vitals
         # What each source did on the previous turn, replayed once so "where did that come from?"
         # gets an honest answer (see reply()).
         self._last_web_record = ""
@@ -61,12 +64,16 @@ class Brain:
     def reply(self, text: str) -> Iterator[str]:
         """Stream a reply token by token, keeping recent turns as conversational context."""
         self._history.append({"role": "user", "content": text})
-        if alert := emergency.check(text):
+        script = alert.script if (alert := emergency.check(text)) else None
+        if script is None and self._vitals:
+            # A fresh, extreme heart-rate reading together with a worrying symptom is urgent too.
+            script = self._vitals.urgent_alert(text)
+        if script:
             # Decided by plain text rules, never the model, and the model is never consulted for
             # this turn: a fixed, vetted script is the only thing worth saying here.
-            self._history.append({"role": "assistant", "content": alert.script})
+            self._history.append({"role": "assistant", "content": script})
             del self._history[: -self._max_messages]
-            yield alert.script
+            yield script
             return
         if self._memory:
             # Before replying, so a fact told just now is already known, and taking notes can never
@@ -89,6 +96,9 @@ class Brain:
         research = self._look_up_research(text)
         if research.results:
             messages.insert(-1, {"role": "system", "content": research.results})
+        if self._vitals and (facts := self._vitals.context_for(text)):
+            # Re-read on every question, never remembered in the history: a reading goes stale.
+            messages.insert(-1, {"role": "system", "content": facts})
         calc = calc_lookup(text)
         if calc.results:
             # No one-turn "record" tracking needed here, unlike web/calendar/research: a plain

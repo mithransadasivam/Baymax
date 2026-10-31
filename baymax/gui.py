@@ -73,6 +73,10 @@ class Hud:
         """Update the audio level meter (0..1); rounded to keep the JS call short."""
         self._call("setLevel", round(level, 3))
 
+    def set_vitals(self, text: str) -> None:
+        """Show the latest heart-rate reading, e.g. "72 bpm, 3 minutes ago", or "" for none yet."""
+        self._call("setVitals", text)
+
     def set_readout(self, tag: str, text: str) -> None:
         """Show a line of text in the readout area under a short label (``tag``)."""
         self._call("setReadout", tag, text)

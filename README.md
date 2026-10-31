@@ -42,6 +42,10 @@ Sensible default model is `llama3.1:8b`. Change with `--model`. Everything can a
 - Ports differ from Legion's (8420 / 8443 / 8444), so both can run at once.
 - Emergency detection runs in the same place for the phone as the desktop, so a phone gets the same 911 / 988 scripts.
 
+## Heart rate from your Apple Watch
+
+A Shortcut on your iPhone or Watch sends a heart-rate reading to Baymax (over WiFi or Tailscale, protected by a token), and Baymax keeps it on your PC and explains it when you ask: "check my heart rate". It leads with everyday explanations, never diagnoses a rhythm, and a very fast or slow *fresh* reading together with chest pain, fainting, or breathing trouble triggers the fixed 911 script without involving the model. Setup is in [`docs/APPLE_WATCH.md`](docs/APPLE_WATCH.md). It's a wellness reading, not a medical measurement.
+
 ## Knowledge
 
 Baymax answers from a local library searched with RAG (retrieval-augmented generation). Nothing leaves your machine.

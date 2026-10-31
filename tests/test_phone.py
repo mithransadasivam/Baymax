@@ -62,13 +62,14 @@ def server(certificate):
     started = {}
     cert_path, _key_path = certificate
 
-    def start(brain=None, transcriber=None, synthesizer="default"):
+    def start(brain=None, transcriber=None, synthesizer="default", vitals=None, vitals_token=None):
         brain = brain if brain is not None else FakeBrain()
         transcriber = transcriber if transcriber is not None else FakeTranscriber()
         synthesizer = FakeSynthesizer() if synthesizer == "default" else synthesizer
         app = build_app(
             brain, transcriber, synthesizer, model="llama3.2:3b", host="http://127.0.0.1:11434",
             https_url="https://127.0.0.1:8443", cert_path=cert_path,
+            vitals=vitals, vitals_token=vitals_token,
         )
         wsgi_server = _ThreadedWSGIRefServer(host="127.0.0.1", port=0, quiet=True)
         thread = threading.Thread(target=wsgi_server.run, args=(app,), daemon=True)
@@ -362,3 +363,73 @@ class TestLanAddress:
         parts = address.split(".")
         assert len(parts) == 4
         assert all(part.isdigit() and 0 <= int(part) <= 255 for part in parts)
+
+
+
+class TestVitalsRoute:
+    def _post(self, url, payload, headers=None):
+        request = urllib.request.Request(
+            url, data=json.dumps(payload).encode(), method="POST",
+            headers={"Content-Type": "application/json", **(headers or {})},
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=10) as response:
+                return response.status, response.read().decode()
+        except urllib.error.HTTPError as exc:
+            return exc.code, exc.read().decode()
+
+    def test_a_reading_with_the_right_token_is_stored_locally(self, server, tmp_path):
+        from baymax.vitals import VitalsStore
+
+        store = VitalsStore(tmp_path)
+        base_url, *_ = server(vitals=store, vitals_token="s3cret")
+
+        status, body = self._post(f"{base_url}/vitals", {"token": "s3cret", "heart_rate": 72})
+
+        assert status == 200 and "72" in body
+        assert store.latest().bpm == 72
+
+    def test_the_token_may_also_come_in_a_header(self, server, tmp_path):
+        from baymax.vitals import VitalsStore
+
+        store = VitalsStore(tmp_path)
+        base_url, *_ = server(vitals=store, vitals_token="s3cret")
+
+        status, _ = self._post(f"{base_url}/vitals", {"heart_rate": 80}, headers={"X-Baymax-Token": "s3cret"})
+
+        assert status == 200 and store.latest().bpm == 80
+
+    def test_a_wrong_or_missing_token_is_refused_and_nothing_is_stored(self, server, tmp_path):
+        from baymax.vitals import VitalsStore
+
+        store = VitalsStore(tmp_path)
+        base_url, *_ = server(vitals=store, vitals_token="s3cret")
+
+        assert self._post(f"{base_url}/vitals", {"token": "nope", "heart_rate": 72})[0] == 401
+        assert self._post(f"{base_url}/vitals", {"heart_rate": 72})[0] == 401
+        assert store.latest() is None
+
+    def test_an_impossible_value_is_rejected(self, server, tmp_path):
+        from baymax.vitals import VitalsStore
+
+        store = VitalsStore(tmp_path)
+        base_url, *_ = server(vitals=store, vitals_token="s3cret")
+
+        status, _ = self._post(f"{base_url}/vitals", {"token": "s3cret", "heart_rate": 900})
+
+        assert status == 400 and store.latest() is None
+
+    def test_explain_returns_the_brains_plain_text_answer(self, server, tmp_path):
+        from baymax.vitals import VitalsStore
+
+        base_url, brain, *_ = server(vitals=VitalsStore(tmp_path), vitals_token="s3cret")
+
+        status, body = self._post(f"{base_url}/vitals", {"token": "s3cret", "heart_rate": 72, "explain": True})
+
+        assert status == 200 and body == "The capital of France is Paris."  # FakeBrain's canned reply
+        assert brain.asked == ["How is my heart rate right now?"]
+
+    def test_the_route_is_off_unless_vitals_are_enabled(self, server):
+        base_url, *_ = server()
+
+        assert self._post(f"{base_url}/vitals", {"heart_rate": 72})[0] == 404

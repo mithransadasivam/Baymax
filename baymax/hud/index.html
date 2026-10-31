@@ -133,7 +133,7 @@
 
   <footer>
     <div class="meta">
-      <span>Mic <b id="micVal">—</b></span><span>Voice <b id="voiceVal">—</b></span>
+      <span>Heart <b id="hrVal">—</b></span><span>Mic <b id="micVal">—</b></span><span>Voice <b id="voiceVal">—</b></span>
       <span>Activation <b id="wakeVal">—</b></span><span>Up <b id="uptimeVal">00:00:00</b></span>
     </div>
     <div class="disclaimer">Baymax gives general health information, not a diagnosis. In an emergency call <b>911</b>. For thoughts of suicide, call or text <b>988</b>.</div>
@@ -196,6 +196,7 @@
     $('voiceVal').textContent=voice; $('wakeVal').textContent=wake;
   };
   window.setMic=function(s){ $('micVal').textContent=s; };
+  window.setVitals=function(s){ $('hrVal').textContent=s || '—'; };
   window.setState=function(mode){
     if(!LABEL[mode]) return;
     current=mode; targetLevel=0;

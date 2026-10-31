@@ -29,6 +29,7 @@ from wsgiref.simple_server import WSGIRequestHandler, WSGIServer, make_server
 import bottle
 
 from baymax.text import clean_for_speech
+from baymax.vitals import VitalsStore, token_matches
 
 if TYPE_CHECKING:
     from baymax.brain import Brain
@@ -137,6 +138,8 @@ def build_app(
     host: str,
     https_url: str,
     cert_path: Path,
+    vitals: VitalsStore | None = None,
+    vitals_token: str | None = None,
 ) -> bottle.Bottle:
     """The routes, wired to one Brain -- kept separate from any other running Brain (the GUI's,
     say), so a phone request can never mutate conversation history another thread is using.
@@ -229,7 +232,63 @@ def build_app(
         bottle.response.content_type = "text/plain; charset=utf-8"
         return clean_for_speech(reply)
 
+    @app.post("/vitals")
+    def vitals_reading():
+        """A heart-rate reading from the Apple Watch Shortcut. Needs the shared token; stores the
+        reading locally; with ``explain`` set, also answers "how is my heart rate?" as plain text for
+        the watch to read aloud, so one Shortcut does the whole thing."""
+        bottle.response.content_type = "text/plain; charset=utf-8"
+        if vitals is None or not vitals_token:
+            bottle.response.status = 404
+            return "heart-rate readings aren't switched on"
+        data = bottle.request.json if (bottle.request.content_type or "").startswith("application/json") else None
+        data = data if isinstance(data, dict) else {}
+
+        def field(name: str):
+            return data.get(name) if name in data else bottle.request.forms.getunicode(name)
+
+        if not token_matches(vitals_token, field("token") or bottle.request.headers.get("X-Baymax-Token")):
+            bottle.response.status = 401
+            return "wrong or missing token"
+        stored = []
+        try:
+            for name, kind in (("heart_rate", "heart_rate"), ("resting_heart_rate", "resting_heart_rate")):
+                value = field(name)
+                if value not in (None, ""):
+                    stored.append(vitals.add(float(value), kind=kind, ts=_parse_time(field("time"))))
+        except (TypeError, ValueError) as exc:
+            bottle.response.status = 400
+            return f"couldn't use that reading: {exc}"
+        if not stored:
+            bottle.response.status = 400
+            return "send heart_rate and/or resting_heart_rate"
+        latest = stored[0]
+        print(f"Vitals: {', '.join(f'{r.kind} {r.bpm}' for r in stored)}", flush=True)
+        explain = str(field("explain") or "").lower() in ("1", "true", "yes")
+        if not explain:
+            return f"Got it. {latest.bpm} beats per minute."
+        with brain_lock:
+            reply = "".join(brain.reply("How is my heart rate right now?"))
+        return clean_for_speech(reply)
+
     return app
+
+
+def _parse_time(value) -> float | None:
+    """Seconds since the epoch from a number or an ISO-8601 date the Shortcut sends, or None for "now"."""
+    if value in (None, ""):
+        return None
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        pass
+    try:
+        parsed = datetime.datetime.fromisoformat(str(value).strip().replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.astimezone()
+    return parsed.timestamp()
 
 
 def _synthesize_to_base64(synthesizer: Synthesizer, text: str) -> str:

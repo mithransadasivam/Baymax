@@ -18,6 +18,7 @@ from baymax.rag import EMBED_MODEL, Embedder, Retriever
 from baymax.research import Library
 from baymax.search import lookup
 from baymax.text import SentenceBuffer, clean_for_speech
+from baymax.vitals import VitalsStore, token as vitals_token
 
 if TYPE_CHECKING:
     from collections.abc import Callable
@@ -53,25 +54,27 @@ def main(argv: list[str] | None = None) -> int:
     )
     retriever.start()
     research = retriever.lookup
+    # Heart-rate readings from the Apple Watch Shortcut; shared by every Brain, since it's one file.
+    vitals = VitalsStore(DEFAULT_FILE.parent)
 
     if args.gui:
         # Checking Ollama and loading the model can take a good while right after a reboot, and
         # this is launched with no console to show it in -- so the window opens first and reports
         # its own progress, instead of all of that happening silently before anyone can see it.
-        _gui_loop(args, web, research)
+        _gui_loop(args, web, research, vitals)
         return 0
 
     # Terminal modes. RuntimeError carries a user-readable fix-it hint; Ctrl+C / end of input is a normal exit.
     try:
         memory = None if args.no_memory else Memory(args.memory, args.host, args.model, on_noted=_announce_notes)
-        brain = Brain(model=args.model, host=args.host, lookup=web, research_lookup=research, memory=memory)
+        brain = Brain(model=args.model, host=args.host, lookup=web, research_lookup=research, memory=memory, vitals=vitals)
         brain.check()  # fail early, before loading anything heavy
         print("Loading model...", flush=True)
         brain.load()
         if memory:
             print(f"Memory: {len(memory.notes)} notes in {args.memory}")
         if args.phone and not args.ask:
-            _start_phone_server(args, web, research=research)
+            _start_phone_server(args, web, research=research, vitals=vitals)
         if args.ask:
             return _answer_recording(args, brain)
         elif args.text:
@@ -245,6 +248,7 @@ def _start_phone_server(
     transcriber: Transcriber | None = None,
     synthesizer: Synthesizer | None = None,
     research: Callable[[str], object] | None = None,
+    vitals: VitalsStore | None = None,
 ) -> None:
     """Starts baymax.phone's servers on background threads, so they run alongside whatever else
     --phone was combined with -- the window, the terminal, either.
@@ -271,7 +275,9 @@ def _start_phone_server(
 
     print("Loading phone server...", flush=True)
     phone_memory = None if args.no_memory else Memory(args.memory, args.host, args.model, on_noted=_announce_notes)
-    phone_brain = Brain(model=args.model, host=args.host, lookup=web, research_lookup=research, memory=phone_memory)
+    phone_brain = Brain(
+        model=args.model, host=args.host, lookup=web, research_lookup=research, memory=phone_memory, vitals=vitals
+    )
     if transcriber is None:
         transcriber = Transcriber(args.whisper)
     if synthesizer is None and not args.quiet:
@@ -283,7 +289,10 @@ def _start_phone_server(
     phone_app = build_app(
         phone_brain, transcriber, synthesizer, model=args.model, host=args.host,
         https_url=https_url, cert_path=cert_path,
+        vitals=vitals, vitals_token=vitals_token(DEFAULT_FILE.parent) if vitals else None,
     )
+    if vitals:
+        print(f'Heart rate: the Apple Watch Shortcut token is in {DEFAULT_FILE.parent / "vitals-token"} (see docs/APPLE_WATCH.md).', flush=True)
 
     print(f'Phone: open "http://{address}:{args.phone_port}" on a device on the same WiFi.', flush=True)
     print(f'       first time only, it walks you through trusting a certificate for "{https_url}".', flush=True)
@@ -381,6 +390,7 @@ def _start_up(
     web: Callable[[str], object] | None,
     research: Callable[[str], object] | None,
     hud: Hud,
+    vitals: VitalsStore | None = None,
 ) -> _StartUp:
     """Everything that has to happen before the GUI can answer its first question, reported to
     the HUD as it goes rather than left to print() -- see _gui_loop for why.
@@ -396,7 +406,7 @@ def _start_up(
     from baymax.wake import WakeWord
 
     memory = None if args.no_memory else Memory(args.memory, args.host, args.model, on_noted=_announce_notes)
-    brain = Brain(model=args.model, host=args.host, lookup=web, research_lookup=research, memory=memory)
+    brain = Brain(model=args.model, host=args.host, lookup=web, research_lookup=research, memory=memory, vitals=vitals)
     hud.set_readout("STARTING", "checking Ollama...")
     brain.check()  # fails fast, before spinning up threads that would all need this to work
 
@@ -443,7 +453,7 @@ def _start_up(
     wake = built.get("wake")
     if args.phone:
         hud.set_readout("STARTING", "starting the phone server...")
-        _start_phone_server(args, web, transcriber=transcriber, synthesizer=synthesizer, research=research)
+        _start_phone_server(args, web, transcriber=transcriber, synthesizer=synthesizer, research=research, vitals=vitals)
     return _StartUp(brain, transcriber, synthesizer, wake)
 
 
@@ -451,6 +461,7 @@ def _gui_loop(
     args: argparse.Namespace,
     web: Callable[[str], object] | None,
     research: Callable[[str], object] | None,
+    vitals: VitalsStore | None = None,
 ) -> None:
     """The conversation shown in a HUD window instead of the terminal.
 
@@ -482,7 +493,7 @@ def _gui_loop(
         _active_hud = hud
         hud.set_state("thinking")
         try:
-            brain, transcriber, synthesizer, wake = _start_up(args, web, research, hud)
+            brain, transcriber, synthesizer, wake = _start_up(args, web, research, hud, vitals)
         except RuntimeError as exc:
             # Nothing else can show this: there's no console, and the window would otherwise just
             # vanish the instant this function returns, before anyone could read why.
@@ -499,6 +510,8 @@ def _gui_loop(
 
         speech = SpeechQueue(synthesizer, on_level=hud.set_level) if synthesizer else None
         hud.set_config(model=args.model, host=args.host, voice=args.voice, wake_phrase="a greeting" if wake else "(typing only)")
+        if vitals:
+            threading.Thread(target=_vitals_watcher, args=(vitals, hud), daemon=True).start()
         # One-time, not inside the loop below: without this, whatever the last "loading..." line
         # happened to be stays on screen forever, since the loop itself no longer resets it after
         # each reply.
@@ -546,6 +559,21 @@ def _gui_loop(
     # and findable only in Task Manager -- and each later launch stacked another one on top.
     sys.stdout.flush()
     os._exit(0)
+
+
+def _vitals_watcher(vitals: VitalsStore, hud: Hud) -> None:
+    """Keeps the window's "Heart" readout current as readings arrive from the watch."""
+    import time as _time
+
+    last = None
+    while True:
+        reading = vitals.latest()
+        age = int((_time.time() - reading.ts) // 60) if reading else 0
+        text = "" if reading is None else f"{reading.bpm} bpm" + (f", {age} min ago" if age >= 1 else "")
+        if text != last:
+            hud.set_vitals(text)
+            last = text
+        _time.sleep(15)
 
 
 _MIC_POLL_SECONDS = 2.0  # how often to re-check for a microphone, and how long to back off after an error

@@ -126,7 +126,7 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--voice",
-        default=os.environ.get("BAYMAX_VOICE", "en_GB-alan-medium"),
+        default=os.environ.get("BAYMAX_VOICE", "en_US-ryan-medium"),
         help="Piper voice (default: %(default)s)",
     )
     parser.add_argument(

@@ -71,3 +71,69 @@ def test_a_question_naming_two_medicines_finds_each_ones_passage_about_the_other
 def test_a_question_naming_one_medicine_is_not_routed():
     chunks = [Chunk("FDA drug label, Warfarin Sodium (X), effective 2026-01-01", "Warfarin Sodium: Drug interactions. Bleeding.")]
     assert rag._pair_hits(build(chunks, [[1, 0]]), "What is warfarin?") == []
+
+
+class TestPacedAndResumableIndexing:
+    def test_bulk_embedding_rests_between_batches_but_a_question_does_not(self, monkeypatch):
+        sleeps = []
+        monkeypatch.setattr(rag.time, "sleep", sleeps.append)
+        monkeypatch.setattr(rag, "_PAUSE_SECONDS", 2.5)
+
+        class FakeClient:
+            def __init__(self, **kwargs) -> None:
+                pass
+
+            def embed(self, model, input, keep_alive):
+                return type("R", (), {"embeddings": [[1.0, 0.0] for _ in input]})()
+
+        monkeypatch.setattr(rag.ollama, "Client", FakeClient)
+        embedder = rag.Embedder("h")
+
+        embedder(["a question"])
+        assert sleeps == [], "a single question must never be paced"
+
+        embedder([f"passage {i}" for i in range(100)])  # 4 batches of 32, so 3 rests (none after the last)
+        assert sleeps == [2.5, 2.5, 2.5]
+
+    def test_pausing_can_be_turned_off(self, monkeypatch):
+        sleeps = []
+        monkeypatch.setattr(rag.time, "sleep", sleeps.append)
+        monkeypatch.setattr(rag, "_PAUSE_SECONDS", 0)
+
+        class FakeClient:
+            def __init__(self, **kwargs) -> None:
+                pass
+
+            def embed(self, model, input, keep_alive):
+                return type("R", (), {"embeddings": [[1.0, 0.0] for _ in input]})()
+
+        monkeypatch.setattr(rag.ollama, "Client", FakeClient)
+        rag.Embedder("h")([f"p{i}" for i in range(100)])
+
+        assert sleeps == []
+
+    def test_progress_is_reported_after_each_file_with_a_usable_partial_index(self):
+        def load(label):
+            return lambda: [Chunk(f"{label} src", f"{label} text one"), Chunk(f"{label} src", f"{label} text two")]
+
+        sources = [rag._Source("a", "1", load("a")), rag._Source("b", "1", load("b"))]
+        seen = []
+        embed = lambda texts: rag._unit_length(np.ones((len(texts), 2), dtype=np.float32))  # noqa: E731
+
+        final = rag.update_index(None, sources, embed, "m", on_progress=lambda idx: seen.append(len(idx)))
+
+        assert seen == [2, 4], "after file a there are 2 passages, after file b there are 4"
+        assert len(final) == 4
+
+    def test_unchanged_files_are_not_embedded_again(self):
+        sources = [rag._Source("a", "1", lambda: [Chunk("s", "text")])]
+        calls = []
+
+        def embed(texts):
+            calls.append(len(texts))
+            return rag._unit_length(np.ones((len(texts), 2), dtype=np.float32))
+
+        first = rag.update_index(None, sources, embed, "m")
+        rag.update_index(first, sources, embed, "m")
+
+        assert calls == [1], "the second pass should reuse the saved vectors"

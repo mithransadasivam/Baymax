@@ -63,6 +63,11 @@ _VETTED_BONUS = 0.003
 _INDEX_VERSION = "v2"  # bump to force every file to be re-read and re-embedded
 
 _BATCH = 32
+# Building the index is the one heavy job Baymax does. By default it runs at full speed, as it always
+# has; set BAYMAX_EMBED_PAUSE to a number of seconds to make it work in bursts with rests in between
+# (cooler and quieter, but a longer build). A single question's embedding is never paced.
+_BULK = 64  # more texts than this is an index build, not a question
+_PAUSE_SECONDS = float(os.environ.get("BAYMAX_EMBED_PAUSE", "0"))
 # This model is trained to expect these, and ranks noticeably better with them than without.
 _DOCUMENT_PREFIX = "search_document: "
 _QUERY_PREFIX = "search_query: "
@@ -87,6 +92,8 @@ class Embedder:
             # resets the unload timer to whatever it asked for, and the default is 5 minutes.
             response = self._client.embed(model=self._model, input=texts[start : start + _BATCH], keep_alive=KEEP_ALIVE)
             vectors.extend(response.embeddings)
+            if len(texts) > _BULK and _PAUSE_SECONDS > 0 and start + _BATCH < len(texts):
+                time.sleep(_PAUSE_SECONDS)
             if len(texts) > 500 and (start // _BATCH) % 25 == 24:
                 print(f"Library: embedded {len(vectors)} of {len(texts)} passages...", flush=True)
         return _unit_length(np.asarray(vectors, dtype=np.float32))
@@ -308,9 +315,19 @@ def scan(library_dir: Path, knowledge_dir: Path = KNOWLEDGE_DIR) -> list[_Source
     return sources
 
 
-def update_index(previous: Index | None, sources: list[_Source], embed: Embed, model: str) -> Index:
+def update_index(
+    previous: Index | None,
+    sources: list[_Source],
+    embed: Embed,
+    model: str,
+    on_progress: Callable[[Index], None] | None = None,
+) -> Index:
     """A new index for ``sources``, re-embedding only what's new or changed since ``previous``.
-    Files that have gone are simply not carried over."""
+    Files that have gone are simply not carried over.
+
+    ``on_progress`` is called with a usable partial index after each source file is embedded, so a
+    long first build can be saved as it goes (closing Baymax mid-build loses at most one file's work)
+    and questions can already be answered from what's done so far."""
     kept = previous.records if previous is not None and previous.model == model else {}
     records: dict[str, _Record] = {}
     pending: list[tuple[_Source, list[Chunk]]] = []
@@ -320,12 +337,11 @@ def update_index(previous: Index | None, sources: list[_Source], embed: Embed, m
             records[source.key] = old
         elif chunks := source.load():
             pending.append((source, chunks))
-    if pending:
-        vectors = embed([_DOCUMENT_PREFIX + chunk.text for _, chunks in pending for chunk in chunks])
-        offset = 0
-        for source, chunks in pending:
-            records[source.key] = _Record(source.stamp, chunks, vectors[offset : offset + len(chunks)])
-            offset += len(chunks)
+    for source, chunks in pending:
+        vectors = embed([_DOCUMENT_PREFIX + chunk.text for chunk in chunks])
+        records[source.key] = _Record(source.stamp, chunks, vectors)
+        if on_progress is not None:
+            on_progress(Index(model, {s.key: records[s.key] for s in sources if s.key in records}))
     return Index(model, {source.key: records[source.key] for source in sources if source.key in records})
 
 
@@ -409,6 +425,14 @@ class Retriever:
     def stop(self) -> None:
         self._stopping.set()
 
+    def _keep_partial(self, index: Index) -> None:
+        """Use and save a half-finished build, so a long one survives being interrupted."""
+        self._index = index
+        try:
+            save_index(index, self._index_path)
+        except OSError:
+            pass
+
     def refresh(self) -> bool:
         """Bring the index up to date now. False if there was nothing to do, or embedding failed."""
         sources = scan(self._library_dir, self._knowledge_dir)
@@ -418,7 +442,7 @@ class Retriever:
         if self._failed_at is not None and time.monotonic() - self._failed_at < _RETRY_SECONDS:
             return False
         try:
-            index = update_index(self._index, sources, self._embed, self._model)
+            index = update_index(self._index, sources, self._embed, self._model, on_progress=self._keep_partial)
         except Exception as exc:
             self._failed_at = time.monotonic()
             if not self._complained:

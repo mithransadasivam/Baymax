@@ -60,6 +60,38 @@ def find_input_device(name: str, sample_rate: int) -> int | None:
     return None
 
 
+# Inputs that are software or loopback, never a person's voice. Picking one by default means Baymax
+# "listens" to silence: Steam Streaming and Stereo Mix both show up here and sort ahead of real mics.
+_NOT_A_REAL_MIC = ("steam streaming", "stereo mix", "sound mapper", "primary sound", "virtual", "voicemeeter",
+                   "vb-audio", "cable output", "loopback", "obs ", "what u hear")
+# Preferred, best first. A headset mic is next to the mouth, so it beats a distant desk mic.
+_PREFERRED = ("headset", "hands-free", "headphone", "earbud", "airpods", "usb", "webcam", "microphone", "mic")
+
+
+def find_best_input_device(sample_rate: int, avoid: tuple[str, ...] = ()) -> int | None:
+    """The best real microphone connected right now, or None.
+
+    Used when no microphone is named: skips virtual and loopback inputs, keeps only those that can
+    record at ``sample_rate`` (MME only, for the reason find_input_device explains), then prefers a
+    headset over everything else. ``avoid`` is for names the caller already knows don't work.
+    """
+    host_apis = sd.query_hostapis()
+    candidates: list[tuple[int, int]] = []  # (rank, device index)
+    for index, device in enumerate(sd.query_devices()):
+        name = device["name"].lower()
+        if device["max_input_channels"] < 1 or host_apis[device["hostapi"]]["name"] != "MME":
+            continue
+        if any(bad in name for bad in _NOT_A_REAL_MIC) or any(a.lower() in name for a in avoid):
+            continue
+        try:
+            sd.check_input_settings(device=index, channels=1, dtype="float32", samplerate=sample_rate)
+        except (ValueError, sd.PortAudioError):
+            continue
+        rank = next((i for i, word in enumerate(_PREFERRED) if word in name), len(_PREFERRED))
+        candidates.append((rank, index))
+    return min(candidates)[1] if candidates else None
+
+
 def record_until_enter(sample_rate: int, device: int | str | None = None) -> np.ndarray:
     """Record mono audio until the user presses Enter."""
     blocks: list[np.ndarray] = []

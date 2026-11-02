@@ -327,7 +327,13 @@ def _voice_loop(args: argparse.Namespace, brain: Brain) -> None:
     from baymax.audio import microphone_name
     from baymax.stt import SAMPLE_RATE, Transcriber
 
-    print(f"Microphone: {microphone_name(args.mic, SAMPLE_RATE)}")
+    # Turn a name (or nothing) into a device number once, up front: a bare name matches the same
+    # microphone under several Windows audio APIs and is rejected as ambiguous, and with nothing named
+    # the system default can be a virtual device that hears only silence.
+    device, label = _resolve_mic(args.mic)
+    if device is not None:
+        args.mic = device
+    print(f"Microphone: {label or microphone_name(args.mic, SAMPLE_RATE)}")
     speech = None if args.quiet else _start_speech(args.voice)
     print("Loading speech recognition...", flush=True)
     transcriber = Transcriber(args.whisper)
@@ -681,9 +687,16 @@ def _resolve_mic(mic_arg: int | str | None) -> tuple[int | str | None, str] | tu
     """The current device for ``mic_arg`` and its display name, or (None, None) if it's not there
     right now. A name is re-searched by name each time, so a reconnect landing on a new device
     number is still found; a number or the system default is just tried as given."""
-    from baymax.audio import find_input_device, microphone_name
+    from baymax.audio import find_best_input_device, find_input_device, microphone_name
     from baymax.stt import SAMPLE_RATE
 
+    if mic_arg is None:
+        # No microphone named: pick the best real one connected right now, re-checked on every poll,
+        # so plugging in or pairing a headset mid-session is noticed with no flag at all.
+        device = find_best_input_device(SAMPLE_RATE)
+        if device is None:
+            return None, None
+        return device, microphone_name(device, SAMPLE_RATE)
     if isinstance(mic_arg, str):
         device = find_input_device(mic_arg, SAMPLE_RATE)
         if device is None:

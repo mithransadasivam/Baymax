@@ -1,33 +1,49 @@
 """Speech synthesis with Piper."""
 
+import os
 import wave
 from pathlib import Path
 
 import numpy as np
 from huggingface_hub import hf_hub_download
 from huggingface_hub.errors import LocalEntryNotFoundError
-from piper import PiperVoice
+from piper import PiperVoice, SynthesisConfig
 
 PIPER_VOICES_REPO = "rhasspy/piper-voices"
+
+# Baymax speaks slowly, softly, and evenly -- gentle, unhurried, with little pitch drama -- so the
+# defaults slow the voice down (length_scale > 1 is slower) and calm its variation (lower noise
+# settings are flatter and steadier). Override with BAYMAX_VOICE_SPEED, BAYMAX_VOICE_VARIATION and
+# BAYMAX_VOICE_RHYTHM; speed 1.0 / variation 0.667 / rhythm 0.8 are Piper's own defaults.
+DEFAULT_SPEED = float(os.environ.get("BAYMAX_VOICE_SPEED", "1.18"))
+DEFAULT_VARIATION = float(os.environ.get("BAYMAX_VOICE_VARIATION", "0.45"))
+DEFAULT_RHYTHM = float(os.environ.get("BAYMAX_VOICE_RHYTHM", "0.6"))
 
 
 class Synthesizer:
     """Wraps a loaded Piper voice, producing audio as arrays or WAV files."""
 
-    def __init__(self, voice: str) -> None:
+    def __init__(
+        self,
+        voice: str,
+        speed: float = DEFAULT_SPEED,
+        variation: float = DEFAULT_VARIATION,
+        rhythm: float = DEFAULT_RHYTHM,
+    ) -> None:
         self._voice = PiperVoice.load(_download_voice(voice))
+        self._config = SynthesisConfig(length_scale=speed, noise_scale=variation, noise_w_scale=rhythm)
         # Callers need this to open an output stream at the right rate.
         self.sample_rate: int = self._voice.config.sample_rate
 
     def synthesize(self, text: str) -> np.ndarray:
         """Mono float32 audio for ``text`` (empty if the voice produced nothing)."""
-        chunks = [chunk.audio_float_array for chunk in self._voice.synthesize(text)]
+        chunks = [chunk.audio_float_array for chunk in self._voice.synthesize(text, syn_config=self._config)]
         return np.concatenate(chunks) if chunks else np.zeros(0, dtype=np.float32)
 
     def save_wav(self, text: str, path: Path) -> None:
         """Speak ``text`` straight into a WAV file at ``path`` instead of the speakers."""
         with wave.open(str(path), "wb") as wav_file:
-            self._voice.synthesize_wav(text, wav_file)
+            self._voice.synthesize_wav(text, wav_file, syn_config=self._config)
 
 
 def _download_voice(voice: str) -> Path:

@@ -21,3 +21,4 @@ calendar_token.json
 
 # Downloaded source data cache and eval index (regenerate with tools/)
 data/
+voice-samples/
